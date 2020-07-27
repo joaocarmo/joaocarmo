@@ -16,6 +16,6 @@
 <!-- References -->
 [littenwebpage]: https://litten.app
 [myemail]: mailto:info@joaocarmo.com
-[javascriptbadge]: https://img.shields.io/badge/javascript-%20%E2%9D%A4%EF%B8%8F-yellow
+[javascriptbadge]: https://img.shields.io/badge/javascript-%E2%9D%A4-yellow
 [pythonbadge]: https://img.shields.io/badge/python-%F0%9F%94%A5-blue
 [bashbadge]: https://img.shields.io/badge/bash-%E2%9C%A8-green
