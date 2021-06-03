@@ -5,7 +5,7 @@
 ### Hello there 👋
 
 - 🔭 I’m currently working on the mobile app [Litten][littenwebpage] and spreading the word on the [Uyghurs][uyghurswebpage]
-- 🌱 I’m currently learning software engineering management, algorithms and data structures, design patterns and object-oriented programming (using Java)
+- 🌱 I’m currently learning software engineering management, algorithms and data structures, design patterns and object-oriented programming
 - 👯 I’m looking to collaborate on something that will have a positive (+) impact on the world
 - 🤔 I’m looking for help with every project I have public
 - 💬 Ask me about anything, really
