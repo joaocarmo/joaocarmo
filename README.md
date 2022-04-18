@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Arc of Space - 2001 Remastered Version**<br />by _Bruce Dickinson_<br /> on Accident of Birth (Expanded Edition) [1997] |
+| ![album cover][album-cover] | **So What**<br />by _Anti-Nowhere League_<br /> on Punk Singles & Rarities: 1981-1984 [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485124f01aae2352e0a1122af658
+[album-cover]: https://i.scdn.co/image/ab67616d0000485169236cb1d427ee8ede561c39
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
