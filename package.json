@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/joaocarmo/joaocarmo#readme",
   "scripts": {
+    "get-latest-track": "./src/server.js",
     "test": "echo \"OK\""
   },
   "dependencies": {
