@@ -6,13 +6,10 @@ name: Update Track
 on: ["push"]
 
 jobs:
-  bump-version:
+  get-track:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        with:
-          token: ${{ secrets.GH_PAT }}
-          ref: 'main'
       - name: Use Node.js v16 (LTS)
         uses: actions/setup-node@v2
         with:
