@@ -1,0 +1,41 @@
+# This workflow runs automatically and updates the README.md file with the
+# latest track on Spotify.
+#
+name: Update Track
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  get-track:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js v16 (LTS)
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+          cache: 'yarn'
+      - name: Install dependencies
+        run: |
+          yarn --frozen-lockfile
+      - name: Setup environment
+        run: |
+          cp .env.example .env
+      - name: Loging into Spotify and get the latest track
+        env:
+          CLIENT_ID: ${{ secrets.CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+          SPOTIFY_USERNAME: ${{ secrets.SPOTIFY_USERNAME }}
+          SPOTIFY_PASSWORD: ${{ secrets.SPOTIFY_PASSWORD }}
+        run: |
+          yarn get-latest-track
+      - name: Replace the README.md with the latest track
+        run: |
+          cp README.template.md README.md
+      - name: Commit and push the updated README.md
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'README.md'
+          commit: --no-gpg-sign --no-verify --signoff

@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Arc of Space - 2001 Remastered Version**<br />by _Bruce Dickinson_<br /> on Accident of Birth (Expanded Edition) [1997] |
+| ![album cover][album-cover] | **{{title}}**<br />by _{{artist}}_<br /> on {{album}} [{{released}}] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485124f01aae2352e0a1122af658
+[album-cover]: {{image}}
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
