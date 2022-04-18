@@ -33,9 +33,7 @@ jobs:
         run: |
           cp README.template.md README.md
       - name: Commit and push the updated README.md
-        run: |
-          git config --local user.name "${{ secrets.GIT_AUTHOR_NAME }}"
-          git config --local user.email "${{ secrets.GIT_AUTHOR_EMAIL }}"
-          git add README.md
-          git commit -m "Updated on $(printf '%(%Y-%m-%d)T' -1)" --no-gpg-sign --no-verify --signoff
-          git push
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'README.md'
+          commit: --no-gpg-sign --no-verify --signoff
