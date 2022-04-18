@@ -67,7 +67,6 @@ class Browser {
       }
 
       await this.page.goto(url)
-      await this.wait()
     } catch (error) {
       console.error(error)
     }
