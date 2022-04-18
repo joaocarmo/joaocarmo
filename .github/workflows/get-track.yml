@@ -5,35 +5,43 @@ name: Update Track
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */6 * * *"
 
 jobs:
   get-track:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+
+      - name: Cache puppeteer's profile
+        uses: actions/cache@v3
+        with:
+          path: profile
+          key: ${{ runner.os }}-profile
+
       - name: Use Node.js v16 (LTS)
         uses: actions/setup-node@v2
         with:
           node-version: '16'
           cache: 'yarn'
+
       - name: Install dependencies
-        run: |
-          yarn --frozen-lockfile
+        run: yarn --frozen-lockfile
+
       - name: Setup environment
-        run: |
-          cp .env.example .env
+        run: cp .env.example .env
+
       - name: Loging into Spotify and get the latest track
         env:
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
           SPOTIFY_USERNAME: ${{ secrets.SPOTIFY_USERNAME }}
           SPOTIFY_PASSWORD: ${{ secrets.SPOTIFY_PASSWORD }}
-        run: |
-          yarn get-latest-track
+        run: yarn get-latest-track
+
       - name: Replace the README.md with the latest track
-        run: |
-          cp README.template.md README.md
+        run: cp README.template.md README.md
+
       - name: Commit and push the updated README.md
         uses: EndBug/add-and-commit@v9
         with:
