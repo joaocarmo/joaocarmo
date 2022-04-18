@@ -54,6 +54,7 @@ class Browser {
       await this.page.type('#login-username', username)
       await this.page.type('#login-password', password)
       await this.page.click('#login-button')
+      await this.wait()
     } catch (error) {
       console.error(error)
     }
@@ -66,6 +67,18 @@ class Browser {
       }
 
       await this.page.goto(url)
+      await this.wait()
+    } catch (error) {
+      console.error(error)
+    }
+  }
+
+  async wait(options) {
+    try {
+      await this.page.waitForNavigation({
+        waitUntil: 'networkidle2',
+        ...options,
+      })
     } catch (error) {
       console.error(error)
     }

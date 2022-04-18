@@ -1,10 +1,10 @@
 #!/usr/bin/env node
-const path = require('path')
 const fetch = require('cross-fetch')
+const path = require('path')
 const replace = require('replace-in-file')
 require('dotenv').config()
 
-const readmeFile = path.resolve(__dirname, '../README.md')
+const readmeFile = path.resolve(__dirname, '../README.template.md')
 
 /**
  * @typedef { import('spotify-web-api-node').SpotifyWebApi } SpotifyWebApi
