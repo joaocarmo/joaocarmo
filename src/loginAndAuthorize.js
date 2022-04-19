@@ -57,12 +57,12 @@ class Browser {
 
   async login({ page, username, password }) {
     console.log(`Loading ${page}...`)
-
-    await this.page.goto(page)
-
-    console.log(`Logging ${username} in...`)
-
+    
     try {
+      await this.page.goto(page)
+
+      console.log(`Logging ${username} in...`)
+
       await this.page.waitForSelector(selectors.loginPage.username)
       await this.page.type(selectors.loginPage.username, username)
       await this.page.type(selectors.loginPage.password, password)
@@ -74,13 +74,14 @@ class Browser {
   }
 
   async authorize({ url }) {
-    await this.page.goto(url)
-
     try {
       if (isDev) {
         console.log(`Loading ${url}...`)
+      } else {
+        console.log(`Authorizing...`)
       }
 
+      await this.page.goto(url)
       await this.page.waitForSelector(selectors.authorizePage.authorizeButton)
       await this.page.click(selectors.authorizePage.authorizeButton)
       await this.page.waitForNavigation()
