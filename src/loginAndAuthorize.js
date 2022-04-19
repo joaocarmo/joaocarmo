@@ -10,6 +10,18 @@ const loginPage = process.env.LOGIN_PAGE
 const username = process.env.SPOTIFY_USERNAME
 const password = process.env.SPOTIFY_PASSWORD
 
+// CSS Selectors
+const selectors = {
+  loginPage: {
+    username: '#login-username',
+    password: '#login-password',
+    loginButton: '#login-button',
+  },
+  authorizePage: {
+    authorizeButton: '[data-testid="auth-accept"]',
+  },
+}
+
 class Browser {
   constructor() {
     this.browser = null
@@ -44,40 +56,34 @@ class Browser {
   }
 
   async login({ page, username, password }) {
+    console.log(`Loading ${page}...`)
+
+    await this.page.goto(page)
+
+    console.log(`Logging ${username} in...`)
+
     try {
-      console.log(`Loading ${page}...`)
-
-      await this.page.goto(page)
-
-      console.log(`Logging ${username} in...`)
-
-      await this.page.type('#login-username', username)
-      await this.page.type('#login-password', password)
-      await this.page.click('#login-button')
-      await this.wait()
+      await this.page.waitForSelector(selectors.loginPage.username)
+      await this.page.type(selectors.loginPage.username, username)
+      await this.page.type(selectors.loginPage.password, password)
+      await this.page.click(selectors.loginPage.loginButton)
+      await this.page.waitForNavigation()
     } catch (error) {
       console.error(error)
     }
   }
 
   async authorize({ url }) {
+    await this.page.goto(url)
+
     try {
       if (isDev) {
         console.log(`Loading ${url}...`)
       }
 
-      await this.page.goto(url)
-    } catch (error) {
-      console.error(error)
-    }
-  }
-
-  async wait(options) {
-    try {
-      await this.page.waitForNavigation({
-        waitUntil: 'networkidle2',
-        ...options,
-      })
+      await this.page.waitForSelector(selectors.authorizePage.authorizeButton)
+      await this.page.click(selectors.authorizePage.authorizeButton)
+      await this.page.waitForNavigation()
     } catch (error) {
       console.error(error)
     }
@@ -90,7 +96,7 @@ class Browser {
  * @param {string} authorizeURL
  * @returns {Promise<void>}
  */
-const loginAndAuthorize = async (authorizeURL, callback) => {
+const loginAndAuthorize = async (authorizeURL) => {
   const browser = new Browser({
     userDataDir: DEFAULT_USER_DATA_DIR,
     headless: true,
@@ -113,10 +119,6 @@ const loginAndAuthorize = async (authorizeURL, callback) => {
   })
 
   await browser.close()
-
-  if (typeof callback === 'function') {
-    callback()
-  }
 }
 
 module.exports = { loginAndAuthorize }

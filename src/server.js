@@ -96,7 +96,7 @@ router.get('/recently-played', async (req, res) => {
 
 app.use('/', router)
 
-app.listen(port, () => {
+app.listen(port, async () => {
   const env = isDev ? 'development' : 'production'
   console.log(`[${env}] Server running on port ${port}...`)
 
@@ -111,6 +111,8 @@ app.listen(port, () => {
       console.log('Authorize URL:', authorizeURL)
     }
 
-    loginAndAuthorize(authorizeURL, getLatestTrack)
+    await loginAndAuthorize(authorizeURL)
+
+    await getLatestTrack()
   }
 })
