@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **So What**<br />by _Anti-Nowhere League_<br /> on Punk Singles & Rarities: 1981-1984 [2007] |
+| ![album cover][album-cover] | **Bob**<br />by _nobody.one_<br /> on Head Movies [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485169236cb1d427ee8ede561c39
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ffc601270baa3c742f87bf8f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
