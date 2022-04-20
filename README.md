@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bob**<br />by _nobody.one_<br /> on Head Movies [2010] |
+| ![album cover][album-cover] | **Intergalactic - Remastered 2009**<br />by _Beastie Boys_<br /> on Hello Nasty (Deluxe Version/Remastered 2009) [1998] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ffc601270baa3c742f87bf8f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ab1d7b56d97842315dd0fdaa
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
