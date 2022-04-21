@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Intergalactic - Remastered 2009**<br />by _Beastie Boys_<br /> on Hello Nasty (Deluxe Version/Remastered 2009) [1998] |
+| ![album cover][album-cover] | **American Psycho II - Feat. B Real Of Cypress Hill**<br />by _Salam Wreck, B-Real_<br /> on Welcome To The Pyrex [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ab1d7b56d97842315dd0fdaa
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d5f3f507dcb0088a0b4d5d3a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
