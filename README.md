@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **American Psycho II - Feat. B Real Of Cypress Hill**<br />by _Salam Wreck, B-Real_<br /> on Welcome To The Pyrex [2008] |
+| ![album cover][album-cover] | **Sunshine**<br />by _Mos Def_<br /> on The New Danger [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d5f3f507dcb0088a0b4d5d3a
+[album-cover]: https://i.scdn.co/image/ab67616d000048515df4b79ea8baf27cf3da6492
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
