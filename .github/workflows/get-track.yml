@@ -21,7 +21,7 @@ jobs:
         uses: actions/cache@v3
         with:
           path: ${{ steps.profile-dir-path.outputs.dir }}
-          key: ${{ runner.os }}-profile
+          key: ${{ runner.os }}-puppeteer-profile
 
       - name: Use Node.js v16 (LTS)
         uses: actions/setup-node@v2
