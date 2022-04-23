@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sunshine**<br />by _Mos Def_<br /> on The New Danger [2004] |
+| ![album cover][album-cover] | **Awnaw - Rock Remix; feat. Marcos of P.O.D.**<br />by _Nappy Roots, Marcos_<br /> on Awnaw (Online Music) [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515df4b79ea8baf27cf3da6492
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c1faf2183ba37d5c42333966
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
