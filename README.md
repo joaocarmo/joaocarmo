@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Black Is Back**<br />by _Public Enemy_<br /> on How You Sell Soul to a Soulless People Who Sold Their Soul? [2007] |
+| ![album cover][album-cover] | **Voa (Voa)**<br />by _Quinta Do Bill_<br /> on Dias De Cumplicidade [1998] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512acb820332d5f37cd536cc98
+[album-cover]: https://i.scdn.co/image/ab67616d000048510ab80fbea9087e6774a96067
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
