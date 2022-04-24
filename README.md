@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Awnaw - Rock Remix; feat. Marcos of P.O.D.**<br />by _Nappy Roots, Marcos_<br /> on Awnaw (Online Music) [2002] |
+| ![album cover][album-cover] | **Black Is Back**<br />by _Public Enemy_<br /> on How You Sell Soul to a Soulless People Who Sold Their Soul? [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c1faf2183ba37d5c42333966
+[album-cover]: https://i.scdn.co/image/ab67616d000048512acb820332d5f37cd536cc98
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
