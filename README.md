@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Voa (Voa)**<br />by _Quinta Do Bill_<br /> on Dias De Cumplicidade [1998] |
+| ![album cover][album-cover] | **Matemática**<br />by _Os Punhais, Tiago Cavaco_<br /> on Matemática [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510ab80fbea9087e6774a96067
+[album-cover]: https://i.scdn.co/image/ab67616d0000485143e94cac42922ed51571bff5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
