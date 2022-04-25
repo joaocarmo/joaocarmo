@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Go Fuck Yourself**<br />by _Roxanne_<br /> on Radio Silence [2018] |
+| ![album cover][album-cover] | **Horsewhipper**<br />by _ASG_<br /> on Feeling Good Is Good Enough [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519568a84e9175cdd89db2878d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fd1bb82d5f55dc09376e56ee
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
