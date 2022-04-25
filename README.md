@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Matemática**<br />by _Os Punhais, Tiago Cavaco_<br /> on Matemática [2022] |
+| ![album cover][album-cover] | **Sete mares**<br />by _Sétima Legião_<br /> on Mar D' Outubro [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485143e94cac42922ed51571bff5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851769ea2878e1d960de4bd601c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
