@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sete mares**<br />by _Sétima Legião_<br /> on Mar D' Outubro [2012] |
+| ![album cover][album-cover] | **Go Fuck Yourself**<br />by _Roxanne_<br /> on Radio Silence [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851769ea2878e1d960de4bd601c
+[album-cover]: https://i.scdn.co/image/ab67616d000048519568a84e9175cdd89db2878d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
