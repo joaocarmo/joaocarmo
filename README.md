@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Horsewhipper**<br />by _ASG_<br /> on Feeling Good Is Good Enough [2005] |
+| ![album cover][album-cover] | **Geez Louise**<br />by _The Unband_<br /> on Retarder [2000] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fd1bb82d5f55dc09376e56ee
+[album-cover]: https://i.scdn.co/image/ab67616d00004851aa784b747f699914b07fba51
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
