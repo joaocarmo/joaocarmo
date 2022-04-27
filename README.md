@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Geez Louise**<br />by _The Unband_<br /> on Retarder [2000] |
+| ![album cover][album-cover] | **Strange Days Ahead**<br />by _Michael Giacchino_<br /> on Doctor Strange (Original Motion Picture Soundtrack) [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851aa784b747f699914b07fba51
+[album-cover]: https://i.scdn.co/image/ab67616d000048511712e5b12487ce59848a94b8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
