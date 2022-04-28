@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Strange Days Ahead**<br />by _Michael Giacchino_<br /> on Doctor Strange (Original Motion Picture Soundtrack) [2016] |
+| ![album cover][album-cover] | **Too Bad**<br />by _Rival Sons_<br /> on Feral Roots [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511712e5b12487ce59848a94b8
+[album-cover]: https://i.scdn.co/image/ab67616d000048512eb94491a3d377d793156717
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
