@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Beast - Extended Version**<br />by _Nico Vega_<br /> on Beast (Extended Version) [2013] |
+| ![album cover][album-cover] | **Engel**<br />by _Rammstein_<br /> on Sehnsucht [1997] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518310e12ef148a4c9ee0fdcc2
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a715d32590424cd667879ba3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
