@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Too Bad**<br />by _Rival Sons_<br /> on Feral Roots [2019] |
+| ![album cover][album-cover] | **Beast - Extended Version**<br />by _Nico Vega_<br /> on Beast (Extended Version) [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512eb94491a3d377d793156717
+[album-cover]: https://i.scdn.co/image/ab67616d000048518310e12ef148a4c9ee0fdcc2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
