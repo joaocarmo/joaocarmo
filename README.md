@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Engel**<br />by _Rammstein_<br /> on Sehnsucht [1997] |
+| ![album cover][album-cover] | **Wicked Game - Acoustic; Live**<br />by _Stone Sour_<br /> on Come What(ever) May [10th Anniversary Edition] [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a715d32590424cd667879ba3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b424aeb510016daa1bc0251c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
