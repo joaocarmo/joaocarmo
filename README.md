@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wicked Game - Acoustic; Live**<br />by _Stone Sour_<br /> on Come What(ever) May [10th Anniversary Edition] [2006] |
+| ![album cover][album-cover] | **Shooting Stars**<br />by _Rival Sons_<br /> on Feral Roots [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b424aeb510016daa1bc0251c
+[album-cover]: https://i.scdn.co/image/ab67616d000048512eb94491a3d377d793156717
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
