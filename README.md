@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Shooting Stars**<br />by _Rival Sons_<br /> on Feral Roots [2019] |
+| ![album cover][album-cover] | **Blackbird**<br />by _Shake Shake Go_<br /> on Homesick [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512eb94491a3d377d793156717
+[album-cover]: https://i.scdn.co/image/ab67616d00004851610a720469f9303269182f7b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
