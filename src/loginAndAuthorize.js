@@ -9,6 +9,7 @@ const isDev = enviroment === 'development'
 const loginPage = process.env.LOGIN_PAGE
 const username = process.env.SPOTIFY_USERNAME
 const password = process.env.SPOTIFY_PASSWORD
+const proxyServer = process.env.PROXY_SERVER
 
 // CSS Selectors
 const selectors = {
@@ -57,7 +58,7 @@ class Browser {
 
   async login({ page, username, password }) {
     console.log(`Loading ${page}...`)
-    
+
     try {
       await this.page.goto(page)
 
@@ -105,6 +106,7 @@ const loginAndAuthorize = async (authorizeURL) => {
       width: 1920,
       height: 1080,
     },
+    args: [proxyServer && `--proxy-server=${proxyServer}`].filter(Boolean),
   })
 
   await browser.open()

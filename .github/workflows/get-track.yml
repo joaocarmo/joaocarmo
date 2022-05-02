@@ -40,8 +40,9 @@ jobs:
         env:
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
-          SPOTIFY_USERNAME: ${{ secrets.SPOTIFY_USERNAME }}
+          PROXY_SERVER: ${{ secrets.PROXY_SERVER }}
           SPOTIFY_PASSWORD: ${{ secrets.SPOTIFY_PASSWORD }}
+          SPOTIFY_USERNAME: ${{ secrets.SPOTIFY_USERNAME }}
         run: yarn get-latest-track
 
       - name: Replace the README.md with the latest track
