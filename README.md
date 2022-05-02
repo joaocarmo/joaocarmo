@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bath Salts**<br />by _Highly Suspect_<br /> on Mister Asylum [2015] |
+| ![album cover][album-cover] | **Suicidal Dream**<br />by _Silverchair_<br /> on Frogstomp (Deluxe Edition) [Remastered] [1995] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b7897784eee989d4f97f8579
+[album-cover]: https://i.scdn.co/image/ab67616d0000485172c3447a562fc7be1c8e1255
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
