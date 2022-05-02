@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Blackbird**<br />by _Shake Shake Go_<br /> on Homesick [2018] |
+| ![album cover][album-cover] | **I Don't Want to Be Here Anymore**<br />by _Lower Than Atlantis_<br /> on Safe In Sound [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851610a720469f9303269182f7b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e89a463b085bc911a9d8b829
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
