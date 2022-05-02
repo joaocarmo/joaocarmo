@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Don't Want to Be Here Anymore**<br />by _Lower Than Atlantis_<br /> on Safe In Sound [2017] |
+| ![album cover][album-cover] | **Bath Salts**<br />by _Highly Suspect_<br /> on Mister Asylum [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e89a463b085bc911a9d8b829
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b7897784eee989d4f97f8579
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
