@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Suicidal Dream**<br />by _Silverchair_<br /> on Frogstomp (Deluxe Edition) [Remastered] [1995] |
+| ![album cover][album-cover] | **Sol Da Caparica**<br />by _Peste & Sida_<br /> on Portem-se Bem [1989] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485172c3447a562fc7be1c8e1255
+[album-cover]: https://i.scdn.co/image/ab67616d000048514455038173d542c7000fbb09
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
