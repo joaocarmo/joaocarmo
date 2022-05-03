@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sol Da Caparica**<br />by _Peste & Sida_<br /> on Portem-se Bem [1989] |
+| ![album cover][album-cover] | **A Vida dos Outros**<br />by _Pluto_<br /> on Bom Dia [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514455038173d542c7000fbb09
+[album-cover]: https://i.scdn.co/image/ab67616d0000485111319b897fbcf4bb5257a951
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
