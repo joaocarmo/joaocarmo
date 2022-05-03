@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **A Vida dos Outros**<br />by _Pluto_<br /> on Bom Dia [2004] |
+| ![album cover][album-cover] | **Live in the Now**<br />by _Goodbye June_<br /> on Community Inn [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485111319b897fbcf4bb5257a951
+[album-cover]: https://i.scdn.co/image/ab67616d000048511f486fc32bcfc669f770923e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
