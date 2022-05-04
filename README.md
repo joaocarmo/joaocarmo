@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Live in the Now**<br />by _Goodbye June_<br /> on Community Inn [2019] |
+| ![album cover][album-cover] | **Este Mar**<br />by _Linda Martini_<br /> on Linda Martini [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511f486fc32bcfc669f770923e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d79ae76fb6105d679d6f9969
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
