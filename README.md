@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sinto A Cabeça Cair**<br />by _Linda Martini_<br /> on Olhos De Mongol [2006] |
+| ![album cover][album-cover] | **Setting Sun**<br />by _Jerry Cantrell_<br /> on Setting Sun (from DC's Dark Nights: Metal Soundtrack) [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485143f99561e967ed98fb31ef12
+[album-cover]: https://i.scdn.co/image/ab67616d000048518ac38214b74371b2844fee0c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
