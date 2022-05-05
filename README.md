@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Open Water**<br />by _Assuming We Survive_<br /> on All Roads Lead Home [2016] |
+| ![album cover][album-cover] | **Sinto A Cabeça Cair**<br />by _Linda Martini_<br /> on Olhos De Mongol [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851594e9391b7cb8c7d0ad8efab
+[album-cover]: https://i.scdn.co/image/ab67616d0000485143f99561e967ed98fb31ef12
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
