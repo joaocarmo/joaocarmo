@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Este Mar**<br />by _Linda Martini_<br /> on Linda Martini [2006] |
+| ![album cover][album-cover] | **Open Water**<br />by _Assuming We Survive_<br /> on All Roads Lead Home [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d79ae76fb6105d679d6f9969
+[album-cover]: https://i.scdn.co/image/ab67616d00004851594e9391b7cb8c7d0ad8efab
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
