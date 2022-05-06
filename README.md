@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Setting Sun**<br />by _Jerry Cantrell_<br /> on Setting Sun (from DC's Dark Nights: Metal Soundtrack) [2018] |
+| ![album cover][album-cover] | **Feel Good Inc.**<br />by _Gorillaz_<br /> on Demon Days [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518ac38214b74371b2844fee0c
+[album-cover]: https://i.scdn.co/image/ab67616d0000485119d85a472f328a6ed9b704cf
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
