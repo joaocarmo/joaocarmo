@@ -24,14 +24,18 @@ const selectors = {
 }
 
 class Browser {
-  constructor() {
+  constructor(initOptions) {
     this.browser = null
     this.page = null
+    this.options = initOptions
   }
 
-  async open(options) {
+  async open(extraOptions) {
     try {
-      this.browser = await puppeteer.launch(options)
+      this.browser = await puppeteer.launch({
+        ...this.options,
+        ...extraOptions,
+      })
 
       this.page = await this.browser.newPage()
 
@@ -64,11 +68,17 @@ class Browser {
 
       console.log(`Logging ${username} in...`)
 
-      await this.page.waitForSelector(selectors.loginPage.username)
-      await this.page.type(selectors.loginPage.username, username)
-      await this.page.type(selectors.loginPage.password, password)
-      await this.page.click(selectors.loginPage.loginButton)
-      await this.page.waitForNavigation()
+      const usernameElement = await this.page.waitForSelector(
+        selectors.loginPage.username,
+      )
+      if (usernameElement) {
+        await this.page.type(selectors.loginPage.username, username)
+        await this.page.type(selectors.loginPage.password, password)
+        await this.page.click(selectors.loginPage.loginButton)
+        await this.page.waitForNavigation()
+      } else {
+        console.warn(`Selector not found: ${selectors.loginPage.username}`)
+      }
     } catch (error) {
       console.error(error)
     }
@@ -83,9 +93,17 @@ class Browser {
       }
 
       await this.page.goto(url)
-      await this.page.waitForSelector(selectors.authorizePage.authorizeButton)
-      await this.page.click(selectors.authorizePage.authorizeButton)
-      await this.page.waitForNavigation()
+      const authorizeElement = await this.page.waitForSelector(
+        selectors.authorizePage.authorizeButton,
+      )
+      if (authorizeElement) {
+        await this.page.click(selectors.authorizePage.authorizeButton)
+        await this.page.waitForNavigation()
+      } else {
+        console.warn(
+          `Selector not found: ${selectors.authorizePage.authorizeButton}`,
+        )
+      }
     } catch (error) {
       console.error(error)
     }
