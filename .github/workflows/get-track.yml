@@ -35,7 +35,7 @@ jobs:
       - name: Setup environment
         run: cp .env.example .env
 
-      - name: Loging into Spotify and get the latest track
+      - name: Logging into Spotify and get the latest track
         timeout-minutes: 5
         env:
           CLIENT_ID: ${{ secrets.CLIENT_ID }}

@@ -99,6 +99,7 @@ class Browser {
  * @returns {Promise<void>}
  */
 const loginAndAuthorize = async (authorizeURL) => {
+  const args = [proxyServer && `--proxy-server=${proxyServer}`].filter(Boolean)
   const browser = new Browser({
     userDataDir: DEFAULT_USER_DATA_DIR,
     headless: true,
@@ -106,7 +107,7 @@ const loginAndAuthorize = async (authorizeURL) => {
       width: 1920,
       height: 1080,
     },
-    args: [proxyServer && `--proxy-server=${proxyServer}`].filter(Boolean),
+    args,
   })
 
   await browser.open()
