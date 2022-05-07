@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Feel Good Inc.**<br />by _Gorillaz_<br /> on Demon Days [2005] |
+| ![album cover][album-cover] | **Wasted Years - 2015 Remaster**<br />by _Iron Maiden_<br /> on Somewhere in Time (2015 Remaster) [1986] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485119d85a472f328a6ed9b704cf
+[album-cover]: https://i.scdn.co/image/ab67616d0000485169059f3685b992f9ce22cd4c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
