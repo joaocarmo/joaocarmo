@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wasted Years - 2015 Remaster**<br />by _Iron Maiden_<br /> on Somewhere in Time (2015 Remaster) [1986] |
+| ![album cover][album-cover] | **Punk Moda Funk**<br />by _Ornatos Violeta_<br /> on Cão [1997] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485169059f3685b992f9ce22cd4c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851194b66fdc6a82796f4c8327f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
