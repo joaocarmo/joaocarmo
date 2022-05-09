@@ -2,8 +2,6 @@ const path = require('path')
 const puppeteer = require('puppeteer')
 require('dotenv').config()
 
-const DEFAULT_USER_DATA_DIR = path.resolve(__dirname, '../profile')
-
 const enviroment = process.env.ENVIRONMENT || 'production'
 const isDev = enviroment === 'development'
 const loginPage = process.env.LOGIN_PAGE
@@ -119,7 +117,6 @@ class Browser {
 const loginAndAuthorize = async (authorizeURL) => {
   const args = [proxyServer && `--proxy-server=${proxyServer}`].filter(Boolean)
   const browser = new Browser({
-    userDataDir: DEFAULT_USER_DATA_DIR,
     headless: true,
     defaultViewport: {
       width: 1920,

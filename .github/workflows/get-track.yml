@@ -13,16 +13,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Get profile directory path
-        id: profile-dir-path
-        run: echo "::set-output name=dir::$(pwd)/profile"
-
-      - name: Cache puppeteer's profile
-        uses: actions/cache@v3
-        with:
-          path: ${{ steps.profile-dir-path.outputs.dir }}
-          key: ${{ runner.os }}-puppeteer-profile-v1
-
       - name: Use Node.js v16 (LTS)
         uses: actions/setup-node@v2
         with:
