@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Punk Moda Funk**<br />by _Ornatos Violeta_<br /> on Cão [1997] |
+| ![album cover][album-cover] | **Behind Blue Eyes**<br />by _The Who_<br /> on Who's Next [1971] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851194b66fdc6a82796f4c8327f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fe24dcd263c08c6dd84b6e8c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
