@@ -111,8 +111,13 @@ app.listen(port, async () => {
       console.log('Authorize URL:', authorizeURL)
     }
 
-    await loginAndAuthorize(authorizeURL)
+    const success = await loginAndAuthorize(authorizeURL)
 
-    await getLatestTrack()
+    if (success) {
+      await getLatestTrack()
+    } else {
+      console.error('Login and authorize failed!')
+      process.exit(1)
+    }
   }
 })
