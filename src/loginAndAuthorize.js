@@ -108,20 +108,16 @@ class Browser {
         await this.page.waitForNavigation({
           waitUntil: 'networkidle0',
         })
-
-        return true
       } else {
         console.warn(
           `Selector not found: ${selectors.authorizePage.authorizeButton}`,
         )
-
-        return true
       }
     } catch (error) {
       console.error(error)
     }
 
-    return false
+    return true
   }
 }
 
