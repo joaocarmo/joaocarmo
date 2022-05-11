@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Behind Blue Eyes**<br />by _The Who_<br /> on Who's Next [1971] |
+| ![album cover][album-cover] | **State Of The Art**<br />by _Incubus_<br /> on 8 [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fe24dcd263c08c6dd84b6e8c
+[album-cover]: https://i.scdn.co/image/ab67616d000048515fa5ba60d3a8611c5df25635
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
