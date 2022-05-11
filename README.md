@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **State Of The Art**<br />by _Incubus_<br /> on 8 [2017] |
+| ![album cover][album-cover] | **Fogo E Noite**<br />by _Toranja_<br /> on Esquissos [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515fa5ba60d3a8611c5df25635
+[album-cover]: https://i.scdn.co/image/ab67616d000048516806fbbacac8b758b7714ab3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
