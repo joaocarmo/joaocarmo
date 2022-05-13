@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Fogo E Noite**<br />by _Toranja_<br /> on Esquissos [2003] |
+| ![album cover][album-cover] | **Crawling In The Dark**<br />by _Hoobastank_<br /> on Hoobastank (20th Anniversary Edition) [2001] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516806fbbacac8b758b7714ab3
+[album-cover]: https://i.scdn.co/image/ab67616d000048518a48864289dc2588f13274ec
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
