@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Crawling In The Dark**<br />by _Hoobastank_<br /> on Hoobastank (20th Anniversary Edition) [2001] |
+| ![album cover][album-cover] | **Anytime Babe**<br />by _Three Dog Night_<br /> on Hard Labor [1974] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518a48864289dc2588f13274ec
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d4221459a2628c90f17a824e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
