@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Vehicle**<br />by _The Ides Of March_<br /> on Vehicle [1970] |
+| ![album cover][album-cover] | **30 Days In The Hole**<br />by _Humble Pie_<br /> on Smokin' [1972] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851eba0e1c67438a7c21629d99c
+[album-cover]: https://i.scdn.co/image/ab67616d000048518dd34171843558c291df29fd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
