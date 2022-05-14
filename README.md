@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Anytime Babe**<br />by _Three Dog Night_<br /> on Hard Labor [1974] |
+| ![album cover][album-cover] | **Vehicle**<br />by _The Ides Of March_<br /> on Vehicle [1970] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d4221459a2628c90f17a824e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851eba0e1c67438a7c21629d99c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
