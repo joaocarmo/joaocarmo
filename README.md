@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **30 Days In The Hole**<br />by _Humble Pie_<br /> on Smokin' [1972] |
+| ![album cover][album-cover] | **Out of Sight**<br />by _Gutter Demons_<br /> on Enter the Demonz [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518dd34171843558c291df29fd
+[album-cover]: https://i.scdn.co/image/ab67616d000048514dd401f22869ee2ef7e06727
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
