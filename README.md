@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Ride into Grave and Glory (War Horse II)**<br />by _Tengger Cavalry_<br /> on Cian Bi [2018] |
+| ![album cover][album-cover] | **Edith**<br />by _The Hot Melts_<br /> on The Hot Melts [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510305540d1d3d11607b07d740
+[album-cover]: https://i.scdn.co/image/ab67616d00004851090cfa7f1383c92cd75427e0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
