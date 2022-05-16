@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Out of Sight**<br />by _Gutter Demons_<br /> on Enter the Demonz [2014] |
+| ![album cover][album-cover] | **Ride into Grave and Glory (War Horse II)**<br />by _Tengger Cavalry_<br /> on Cian Bi [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514dd401f22869ee2ef7e06727
+[album-cover]: https://i.scdn.co/image/ab67616d000048510305540d1d3d11607b07d740
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
