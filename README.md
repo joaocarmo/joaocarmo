@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Had This Thing - Edit**<br />by _Röyksopp_<br /> on We Are Planet Perfecto, Vol. 5 - Back To My House [2015] |
+| ![album cover][album-cover] | **Sway**<br />by _MCC [Magna Carta Cartel]_<br /> on Sway [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517405aef619401f7d648c3cef
+[album-cover]: https://i.scdn.co/image/ab67616d00004851dbb8b75546500e71f8c31e94
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
