@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Edith**<br />by _The Hot Melts_<br /> on The Hot Melts [2009] |
+| ![album cover][album-cover] | **I Had This Thing - Edit**<br />by _Röyksopp_<br /> on We Are Planet Perfecto, Vol. 5 - Back To My House [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851090cfa7f1383c92cd75427e0
+[album-cover]: https://i.scdn.co/image/ab67616d000048517405aef619401f7d648c3cef
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
