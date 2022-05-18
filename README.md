@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sway**<br />by _MCC [Magna Carta Cartel]_<br /> on Sway [2017] |
+| ![album cover][album-cover] | **The Physical World**<br />by _Death From Above 1979_<br /> on The Physical World [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851dbb8b75546500e71f8c31e94
+[album-cover]: https://i.scdn.co/image/ab67616d0000485180137ed9f0f3ad9849176ea7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
