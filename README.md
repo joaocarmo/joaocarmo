@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Physical World**<br />by _Death From Above 1979_<br /> on The Physical World [2014] |
+| ![album cover][album-cover] | **Bułgarskie Centrum Hujo****<br />by _Pidżama Porno_<br /> on Bułgarskie centrum [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485180137ed9f0f3ad9849176ea7
+[album-cover]: https://i.scdn.co/image/ab67616d00004851590ab5a12c31f24abe2295e6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
