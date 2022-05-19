@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bułgarskie Centrum Hujo****<br />by _Pidżama Porno_<br /> on Bułgarskie centrum [2016] |
+| ![album cover][album-cover] | **Coming Down That Road**<br />by _The Deaf_<br /> on Toot Whistle Plunk Boom! [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851590ab5a12c31f24abe2295e6
+[album-cover]: https://i.scdn.co/image/ab67616d000048510a3c73b3edb1fa074b821a8c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
