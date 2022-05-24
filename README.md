@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Coming Down That Road**<br />by _The Deaf_<br /> on Toot Whistle Plunk Boom! [2011] |
+| ![album cover][album-cover] | **Mona Lisa**<br />by _Dead Sara_<br /> on Pleasure to Meet You [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510a3c73b3edb1fa074b821a8c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ac560d35ec40d9b6b6ab820e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
