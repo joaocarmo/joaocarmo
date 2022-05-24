@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Mona Lisa**<br />by _Dead Sara_<br /> on Pleasure to Meet You [2015] |
+| ![album cover][album-cover] | **Let's Get It Started**<br />by _Måneskin_<br /> on Chosen [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ac560d35ec40d9b6b6ab820e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fa0ab3a28b5c52d8a5f97045
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
