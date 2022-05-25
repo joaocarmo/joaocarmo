@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Cry Wolf**<br />by _The Parlor Mob_<br /> on Cry Wolf [2015] |
+| ![album cover][album-cover] | **Creeper**<br />by _Lincoln Durham_<br /> on Revelations of a Mind Unraveling [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b547527336e3b4590a091d9d
+[album-cover]: https://i.scdn.co/image/ab67616d000048513457783c13a358ab9d8aeea6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
