@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **End of Time**<br />by _Jared James Nichols_<br /> on Black Magic [2017] |
+| ![album cover][album-cover] | **We The People Of The Soil**<br />by _The Inspector Cluzo_<br /> on We The People Of The Soil [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851694e8f0d6cf6022fd143e541
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b5cf5e3d2beef5124c824d36
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
