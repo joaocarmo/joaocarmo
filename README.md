@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Creeper**<br />by _Lincoln Durham_<br /> on Revelations of a Mind Unraveling [2016] |
+| ![album cover][album-cover] | **End of Time**<br />by _Jared James Nichols_<br /> on Black Magic [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513457783c13a358ab9d8aeea6
+[album-cover]: https://i.scdn.co/image/ab67616d00004851694e8f0d6cf6022fd143e541
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
