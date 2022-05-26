@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **We The People Of The Soil**<br />by _The Inspector Cluzo_<br /> on We The People Of The Soil [2018] |
+| ![album cover][album-cover] | **Strike It**<br />by _Dub War_<br /> on Pain [1995] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b5cf5e3d2beef5124c824d36
+[album-cover]: https://i.scdn.co/image/ab67616d0000485163697d44731e27711bebc1af
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
