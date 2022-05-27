@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Strike It**<br />by _Dub War_<br /> on Pain [1995] |
+| ![album cover][album-cover] | **Wrong Side Of Heaven - Acoustic**<br />by _Five Finger Death Punch_<br /> on Wrong Side Of Heaven (Acoustic) [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485163697d44731e27711bebc1af
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d6ad4a623a4027563562718c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
