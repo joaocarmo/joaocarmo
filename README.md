@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Asleep at the Wheel**<br />by _Band Of Skulls_<br /> on Himalayan [2014] |
+| ![album cover][album-cover] | **Wrong Side Of Heaven - Acoustic**<br />by _Five Finger Death Punch_<br /> on Wrong Side Of Heaven (Acoustic) [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f1f60af9ce38153ee619ad30
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d6ad4a623a4027563562718c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
