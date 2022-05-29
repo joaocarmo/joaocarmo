@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wrong Side Of Heaven - Acoustic**<br />by _Five Finger Death Punch_<br /> on Wrong Side Of Heaven (Acoustic) [2020] |
+| ![album cover][album-cover] | **Little Thing Gone Wild**<br />by _Black Rebel Motorcycle Club_<br /> on Wrong Creatures [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d6ad4a623a4027563562718c
+[album-cover]: https://i.scdn.co/image/ab67616d0000485117114f1e5768ddc59cf6e16d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
