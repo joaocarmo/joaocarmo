@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Little Thing Gone Wild**<br />by _Black Rebel Motorcycle Club_<br /> on Wrong Creatures [2018] |
+| ![album cover][album-cover] | **Obi-Wan - From "Obi-Wan Kenobi"**<br />by _John Williams_<br /> on Obi-Wan (From "Obi-Wan Kenobi") [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485117114f1e5768ddc59cf6e16d
+[album-cover]: https://i.scdn.co/image/ab67616d000048512fb0d4fbe942811b31037e50
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
