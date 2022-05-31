@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lies Irae**<br />by _Dope Stars Inc._<br /> on Ultrawired: Pirate Ketaware for the Tlc Generation [2011] |
+| ![album cover][album-cover] | **Pain**<br />by _Stereomud_<br /> on Perfect Self [2001] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514f23adfe0707d6b319cea55c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d7c743d292d5def6f1044155
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
