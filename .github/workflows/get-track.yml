@@ -1,12 +1,10 @@
 # This workflow runs automatically and updates the README.md file with the
 # latest track on Spotify.
-#
 name: Update Track
 
 on:
-  workflow_dispatch:
-#  schedule:
-#    - cron: "0 */6 * * *"
+  schedule:
+    - cron: "0 */6 * * *"
 
 jobs:
   get-track:

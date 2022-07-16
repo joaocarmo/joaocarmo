@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Coming Down That Road**<br />by _The Deaf_<br /> on Toot Whistle Plunk Boom! [2011] |
+| ![album cover][album-cover] | **Papercut**<br />by _Linkin Park_<br /> on Hybrid Theory (Bonus Edition) [2000] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510a3c73b3edb1fa074b821a8c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e2f039481babe23658fc719a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
