@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Papercut**<br />by _Linkin Park_<br /> on Hybrid Theory (Bonus Edition) [2000] |
+| ![album cover][album-cover] | **Nothing Else Matters**<br />by _Metallica_<br /> on Metallica [1991] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e2f039481babe23658fc719a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cf84c5b276431b473e924802
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
