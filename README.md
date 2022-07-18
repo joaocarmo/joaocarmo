@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **John the Revelator**<br />by _Mexicoma_<br /> on Supervoid [2012] |
+| ![album cover][album-cover] | **The Needle**<br />by _The Necromancers_<br /> on The Needle [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ee04e81316eac75475d273e8
+[album-cover]: https://i.scdn.co/image/ab67616d000048514820ba17ab528e460de99f54
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
