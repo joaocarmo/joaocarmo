@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Nothing Else Matters**<br />by _Metallica_<br /> on Metallica [1991] |
+| ![album cover][album-cover] | **John the Revelator**<br />by _Mexicoma_<br /> on Supervoid [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cf84c5b276431b473e924802
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ee04e81316eac75475d273e8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
