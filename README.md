@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Needle**<br />by _The Necromancers_<br /> on The Needle [2022] |
+| ![album cover][album-cover] | **Built By Nations**<br />by _Greta Van Fleet_<br /> on The Battle at Garden’s Gate [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514820ba17ab528e460de99f54
+[album-cover]: https://i.scdn.co/image/ab67616d00004851339cc033bcc476d11dffba4c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
