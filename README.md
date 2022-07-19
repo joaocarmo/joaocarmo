@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Built By Nations**<br />by _Greta Van Fleet_<br /> on The Battle at Garden’s Gate [2021] |
+| ![album cover][album-cover] | **Cut the Cord**<br />by _Shinedown_<br /> on Threat to Survival [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851339cc033bcc476d11dffba4c
+[album-cover]: https://i.scdn.co/image/ab67616d000048517b6fda92d5912fef92f373de
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
