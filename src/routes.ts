@@ -1,15 +1,11 @@
-#!/usr/bin/env node
-const bodyParser = require('body-parser')
-const cors = require('cors')
-const express = require('express')
-const opn = require('opn')
-const SpotifyWebApi = require('spotify-web-api-node')
-const { loginAndAuthorize } = require('./loginAndAuthorize')
-const getLatestTrack = require('./getLatestTrack')
-require('dotenv').config()
+import { Request, Response } from 'express'
+import open from 'open'
+import SpotifyWebApi from 'spotify-web-api-node'
+import dotenv from 'dotenv'
+import { loginAndAuthorize } from './loginAndAuthorize'
+import getLatestTrack from './getLatestTrack'
 
-const app = express()
-const router = express.Router()
+dotenv.config()
 
 const authorize = process.env.AUTHORIZE === 'true'
 const clientId = process.env.CLIENT_ID
@@ -28,20 +24,49 @@ const spotifyApi = new SpotifyWebApi({
   redirectUri,
 })
 
-app.use(bodyParser.urlencoded({ extended: true }))
-app.use(bodyParser.json())
-app.use(cors())
+export const handleStart = async () => {
+  const env = isDev ? 'development' : 'production'
+  console.log(`[${env}] Server running on port ${port}...`)
 
-router.get('/', (req, res) => {
+  const authorizeURL = spotifyApi.createAuthorizeURL(scopes, state)
+
+  if (authorize) {
+    console.log('Opening browser...')
+
+    open(authorizeURL)
+  } else {
+    if (isDev) {
+      console.log('Authorize URL:', authorizeURL)
+    }
+
+    const success = await loginAndAuthorize(authorizeURL)
+
+    if (success) {
+      await getLatestTrack()
+    } else {
+      console.error('Login and authorize failed!')
+      process.exit(1)
+    }
+  }
+}
+
+export const handleRoot = (req: Request, res: Response) => {
   res.json({ message: 'Hello there !' })
-})
+}
 
-router.get('/kill', (req, res) => {
+export const handleKill = (req: Request, res: Response) => {
   res.json({ message: 'Bye !' })
   process.exit(0)
-})
+}
 
-router.get('/callback', async (req, res) => {
+interface CallbackQuery {
+  code: string
+}
+
+export const handleCallback = async (
+  req: Request<{}, {}, {}, CallbackQuery>,
+  res: Response,
+) => {
   const {
     query: { code },
   } = req
@@ -65,9 +90,9 @@ router.get('/callback', async (req, res) => {
 
     res.status(500).json({ error })
   }
-})
+}
 
-router.get('/recently-played', async (req, res) => {
+export const handleRecentlyPlayed = async (req: Request, res: Response) => {
   try {
     const recentlyPlayed = await spotifyApi.getMyRecentlyPlayedTracks({
       limit: 1,
@@ -83,7 +108,10 @@ router.get('/recently-played', async (req, res) => {
       } = await spotifyApi.refreshAccessToken()
 
       spotifyApi.setAccessToken(access_token)
-      spotifyApi.setRefreshToken(refresh_token)
+
+      if (refresh_token) {
+        spotifyApi.setRefreshToken(refresh_token)
+      }
 
       res.redirect(req.originalUrl)
     } catch (error) {
@@ -92,32 +120,4 @@ router.get('/recently-played', async (req, res) => {
       res.status(500).json({ error })
     }
   }
-})
-
-app.use('/', router)
-
-app.listen(port, async () => {
-  const env = isDev ? 'development' : 'production'
-  console.log(`[${env}] Server running on port ${port}...`)
-
-  const authorizeURL = spotifyApi.createAuthorizeURL(scopes, state)
-
-  if (authorize) {
-    console.log('Opening browser...')
-
-    opn(authorizeURL)
-  } else {
-    if (isDev) {
-      console.log('Authorize URL:', authorizeURL)
-    }
-
-    const success = await loginAndAuthorize(authorizeURL)
-
-    if (success) {
-      await getLatestTrack()
-    } else {
-      console.error('Login and authorize failed!')
-      process.exit(1)
-    }
-  }
-})
+}

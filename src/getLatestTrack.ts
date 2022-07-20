@@ -1,31 +1,40 @@
-#!/usr/bin/env node
-const fetch = require('cross-fetch')
-const path = require('path')
-const replace = require('replace-in-file')
-require('dotenv').config()
+#!/usr/bin/env ts-node
+/// <reference types="spotify-api" />
+import fetch from 'cross-fetch'
+import { resolve } from 'path'
+import replace from 'replace-in-file'
+import dotenv from 'dotenv'
 
-const readmeFile = path.resolve(__dirname, '../README.template.md')
+dotenv.config()
 
-/**
- * @typedef { import('spotify-web-api-node').SpotifyWebApi } SpotifyWebApi
- * @typedef { { artist: string, title: string, album: string, image: string } } ParsedTrack
- */
+const readmeFile = resolve(__dirname, '../README.template.md')
+const imagePlaceholder = 'https://via.placeholder.com/100'
 
-/**
- * @param {SpotifyApi.PlayHistoryObject} playHistory
- * @returns {ParsedTrack}
- */
-const parseTrack = ({ track }) => {
+interface ParsedTrack {
+  album: string
+  artist: string
+  image: string
+  released: string
+  title: string
+}
+
+interface FROptions {
+  files: string[]
+}
+
+const parseTrack = ({ track }: SpotifyApi.PlayHistoryObject): ParsedTrack => {
   const album = track.album.name
   const artist = track.artists.map(({ name }) => name).join(', ')
-  const image = track.album.images.find(({ height }) => height <= 100).url
+  const image =
+    track.album.images.find(({ height }) => height && height <= 100)?.url ||
+    imagePlaceholder
   const released = track.album.release_date.split('-')[0]
   const title = track.name
 
   return { album, artist, image, released, title }
 }
 
-const findAndReplace = async (parsedTrack, options) => {
+const findAndReplace = async (parsedTrack: ParsedTrack, options: FROptions) => {
   const { artist, title, album, image, released } = parsedTrack
   const from = [
     '{{artist}}',
@@ -44,12 +53,11 @@ const main = async () => {
   const response = await fetch(`${baseUri}/recently-played`)
 
   if (response.ok) {
-    /**
-     * @type {SpotifyApi.UsersRecentlyPlayedTracksResponse}
-     */
-    const recentlyPlayed = await response.json()
+    const recentlyPlayed: SpotifyApi.UsersRecentlyPlayedTracksResponse = (
+      await response.json()
+    ).body
 
-    const firstTrack = recentlyPlayed.body.items[0]
+    const firstTrack = recentlyPlayed.items[0]
 
     const parsedTrack = parseTrack(firstTrack)
 
@@ -71,8 +79,8 @@ const main = async () => {
   }
 }
 
+export default main
+
 if (require.main === module) {
   main()
-} else {
-  module.exports = main
 }

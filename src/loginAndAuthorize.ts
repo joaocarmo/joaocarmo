@@ -1,12 +1,13 @@
-const path = require('path')
-const puppeteer = require('puppeteer')
-require('dotenv').config()
+import puppeteer from 'puppeteer'
+import dotenv from 'dotenv'
+
+dotenv.config()
 
 const enviroment = process.env.ENVIRONMENT || 'production'
 const isDev = enviroment === 'development'
-const loginPage = process.env.LOGIN_PAGE
-const username = process.env.SPOTIFY_USERNAME
-const password = process.env.SPOTIFY_PASSWORD
+const loginPage = process.env.LOGIN_PAGE!
+const username = process.env.SPOTIFY_USERNAME!
+const password = process.env.SPOTIFY_PASSWORD!
 const proxyServer = process.env.PROXY_SERVER
 const headless = !(process.env.NOT_HEADLESS === 'true')
 
@@ -23,13 +24,15 @@ const selectors = {
 }
 
 class Browser {
-  constructor(initOptions) {
-    this.browser = null
-    this.page = null
+  browser!: puppeteer.Browser
+  page!: puppeteer.Page
+  options: puppeteer.PuppeteerLaunchOptions
+
+  constructor(initOptions: puppeteer.PuppeteerLaunchOptions = {}) {
     this.options = initOptions
   }
 
-  async open(extraOptions) {
+  async open(extraOptions: puppeteer.PuppeteerLaunchOptions = {}) {
     try {
       this.browser = await puppeteer.launch({
         ...this.options,
@@ -59,7 +62,15 @@ class Browser {
     }
   }
 
-  async login({ page, username, password }) {
+  async login({
+    page,
+    username,
+    password,
+  }: {
+    page: string
+    username: string
+    password: string
+  }) {
     console.log(`Loading ${page}...`)
 
     try {
@@ -91,7 +102,7 @@ class Browser {
     return false
   }
 
-  async authorize({ url }) {
+  async authorize({ url }: { url: string }) {
     try {
       if (isDev) {
         console.log(`Loading ${url}...`)
@@ -121,16 +132,14 @@ class Browser {
   }
 }
 
-/**
- * Login and authorize Spotify
- * @async
- * @param {string} authorizeURL
- * @returns {Promise<boolean>}
- */
-const loginAndAuthorize = async (authorizeURL) => {
+export const loginAndAuthorize = async (
+  authorizeURL: string,
+): Promise<boolean> => {
   let success = false
-  const args = [proxyServer && `--proxy-server=${proxyServer}`].filter(Boolean)
-  const options = {
+  const args = [proxyServer && `--proxy-server=${proxyServer}`].filter(
+    Boolean,
+  ) as string[]
+  const options: puppeteer.PuppeteerLaunchOptions = {
     headless,
     defaultViewport: {
       width: 1920,
@@ -164,5 +173,3 @@ const loginAndAuthorize = async (authorizeURL) => {
 
   return success
 }
-
-module.exports = { loginAndAuthorize }
