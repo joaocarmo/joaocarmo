@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Cut the Cord**<br />by _Shinedown_<br /> on Threat to Survival [2015] |
+| ![album cover][album-cover] | **Somebody's Watching Me**<br />by _Warmen_<br /> on Accept The Fact [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517b6fda92d5912fef92f373de
+[album-cover]: https://i.scdn.co/image/ab67616d00004851435b6d907ba614612f6df2e4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
