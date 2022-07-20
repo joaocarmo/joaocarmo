@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Beautiful Crime**<br />by _Tamer_<br /> on Beautiful Crime [2015] |
+| ![album cover][album-cover] | **All The Small Things**<br />by _blink-182_<br /> on Enema Of The State [1999] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516ed86023946bb3829c26938b
+[album-cover]: https://i.scdn.co/image/ab67616d000048516da502e35a7a3e48de2b0f74
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com

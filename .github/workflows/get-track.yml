@@ -21,6 +21,9 @@ jobs:
       - name: Install dependencies
         run: yarn --frozen-lockfile
 
+      - name: Validate TypeScript
+        run: yarn type-check
+
       - name: Setup environment
         run: cp .env.example .env
 
