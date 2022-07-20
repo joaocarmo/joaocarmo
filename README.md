@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Somebody's Watching Me**<br />by _Warmen_<br /> on Accept The Fact [2005] |
+| ![album cover][album-cover] | **Beautiful Crime**<br />by _Tamer_<br /> on Beautiful Crime [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851435b6d907ba614612f6df2e4
+[album-cover]: https://i.scdn.co/image/ab67616d000048516ed86023946bb3829c26938b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
