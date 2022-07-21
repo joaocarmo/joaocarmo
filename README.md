@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Guerrilla Radio**<br />by _Rage Against The Machine_<br /> on The Battle Of Los Angeles [1999] |
+| ![album cover][album-cover] | **Old Love**<br />by _Long Distance Calling_<br /> on Ghost [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513c2579a4f8cacd5b95b8fa68
+[album-cover]: https://i.scdn.co/image/ab67616d0000485106b7ca84010484ea9962697c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
