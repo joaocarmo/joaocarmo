@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **All The Small Things**<br />by _blink-182_<br /> on Enema Of The State [1999] |
+| ![album cover][album-cover] | **Guerrilla Radio**<br />by _Rage Against The Machine_<br /> on The Battle Of Los Angeles [1999] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516da502e35a7a3e48de2b0f74
+[album-cover]: https://i.scdn.co/image/ab67616d000048513c2579a4f8cacd5b95b8fa68
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
