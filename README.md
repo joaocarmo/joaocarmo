@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Careless Whisper**<br />by _Eagles Of Death Metal_<br /> on EODM Presents Boots Electric Performing The Best Songs We Never Wrote [2019] |
+| ![album cover][album-cover] | **Butterfly**<br />by _Modern Tiger_<br /> on Kill The Pain [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f2043a8942328bc21e24ffc9
+[album-cover]: https://i.scdn.co/image/ab67616d00004851eb5bc675416f741d6f328c9b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
