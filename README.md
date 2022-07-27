@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Butterfly**<br />by _Modern Tiger_<br /> on Kill The Pain [2021] |
+| ![album cover][album-cover] | **Come On**<br />by _Artur Menezes, Joe Bonamassa_<br /> on Come On [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851eb5bc675416f741d6f328c9b
+[album-cover]: https://i.scdn.co/image/ab67616d000048513edbef2671a8fbd5a214b471
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
