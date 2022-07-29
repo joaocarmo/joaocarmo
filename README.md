@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Come On**<br />by _Artur Menezes, Joe Bonamassa_<br /> on Come On [2020] |
+| ![album cover][album-cover] | **A. Creature**<br />by _Psychedelic Witchcraft_<br /> on The Vision [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513edbef2671a8fbd5a214b471
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a0fdf23d783bfa558b5c0601
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
