@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **A. Creature**<br />by _Psychedelic Witchcraft_<br /> on The Vision [2016] |
+| ![album cover][album-cover] | **Singularity**<br />by _Black Orchid Empire_<br /> on Semaphore [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a0fdf23d783bfa558b5c0601
+[album-cover]: https://i.scdn.co/image/ab67616d0000485174afc9ae11c4d85303168e54
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
