@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Stillborn**<br />by _Black Label Society_<br /> on The Blessed Hellride [2003] |
+| ![album cover][album-cover] | **Blood Brothers - 2015 Remaster**<br />by _Iron Maiden_<br /> on Brave New World (2015 Remaster) [2000] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f99e29660d585bfcfa75346a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e1c50403652529dccf16f84c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
