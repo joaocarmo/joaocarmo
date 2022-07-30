@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Singularity**<br />by _Black Orchid Empire_<br /> on Semaphore [2020] |
+| ![album cover][album-cover] | **Stillborn**<br />by _Black Label Society_<br /> on The Blessed Hellride [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485174afc9ae11c4d85303168e54
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f99e29660d585bfcfa75346a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
