@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Blood Brothers - 2015 Remaster**<br />by _Iron Maiden_<br /> on Brave New World (2015 Remaster) [2000] |
+| ![album cover][album-cover] | **All The Way Up**<br />by _Welshly Arms_<br /> on No Place Is Home [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e1c50403652529dccf16f84c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851605fea88497f83c4881df0da
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
