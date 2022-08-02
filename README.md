@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Take Me Away**<br />by _Ayron Jones_<br /> on Child Of The State [2021] |
+| ![album cover][album-cover] | **Crystallized**<br />by _The Vintage Caravan_<br /> on Monuments [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d560f147825249ffa8fff4c2
+[album-cover]: https://i.scdn.co/image/ab67616d000048511c4e04a0ffdf2f039c19c9fb
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
