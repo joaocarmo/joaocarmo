@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **All The Way Up**<br />by _Welshly Arms_<br /> on No Place Is Home [2018] |
+| ![album cover][album-cover] | **Take Me Away**<br />by _Ayron Jones_<br /> on Child Of The State [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851605fea88497f83c4881df0da
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d560f147825249ffa8fff4c2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
