@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Icarus - Main Theme**<br />by _Michael McCann_<br /> on Deus Ex: Human Revolution (Original Soundtrack) [2011] |
+| ![album cover][album-cover] | **Vesemir's Trial**<br />by _Brian D'Oliveira_<br /> on The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film) [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bd5785665d6eed9e3203f525
+[album-cover]: https://i.scdn.co/image/ab67616d000048510e9e9c999b3f98f96720715f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
