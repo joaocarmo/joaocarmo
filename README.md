@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Crystallized**<br />by _The Vintage Caravan_<br /> on Monuments [2021] |
+| ![album cover][album-cover] | **Icarus - Main Theme**<br />by _Michael McCann_<br /> on Deus Ex: Human Revolution (Original Soundtrack) [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511c4e04a0ffdf2f039c19c9fb
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bd5785665d6eed9e3203f525
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
