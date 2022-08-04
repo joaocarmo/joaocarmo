@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Vesemir's Trial**<br />by _Brian D'Oliveira_<br /> on The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film) [2021] |
+| ![album cover][album-cover] | **Captured Moments**<br />by _Collapse Under The Empire_<br /> on Find a Place to Be Safe [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510e9e9c999b3f98f96720715f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851066a8e98f2ea8f3fba1a0ecf
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
