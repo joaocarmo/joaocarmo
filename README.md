@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Intelligence**<br />by _Collapse Under The Empire_<br /> on Find a Place to Be Safe [2009] |
+| ![album cover][album-cover] | **Raised By Wolves**<br />by _The Interrupters_<br /> on In The Wild [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851066a8e98f2ea8f3fba1a0ecf
+[album-cover]: https://i.scdn.co/image/ab67616d00004851121952111c2fbc3e2246db1e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
