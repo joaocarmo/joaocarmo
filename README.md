@@ -18,7 +18,7 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Captured Moments**<br />by _Collapse Under The Empire_<br /> on Find a Place to Be Safe [2009] |
+| ![album cover][album-cover] | **Intelligence**<br />by _Collapse Under The Empire_<br /> on Find a Place to Be Safe [2009] |
 
 <!-- References -->
 
