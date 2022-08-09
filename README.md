@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Medusa**<br />by _Inglorious_<br /> on We Will Ride [2021] |
+| ![album cover][album-cover] | **Age Of The Idiot**<br />by _Freedom Hawk_<br /> on Age Of The Idiot [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485122c3bdc47c4c2d8ac64f7bd7
+[album-cover]: https://i.scdn.co/image/ab67616d00004851922cbb48b6056a5cb1214aa9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
