@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Medusa**<br />by _Inglorious_<br /> on We Will Ride [2021] |
+| ![album cover][album-cover] | **Opiate²**<br />by _TOOL_<br /> on Opiate² [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485122c3bdc47c4c2d8ac64f7bd7
+[album-cover]: https://i.scdn.co/image/ab67616d000048513efcce24b1026d6bc191eb26
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
