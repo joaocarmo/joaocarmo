@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Jamming Affairs**<br />by _Bobby Ramone_<br /> on Rocket to Kingston [2021] |
+| ![album cover][album-cover] | **Self Love Age**<br />by _KO KO MO_<br /> on Lemon Twins [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510519e8b20f8425bd4027235f
+[album-cover]: https://i.scdn.co/image/ab67616d0000485107a09064afe75259b6e05b45
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
