@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Opiate²**<br />by _TOOL_<br /> on Opiate² [2022] |
+| ![album cover][album-cover] | **Jamming Affairs**<br />by _Bobby Ramone_<br /> on Rocket to Kingston [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513efcce24b1026d6bc191eb26
+[album-cover]: https://i.scdn.co/image/ab67616d000048510519e8b20f8425bd4027235f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
