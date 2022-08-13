@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Keeper**<br />by _Reignwolf_<br /> on Hear Me Out [2019] |
+| ![album cover][album-cover] | **The Dirt (Est. 1981) [feat. Machine Gun Kelly]**<br />by _Mötley Crüe, Machine Gun Kelly_<br /> on The Dirt Soundtrack [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513d7eddd9401e833c32809674
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e48615f34c141e22a690b552
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
