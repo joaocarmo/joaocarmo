@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Deutschland**<br />by _Rammstein_<br /> on Rammstein [2019] |
+| ![album cover][album-cover] | **Victory Or Die**<br />by _Motörhead_<br /> on Bad Magic [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485102add2c77fb6999e311a3248
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b78e31600bc6405ecf1b2d3b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
