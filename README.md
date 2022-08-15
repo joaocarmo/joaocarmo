@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Victory Or Die**<br />by _Motörhead_<br /> on Bad Magic [2015] |
+| ![album cover][album-cover] | **Faster**<br />by _Within Temptation_<br /> on The Unforgiving [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b78e31600bc6405ecf1b2d3b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bcb4a0f3772f0a25db7eb965
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
