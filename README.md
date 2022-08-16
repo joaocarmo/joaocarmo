@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Faster**<br />by _Within Temptation_<br /> on The Unforgiving [2011] |
+| ![album cover][album-cover] | **Dicke Titten**<br />by _Rammstein_<br /> on Zeit [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bcb4a0f3772f0a25db7eb965
+[album-cover]: https://i.scdn.co/image/ab67616d000048511108fef87966d83948b6a037
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
