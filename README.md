@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dicke Titten**<br />by _Rammstein_<br /> on Zeit [2022] |
+| ![album cover][album-cover] | **That Fire**<br />by _Black Tide_<br /> on Post Mortem [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511108fef87966d83948b6a037
+[album-cover]: https://i.scdn.co/image/ab67616d0000485102437c2b92a320d731be3f32
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
