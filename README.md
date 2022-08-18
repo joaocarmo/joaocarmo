@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Smokin' in the Boy's Room**<br />by _Brownsville Station_<br /> on Yeah! (US Internet Release) [1973] |
+| ![album cover][album-cover] | **Memphis Sun**<br />by _Rival Sons_<br /> on Before the Fire [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851aea0152947566e511ba178be
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a46dce19f6c802770375ae4f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
