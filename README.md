@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **That Fire**<br />by _Black Tide_<br /> on Post Mortem [2011] |
+| ![album cover][album-cover] | **Smokin' in the Boy's Room**<br />by _Brownsville Station_<br /> on Yeah! (US Internet Release) [1973] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485102437c2b92a320d731be3f32
+[album-cover]: https://i.scdn.co/image/ab67616d00004851aea0152947566e511ba178be
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
