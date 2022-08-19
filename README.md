@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Memphis Sun**<br />by _Rival Sons_<br /> on Before the Fire [2009] |
+| ![album cover][album-cover] | **Chyba Umieram**<br />by _Azyl P_<br /> on Nalot [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a46dce19f6c802770375ae4f
+[album-cover]: https://i.scdn.co/image/ab67616d0000485100c9cee4754c6260f09430bb
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
