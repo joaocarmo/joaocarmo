@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **One - Remastered**<br />by _Metallica_<br /> on …And Justice for All (Remastered Deluxe Box Set) [1988] |
+| ![album cover][album-cover] | **Błyski**<br />by _Hurrockaine_<br /> on Memo [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514c9fc157cd0b0ce4196f9aeb
+[album-cover]: https://i.scdn.co/image/ab67616d0000485127dd77f141623104107a84c8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
