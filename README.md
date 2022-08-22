@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Chyba Umieram**<br />by _Azyl P_<br /> on Nalot [2014] |
+| ![album cover][album-cover] | **Drama**<br />by _Christine, T La Rock_<br /> on Atom from Heart [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485100c9cee4754c6260f09430bb
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f5eb64e50882f60556b7cf85
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
