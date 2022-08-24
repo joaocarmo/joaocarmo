@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Błyski**<br />by _Hurrockaine_<br /> on Memo [2018] |
+| ![album cover][album-cover] | **Cannonball**<br />by _L.A. Guns_<br /> on Checkered Past [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485127dd77f141623104107a84c8
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f972dbf11e5cb002e2d39574
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
