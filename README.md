@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Stand Back**<br />by _Freedom Hawk_<br /> on Sunlight [2008] |
+| ![album cover][album-cover] | **Till I Get My Way**<br />by _The Black Keys_<br /> on Rubber Factory [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485160d6009d9f8d6dc86ebc1efd
+[album-cover]: https://i.scdn.co/image/ab67616d000048513c8bb73045c90b75cc01dcb9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
