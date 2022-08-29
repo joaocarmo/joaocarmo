@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Till I Get My Way**<br />by _The Black Keys_<br /> on Rubber Factory [2004] |
+| ![album cover][album-cover] | **He's My Demon**<br />by _Head Smashed_<br /> on He's My Demon [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513c8bb73045c90b75cc01dcb9
+[album-cover]: https://i.scdn.co/image/ab67616d00004851085222fe17a8a0e6c247a35b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
