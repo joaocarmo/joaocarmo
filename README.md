@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Pyörällä baariin (taksilla himaan)**<br />by _Huora_<br /> on Älä luovuta [2022] |
+| ![album cover][album-cover] | **How You Like Me Now**<br />by _The Heavy_<br /> on The House That Dirt Built [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ae5b95ac901f4e872d426e55
+[album-cover]: https://i.scdn.co/image/ab67616d0000485187aa34532133fbd0ba267b16
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
