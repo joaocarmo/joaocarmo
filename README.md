@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Scene Is Dead (MASTER BOOT RECORD Remix)**<br />by _Dubmood, MASTER BOOT RECORD_<br /> on Votedisk // Scene Is Dead [2019] |
+| ![album cover][album-cover] | **Pyörällä baariin (taksilla himaan)**<br />by _Huora_<br /> on Älä luovuta [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d656e74286decf39ceedae86
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ae5b95ac901f4e872d426e55
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
