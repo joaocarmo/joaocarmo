@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **How You Like Me Now**<br />by _The Heavy_<br /> on The House That Dirt Built [2009] |
+| ![album cover][album-cover] | **A Disappearing Act**<br />by _Coheed and Cambria_<br /> on Vaxis II: A Window of the Waking Mind [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485187aa34532133fbd0ba267b16
+[album-cover]: https://i.scdn.co/image/ab67616d000048513d1d9d3051a01c00cd61b8cd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
