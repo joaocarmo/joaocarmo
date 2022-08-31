@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **A Disappearing Act**<br />by _Coheed and Cambria_<br /> on Vaxis II: A Window of the Waking Mind [2022] |
+| ![album cover][album-cover] | **Spearmint Revolt**<br />by _Norma Jean_<br /> on Spearmint Revolt [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513d1d9d3051a01c00cd61b8cd
+[album-cover]: https://i.scdn.co/image/ab67616d000048519e8d91e9e73eb87f6ec480d8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
