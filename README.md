@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **"Filthy"**<br />by _Ayron Jones_<br /> on "Filthy" [2022] |
+| ![album cover][album-cover] | **Smith and Wesson**<br />by _The Wanton Bishops_<br /> on Sleep With the Lights On [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485100878c1a3be9dd2066a55a11
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e38fff2b150ef397d024ff02
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
