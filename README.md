@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Records**<br />by _Weezer_<br /> on SZNZ: Summer [2022] |
+| ![album cover][album-cover] | **"Filthy"**<br />by _Ayron Jones_<br /> on "Filthy" [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519ed5cb6c8e9fb4960ddca4d6
+[album-cover]: https://i.scdn.co/image/ab67616d0000485100878c1a3be9dd2066a55a11
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
