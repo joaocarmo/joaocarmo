@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Smith and Wesson**<br />by _The Wanton Bishops_<br /> on Sleep With the Lights On [2015] |
+| ![album cover][album-cover] | **5 Day Blues (2 Day Boogie)**<br />by _The Drippers_<br /> on Scandinavian Thunder [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e38fff2b150ef397d024ff02
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ec9b061889d8e659b5be85b8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
