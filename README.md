@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **5 Day Blues (2 Day Boogie)**<br />by _The Drippers_<br /> on Scandinavian Thunder [2021] |
+| ![album cover][album-cover] | **Anomaly**<br />by _Aviana_<br /> on Anomaly [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ec9b061889d8e659b5be85b8
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c4d6d11812fe7fa47ac42867
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
