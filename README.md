@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Anomaly**<br />by _Aviana_<br /> on Anomaly [2022] |
+| ![album cover][album-cover] | **Stand Back**<br />by _Freedom Hawk_<br /> on Sunlight [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c4d6d11812fe7fa47ac42867
+[album-cover]: https://i.scdn.co/image/ab67616d0000485160d6009d9f8d6dc86ebc1efd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
