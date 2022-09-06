@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hysteria**<br />by _Muse_<br /> on Absolution [2004] |
+| ![album cover][album-cover] | **Faded Out (feat. Within Temptation)**<br />by _Asking Alexandria, Within Temptation_<br /> on Faded Out (feat. Within Temptation) [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518cb690f962092fd44bbe2bf4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d7858087075bad52282961f4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
