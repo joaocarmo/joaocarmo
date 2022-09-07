@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Faded Out (feat. Within Temptation)**<br />by _Asking Alexandria, Within Temptation_<br /> on Faded Out (feat. Within Temptation) [2022] |
+| ![album cover][album-cover] | **IMAGO**<br />by _Space Of Variations_<br /> on IMAGO [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d7858087075bad52282961f4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b403f49cb08d0944e3c6f167
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
