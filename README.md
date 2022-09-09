@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **IMAGO**<br />by _Space Of Variations_<br /> on IMAGO [2022] |
+| ![album cover][album-cover] | **Reflections**<br />by _VENUES_<br /> on Reflections [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b403f49cb08d0944e3c6f167
+[album-cover]: https://i.scdn.co/image/ab67616d000048514c6c73af230c129f81873bf7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
