@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Reflections**<br />by _VENUES_<br /> on Reflections [2022] |
+| ![album cover][album-cover] | **New Era**<br />by _Adelitas Way_<br /> on New Era [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514c6c73af230c129f81873bf7
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bb0744b7397e6ce4b7487e75
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
