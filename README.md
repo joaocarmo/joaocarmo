@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **New Era**<br />by _Adelitas Way_<br /> on New Era [2022] |
+| ![album cover][album-cover] | **Up in the Sky**<br />by _Somali Yacht Club_<br /> on The Sun [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bb0744b7397e6ce4b7487e75
+[album-cover]: https://i.scdn.co/image/ab67616d00004851022851372242ca05c6e939a3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
