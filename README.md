@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Up in the Sky**<br />by _Somali Yacht Club_<br /> on The Sun [2016] |
+| ![album cover][album-cover] | **Rebirth**<br />by _The Crimson Ghosts_<br /> on Yet Not Human [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851022851372242ca05c6e939a3
+[album-cover]: https://i.scdn.co/image/ab67616d000048519addb3423d5352e4c74bfcf6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
