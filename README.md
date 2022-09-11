@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Rebirth**<br />by _The Crimson Ghosts_<br /> on Yet Not Human [2018] |
+| ![album cover][album-cover] | **All Before**<br />by _3 Pill Morning_<br /> on All Before [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519addb3423d5352e4c74bfcf6
+[album-cover]: https://i.scdn.co/image/ab67616d0000485124dcb153987aa1b36da77f40
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
