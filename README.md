@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **All Before**<br />by _3 Pill Morning_<br /> on All Before [2022] |
+| ![album cover][album-cover] | **Environmental Patients**<br />by _Clawfinger_<br /> on Environmental Patients [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485124dcb153987aa1b36da77f40
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bb48cae9aadc38fd8b31b2f9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
