@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Environmental Patients**<br />by _Clawfinger_<br /> on Environmental Patients [2022] |
+| ![album cover][album-cover] | **Mono No Aware**<br />by _The Odious_<br /> on Vesica Piscis [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bb48cae9aadc38fd8b31b2f9
+[album-cover]: https://i.scdn.co/image/ab67616d00004851baf4b764422952a01a56ddf5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
