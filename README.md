@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Mono No Aware**<br />by _The Odious_<br /> on Vesica Piscis [2019] |
+| ![album cover][album-cover] | **Find Myself**<br />by _Asking Alexandria_<br /> on See What’s On The Inside [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851baf4b764422952a01a56ddf5
+[album-cover]: https://i.scdn.co/image/ab67616d000048519fd365faf1b6ef8c22a0e65b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
