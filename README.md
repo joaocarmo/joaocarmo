@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Find Myself**<br />by _Asking Alexandria_<br /> on See What’s On The Inside [2021] |
+| ![album cover][album-cover] | **Paint My Lips**<br />by _John Harvie_<br /> on told ya. [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519fd365faf1b6ef8c22a0e65b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f80b6db6bc0132771e9de3ac
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
