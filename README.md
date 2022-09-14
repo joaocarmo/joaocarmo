@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wicked Game**<br />by _HIM_<br /> on Greatest Love Songs Vol. 666 [1997] |
+| ![album cover][album-cover] | **Cut the Cord**<br />by _Shinedown_<br /> on Threat to Survival [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519a799d1c6db9b1c63429a647
+[album-cover]: https://i.scdn.co/image/ab67616d000048517b6fda92d5912fef92f373de
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
