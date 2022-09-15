@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wherever I May Roam**<br />by _Metallica_<br /> on Metallica [1991] |
+| ![album cover][album-cover] | **Light It Up**<br />by _Blood Red Shoes_<br /> on Fire Like This [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cf84c5b276431b473e924802
+[album-cover]: https://i.scdn.co/image/ab67616d000048518f83850eb2edd10e5580f41c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
