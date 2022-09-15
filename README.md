@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Cut the Cord**<br />by _Shinedown_<br /> on Threat to Survival [2015] |
+| ![album cover][album-cover] | **Wherever I May Roam**<br />by _Metallica_<br /> on Metallica [1991] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517b6fda92d5912fef92f373de
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cf84c5b276431b473e924802
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
