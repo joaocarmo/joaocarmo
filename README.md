@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Pinball Map**<br />by _In Flames_<br /> on Clayman [2000] |
+| ![album cover][album-cover] | **Miracle Mile**<br />by _Cold War Kids_<br /> on Dear Miss Lonelyhearts [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485141ae9b691f3c18957c8fcdb1
+[album-cover]: https://i.scdn.co/image/ab67616d000048511b0c12575092f82a3ca55e5c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
