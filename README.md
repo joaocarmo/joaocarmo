@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Miracle Mile**<br />by _Cold War Kids_<br /> on Dear Miss Lonelyhearts [2013] |
+| ![album cover][album-cover] | **Go Right Ahead**<br />by _The Hives_<br /> on Lex Hives [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511b0c12575092f82a3ca55e5c
+[album-cover]: https://i.scdn.co/image/ab67616d000048511c938b0826453987c1950f9c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
