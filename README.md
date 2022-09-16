@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Light It Up**<br />by _Blood Red Shoes_<br /> on Fire Like This [2010] |
+| ![album cover][album-cover] | **Pinball Map**<br />by _In Flames_<br /> on Clayman [2000] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518f83850eb2edd10e5580f41c
+[album-cover]: https://i.scdn.co/image/ab67616d0000485141ae9b691f3c18957c8fcdb1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
