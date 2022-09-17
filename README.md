@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Go Right Ahead**<br />by _The Hives_<br /> on Lex Hives [2012] |
+| ![album cover][album-cover] | **Downfall**<br />by _Children Of Bodom_<br /> on Hatebreeder [1999] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511c938b0826453987c1950f9c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851679b19fc87ece9ae886789cf
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
