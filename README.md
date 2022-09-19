@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Downfall**<br />by _Children Of Bodom_<br /> on Hatebreeder [1999] |
+| ![album cover][album-cover] | **Dark Secrets**<br />by _No name faces_<br /> on Dark Secrets [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851679b19fc87ece9ae886789cf
+[album-cover]: https://i.scdn.co/image/ab67616d0000485132789118bc39adf6def93721
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
