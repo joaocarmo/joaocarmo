@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dark Secrets**<br />by _No name faces_<br /> on Dark Secrets [2020] |
+| ![album cover][album-cover] | **Dr Faust on Capri**<br />by _Luciferian Light Orchestra_<br /> on Luciferian Light Orchestra [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485132789118bc39adf6def93721
+[album-cover]: https://i.scdn.co/image/ab67616d00004851879e92b96e6d7432c57f02ed
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
