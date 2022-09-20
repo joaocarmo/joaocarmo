@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dr Faust on Capri**<br />by _Luciferian Light Orchestra_<br /> on Luciferian Light Orchestra [2015] |
+| ![album cover][album-cover] | **Heartwork**<br />by _Carcass_<br /> on The Heartwork EP [1994] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851879e92b96e6d7432c57f02ed
+[album-cover]: https://i.scdn.co/image/ab67616d0000485100de1321f6534fbe3d4e2530
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
