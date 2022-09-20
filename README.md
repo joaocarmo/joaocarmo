@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Heartwork**<br />by _Carcass_<br /> on The Heartwork EP [1994] |
+| ![album cover][album-cover] | **O Despertar**<br />by _Mão Morta_<br /> on No Fim Era o Frio [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485100de1321f6534fbe3d4e2530
+[album-cover]: https://i.scdn.co/image/ab67616d0000485173fde76819a4218c1fff47b3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
