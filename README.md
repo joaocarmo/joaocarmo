@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **O Despertar**<br />by _Mão Morta_<br /> on No Fim Era o Frio [2019] |
+| ![album cover][album-cover] | **A Passenger**<br />by _Johnossi_<br /> on Mad Gone Wild [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485173fde76819a4218c1fff47b3
+[album-cover]: https://i.scdn.co/image/ab67616d000048519b14ea76df437f9f81b9036e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
