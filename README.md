@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **A Passenger**<br />by _Johnossi_<br /> on Mad Gone Wild [2022] |
+| ![album cover][album-cover] | **Sympathy For The Devil**<br />by _The Rolling Stones_<br /> on The Rolling Stones Singles Collection: The London Years [1989] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519b14ea76df437f9f81b9036e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851329024dd3a0b300a24586db2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
