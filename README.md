@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sympathy For The Devil**<br />by _The Rolling Stones_<br /> on The Rolling Stones Singles Collection: The London Years [1989] |
+| ![album cover][album-cover] | **Back Of The Car - Edit**<br />by _Vistas_<br /> on Back Of The Car [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851329024dd3a0b300a24586db2
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b71e853029748b0adf36c293
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
