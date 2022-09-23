@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **A Thousand Lives**<br />by _The Murder Capital_<br /> on A Thousand Lives [2022] |
+| ![album cover][album-cover] | **3 Days Gone**<br />by _Electric Mary_<br /> on 3 Days Gone [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851192efe016efaded034dc67bf
+[album-cover]: https://i.scdn.co/image/ab67616d0000485103cddcadb2b38daed4b35129
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
