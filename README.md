@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Back Of The Car - Edit**<br />by _Vistas_<br /> on Back Of The Car [2022] |
+| ![album cover][album-cover] | **A Thousand Lives**<br />by _The Murder Capital_<br /> on A Thousand Lives [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b71e853029748b0adf36c293
+[album-cover]: https://i.scdn.co/image/ab67616d00004851192efe016efaded034dc67bf
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
