@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Karma Kastles**<br />by _Orgy_<br /> on Karma Kastles [2021] |
+| ![album cover][album-cover] | **Crucified**<br />by _Shim_<br /> on SHIM [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510347f7785a5d8de6989cf112
+[album-cover]: https://i.scdn.co/image/ab67616d000048512ddf1ee055bb4b94cf79307c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
