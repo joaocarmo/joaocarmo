@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **3 Days Gone**<br />by _Electric Mary_<br /> on 3 Days Gone [2022] |
+| ![album cover][album-cover] | **Karma Kastles**<br />by _Orgy_<br /> on Karma Kastles [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485103cddcadb2b38daed4b35129
+[album-cover]: https://i.scdn.co/image/ab67616d000048510347f7785a5d8de6989cf112
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
