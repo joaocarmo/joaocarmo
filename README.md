@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dune Riders**<br />by _Ferus Melek_<br /> on Decay of the Mainframe [2018] |
+| ![album cover][album-cover] | **Mary On A Cross**<br />by _Ghost_<br /> on Seven Inches Of Satanic Panic [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485105267f502d9ff6f595ccb3c4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bef9b0a348ea8dd18a581025
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
