@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Crucified**<br />by _Shim_<br /> on SHIM [2018] |
+| ![album cover][album-cover] | **Dune Riders**<br />by _Ferus Melek_<br /> on Decay of the Mainframe [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512ddf1ee055bb4b94cf79307c
+[album-cover]: https://i.scdn.co/image/ab67616d0000485105267f502d9ff6f595ccb3c4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
