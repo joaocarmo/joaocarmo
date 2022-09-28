@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Mary On A Cross**<br />by _Ghost_<br /> on Seven Inches Of Satanic Panic [2019] |
+| ![album cover][album-cover] | **The Dirt (Est. 1981) [feat. Machine Gun Kelly]**<br />by _Mötley Crüe, Machine Gun Kelly_<br /> on The Dirt Soundtrack [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bef9b0a348ea8dd18a581025
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e48615f34c141e22a690b552
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
