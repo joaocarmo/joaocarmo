@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Highway Man**<br />by _Public Display of Affection_<br /> on I Still Care [2022] |
+| ![album cover][album-cover] | **Deutschland**<br />by _Rammstein_<br /> on Rammstein [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485170c22b7495a9419e827d3a87
+[album-cover]: https://i.scdn.co/image/ab67616d0000485102add2c77fb6999e311a3248
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
