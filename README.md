@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Silence Speaks**<br />by _While She Sleeps, Oli Sykes_<br /> on You Are We [2017] |
+| ![album cover][album-cover] | **Follow Me**<br />by _In Flames_<br /> on I, the Mask [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c3be9c013bd38a4a4c55b985
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d4b51feaef809a84e5e8327d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
