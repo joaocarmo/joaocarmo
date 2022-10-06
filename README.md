@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Follow Me**<br />by _In Flames_<br /> on I, the Mask [2019] |
+| ![album cover][album-cover] | **Nightmare**<br />by _Avenged Sevenfold_<br /> on Nightmare [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d4b51feaef809a84e5e8327d
+[album-cover]: https://i.scdn.co/image/ab67616d000048518b4d1c3dadc474e4abf751db
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
