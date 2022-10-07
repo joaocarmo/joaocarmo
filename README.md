@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Nightmare**<br />by _Avenged Sevenfold_<br /> on Nightmare [2010] |
+| ![album cover][album-cover] | **Over And Over Again**<br />by _Uncle Acid & The Deadbeats_<br /> on Blood Lust [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518b4d1c3dadc474e4abf751db
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b6cb8f8dad59e6a5b5aed4f7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
