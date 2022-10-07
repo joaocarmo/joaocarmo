@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Over And Over Again**<br />by _Uncle Acid & The Deadbeats_<br /> on Blood Lust [2011] |
+| ![album cover][album-cover] | **Standing on the Shoulders of Giants**<br />by _Armored Saint_<br /> on Punching the Sky [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b6cb8f8dad59e6a5b5aed4f7
+[album-cover]: https://i.scdn.co/image/ab67616d00004851697586dfa6a810b3be2d053a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
