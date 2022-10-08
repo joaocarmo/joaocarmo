@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Modern Demon**<br />by _Combichrist_<br /> on Modern Demon [2022] |
+| ![album cover][album-cover] | **Voices In My Head**<br />by _Falling In Reverse_<br /> on Voices In My Head [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485131626675c229fac345b7795e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851338a7a86b31e1f3866fa91a8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
