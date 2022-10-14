@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Voices In My Head**<br />by _Falling In Reverse_<br /> on Voices In My Head [2022] |
+| ![album cover][album-cover] | **Last One Standing Loses**<br />by _Call Me Malcolm_<br /> on Me, Myself and Something Else [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851338a7a86b31e1f3866fa91a8
+[album-cover]: https://i.scdn.co/image/ab67616d0000485198518c5806619203d6ccb6b6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
