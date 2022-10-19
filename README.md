@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Last One Standing Loses**<br />by _Call Me Malcolm_<br /> on Me, Myself and Something Else [2020] |
+| ![album cover][album-cover] | **Secrets Of The American Gods - Single Edit**<br />by _Blind Guardian_<br /> on Secrets Of The American Gods [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485198518c5806619203d6ccb6b6
+[album-cover]: https://i.scdn.co/image/ab67616d0000485176d0e1c2860e31c4c8846246
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
