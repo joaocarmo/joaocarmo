@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Secrets Of The American Gods - Single Edit**<br />by _Blind Guardian_<br /> on Secrets Of The American Gods [2022] |
+| ![album cover][album-cover] | **Devil's Grin**<br />by _Cory Marks_<br /> on Who I Am [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485176d0e1c2860e31c4c8846246
+[album-cover]: https://i.scdn.co/image/ab67616d000048514bcce4fd4ce15824453277ce
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
