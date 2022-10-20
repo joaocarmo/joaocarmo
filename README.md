@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Devil's Grin**<br />by _Cory Marks_<br /> on Who I Am [2020] |
+| ![album cover][album-cover] | **Stand Back**<br />by _Freedom Hawk_<br /> on Sunlight [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514bcce4fd4ce15824453277ce
+[album-cover]: https://i.scdn.co/image/ab67616d0000485160d6009d9f8d6dc86ebc1efd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
