@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Stand Back**<br />by _Freedom Hawk_<br /> on Sunlight [2008] |
+| ![album cover][album-cover] | **Electric Landlady**<br />by _Purson_<br /> on Desire's Magic Theatre [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485160d6009d9f8d6dc86ebc1efd
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b1795da376d8a327155b0f49
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
