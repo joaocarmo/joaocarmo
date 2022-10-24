@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Want to Be You - Live**<br />by _The Stone Foxes_<br /> on Live from the Loin [2016] |
+| ![album cover][album-cover] | **Atlas Shrugged**<br />by _Woyote_<br /> on Atlas Shrugged [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851602960d30863e81cab8ee622
+[album-cover]: https://i.scdn.co/image/ab67616d000048517a2897aac69870e81b12e651
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
