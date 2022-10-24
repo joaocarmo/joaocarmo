@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Atlas Shrugged**<br />by _Woyote_<br /> on Atlas Shrugged [2022] |
+| ![album cover][album-cover] | **Fallen Angels**<br />by _Deaf Rat_<br /> on Ban the Light [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517a2897aac69870e81b12e651
+[album-cover]: https://i.scdn.co/image/ab67616d000048515290a27ea3105662e866b767
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
