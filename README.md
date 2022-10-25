@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Fallen Angels**<br />by _Deaf Rat_<br /> on Ban the Light [2019] |
+| ![album cover][album-cover] | **Speaking in Tongues**<br />by _Deville_<br /> on Speaking in Tongues [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515290a27ea3105662e866b767
+[album-cover]: https://i.scdn.co/image/ab67616d0000485139c1ac5e1cf7d48f6c908bcf
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
