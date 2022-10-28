@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Forever Bloom (feat. Trevor Strnad)**<br />by _Chelsea Grin, Trevor Strnad_<br /> on Forever Bloom [2022] |
+| ![album cover][album-cover] | **Go for Baroque**<br />by _Michael Giacchino_<br /> on Doctor Strange (Original Motion Picture Soundtrack) [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512496793401ba45e98627d05b
+[album-cover]: https://i.scdn.co/image/ab67616d000048511712e5b12487ce59848a94b8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
