@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Speaking in Tongues**<br />by _Deville_<br /> on Speaking in Tongues [2021] |
+| ![album cover][album-cover] | **Forever Bloom (feat. Trevor Strnad)**<br />by _Chelsea Grin, Trevor Strnad_<br /> on Forever Bloom [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485139c1ac5e1cf7d48f6c908bcf
+[album-cover]: https://i.scdn.co/image/ab67616d000048512496793401ba45e98627d05b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
