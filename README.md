@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Go for Baroque**<br />by _Michael Giacchino_<br /> on Doctor Strange (Original Motion Picture Soundtrack) [2016] |
+| ![album cover][album-cover] | **Algiers**<br />by _The Afghan Whigs_<br /> on Do to the Beast [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511712e5b12487ce59848a94b8
+[album-cover]: https://i.scdn.co/image/ab67616d000048515acec92b57398ef614f2c02c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
