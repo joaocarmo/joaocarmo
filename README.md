@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Algiers**<br />by _The Afghan Whigs_<br /> on Do to the Beast [2014] |
+| ![album cover][album-cover] | **House of the Dead**<br />by _Ordos_<br /> on House of the Dead [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515acec92b57398ef614f2c02c
+[album-cover]: https://i.scdn.co/image/ab67616d000048515a10629c17dc4550c0bc32b1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
