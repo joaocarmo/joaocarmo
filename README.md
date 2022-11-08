@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **House of the Dead**<br />by _Ordos_<br /> on House of the Dead [2017] |
+| ![album cover][album-cover] | **Ritual**<br />by _Ghost_<br /> on Opus Eponymous [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515a10629c17dc4550c0bc32b1
+[album-cover]: https://i.scdn.co/image/ab67616d0000485123c8377e1d24d8d8f120bf96
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
