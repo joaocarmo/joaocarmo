@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Ritual**<br />by _Ghost_<br /> on Opus Eponymous [2010] |
+| ![album cover][album-cover] | **No Sleep Tonight**<br />by _Shinedown_<br /> on Planet Zero [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485123c8377e1d24d8d8f120bf96
+[album-cover]: https://i.scdn.co/image/ab67616d0000485143e8a35289397f6010638c3c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
