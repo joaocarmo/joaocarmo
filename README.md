@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **No Sleep Tonight**<br />by _Shinedown_<br /> on Planet Zero [2022] |
+| ![album cover][album-cover] | **Digital Waste**<br />by _Rendezvous Point_<br /> on Universal Chaos [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485143e8a35289397f6010638c3c
+[album-cover]: https://i.scdn.co/image/ab67616d0000485102885b151c7103a3d8b5dac9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
