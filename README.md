@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Digital Waste**<br />by _Rendezvous Point_<br /> on Universal Chaos [2019] |
+| ![album cover][album-cover] | **Shoulders**<br />by _Coheed and Cambria_<br /> on Vaxis II: A Window of the Waking Mind [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485102885b151c7103a3d8b5dac9
+[album-cover]: https://i.scdn.co/image/ab67616d000048513d1d9d3051a01c00cd61b8cd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
