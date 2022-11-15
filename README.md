@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Smell Rock n' Roll**<br />by _Tequila Mockingbyrd_<br /> on Fight and Flight [2017] |
+| ![album cover][album-cover] | **Fuck Up My High**<br />by _Wilson_<br /> on Tasty Nasty [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485153e8a06516900e9870701590
+[album-cover]: https://i.scdn.co/image/ab67616d0000485105befe79a61e1620fc1377c3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
