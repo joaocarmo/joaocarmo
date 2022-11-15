@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Happy Children**<br />by _Confrontational, Adrien Grousset_<br /> on Under Cover of Darkness [2019] |
+| ![album cover][album-cover] | **The Next Curse**<br />by _Slothrust, Lzzy Hale_<br /> on Parallel Timeline [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e8966712af59a1890070c46a
+[album-cover]: https://i.scdn.co/image/ab67616d0000485104d2e1fc0d3c8f920b5a74bc
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
