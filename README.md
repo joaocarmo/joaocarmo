@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Ritual**<br />by _Ghost_<br /> on Opus Eponymous [2010] |
+| ![album cover][album-cover] | **Happy Children**<br />by _Confrontational, Adrien Grousset_<br /> on Under Cover of Darkness [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485123c8377e1d24d8d8f120bf96
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e8966712af59a1890070c46a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
