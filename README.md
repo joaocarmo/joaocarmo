@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Paris Cor Blimey**<br />by _Benjamin Clementine_<br /> on I Tell A Fly [2017] |
+| ![album cover][album-cover] | **King And Lionheart**<br />by _Of Monsters and Men_<br /> on My Head Is An Animal [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d2a9f2080d4116721778905e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cb3f67e8026e2e493a1e8262
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
