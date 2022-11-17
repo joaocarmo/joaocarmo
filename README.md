@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Next Curse**<br />by _Slothrust, Lzzy Hale_<br /> on Parallel Timeline [2021] |
+| ![album cover][album-cover] | **Walk In My Shadow**<br />by _Free_<br /> on Tons Of Sobs [1968] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485104d2e1fc0d3c8f920b5a74bc
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f12c4cf01bcdb1be059c4195
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
