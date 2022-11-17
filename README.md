@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Walk In My Shadow**<br />by _Free_<br /> on Tons Of Sobs [1968] |
+| ![album cover][album-cover] | **Paris Cor Blimey**<br />by _Benjamin Clementine_<br /> on I Tell A Fly [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f12c4cf01bcdb1be059c4195
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d2a9f2080d4116721778905e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
