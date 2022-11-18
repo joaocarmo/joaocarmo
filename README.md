@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **King And Lionheart**<br />by _Of Monsters and Men_<br /> on My Head Is An Animal [2012] |
+| ![album cover][album-cover] | **Crossroads - Live**<br />by _Cream_<br /> on Wheels Of Fire [1968] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cb3f67e8026e2e493a1e8262
+[album-cover]: https://i.scdn.co/image/ab67616d000048515c7731f5acdcb2d02d78b7ee
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
