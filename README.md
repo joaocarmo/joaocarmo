@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Crossroads - Live**<br />by _Cream_<br /> on Wheels Of Fire [1968] |
+| ![album cover][album-cover] | **Koolaid**<br />by _Accept_<br /> on The Rise of Chaos [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515c7731f5acdcb2d02d78b7ee
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ecdfbf59dfcf2a060f9e3fe8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
