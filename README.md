@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Koolaid**<br />by _Accept_<br /> on The Rise of Chaos [2017] |
+| ![album cover][album-cover] | **Hero**<br />by _Michael Kiwanuka_<br /> on KIWANUKA [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ecdfbf59dfcf2a060f9e3fe8
+[album-cover]: https://i.scdn.co/image/ab67616d0000485160ada139840fb439d6750f27
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
