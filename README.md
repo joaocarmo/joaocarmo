@@ -18,7 +18,7 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hero**<br />by _Michael Kiwanuka_<br /> on KIWANUKA [2019] |
+| ![album cover][album-cover] | **Hard To Say Goodbye**<br />by _Michael Kiwanuka_<br /> on KIWANUKA [2019] |
 
 <!-- References -->
 
