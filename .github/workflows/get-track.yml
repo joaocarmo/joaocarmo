@@ -12,10 +12,10 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Use Node.js v16 (LTS)
+      - name: Use Node.js v18 (LTS)
         uses: actions/setup-node@v2
         with:
-          node-version: '16'
+          node-version: '18'
           cache: 'yarn'
 
       - name: Install dependencies
@@ -30,9 +30,11 @@ jobs:
       - name: Logging into Spotify and get the latest track
         timeout-minutes: 5
         env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
           PROXY_SERVER: ${{ secrets.PROXY_SERVER }}
+          REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
           SPOTIFY_PASSWORD: ${{ secrets.SPOTIFY_PASSWORD }}
           SPOTIFY_USERNAME: ${{ secrets.SPOTIFY_USERNAME }}
         run: yarn get-latest-track
