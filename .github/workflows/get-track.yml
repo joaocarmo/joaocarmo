@@ -47,3 +47,6 @@ jobs:
         with:
           add: 'README.md'
           commit: --no-gpg-sign --no-verify --signoff
+
+      - name: Health check
+        run: curl -fsS -m 10 --retry 5 -o /dev/null ${{ secrets.HEALTH_CHECK_ENDPOINT }}
