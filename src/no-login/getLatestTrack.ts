@@ -2,14 +2,12 @@
 import { resolve } from 'path'
 import SpotifyWebApi from 'spotify-web-api-node'
 import dotenv from 'dotenv'
-import { parseTrack, findAndReplace } from '../utils'
+import { findAndReplace, parseTrack, saveTokens } from '../utils'
 
 dotenv.config()
 
 const readmeFile = resolve(__dirname, '../../README.template.md')
 
-const enviroment = process.env.ENVIRONMENT || 'production'
-const isDev = enviroment === 'development'
 const accessToken = process.env.ACCESS_TOKEN
 const refreshToken = process.env.REFRESH_TOKEN
 const clientId = process.env.CLIENT_ID
@@ -40,10 +38,7 @@ const setAndRefreshToken = async () => {
     spotifyApi.setRefreshToken(refresh_token)
   }
 
-  if (isDev) {
-    console.log('Access token:', access_token)
-    console.log('Refresh token:', refresh_token)
-  }
+  saveTokens({ accessToken: access_token, refreshToken: refresh_token })
 }
 
 const main = async () => {
