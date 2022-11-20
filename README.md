@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hard To Say Goodbye**<br />by _Michael Kiwanuka_<br /> on KIWANUKA [2019] |
+| ![album cover][album-cover] | **All Day and All of the Night**<br />by _The Kinks_<br /> on Kinks (Deluxe) [1964] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485160ada139840fb439d6750f27
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ca00601a3a6563bf2fc9c1f0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
