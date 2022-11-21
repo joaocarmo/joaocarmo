@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Maiden and the Monster**<br />by _Kirk Hammett_<br /> on Portals [2022] |
+| ![album cover][album-cover] | **27 & Done**<br />by _The 69 Eyes_<br /> on West End [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ee2674ce8fdced9176c7a65c
+[album-cover]: https://i.scdn.co/image/ab67616d0000485145727380ba65eab9f40ff91b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
