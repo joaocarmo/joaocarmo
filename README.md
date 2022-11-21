@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **All Day and All of the Night**<br />by _The Kinks_<br /> on Kinks (Deluxe) [1964] |
+| ![album cover][album-cover] | **Maiden and the Monster**<br />by _Kirk Hammett_<br /> on Portals [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ca00601a3a6563bf2fc9c1f0
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ee2674ce8fdced9176c7a65c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
