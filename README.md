@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **27 & Done**<br />by _The 69 Eyes_<br /> on West End [2019] |
+| ![album cover][album-cover] | **I Bet They're Asleep In New York**<br />by _Call Me Malcolm_<br /> on Me, Myself and Something Else [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485145727380ba65eab9f40ff91b
+[album-cover]: https://i.scdn.co/image/ab67616d0000485198518c5806619203d6ccb6b6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
