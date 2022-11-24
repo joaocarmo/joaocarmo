@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Bet They're Asleep In New York**<br />by _Call Me Malcolm_<br /> on Me, Myself and Something Else [2020] |
+| ![album cover][album-cover] | **Nocturnal Future**<br />by _The Word Alive_<br /> on Nocturnal Future [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485198518c5806619203d6ccb6b6
+[album-cover]: https://i.scdn.co/image/ab67616d000048517918f8398bf26a9b5e88d4bc
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
