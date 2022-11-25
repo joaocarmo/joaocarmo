@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Nocturnal Future**<br />by _The Word Alive_<br /> on Nocturnal Future [2022] |
+| ![album cover][album-cover] | **You, Me and the Devil Make Three**<br />by _RXPTRS_<br /> on You, Me and the Devil Make Three [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517918f8398bf26a9b5e88d4bc
+[album-cover]: https://i.scdn.co/image/ab67616d000048515c5148ef9eede1181b8f6560
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
