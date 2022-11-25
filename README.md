@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **You, Me and the Devil Make Three**<br />by _RXPTRS_<br /> on You, Me and the Devil Make Three [2020] |
+| ![album cover][album-cover] | **Heads Up**<br />by _Future Palace_<br /> on Run [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515c5148ef9eede1181b8f6560
+[album-cover]: https://i.scdn.co/image/ab67616d000048516d6b13d1fc6d3af5ae92f61e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
