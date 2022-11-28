@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Heads Up**<br />by _Future Palace_<br /> on Run [2022] |
+| ![album cover][album-cover] | **Trouble**<br />by _The Bones of J.R. Jones_<br /> on Trouble [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516d6b13d1fc6d3af5ae92f61e
+[album-cover]: https://i.scdn.co/image/ab67616d000048517a644d7658aae9abcafcec6a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
