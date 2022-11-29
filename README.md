@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Trouble**<br />by _The Bones of J.R. Jones_<br /> on Trouble [2022] |
+| ![album cover][album-cover] | **The Profession**<br />by _The Heavy Eyes_<br /> on Love Like Machines [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517a644d7658aae9abcafcec6a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851eec787de972a994134a3b945
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
