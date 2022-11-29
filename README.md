@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Halo**<br />by _Lansdowne_<br /> on Halo [2022] |
+| ![album cover][album-cover] | **STIGMVTA**<br />by _SVICIDVL, Alex Tena_<br /> on STIGMVTA [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851674317086d30ebbea9d11a55
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ee89d1bad1a43db3c851fc06
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
