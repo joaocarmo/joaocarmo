@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Profession**<br />by _The Heavy Eyes_<br /> on Love Like Machines [2020] |
+| ![album cover][album-cover] | **Mannish Boy (Live)**<br />by _The Heavy Eyes_<br /> on Live in Memphis [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851eec787de972a994134a3b945
+[album-cover]: https://i.scdn.co/image/ab67616d000048515b5d91b50ae8c1e8d507395f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
