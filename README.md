@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Mannish Boy (Live)**<br />by _The Heavy Eyes_<br /> on Live in Memphis [2018] |
+| ![album cover][album-cover] | **Halo**<br />by _Lansdowne_<br /> on Halo [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515b5d91b50ae8c1e8d507395f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851674317086d30ebbea9d11a55
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
