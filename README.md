@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Astronomy Domine**<br />by _Voivod_<br /> on The Best of Voivod [1992] |
+| ![album cover][album-cover] | **Wish You Were Here**<br />by _Avenged Sevenfold_<br /> on The Stage (Deluxe Edition) [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516bfc31f2a5cb538daa665ed1
+[album-cover]: https://i.scdn.co/image/ab67616d000048514843e0f824a00334e811279c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
