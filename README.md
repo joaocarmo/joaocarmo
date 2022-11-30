@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wish You Were Here**<br />by _Avenged Sevenfold_<br /> on The Stage (Deluxe Edition) [2017] |
+| ![album cover][album-cover] | **7 Years**<br />by _Flaw_<br /> on Revival [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514843e0f824a00334e811279c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851555ee1121437cdccfbadb4dc
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
