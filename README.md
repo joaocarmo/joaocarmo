@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **STIGMVTA**<br />by _SVICIDVL, Alex Tena_<br /> on STIGMVTA [2022] |
+| ![album cover][album-cover] | **Word Up!**<br />by _Korn_<br /> on Word Up! (The Remixes) [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ee89d1bad1a43db3c851fc06
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d28bc84c691163fb094787fa
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
