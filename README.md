@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Word Up!**<br />by _Korn_<br /> on Word Up! (The Remixes) [2004] |
+| ![album cover][album-cover] | **Astronomy Domine**<br />by _Voivod_<br /> on The Best of Voivod [1992] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d28bc84c691163fb094787fa
+[album-cover]: https://i.scdn.co/image/ab67616d000048516bfc31f2a5cb538daa665ed1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
