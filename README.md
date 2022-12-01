@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Whoreson Prison Blues - from "The Witcher: Season 2" Soundtrack**<br />by _Joseph Trapanese, Joey Batey_<br /> on The Witcher: Season 2 (Soundtrack from the Netflix Original Series) [2021] |
+| ![album cover][album-cover] | **The Voiceless**<br />by _Fire From The Gods_<br /> on Narrative Retold [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851eaa7992d5dbf06c0e5a26104
+[album-cover]: https://i.scdn.co/image/ab67616d00004851409781b48d986cc36678a7df
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
