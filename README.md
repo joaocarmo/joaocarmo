@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Devil Inside**<br />by _Wednesday 13_<br /> on Devil Inside [2020] |
+| ![album cover][album-cover] | **Whoreson Prison Blues - from "The Witcher: Season 2" Soundtrack**<br />by _Joseph Trapanese, Joey Batey_<br /> on The Witcher: Season 2 (Soundtrack from the Netflix Original Series) [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518d98de8e04916467b842554d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851eaa7992d5dbf06c0e5a26104
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
