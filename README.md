@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **7 Years**<br />by _Flaw_<br /> on Revival [2022] |
+| ![album cover][album-cover] | **Orion**<br />by _Mastodon_<br /> on Medium Rarities [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851555ee1121437cdccfbadb4dc
+[album-cover]: https://i.scdn.co/image/ab67616d0000485141eccede2ddaad89823d2762
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
