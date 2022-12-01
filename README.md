@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Orion**<br />by _Mastodon_<br /> on Medium Rarities [2020] |
+| ![album cover][album-cover] | **Devil Inside**<br />by _Wednesday 13_<br /> on Devil Inside [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485141eccede2ddaad89823d2762
+[album-cover]: https://i.scdn.co/image/ab67616d000048518d98de8e04916467b842554d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
