@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Just Because**<br />by _Jane's Addiction_<br /> on Strays [2003] |
+| ![album cover][album-cover] | **Judas**<br />by _Lord Of The Lost_<br /> on Judas [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d3645a33fd3a839d113f97bd
+[album-cover]: https://i.scdn.co/image/ab67616d00004851188687f24304d791c4363735
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
