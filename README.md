@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Voiceless**<br />by _Fire From The Gods_<br /> on Narrative Retold [2017] |
+| ![album cover][album-cover] | **Just Because**<br />by _Jane's Addiction_<br /> on Strays [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851409781b48d986cc36678a7df
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d3645a33fd3a839d113f97bd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
