@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Separate Ways**<br />by _Eva Under Fire_<br /> on Blow EP [2022] |
+| ![album cover][album-cover] | **Loreley**<br />by _Lord Of The Lost_<br /> on Thornstar (Deluxe Version) [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485139daec3acc145d3eef828b06
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ada29d8b0d18ac8f017ba193
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
