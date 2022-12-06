@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Loreley**<br />by _Lord Of The Lost_<br /> on Thornstar (Deluxe Version) [2018] |
+| ![album cover][album-cover] | **Pumped Up Kicks**<br />by _Late Nite Reading_<br /> on Pumped Up Kicks [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ada29d8b0d18ac8f017ba193
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f25841463889dbed919ce0ca
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
