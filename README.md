@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Pumped Up Kicks**<br />by _Late Nite Reading_<br /> on Pumped Up Kicks [2012] |
+| ![album cover][album-cover] | **Paparazzi**<br />by _Exit Eden_<br /> on Rhapsodies in Black [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f25841463889dbed919ce0ca
+[album-cover]: https://i.scdn.co/image/ab67616d00004851accce2c1d6039c23227eef4f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
