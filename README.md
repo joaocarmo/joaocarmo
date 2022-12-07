@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bird**<br />by _White Lung_<br /> on Premonition [2022] |
+| ![album cover][album-cover] | **All That Fall**<br />by _The Psychotic Monks_<br /> on All That Fall [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515ca75a9a28937e96945c74cc
+[album-cover]: https://i.scdn.co/image/ab67616d00004851319aeeb5aea5a3c2ac93adfa
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
