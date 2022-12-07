@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bad Romance**<br />by _Halestorm_<br /> on ReAniMate: The CoVeRs eP [2011] |
+| ![album cover][album-cover] | **Strong**<br />by _Amaranthe, Noora Louhimo_<br /> on Manifest [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b42f2b51fbd20e682dec02a4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851134792881db86df777a1b591
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
