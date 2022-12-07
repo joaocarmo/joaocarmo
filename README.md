@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Paparazzi**<br />by _Exit Eden_<br /> on Rhapsodies in Black [2017] |
+| ![album cover][album-cover] | **Bird**<br />by _White Lung_<br /> on Premonition [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851accce2c1d6039c23227eef4f
+[album-cover]: https://i.scdn.co/image/ab67616d000048515ca75a9a28937e96945c74cc
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
