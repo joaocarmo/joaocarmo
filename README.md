@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Strong**<br />by _Amaranthe, Noora Louhimo_<br /> on Manifest [2020] |
+| ![album cover][album-cover] | **Titanium**<br />by _We're Wolves_<br /> on Titanium [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851134792881db86df777a1b591
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cefe247283851879f38e163c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
