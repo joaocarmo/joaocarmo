@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Cuddle Up The Devil**<br />by _The Fumes_<br /> on Sundancer [2009] |
+| ![album cover][album-cover] | **Winter Is Coming**<br />by _Beyond The Black_<br /> on Winter Is Coming [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a0b679cdfd869d300cd197b7
+[album-cover]: https://i.scdn.co/image/ab67616d00004851965335dadafe656343fd574e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
