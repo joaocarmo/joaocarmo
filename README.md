@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Titanium**<br />by _We're Wolves_<br /> on Titanium [2022] |
+| ![album cover][album-cover] | **Reich der Gier**<br />by _NECROTTED_<br /> on Reich der Gier [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cefe247283851879f38e163c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851186a8a0420eed7e4956549bd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
