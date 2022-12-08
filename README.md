@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Reich der Gier**<br />by _NECROTTED_<br /> on Reich der Gier [2022] |
+| ![album cover][album-cover] | **Cuddle Up The Devil**<br />by _The Fumes_<br /> on Sundancer [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851186a8a0420eed7e4956549bd
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a0b679cdfd869d300cd197b7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
