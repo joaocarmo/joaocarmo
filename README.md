@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Black Venom**<br />by _Without Warning_<br /> on Black Venom [2022] |
+| ![album cover][album-cover] | **Here We Stand**<br />by _In Victory_<br /> on Here We Stand [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d5f5543dd42a14e2da6da613
+[album-cover]: https://i.scdn.co/image/ab67616d0000485156ba82bef353c039278b2866
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
