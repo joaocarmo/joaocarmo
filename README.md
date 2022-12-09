@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Calm Before the Storm**<br />by _Light The Torch_<br /> on Revival [2018] |
+| ![album cover][album-cover] | **Black Venom**<br />by _Without Warning_<br /> on Black Venom [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851556907ad2ae80d3e1b21845a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d5f5543dd42a14e2da6da613
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
