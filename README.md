@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Winter Is Coming**<br />by _Beyond The Black_<br /> on Winter Is Coming [2022] |
+| ![album cover][album-cover] | **Calm Before the Storm**<br />by _Light The Torch_<br /> on Revival [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851965335dadafe656343fd574e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851556907ad2ae80d3e1b21845a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
