@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Here We Stand**<br />by _In Victory_<br /> on Here We Stand [2022] |
+| ![album cover][album-cover] | **Drive**<br />by _Incubus_<br /> on Make Yourself [1999] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485156ba82bef353c039278b2866
+[album-cover]: https://i.scdn.co/image/ab67616d0000485174fad40214d982351347e46e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
