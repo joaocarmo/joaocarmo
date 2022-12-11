@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Alive**<br />by _Pearl Jam_<br /> on Ten [1991] |
+| ![album cover][album-cover] | **Sabotage**<br />by _Beastie Boys_<br /> on Ill Communication [1994] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d400d27cba05bb0545533864
+[album-cover]: https://i.scdn.co/image/ab67616d00004851436a305db8bd85b820da3e5a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
