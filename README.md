@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sabotage**<br />by _Beastie Boys_<br /> on Ill Communication [1994] |
+| ![album cover][album-cover] | **Hunger Strike - 25th Anniversary Mix**<br />by _Temple Of The Dog_<br /> on Temple Of The Dog (Deluxe Edition) [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851436a305db8bd85b820da3e5a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f14d3a7f5da85d0679549f72
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
