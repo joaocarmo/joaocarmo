@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Man in the Box**<br />by _Alice In Chains_<br /> on Facelift [1990] |
+| ![album cover][album-cover] | **Thunder Kiss '65**<br />by _White Zombie_<br /> on La Sexorcisto: Devil Music Volume 1 [1992] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511f829ea9c2c7ffcec1a3c857
+[album-cover]: https://i.scdn.co/image/ab67616d00004851321b697c2c9474c0951ac58f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
