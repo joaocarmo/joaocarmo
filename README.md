@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Thunder Kiss '65**<br />by _White Zombie_<br /> on La Sexorcisto: Devil Music Volume 1 [1992] |
+| ![album cover][album-cover] | **The One You Love to Hate**<br />by _Halford, Rob Halford_<br /> on Resurrection [2000] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851321b697c2c9474c0951ac58f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851eb05227b9a0bc6de24da1706
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
