@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The One You Love to Hate**<br />by _Halford, Rob Halford_<br /> on Resurrection [2000] |
+| ![album cover][album-cover] | **What It Is**<br />by _Jonathan Davis_<br /> on Black Labyrinth [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851eb05227b9a0bc6de24da1706
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c1a187b1eb459dda76a49dc5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
