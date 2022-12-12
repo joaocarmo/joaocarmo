@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hunger Strike - 25th Anniversary Mix**<br />by _Temple Of The Dog_<br /> on Temple Of The Dog (Deluxe Edition) [2016] |
+| ![album cover][album-cover] | **Man in the Box**<br />by _Alice In Chains_<br /> on Facelift [1990] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f14d3a7f5da85d0679549f72
+[album-cover]: https://i.scdn.co/image/ab67616d000048511f829ea9c2c7ffcec1a3c857
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
