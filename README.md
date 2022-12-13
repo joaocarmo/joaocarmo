@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bittersweet**<br />by _Fuel_<br /> on Sunburn [1998] |
+| ![album cover][album-cover] | **Make Believe**<br />by _Memphis May Fire_<br /> on Remade In Misery [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519b3c3a0f4713e3fd3eec913a
+[album-cover]: https://i.scdn.co/image/ab67616d0000485146d83295f3c5261fae37c483
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
