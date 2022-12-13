@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Disarm - 2011 Remaster**<br />by _The Smashing Pumpkins_<br /> on Siamese Dream (2011 - Remaster) [1993] |
+| ![album cover][album-cover] | **Bittersweet**<br />by _Fuel_<br /> on Sunburn [1998] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fd1e7c26933d06af2fd0afe6
+[album-cover]: https://i.scdn.co/image/ab67616d000048519b3c3a0f4713e3fd3eec913a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
