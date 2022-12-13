@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Make Believe**<br />by _Memphis May Fire_<br /> on Remade In Misery [2022] |
+| ![album cover][album-cover] | **Chlorine Tears**<br />by _Foreign Hands_<br /> on Chlorine Tears [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485146d83295f3c5261fae37c483
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d8923a82a44f962538d7d433
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
