@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Try Honesty**<br />by _Billy Talent_<br /> on Billy Talent [2003] |
+| ![album cover][album-cover] | **Want You Bad - Blag Dahlia Remix**<br />by _The Offspring, Apollo Control_<br /> on Happy Hour! [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514e16f14432bae60d06d125d9
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d840a57eba646ae5bd942310
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
