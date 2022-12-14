@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Chlorine Tears**<br />by _Foreign Hands_<br /> on Chlorine Tears [2022] |
+| ![album cover][album-cover] | **Try Honesty**<br />by _Billy Talent_<br /> on Billy Talent [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d8923a82a44f962538d7d433
+[album-cover]: https://i.scdn.co/image/ab67616d000048514e16f14432bae60d06d125d9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
