@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Want You Bad - Blag Dahlia Remix**<br />by _The Offspring, Apollo Control_<br /> on Happy Hour! [2010] |
+| ![album cover][album-cover] | **Ground Zero**<br />by _Parkway Drive_<br /> on Darker Still [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d840a57eba646ae5bd942310
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e4551f6b8bdde8aaeaed85cd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
