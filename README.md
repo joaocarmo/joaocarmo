@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Ground Zero**<br />by _Parkway Drive_<br /> on Darker Still [2022] |
+| ![album cover][album-cover] | **Show Yourself**<br />by _Mastodon_<br /> on Emperor of Sand [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e4551f6b8bdde8aaeaed85cd
+[album-cover]: https://i.scdn.co/image/ab67616d000048510d8c47e2273edbdd4cd3aa47
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
