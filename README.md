@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Show Yourself**<br />by _Mastodon_<br /> on Emperor of Sand [2017] |
+| ![album cover][album-cover] | **Fallen Torches**<br />by _Mastodon_<br /> on Medium Rarities [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510d8c47e2273edbdd4cd3aa47
+[album-cover]: https://i.scdn.co/image/ab67616d0000485141eccede2ddaad89823d2762
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
