@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Fallen Torches**<br />by _Mastodon_<br /> on Medium Rarities [2020] |
+| ![album cover][album-cover] | **Young and Beautiful**<br />by _Riskee & The Ridicule_<br /> on Young and Beautiful [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485141eccede2ddaad89823d2762
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e573d5ae232f013a94cae2b6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
