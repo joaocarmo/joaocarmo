@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **November Rain**<br />by _Guns N' Roses_<br /> on Use Your Illusion I [1991] |
+| ![album cover][album-cover] | **Come As You Are - Remastered 2021**<br />by _Nirvana_<br /> on Nevermind (30th Anniversary Super Deluxe) [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e44963b8bb127552ac761873
+[album-cover]: https://i.scdn.co/image/ab67616d000048519aa37e5baca62ca6cc98d056
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
