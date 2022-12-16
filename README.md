@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Fear Of The Dawn**<br />by _Jack White_<br /> on Fear Of The Dawn [2022] |
+| ![album cover][album-cover] | **November Rain**<br />by _Guns N' Roses_<br /> on Use Your Illusion I [1991] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513158b001fa0a56511069c65a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e44963b8bb127552ac761873
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
