@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Young and Beautiful**<br />by _Riskee & The Ridicule_<br /> on Young and Beautiful [2020] |
+| ![album cover][album-cover] | **Fear Of The Dawn**<br />by _Jack White_<br /> on Fear Of The Dawn [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e573d5ae232f013a94cae2b6
+[album-cover]: https://i.scdn.co/image/ab67616d000048513158b001fa0a56511069c65a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
