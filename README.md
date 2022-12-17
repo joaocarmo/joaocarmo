@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Floyd The Barber - Live In Amsterdam, Netherlands/1991**<br />by _Nirvana_<br /> on Nevermind (30th Anniversary Super Deluxe) [2021] |
+| ![album cover][album-cover] | **Swagger**<br />by _Flogging Molly_<br /> on Drunken Lullabies [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519aa37e5baca62ca6cc98d056
+[album-cover]: https://i.scdn.co/image/ab67616d0000485120195c851e88b96e21181de4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
