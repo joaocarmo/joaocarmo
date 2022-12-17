@@ -18,7 +18,7 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **School - Live In Amsterdam, Netherlands/1991**<br />by _Nirvana_<br /> on Nevermind (30th Anniversary Super Deluxe) [2021] |
+| ![album cover][album-cover] | **Floyd The Barber - Live In Amsterdam, Netherlands/1991**<br />by _Nirvana_<br /> on Nevermind (30th Anniversary Super Deluxe) [2021] |
 
 <!-- References -->
 
