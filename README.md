@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Swagger**<br />by _Flogging Molly_<br /> on Drunken Lullabies [2002] |
+| ![album cover][album-cover] | **Little Rude Girl**<br />by _Lars Frederiksen and the Bastards_<br /> on Viking [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485120195c851e88b96e21181de4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e2615bdccebf106860536ddb
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
