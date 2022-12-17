@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Little Rude Girl**<br />by _Lars Frederiksen and the Bastards_<br /> on Viking [2004] |
+| ![album cover][album-cover] | **Still Waiting**<br />by _Sum 41_<br /> on Does This Look Infected? [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e2615bdccebf106860536ddb
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d6176a711e031d6522840c52
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
