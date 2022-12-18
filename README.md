@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Don't Know - Edited**<br />by _The F-Ups_<br /> on The F-Ups [2004] |
+| ![album cover][album-cover] | **Savior to Self**<br />by _Miss May I_<br /> on Curse Of Existence [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ec47c630879616a85b0b361d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fa199534a04d30d95327d03e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
