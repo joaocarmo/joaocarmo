@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Stockholm Syndrome**<br />by _blink-182_<br /> on blink-182 [2003] |
+| ![album cover][album-cover] | **I Don't Know - Edited**<br />by _The F-Ups_<br /> on The F-Ups [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510538b48c180256e0bdd8363f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ec47c630879616a85b0b361d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
