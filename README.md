@@ -18,7 +18,7 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **YSIF - Live**<br />by _Stone Sour_<br /> on Hello, You Bastards: Live in Reno [2019] |
+| ![album cover][album-cover] | **Reborn - Live**<br />by _Stone Sour_<br /> on Hello, You Bastards: Live in Reno [2019] |
 
 <!-- References -->
 
