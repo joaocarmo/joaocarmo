@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Savior to Self**<br />by _Miss May I_<br /> on Curse Of Existence [2022] |
+| ![album cover][album-cover] | **YSIF - Live**<br />by _Stone Sour_<br /> on Hello, You Bastards: Live in Reno [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fa199534a04d30d95327d03e
+[album-cover]: https://i.scdn.co/image/ab67616d0000485119b98ef8eb8dfa25f185234d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
