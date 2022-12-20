@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Reborn - Live**<br />by _Stone Sour_<br /> on Hello, You Bastards: Live in Reno [2019] |
+| ![album cover][album-cover] | **Death by Rock and Roll**<br />by _The Pretty Reckless_<br /> on Death by Rock and Roll [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485119b98ef8eb8dfa25f185234d
+[album-cover]: https://i.scdn.co/image/ab67616d000048511c61b25b2431b8d074dcfd7f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
