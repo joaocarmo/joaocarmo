@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Death by Rock and Roll**<br />by _The Pretty Reckless_<br /> on Death by Rock and Roll [2021] |
+| ![album cover][album-cover] | **She Lied To The FBI**<br />by _Alkaline Trio_<br /> on My Shame Is True (Deluxe Edition) [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511c61b25b2431b8d074dcfd7f
+[album-cover]: https://i.scdn.co/image/ab67616d000048516bba7be81bbdf09a23a4e08e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
