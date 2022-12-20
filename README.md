@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **She Lied To The FBI**<br />by _Alkaline Trio_<br /> on My Shame Is True (Deluxe Edition) [2013] |
+| ![album cover][album-cover] | **Sad But True**<br />by _Royal Blood_<br /> on Sad But True [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516bba7be81bbdf09a23a4e08e
+[album-cover]: https://i.scdn.co/image/ab67616d0000485144e9ee5f221b28d6d949055e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
