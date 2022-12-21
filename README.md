@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sad But True**<br />by _Royal Blood_<br /> on Sad But True [2021] |
+| ![album cover][album-cover] | **Lights On**<br />by _The Blue Stones_<br /> on Hidden Gems [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485144e9ee5f221b28d6d949055e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ab0021560ff11309c3aa603c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
