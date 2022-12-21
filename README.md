@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lights On**<br />by _The Blue Stones_<br /> on Hidden Gems [2021] |
+| ![album cover][album-cover] | **Runnin' Wild**<br />by _Airbourne_<br /> on Runnin' Wild (Special Edition) [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ab0021560ff11309c3aa603c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f14b478eb49241dd646c8626
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
