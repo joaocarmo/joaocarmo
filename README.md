@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Runnin' Wild**<br />by _Airbourne_<br /> on Runnin' Wild (Special Edition) [2007] |
+| ![album cover][album-cover] | **Noise Is Gone**<br />by _Ludovico Technique_<br /> on Haunted People [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f14b478eb49241dd646c8626
+[album-cover]: https://i.scdn.co/image/ab67616d000048518c3ad362b1839c986070d4f2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
