@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Noise Is Gone**<br />by _Ludovico Technique_<br /> on Haunted People [2022] |
+| ![album cover][album-cover] | **Moonpeople**<br />by _Devin Townsend_<br /> on Lightwork [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518c3ad362b1839c986070d4f2
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fd9d7b645d0d5df6171ed987
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
