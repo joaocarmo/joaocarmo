@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Moonpeople**<br />by _Devin Townsend_<br /> on Lightwork [2022] |
+| ![album cover][album-cover] | **Unzucht - 2022**<br />by _Unzucht_<br /> on Chaosmagie [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fd9d7b645d0d5df6171ed987
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b908cf83ef99808e0b01217d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
