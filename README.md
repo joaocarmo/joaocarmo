@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Joker And The Thief**<br />by _Wolfmother_<br /> on Wolfmother [2005] |
+| ![album cover][album-cover] | **Rainbow In The Dark**<br />by _Dio_<br /> on Holy Diver [1983] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851335534788cbc39cfd23ee993
+[album-cover]: https://i.scdn.co/image/ab67616d0000485115350aa1c89e23a5fa6c0de1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
