@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Unzucht - 2022**<br />by _Unzucht_<br /> on Chaosmagie [2022] |
+| ![album cover][album-cover] | **Joker And The Thief**<br />by _Wolfmother_<br /> on Wolfmother [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b908cf83ef99808e0b01217d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851335534788cbc39cfd23ee993
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
