@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Rainbow In The Dark**<br />by _Dio_<br /> on Holy Diver [1983] |
+| ![album cover][album-cover] | **Soul Machine**<br />by _Black Stone Cherry_<br /> on Kentucky (Deluxe Edition) [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485115350aa1c89e23a5fa6c0de1
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a24934d2315bcc0e71a79faf
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
