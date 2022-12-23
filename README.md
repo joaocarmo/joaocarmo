@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Soul Machine**<br />by _Black Stone Cherry_<br /> on Kentucky (Deluxe Edition) [2016] |
+| ![album cover][album-cover] | **Baby Blue - Remastered 2010**<br />by _Badfinger_<br /> on Straight Up (Remastered 2010 / Deluxe Edition) [1971] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a24934d2315bcc0e71a79faf
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e2dd29cdaa3fadbdc26d59c4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
