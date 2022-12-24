@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Baby Blue - Remastered 2010**<br />by _Badfinger_<br /> on Straight Up (Remastered 2010 / Deluxe Edition) [1971] |
+| ![album cover][album-cover] | **Poker Face**<br />by _Foundry_<br /> on Poker Face [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e2dd29cdaa3fadbdc26d59c4
+[album-cover]: https://i.scdn.co/image/ab67616d0000485132710722e1d8cae4ef8a9680
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
