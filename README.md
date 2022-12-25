@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Vertigo**<br />by _Hundredth_<br /> on RARE [2017] |
+| ![album cover][album-cover] | **Cold Day in Hell**<br />by _South Of Salem_<br /> on The Sinner Takes It All [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851850a5aefe47ceea3e7e3e19d
+[album-cover]: https://i.scdn.co/image/ab67616d000048518f87f68341cd572c102b8a4b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
