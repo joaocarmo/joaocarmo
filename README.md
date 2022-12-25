@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Just Dance**<br />by _First to Eleven_<br /> on Covers, Vol. 6 [2020] |
+| ![album cover][album-cover] | **Vertigo**<br />by _Hundredth_<br /> on RARE [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485198a737b5227544c9a3df47c5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851850a5aefe47ceea3e7e3e19d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
