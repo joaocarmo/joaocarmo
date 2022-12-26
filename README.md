@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Cold Day in Hell**<br />by _South Of Salem_<br /> on The Sinner Takes It All [2020] |
+| ![album cover][album-cover] | **Midnight Rider**<br />by _Bad Touch_<br /> on Midnight Rider [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518f87f68341cd572c102b8a4b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ada242e9ba0c74614104f99b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
