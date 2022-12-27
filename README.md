@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Still Burn**<br />by _Fozzy_<br /> on Boombox [2022] |
+| ![album cover][album-cover] | **Bones**<br />by _Imagine Dragons_<br /> on Mercury - Acts 1 & 2 [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851dd228c9ff6c55c542fc92962
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fc915b69600dce2991a61f13
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
