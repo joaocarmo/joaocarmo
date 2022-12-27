@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Degradation Rules (feat. Tony Iommi)**<br />by _Ozzy Osbourne, Tony Iommi_<br /> on Patient Number 9 [2022] |
+| ![album cover][album-cover] | **I Still Burn**<br />by _Fozzy_<br /> on Boombox [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b2396840a8fba4ef2785c09d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851dd228c9ff6c55c542fc92962
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
