@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Midnight Rider**<br />by _Bad Touch_<br /> on Midnight Rider [2021] |
+| ![album cover][album-cover] | **Degradation Rules (feat. Tony Iommi)**<br />by _Ozzy Osbourne, Tony Iommi_<br /> on Patient Number 9 [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ada242e9ba0c74614104f99b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b2396840a8fba4ef2785c09d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
