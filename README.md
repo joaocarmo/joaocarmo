@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bones**<br />by _Imagine Dragons_<br /> on Mercury - Acts 1 & 2 [2022] |
+| ![album cover][album-cover] | **Knights of Cydonia**<br />by _Muse_<br /> on Black Holes and Revelations [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fc915b69600dce2991a61f13
+[album-cover]: https://i.scdn.co/image/ab67616d0000485128933b808bfb4cbbd0385400
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
