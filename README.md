@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Knights of Cydonia**<br />by _Muse_<br /> on Black Holes and Revelations [2006] |
+| ![album cover][album-cover] | **King**<br />by _Florence + The Machine_<br /> on King [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485128933b808bfb4cbbd0385400
+[album-cover]: https://i.scdn.co/image/ab67616d00004851dd339c6f993557ab330fd4a6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
