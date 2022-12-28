@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **King**<br />by _Florence + The Machine_<br /> on King [2022] |
+| ![album cover][album-cover] | **Talk**<br />by _beabadoobee_<br /> on Talk [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851dd339c6f993557ab330fd4a6
+[album-cover]: https://i.scdn.co/image/ab67616d000048510f36079f1801980c665989b1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
