@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Talk**<br />by _beabadoobee_<br /> on Talk [2022] |
+| ![album cover][album-cover] | **Madness**<br />by _Muse_<br /> on The 2nd Law [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510f36079f1801980c665989b1
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fc192c54d1823a04ffb6c8c9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
