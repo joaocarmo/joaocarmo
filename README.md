@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Madness**<br />by _Muse_<br /> on The 2nd Law [2012] |
+| ![album cover][album-cover] | **Square Hammer**<br />by _Ghost_<br /> on [MESSAGE FROM THE CLERGY] [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fc192c54d1823a04ffb6c8c9
+[album-cover]: https://i.scdn.co/image/ab67616d00004851670331d6f704ada42d07f1f7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
