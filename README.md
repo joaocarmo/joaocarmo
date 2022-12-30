@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Square Hammer**<br />by _Ghost_<br /> on [MESSAGE FROM THE CLERGY] [2022] |
+| ![album cover][album-cover] | **Is Everybody Going Crazy?**<br />by _Nothing But Thieves_<br /> on Moral Panic [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851670331d6f704ada42d07f1f7
+[album-cover]: https://i.scdn.co/image/ab67616d0000485114030d39d060db78d004f2ed
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
