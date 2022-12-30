@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Is Everybody Going Crazy?**<br />by _Nothing But Thieves_<br /> on Moral Panic [2020] |
+| ![album cover][album-cover] | **Chop Suey!**<br />by _System Of A Down_<br /> on Toxicity [2001] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485114030d39d060db78d004f2ed
+[album-cover]: https://i.scdn.co/image/ab67616d0000485130d45198d0c9e8841f9a9578
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
