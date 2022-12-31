@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Omens**<br />by _Lamb of God_<br /> on Omens [2022] |
+| ![album cover][album-cover] | **Cheap Thrills**<br />by _HIMALAYAS_<br /> on Ecstasy [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851458ed85467539ca3df977812
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bab80e09c6d5b23aafa630ab
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
