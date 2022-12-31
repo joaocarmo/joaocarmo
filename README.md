@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lost Boys**<br />by _The 69 Eyes_<br /> on Devils [2004] |
+| ![album cover][album-cover] | **Omens**<br />by _Lamb of God_<br /> on Omens [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519608604a88bdb849331a21ae
+[album-cover]: https://i.scdn.co/image/ab67616d00004851458ed85467539ca3df977812
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
