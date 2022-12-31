@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Chop Suey!**<br />by _System Of A Down_<br /> on Toxicity [2001] |
+| ![album cover][album-cover] | **Lost Boys**<br />by _The 69 Eyes_<br /> on Devils [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485130d45198d0c9e8841f9a9578
+[album-cover]: https://i.scdn.co/image/ab67616d000048519608604a88bdb849331a21ae
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
