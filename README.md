@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Looking Down the Barrel of Today**<br />by _Hatebreed_<br /> on The Concrete Confessional [2016] |
+| ![album cover][album-cover] | **Rōnin**<br />by _Ibaraki, Gerard Way_<br /> on Rashomon [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511390ceda3af1c4e742e2191e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a1961387a746cf3fe629ea95
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
