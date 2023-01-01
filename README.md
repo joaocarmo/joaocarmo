@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Cheap Thrills**<br />by _HIMALAYAS_<br /> on Ecstasy [2016] |
+| ![album cover][album-cover] | **Looking Down the Barrel of Today**<br />by _Hatebreed_<br /> on The Concrete Confessional [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bab80e09c6d5b23aafa630ab
+[album-cover]: https://i.scdn.co/image/ab67616d000048511390ceda3af1c4e742e2191e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
