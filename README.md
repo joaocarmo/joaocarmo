@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Rōnin**<br />by _Ibaraki, Gerard Way_<br /> on Rashomon [2022] |
+| ![album cover][album-cover] | **Smash The Control Machine**<br />by _Otep_<br /> on Smash The Control Machine [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a1961387a746cf3fe629ea95
+[album-cover]: https://i.scdn.co/image/ab67616d000048512067ede5453b4c7e597d7cdf
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
