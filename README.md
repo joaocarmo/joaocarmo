@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Thanks for Nothing**<br />by _Of Virtue_<br /> on What Defines You [2019] |
+| ![album cover][album-cover] | **I'm Your Nightmare**<br />by _The Brains_<br /> on Drunk Not Dead [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fae9c604b4bb56f2bc135151
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f7152461aac5b78b32e05c2d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
