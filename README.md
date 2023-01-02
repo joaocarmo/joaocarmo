@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Smash The Control Machine**<br />by _Otep_<br /> on Smash The Control Machine [2009] |
+| ![album cover][album-cover] | **Thanks for Nothing**<br />by _Of Virtue_<br /> on What Defines You [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512067ede5453b4c7e597d7cdf
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fae9c604b4bb56f2bc135151
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
