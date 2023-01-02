@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I'm Your Nightmare**<br />by _The Brains_<br /> on Drunk Not Dead [2011] |
+| ![album cover][album-cover] | **Old Gods**<br />by _Green Lung_<br /> on Black Harvest [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f7152461aac5b78b32e05c2d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851793d599a492619345246c2a6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
