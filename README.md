@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lazarus**<br />by _Porcupine Tree_<br /> on Deadwing [2005] |
+| ![album cover][album-cover] | **These Times Have Got Me Drinking / Tripping Up The Stairs**<br />by _Flogging Molly_<br /> on These Times Have Got Me Drinking / Tripping Up The Stairs [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c6d4bd61f23b5a6a183a648b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e8e1542e25989f0ff6cb4a96
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
