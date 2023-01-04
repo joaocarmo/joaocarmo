@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Obsolete**<br />by _Of Mice & Men_<br /> on Echo [2021] |
+| ![album cover][album-cover] | **Am I Evil?**<br />by _Diamond Head_<br /> on Am I Evil? [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518eaa8ea5ed8b61cfeeda605f
+[album-cover]: https://i.scdn.co/image/ab67616d000048512f730ac5e319ace94749bbcf
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
