@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Put Your Back Into The Oar**<br />by _Amon Amarth_<br /> on Put Your Back Into The Oar [2022] |
+| ![album cover][album-cover] | **Now the Screaming Starts**<br />by _Bloody Hammers_<br /> on The Summoning [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c245e9ade9c574adc9f4f46f
+[album-cover]: https://i.scdn.co/image/ab67616d000048514de44f32761da749dad776d9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
