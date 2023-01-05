@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Am I Evil?**<br />by _Diamond Head_<br /> on Am I Evil? [2020] |
+| ![album cover][album-cover] | **The Old School Way**<br />by _Hundred Reasons_<br /> on The Old School Way [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512f730ac5e319ace94749bbcf
+[album-cover]: https://i.scdn.co/image/ab67616d000048514c54b2d1a14e3ab77e858856
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
