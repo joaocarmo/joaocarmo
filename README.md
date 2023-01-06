@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Now the Screaming Starts**<br />by _Bloody Hammers_<br /> on The Summoning [2019] |
+| ![album cover][album-cover] | **Mark Of The Grave**<br />by _Employed To Serve_<br /> on Conquering [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514de44f32761da749dad776d9
+[album-cover]: https://i.scdn.co/image/ab67616d0000485124fde53e447464ca451a2863
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
