@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Mark Of The Grave**<br />by _Employed To Serve_<br /> on Conquering [2021] |
+| ![album cover][album-cover] | **Layla**<br />by _Derek & The Dominos_<br /> on Layla And Other Assorted Love Songs (Remastered 2010) [1970] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485124fde53e447464ca451a2863
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fbcaf7402f38faac27610efc
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
