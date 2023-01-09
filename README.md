@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Layla**<br />by _Derek & The Dominos_<br /> on Layla And Other Assorted Love Songs (Remastered 2010) [1970] |
+| ![album cover][album-cover] | **Personal Jesus - Single Version**<br />by _Depeche Mode_<br /> on The Singles 86-98 [1998] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fbcaf7402f38faac27610efc
+[album-cover]: https://i.scdn.co/image/ab67616d000048510a7d45a345534966a4ad2c39
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
