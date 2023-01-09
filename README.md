@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Personal Jesus - Single Version**<br />by _Depeche Mode_<br /> on The Singles 86-98 [1998] |
+| ![album cover][album-cover] | **Purple Haze**<br />by _Jimi Hendrix_<br /> on Are You Experienced [1967] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510a7d45a345534966a4ad2c39
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c9adfbd773852e286faed040
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
