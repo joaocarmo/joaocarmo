@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Mary Jane's Last Dance**<br />by _Tom Petty and the Heartbreakers_<br /> on Greatest Hits [2008] |
+| ![album cover][album-cover] | **Edge of Seventeen - 2016 Remaster**<br />by _Stevie Nicks_<br /> on Bella Donna (2016 Remastered) [1981] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510c3a1b46b6b846dfdfbc6a7d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851af14d74d5e308ce2f3ec22f8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
