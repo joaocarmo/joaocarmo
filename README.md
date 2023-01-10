@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Enemy**<br />by _Djerv_<br /> on Enemy [2022] |
+| ![album cover][album-cover] | **Handshake with Hell**<br />by _Arch Enemy_<br /> on Deceivers [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485152cf6101c52977c54dbac278
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d102f713b6404110023d15e6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
