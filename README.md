@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Purple Haze**<br />by _Jimi Hendrix_<br /> on Are You Experienced [1967] |
+| ![album cover][album-cover] | **Mary Jane's Last Dance**<br />by _Tom Petty and the Heartbreakers_<br /> on Greatest Hits [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c9adfbd773852e286faed040
+[album-cover]: https://i.scdn.co/image/ab67616d000048510c3a1b46b6b846dfdfbc6a7d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
