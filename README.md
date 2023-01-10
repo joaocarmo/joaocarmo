@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Edge of Seventeen - 2016 Remaster**<br />by _Stevie Nicks_<br /> on Bella Donna (2016 Remastered) [1981] |
+| ![album cover][album-cover] | **Enemy**<br />by _Djerv_<br /> on Enemy [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851af14d74d5e308ce2f3ec22f8
+[album-cover]: https://i.scdn.co/image/ab67616d0000485152cf6101c52977c54dbac278
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
