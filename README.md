@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Handshake with Hell**<br />by _Arch Enemy_<br /> on Deceivers [2022] |
+| ![album cover][album-cover] | **Shotgun Blues**<br />by _Volbeat_<br /> on Servant Of The Mind (Deluxe) [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d102f713b6404110023d15e6
+[album-cover]: https://i.scdn.co/image/ab67616d00004851108d3b26e2c2fd86c6c1b7ec
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
