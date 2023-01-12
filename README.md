@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Paranoid**<br />by _Black Sabbath_<br /> on Paranoid (2009 Remastered Version) [1970] |
+| ![album cover][album-cover] | **Handshake with Hell**<br />by _Arch Enemy_<br /> on Deceivers [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519683e5d7361bb80bfb00f46d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d102f713b6404110023d15e6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
