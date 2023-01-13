@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Shotgun Blues**<br />by _Volbeat_<br /> on Servant Of The Mind (Deluxe) [2021] |
+| ![album cover][album-cover] | **Wasting The Dawn**<br />by _The 69 Eyes_<br /> on Wasting The Dawn [1999] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851108d3b26e2c2fd86c6c1b7ec
+[album-cover]: https://i.scdn.co/image/ab67616d000048516727b8eae269b3ff78aa601a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
