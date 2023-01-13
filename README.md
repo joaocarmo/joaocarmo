@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **(You Are All Just) Human Beings**<br />by _Bombus_<br /> on Vulture Culture [2019] |
+| ![album cover][album-cover] | **Old Gods**<br />by _Green Lung_<br /> on Black Harvest [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e62e03954a7f987b112a18d5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851793d599a492619345246c2a6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
