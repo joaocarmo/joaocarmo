@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wasting The Dawn**<br />by _The 69 Eyes_<br /> on Wasting The Dawn [1999] |
+| ![album cover][album-cover] | **(You Are All Just) Human Beings**<br />by _Bombus_<br /> on Vulture Culture [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516727b8eae269b3ff78aa601a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e62e03954a7f987b112a18d5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
