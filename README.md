@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **It Goes On**<br />by _Zac Brown, Sir Rosevelt_<br /> on It Goes On [2018] |
+| ![album cover][album-cover] | **Turborider**<br />by _Reckless Love_<br /> on Turborider [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a5cccf0c6b5061b7e6a735f3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f2254452b1d29d4ed2259557
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
