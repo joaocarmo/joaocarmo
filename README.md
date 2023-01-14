@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Old Gods**<br />by _Green Lung_<br /> on Black Harvest [2021] |
+| ![album cover][album-cover] | **It Goes On**<br />by _Zac Brown, Sir Rosevelt_<br /> on It Goes On [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851793d599a492619345246c2a6
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a5cccf0c6b5061b7e6a735f3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
