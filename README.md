@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Empty Walls**<br />by _Serj Tankian_<br /> on Elect the Dead (Deluxe) [2007] |
+| ![album cover][album-cover] | **Loaded**<br />by _Reckless Love_<br /> on Loaded [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514803dc88ae15cc228778477a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c3bd5a981b413f80639e9bd1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
