@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Old Gods**<br />by _Green Lung_<br /> on Black Harvest [2021] |
+| ![album cover][album-cover] | **My God Is the Sun**<br />by _Queens of the Stone Age_<br /> on ...Like Clockwork [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851793d599a492619345246c2a6
+[album-cover]: https://i.scdn.co/image/ab67616d00004851eee7c041844e45dd76469fa0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
