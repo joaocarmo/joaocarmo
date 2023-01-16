@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Torn to Pieces**<br />by _Pop Evil_<br /> on Onyx [2013] |
+| ![album cover][album-cover] | **Empty Walls**<br />by _Serj Tankian_<br /> on Elect the Dead (Deluxe) [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851af86cb3c1856f3de3ebecf32
+[album-cover]: https://i.scdn.co/image/ab67616d000048514803dc88ae15cc228778477a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
