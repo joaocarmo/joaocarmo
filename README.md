@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Just Dance**<br />by _First to Eleven_<br /> on Covers, Vol. 6 [2020] |
+| ![album cover][album-cover] | **Cosmic Rain**<br />by _Mothership_<br /> on Mothership [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485198a737b5227544c9a3df47c5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bb9caeac14987601b508637a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
