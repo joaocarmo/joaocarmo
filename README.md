@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Square Hammer**<br />by _Ghost_<br /> on Meliora (Deluxe Edition) [2016] |
+| ![album cover][album-cover] | **Just Dance**<br />by _First to Eleven_<br /> on Covers, Vol. 6 [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515b752bd7476346431a8d1e79
+[album-cover]: https://i.scdn.co/image/ab67616d0000485198a737b5227544c9a3df47c5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
