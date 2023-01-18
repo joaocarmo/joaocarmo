@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Gimme Shelter**<br />by _The Rolling Stones_<br /> on Let It Bleed [1969] |
+| ![album cover][album-cover] | **Dust My Broom**<br />by _Elmore James_<br /> on Shake Your Moneymaker: The Best of the Fire Sessions [2001] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512af30c881bb23cfb82a8cf99
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d20567ecbd3379703430927e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
