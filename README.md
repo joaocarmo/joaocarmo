@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Cosmic Rain**<br />by _Mothership_<br /> on Mothership [2013] |
+| ![album cover][album-cover] | **Gimme Shelter**<br />by _The Rolling Stones_<br /> on Let It Bleed [1969] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bb9caeac14987601b508637a
+[album-cover]: https://i.scdn.co/image/ab67616d000048512af30c881bb23cfb82a8cf99
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
