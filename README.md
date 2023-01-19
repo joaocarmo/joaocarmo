@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Gonna Make the Pony Trot**<br />by _Brant Bjork_<br /> on Saved by Magic [2005] |
+| ![album cover][album-cover] | **THE FIGHT OF OUR LIVES (feat. Tim McIlrath of Rise Against & Brian Baker of Bad Religion)**<br />by _Anti-Flag, Tim McIlrath, Brian Baker_<br /> on LIES THEY TELL OUR CHILDREN [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518d1abda8b1397587633a2379
+[album-cover]: https://i.scdn.co/image/ab67616d00004851610d42f294015d61819387a1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
