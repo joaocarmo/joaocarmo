@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Old Gods**<br />by _Valley of the Sun_<br /> on Old Gods [2019] |
+| ![album cover][album-cover] | **Gonna Make the Pony Trot**<br />by _Brant Bjork_<br /> on Saved by Magic [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f42b02be20f4dfabbde3ea69
+[album-cover]: https://i.scdn.co/image/ab67616d000048518d1abda8b1397587633a2379
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
