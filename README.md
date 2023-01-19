@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **THE FIGHT OF OUR LIVES (feat. Tim McIlrath of Rise Against & Brian Baker of Bad Religion)**<br />by _Anti-Flag, Tim McIlrath, Brian Baker_<br /> on LIES THEY TELL OUR CHILDREN [2023] |
+| ![album cover][album-cover] | **Full Disclosure**<br />by _Otherwise_<br /> on Full Disclosure [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851610d42f294015d61819387a1
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b8d7c4d2113cceb5891293eb
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
