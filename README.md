@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Rolling In The Deep - Recorded At Spotify Studios NYC**<br />by _Greta Van Fleet_<br /> on Spotify Singles [2018] |
+| ![album cover][album-cover] | **Come Out and Play**<br />by _The Offspring_<br /> on Smash [1994] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bb63ce0813a5f7db1790a4bb
+[album-cover]: https://i.scdn.co/image/ab67616d000048510158cbde70672dd821972907
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
