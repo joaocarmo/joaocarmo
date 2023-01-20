@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Full Disclosure**<br />by _Otherwise_<br /> on Full Disclosure [2022] |
+| ![album cover][album-cover] | **Rolling In The Deep - Recorded At Spotify Studios NYC**<br />by _Greta Van Fleet_<br /> on Spotify Singles [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b8d7c4d2113cceb5891293eb
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bb63ce0813a5f7db1790a4bb
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
