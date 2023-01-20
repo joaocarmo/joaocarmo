@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Come Out and Play**<br />by _The Offspring_<br /> on Smash [1994] |
+| ![album cover][album-cover] | **Gone Away - 1997**<br />by _The Offspring_<br /> on Ixnay On The Hombre [1997] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510158cbde70672dd821972907
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ba12c467b8cc7eb3be9e7d8b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
