@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Gone Away - 1997**<br />by _The Offspring_<br /> on Ixnay On The Hombre [1997] |
+| ![album cover][album-cover] | **Paparazzi**<br />by _Exit Eden_<br /> on Rhapsodies in Black [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ba12c467b8cc7eb3be9e7d8b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851accce2c1d6039c23227eef4f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
