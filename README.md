@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Paparazzi**<br />by _Exit Eden_<br /> on Rhapsodies in Black [2017] |
+| ![album cover][album-cover] | **I Need to Know**<br />by _The Black Moods_<br /> on I Need to Know [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851accce2c1d6039c23227eef4f
+[album-cover]: https://i.scdn.co/image/ab67616d000048515f5b2a7b66e4388909bbd62b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
