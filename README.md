@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Believe In Us**<br />by _Hell Or Highwater_<br /> on Lost At Sonic Ranch [2020] |
+| ![album cover][album-cover] | **Come As You Are**<br />by _Nirvana_<br /> on Nevermind (Remastered) [1991] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851376c8cb2f45f502b2fea1626
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
