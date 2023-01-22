@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Come As You Are**<br />by _Nirvana_<br /> on Nevermind (Remastered) [1991] |
+| ![album cover][album-cover] | **Wasting The Dawn**<br />by _The 69 Eyes_<br /> on Wasting The Dawn [1999] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6
+[album-cover]: https://i.scdn.co/image/ab67616d000048516727b8eae269b3ff78aa601a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
