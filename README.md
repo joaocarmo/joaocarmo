@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Need to Know**<br />by _The Black Moods_<br /> on I Need to Know [2020] |
+| ![album cover][album-cover] | **Believe In Us**<br />by _Hell Or Highwater_<br /> on Lost At Sonic Ranch [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515f5b2a7b66e4388909bbd62b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851376c8cb2f45f502b2fea1626
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
