@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **FAKK**<br />by _Eisbrecher_<br /> on Liebe Macht Monster [2021] |
+| ![album cover][album-cover] | **The Needle**<br />by _The Necromancers_<br /> on Where the Void Rose [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514807f284bb26fcafcd049595
+[album-cover]: https://i.scdn.co/image/ab67616d000048511f066e15f0a64a7115f5549d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
