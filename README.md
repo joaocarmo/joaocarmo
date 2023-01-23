@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wasting The Dawn**<br />by _The 69 Eyes_<br /> on Wasting The Dawn [1999] |
+| ![album cover][album-cover] | **FAKK**<br />by _Eisbrecher_<br /> on Liebe Macht Monster [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516727b8eae269b3ff78aa601a
+[album-cover]: https://i.scdn.co/image/ab67616d000048514807f284bb26fcafcd049595
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
