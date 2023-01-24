@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dawning On Me**<br />by _Villagers_<br /> on Darling Arithmetic [2015] |
+| ![album cover][album-cover] | **Dance Macabre**<br />by _Ghost_<br /> on Prequelle [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515a902940f70dace67d4c4547
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d12e0639819f09e00d73410e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
