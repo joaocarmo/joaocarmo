@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dance Macabre**<br />by _Ghost_<br /> on Prequelle [2018] |
+| ![album cover][album-cover] | **DEEP CUTS**<br />by _You Me At Six_<br /> on DEEP CUTS [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d12e0639819f09e00d73410e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cd80d59408f701de0fc3ee59
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
