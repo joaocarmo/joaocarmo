@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **DEEP CUTS**<br />by _You Me At Six_<br /> on DEEP CUTS [2022] |
+| ![album cover][album-cover] | **Take What You Want**<br />by _Def Leppard_<br /> on Diamond Star Halos [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cd80d59408f701de0fc3ee59
+[album-cover]: https://i.scdn.co/image/ab67616d0000485159f1a4e3ede69ee4cd14157b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
