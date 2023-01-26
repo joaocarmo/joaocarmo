@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **All I Want**<br />by _The Offspring_<br /> on Ixnay On The Hombre [1997] |
+| ![album cover][album-cover] | **Gimme Shelter (feat. Lzzy Hale)**<br />by _Stone Sour, Lzzy Hale_<br /> on Straight Outta Burbank [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ba12c467b8cc7eb3be9e7d8b
+[album-cover]: https://i.scdn.co/image/ab67616d0000485103139782ac78c663c4a084a3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
