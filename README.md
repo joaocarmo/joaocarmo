@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Spillways**<br />by _Ghost_<br /> on IMPERA [2022] |
+| ![album cover][album-cover] | **VENT'ANNI**<br />by _Måneskin_<br /> on Teatro d'ira - Vol. I [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485139df655040aa0f194c6d2972
+[album-cover]: https://i.scdn.co/image/ab67616d000048515aa05015cfa7bd2943c29b21
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
