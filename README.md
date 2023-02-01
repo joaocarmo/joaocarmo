@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Still Waiting**<br />by _Sum 41_<br /> on Does This Look Infected? [2002] |
+| ![album cover][album-cover] | **96 Quite Bitter Beings**<br />by _The Dead South_<br /> on Easy Listening for Jerks, Pt. 2 [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d6176a711e031d6522840c52
+[album-cover]: https://i.scdn.co/image/ab67616d0000485144c12889cbead29273e97c58
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
