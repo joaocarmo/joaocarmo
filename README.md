@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Blizzard**<br />by _Erdling_<br /> on Yggdrasil [2020] |
+| ![album cover][album-cover] | **Still Waiting**<br />by _Sum 41_<br /> on Does This Look Infected? [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510cbae8de03fc21271fd9abfd
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d6176a711e031d6522840c52
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
