@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Join Me - Razorblade Mix**<br />by _HIM_<br /> on XX - Two Decades Of Love Metal [2012] |
+| ![album cover][album-cover] | **Six Feet Underground**<br />by _Lord Of The Lost_<br /> on From the Flame into the Fire (Deluxe Edition) [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851db4c890060eb52cddee32c04
+[album-cover]: https://i.scdn.co/image/ab67616d000048514fa308069b917167bed94b10
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
