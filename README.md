@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Vertigo Eyes**<br />by _VV_<br /> on Neon Noir [2023] |
+| ![album cover][album-cover] | **Turborider**<br />by _Reckless Love_<br /> on Turborider [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513083a300aee9be4ff0ea8840
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f2254452b1d29d4ed2259557
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
