@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Join Me - Razorblade Mix**<br />by _HIM_<br /> on Razorblade Romance [1991] |
+| ![album cover][album-cover] | **Dreamers**<br />by _Them Terribles_<br /> on Rock, Paper, Terribles [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517c7f848809ecae51b7a81f9c
+[album-cover]: https://i.scdn.co/image/ab67616d0000485142534ea5685c19ca77e3d267
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
