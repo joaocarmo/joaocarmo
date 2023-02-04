@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **You Give Love A Bad Name**<br />by _Scott Bradlee's Postmodern Jukebox, Jennie Lena_<br /> on Squad Goals [2016] |
+| ![album cover][album-cover] | **Lost In The Rhythm**<br />by _Jamie Berry, Octavia Rose_<br /> on Lost In The Rhythm [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f160d21f18014b6ffaa692c6
+[album-cover]: https://i.scdn.co/image/ab67616d0000485126b9951d2ae34a825e54d033
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
