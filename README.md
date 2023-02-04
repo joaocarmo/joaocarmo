@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Do It For Her (feat. Zach Callison & Grace Rolek)**<br />by _Steven Universe, Grace Rolek, Zach Callison_<br /> on Steven Universe, Vol. 1 (Original Soundtrack) [2017] |
+| ![album cover][album-cover] | **You Give Love A Bad Name**<br />by _Scott Bradlee's Postmodern Jukebox, Jennie Lena_<br /> on Squad Goals [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e18ff29a2fe8e9c0df309fa6
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f160d21f18014b6ffaa692c6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
