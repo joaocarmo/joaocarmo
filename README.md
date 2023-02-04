@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lost In The Rhythm**<br />by _Jamie Berry, Octavia Rose_<br /> on Lost In The Rhythm [2016] |
+| ![album cover][album-cover] | **Hard Luck**<br />by _Tia Brazda_<br /> on Bandshell [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485126b9951d2ae34a825e54d033
+[album-cover]: https://i.scdn.co/image/ab67616d000048516813979bfb6ac48acdc36305
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
