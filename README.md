@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hard Luck**<br />by _Tia Brazda_<br /> on Bandshell [2015] |
+| ![album cover][album-cover] | **What You Know**<br />by _Two Door Cinema Club_<br /> on Tourist History [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516813979bfb6ac48acdc36305
+[album-cover]: https://i.scdn.co/image/ab67616d00004851635eb2cbc738455671d199db
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
