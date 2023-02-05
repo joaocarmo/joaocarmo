@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **What You Know**<br />by _Two Door Cinema Club_<br /> on Tourist History [2010] |
+| ![album cover][album-cover] | **Chained**<br />by _The xx_<br /> on Coexist [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851635eb2cbc738455671d199db
+[album-cover]: https://i.scdn.co/image/ab67616d00004851238bf382e0e52c32648761b9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
