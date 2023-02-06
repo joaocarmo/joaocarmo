@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Chained**<br />by _The xx_<br /> on Coexist [2012] |
+| ![album cover][album-cover] | **Fever Dream**<br />by _Palaye Royale_<br /> on Fever Dream [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851238bf382e0e52c32648761b9
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ba4846438180facd6b6935a8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
