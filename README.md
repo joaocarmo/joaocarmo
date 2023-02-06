@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Fever Dream**<br />by _Palaye Royale_<br /> on Fever Dream [2022] |
+| ![album cover][album-cover] | **Last Man Standing**<br />by _Rise Against_<br /> on Last Man Standing [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ba4846438180facd6b6935a8
+[album-cover]: https://i.scdn.co/image/ab67616d000048511bbfe82de21390ddcaf2104d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
