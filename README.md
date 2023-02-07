@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Last Man Standing**<br />by _Rise Against_<br /> on Last Man Standing [2022] |
+| ![album cover][album-cover] | **Joker And The Thief**<br />by _Wolfmother_<br /> on Wolfmother [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511bbfe82de21390ddcaf2104d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851335534788cbc39cfd23ee993
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
