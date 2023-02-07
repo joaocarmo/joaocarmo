@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Joker And The Thief**<br />by _Wolfmother_<br /> on Wolfmother [2005] |
+| ![album cover][album-cover] | **The Reckoning**<br />by _Nicholas Britell_<br /> on Andor: Vol. 1 (Episodes 1-4) [Original Score] [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851335534788cbc39cfd23ee993
+[album-cover]: https://i.scdn.co/image/ab67616d000048516788f1db657017ab39db0ad9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
