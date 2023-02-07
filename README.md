@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Reckoning**<br />by _Nicholas Britell_<br /> on Andor: Vol. 1 (Episodes 1-4) [Original Score] [2022] |
+| ![album cover][album-cover] | **Cirice**<br />by _Ghost_<br /> on Meliora [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516788f1db657017ab39db0ad9
+[album-cover]: https://i.scdn.co/image/ab67616d0000485120b19a218a86e6946387f56e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
