@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Poison**<br />by _Powerwolf_<br /> on Poison [2023] |
+| ![album cover][album-cover] | **Brighter Than the Sun**<br />by _Brick + Mortar_<br /> on Dropped [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b64de98d6445437726c9ed16
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f6813e525ee8f69a7cb5704b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
