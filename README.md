@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Cirice**<br />by _Ghost_<br /> on Meliora [2015] |
+| ![album cover][album-cover] | **Poison**<br />by _Powerwolf_<br /> on Poison [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485120b19a218a86e6946387f56e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b64de98d6445437726c9ed16
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
