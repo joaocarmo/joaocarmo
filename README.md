@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Brighter Than the Sun**<br />by _Brick + Mortar_<br /> on Dropped [2015] |
+| ![album cover][album-cover] | **No Church In The Wild**<br />by _JAY-Z, Kanye West, Frank Ocean, The-Dream_<br /> on Watch The Throne (Deluxe) [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f6813e525ee8f69a7cb5704b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851699bfca9512ee8d1fbf126a7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
