@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Stand By Me - Remastered**<br />by _Oasis_<br /> on Be Here Now (Deluxe Remastered Edition) [1997] |
+| ![album cover][album-cover] | **Big in Japan - Single Version; 2019 Remaster**<br />by _Alphaville_<br /> on Forever Young (Super Deluxe Edition; 2019 Remaster) [1984] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851aeda362a434f01d0eff70b4e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c5c6cddc4cdce692d2c9c630
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
