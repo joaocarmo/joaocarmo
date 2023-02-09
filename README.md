@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bizarre Love Triangle**<br />by _New Order_<br /> on Brotherhood (Collector's Edition) [1986] |
+| ![album cover][album-cover] | **Stand By Me - Remastered**<br />by _Oasis_<br /> on Be Here Now (Deluxe Remastered Edition) [1997] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851530a2c5dd17d2ddf8edc2978
+[album-cover]: https://i.scdn.co/image/ab67616d00004851aeda362a434f01d0eff70b4e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
