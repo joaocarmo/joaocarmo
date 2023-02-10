@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Warm Shadow - Radio Edit**<br />by _Fink_<br /> on Warm Shadow [2013] |
+| ![album cover][album-cover] | **Rock Me Amadeus**<br />by _Falco_<br /> on Falco 3 [1985] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c42f4ac4fa0cd29d76244d67
+[album-cover]: https://i.scdn.co/image/ab67616d0000485187e51905aaafd4b2e46e9121
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
