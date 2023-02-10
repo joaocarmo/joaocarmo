@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Big in Japan - Single Version; 2019 Remaster**<br />by _Alphaville_<br /> on Forever Young (Super Deluxe Edition; 2019 Remaster) [1984] |
+| ![album cover][album-cover] | **Find My Way Back Home**<br />by _Monophonics_<br /> on Sound of Sinning [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c5c6cddc4cdce692d2c9c630
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e1cd6ec071c7c2d3a48d8fc1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
