@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Find My Way Back Home**<br />by _Monophonics_<br /> on Sound of Sinning [2015] |
+| ![album cover][album-cover] | **Warm Shadow - Radio Edit**<br />by _Fink_<br /> on Warm Shadow [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e1cd6ec071c7c2d3a48d8fc1
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c42f4ac4fa0cd29d76244d67
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
