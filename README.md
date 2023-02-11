@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Celebrity Skin**<br />by _Hole_<br /> on Celebrity Skin [1998] |
+| ![album cover][album-cover] | **Time Is A Killer**<br />by _The Stone Foxes_<br /> on Time Is A Killer [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510649124c37ce988317263671
+[album-cover]: https://i.scdn.co/image/ab67616d0000485158c0c7ee1b6fa5309e21669c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
