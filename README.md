@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Time Is A Killer**<br />by _The Stone Foxes_<br /> on Time Is A Killer [2022] |
+| ![album cover][album-cover] | **Here To Stay**<br />by _Korn_<br /> on Untouchables [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485158c0c7ee1b6fa5309e21669c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b9b950561aa1d3606865a2ee
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
