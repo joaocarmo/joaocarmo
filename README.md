@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Rock Me Amadeus**<br />by _Falco_<br /> on Falco 3 [1985] |
+| ![album cover][album-cover] | **Celebrity Skin**<br />by _Hole_<br /> on Celebrity Skin [1998] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485187e51905aaafd4b2e46e9121
+[album-cover]: https://i.scdn.co/image/ab67616d000048510649124c37ce988317263671
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
