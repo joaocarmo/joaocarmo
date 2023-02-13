@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Jura / Gota D'Agua (feat. Bárbara Bandeira)**<br />by _D.A.M.A, Bárbara Bandeira_<br /> on Sozinhos à Chuva [2020] |
+| ![album cover][album-cover] | **Intro**<br />by _The xx_<br /> on xx [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851839b04f7c671864b206dc69e
+[album-cover]: https://i.scdn.co/image/ab67616d0000485148a95897fd91eb34032a93e3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
