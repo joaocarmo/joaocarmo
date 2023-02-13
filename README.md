@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Passenger**<br />by _Siouxsie and the Banshees_<br /> on Through The Looking Glass (Remastered And Expanded) [1987] |
+| ![album cover][album-cover] | **Jura / Gota D'Agua (feat. Bárbara Bandeira)**<br />by _D.A.M.A, Bárbara Bandeira_<br /> on Sozinhos à Chuva [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510db79a3a0711b3e5949cad1a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851839b04f7c671864b206dc69e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
