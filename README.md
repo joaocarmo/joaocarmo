@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hell Awaits/Summer Breeze - Live**<br />by _Mr. Bungle_<br /> on The Night They Came Home [2021] |
+| ![album cover][album-cover] | **Broken**<br />by _Palaye Royale_<br /> on Fever Dream [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514251531cfae2fb606cbf2ae6
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ba4846438180facd6b6935a8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
