@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Broken**<br />by _Palaye Royale_<br /> on Fever Dream [2022] |
+| ![album cover][album-cover] | **Believe In Us**<br />by _Hell Or Highwater_<br /> on Lost At Sonic Ranch [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ba4846438180facd6b6935a8
+[album-cover]: https://i.scdn.co/image/ab67616d00004851376c8cb2f45f502b2fea1626
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
