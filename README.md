@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Ready Steady Go**<br />by _Sick Puppies_<br /> on Ready Steady Go [2022] |
+| ![album cover][album-cover] | **Stone Cold Classic**<br />by _George Barnett_<br /> on Stone Cold Classic [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485125488dd78bd305fc117ee25a
+[album-cover]: https://i.scdn.co/image/ab67616d000048510a95378a72d3b6d580f16034
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
