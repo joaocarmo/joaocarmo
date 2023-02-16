@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Believe In Us**<br />by _Hell Or Highwater_<br /> on Lost At Sonic Ranch [2020] |
+| ![album cover][album-cover] | **Ready Steady Go**<br />by _Sick Puppies_<br /> on Ready Steady Go [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851376c8cb2f45f502b2fea1626
+[album-cover]: https://i.scdn.co/image/ab67616d0000485125488dd78bd305fc117ee25a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
