@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **So Long, And Thanks For All The Fish**<br />by _A Perfect Circle_<br /> on Eat The Elephant [2018] |
+| ![album cover][album-cover] | **Time Machine**<br />by _Royal Thunder_<br /> on Crooked Doors (Deluxe Version) [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a81808a306009c2f1dba3258
+[album-cover]: https://i.scdn.co/image/ab67616d00004851587b5799ba6bccf9a1f2f4fe
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
