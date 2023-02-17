@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Stone Cold Classic**<br />by _George Barnett_<br /> on Stone Cold Classic [2017] |
+| ![album cover][album-cover] | **So Long, And Thanks For All The Fish**<br />by _A Perfect Circle_<br /> on Eat The Elephant [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510a95378a72d3b6d580f16034
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a81808a306009c2f1dba3258
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
