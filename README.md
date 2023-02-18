@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Time Machine**<br />by _Royal Thunder_<br /> on Crooked Doors (Deluxe Version) [2015] |
+| ![album cover][album-cover] | **Nein**<br />by _Unzucht_<br /> on Jenseits der Welt [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851587b5799ba6bccf9a1f2f4fe
+[album-cover]: https://i.scdn.co/image/ab67616d000048510f55c920a1b7706e76d32ae3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
