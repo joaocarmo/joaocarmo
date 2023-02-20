@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Me And My Broken Heart**<br />by _Rixton_<br /> on Let The Road [2014] |
+| ![album cover][album-cover] | **Galway Girl**<br />by _Ed Sheeran_<br /> on ÷ (Deluxe) [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851647377a36072bd08e44dd32b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ba5db46f4b838ef6027e6f96
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
