@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Galway Girl**<br />by _Ed Sheeran_<br /> on ÷ (Deluxe) [2017] |
+| ![album cover][album-cover] | **Pumped Up Kicks - Acoustic Version**<br />by _Missy & Blonde, Julia Ross_<br /> on Acoustic Vibes [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ba5db46f4b838ef6027e6f96
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ce24fe99c2534c9cc7aa472e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
