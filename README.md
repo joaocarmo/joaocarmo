@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Slave**<br />by _Silverchair_<br /> on Freak Show [1997] |
+| ![album cover][album-cover] | **Your Song**<br />by _Elton John_<br /> on Elton John [1970] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f6e1df99ae6316a4badcce58
+[album-cover]: https://i.scdn.co/image/ab67616d000048514b292ed7c7360a04d3d6b74a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
