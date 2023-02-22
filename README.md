@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Your Song**<br />by _Elton John_<br /> on Elton John [1970] |
+| ![album cover][album-cover] | **Poison**<br />by _Powerwolf_<br /> on Poison [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514b292ed7c7360a04d3d6b74a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b64de98d6445437726c9ed16
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
