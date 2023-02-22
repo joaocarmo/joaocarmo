@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Poison**<br />by _Powerwolf_<br /> on Poison [2023] |
+| ![album cover][album-cover] | **Howlin' for You**<br />by _The Black Keys_<br /> on Brothers (Deluxe Remastered Anniversary Edition) [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b64de98d6445437726c9ed16
+[album-cover]: https://i.scdn.co/image/ab67616d00004851995cafb297bbedb4795bc673
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
