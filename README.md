@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Howlin' for You**<br />by _The Black Keys_<br /> on Brothers (Deluxe Remastered Anniversary Edition) [2020] |
+| ![album cover][album-cover] | **Earth Shaker**<br />by _Miss May I_<br /> on Curse Of Existence [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851995cafb297bbedb4795bc673
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fa199534a04d30d95327d03e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
