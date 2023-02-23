@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **October Sky**<br />by _Murderland_<br /> on Lights Out [2007] |
+| ![album cover][album-cover] | **Dead Walk**<br />by _RedHook_<br /> on Dead Walk [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d700d9bcb45dc6008182c978
+[album-cover]: https://i.scdn.co/image/ab67616d00004851849eb053867263d59cb1916c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
