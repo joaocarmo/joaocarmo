@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Earth Shaker**<br />by _Miss May I_<br /> on Curse Of Existence [2022] |
+| ![album cover][album-cover] | **Nein**<br />by _Unzucht_<br /> on Jenseits der Welt [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fa199534a04d30d95327d03e
+[album-cover]: https://i.scdn.co/image/ab67616d000048510f55c920a1b7706e76d32ae3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
