@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Nein**<br />by _Unzucht_<br /> on Jenseits der Welt [2020] |
+| ![album cover][album-cover] | **October Sky**<br />by _Murderland_<br /> on Lights Out [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510f55c920a1b7706e76d32ae3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d700d9bcb45dc6008182c978
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
