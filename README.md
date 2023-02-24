@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dead Walk**<br />by _RedHook_<br /> on Dead Walk [2020] |
+| ![album cover][album-cover] | **It's My Job To Keep Punk Rock Elite**<br />by _NOFX_<br /> on So Long & Thanks For All The Shoes [1997] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851849eb053867263d59cb1916c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e3548bc00fbd46743eea0577
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
