@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Woman**<br />by _Wolfmother_<br /> on Wolfmother [2005] |
+| ![album cover][album-cover] | **Bone Church**<br />by _Slipknot_<br /> on Bone Church [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851335534788cbc39cfd23ee993
+[album-cover]: https://i.scdn.co/image/ab67616d00004851abb13287b483c18ded4c0cfc
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
