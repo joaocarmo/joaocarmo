@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **It's My Job To Keep Punk Rock Elite**<br />by _NOFX_<br /> on So Long & Thanks For All The Shoes [1997] |
+| ![album cover][album-cover] | **Woman**<br />by _Wolfmother_<br /> on Wolfmother [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e3548bc00fbd46743eea0577
+[album-cover]: https://i.scdn.co/image/ab67616d00004851335534788cbc39cfd23ee993
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
