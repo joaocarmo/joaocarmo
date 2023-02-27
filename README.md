@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Animals**<br />by _Architects_<br /> on For Those That Wish To Exist [2021] |
+| ![album cover][album-cover] | **Waiting Hare**<br />by _Buckethead, Serj Tankian, Shana Halligan_<br /> on Enter The Chicken [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c78b2edbc9407cea20ccfb9f
+[album-cover]: https://i.scdn.co/image/ab67616d000048519dc0cd707a27b4e713c31b8f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
