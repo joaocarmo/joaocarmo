@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Waiting Hare**<br />by _Buckethead, Serj Tankian, Shana Halligan_<br /> on Enter The Chicken [2005] |
+| ![album cover][album-cover] | **Valley of Disease**<br />by _Avatar_<br /> on Valley of Disease [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519dc0cd707a27b4e713c31b8f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a1d99f446c89eae3d77996be
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
