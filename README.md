@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Valley of Disease**<br />by _Avatar_<br /> on Valley of Disease [2022] |
+| ![album cover][album-cover] | **Separate Ways**<br />by _Eva Under Fire_<br /> on Blow EP [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a1d99f446c89eae3d77996be
+[album-cover]: https://i.scdn.co/image/ab67616d0000485139daec3acc145d3eef828b06
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
