@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **My Astronomical Unit**<br />by _Machinae Supremacy_<br /> on Jets 'N' Guns 2 Early Access (Original Game Soundtrack) [2019] |
+| ![album cover][album-cover] | **Tommy-Gun**<br />by _Royal Republic_<br /> on Tommy-Gun [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851345604400a853dd485cd3293
+[album-cover]: https://i.scdn.co/image/ab67616d0000485149ccb122c9d99e7c8b14ec57
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
