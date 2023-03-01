@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Up in Flames**<br />by _The Flaming Sideburns_<br /> on Hallelujah Rock'n'rollah [2001] |
+| ![album cover][album-cover] | **We Are The Ones Who Will Change The World**<br />by _Machinae Supremacy_<br /> on We Are The Ones Who Will Change The World [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485190111fe0fc91172808aeeefa
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cefcebc1270d7e0912f9e514
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
