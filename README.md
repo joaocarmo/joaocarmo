@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Coloris**<br />by _she_<br /> on Coloris [2008] |
+| ![album cover][album-cover] | **My Astronomical Unit**<br />by _Machinae Supremacy_<br /> on Jets 'N' Guns 2 Early Access (Original Game Soundtrack) [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b517f7a38eef54b12a54edf0
+[album-cover]: https://i.scdn.co/image/ab67616d00004851345604400a853dd485cd3293
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
