@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **We Are The Ones Who Will Change The World**<br />by _Machinae Supremacy_<br /> on We Are The Ones Who Will Change The World [2021] |
+| ![album cover][album-cover] | **Coloris**<br />by _she_<br /> on Coloris [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cefcebc1270d7e0912f9e514
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b517f7a38eef54b12a54edf0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
