@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **This Suffering**<br />by _Billy Talent_<br /> on Billy Talent II [2006] |
+| ![album cover][album-cover] | **The Funeral Of Hearts**<br />by _HIM_<br /> on Love Metal [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485151ad1636a7d0456ad972a71c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d86d1248e012751bac48b499
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
