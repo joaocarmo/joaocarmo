@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Funeral Of Hearts**<br />by _HIM_<br /> on Love Metal [2003] |
+| ![album cover][album-cover] | **I'm Shipping Up To Boston**<br />by _Dropkick Murphys_<br /> on The Warrior's Code [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d86d1248e012751bac48b499
+[album-cover]: https://i.scdn.co/image/ab67616d00004851030915ffa58125ae36f13a6f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
