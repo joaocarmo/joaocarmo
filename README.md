@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I'm Shipping Up To Boston**<br />by _Dropkick Murphys_<br /> on The Warrior's Code [2005] |
+| ![album cover][album-cover] | **As yet Untitled**<br />by _COUNTERFEIT._<br /> on Together We Are Stronger [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851030915ffa58125ae36f13a6f
+[album-cover]: https://i.scdn.co/image/ab67616d000048519048a6675f6bc1c173a13207
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
