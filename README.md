@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **As yet Untitled**<br />by _COUNTERFEIT._<br /> on Together We Are Stronger [2017] |
+| ![album cover][album-cover] | **Sê um GNR**<br />by _GNR_<br /> on Independança [1981] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519048a6675f6bc1c173a13207
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f6c692935fe548135450b4d7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
