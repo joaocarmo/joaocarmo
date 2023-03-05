@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sê um GNR**<br />by _GNR_<br /> on Independança [1981] |
+| ![album cover][album-cover] | **Fallen Leaves**<br />by _Billy Talent_<br /> on Billy Talent II [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f6c692935fe548135450b4d7
+[album-cover]: https://i.scdn.co/image/ab67616d0000485151ad1636a7d0456ad972a71c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
