@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Fallen Leaves**<br />by _Billy Talent_<br /> on Billy Talent II [2006] |
+| ![album cover][album-cover] | **It Doesn't Matter Two - Lockdown Version**<br />by _Libra, My Dying Bride, Apocalyptica, Anneke Van Giersbergen, Paradise Lost, Moonspell, Type O Negative, Athanasia, Ruud Jolie_<br /> on It Doesn't Matter Two (Lockdown Version) [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485151ad1636a7d0456ad972a71c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851841fdc0212b762f1827fe346
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
