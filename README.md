@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **It Doesn't Matter Two - Lockdown Version**<br />by _Libra, My Dying Bride, Apocalyptica, Anneke Van Giersbergen, Paradise Lost, Moonspell, Type O Negative, Athanasia, Ruud Jolie_<br /> on It Doesn't Matter Two (Lockdown Version) [2021] |
+| ![album cover][album-cover] | **One by One**<br />by _VOWWS_<br /> on One by One [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851841fdc0212b762f1827fe346
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e1b98eb574d13dd57d7bd3a1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
