@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **One by One**<br />by _VOWWS_<br /> on One by One [2022] |
+| ![album cover][album-cover] | **California**<br />by _Betcha_<br /> on Falling [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e1b98eb574d13dd57d7bd3a1
+[album-cover]: https://i.scdn.co/image/ab67616d000048519f26d3435e434797f2a174d9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
