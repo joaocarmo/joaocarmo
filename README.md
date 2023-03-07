@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **California**<br />by _Betcha_<br /> on Falling [2019] |
+| ![album cover][album-cover] | **Here Ever After**<br />by _Red Hot Chili Peppers_<br /> on Unlimited Love [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519f26d3435e434797f2a174d9
+[album-cover]: https://i.scdn.co/image/ab67616d0000485197a52e0aeda9d95fb881c56d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
