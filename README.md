@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Here Ever After**<br />by _Red Hot Chili Peppers_<br /> on Unlimited Love [2022] |
+| ![album cover][album-cover] | **Lo/Hi**<br />by _The Black Keys_<br /> on Lo/Hi [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485197a52e0aeda9d95fb881c56d
+[album-cover]: https://i.scdn.co/image/ab67616d000048510f8815042d91b244aa279ee6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
