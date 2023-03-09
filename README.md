@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Mother Tongue**<br />by _White Lies_<br /> on BIG TV [2013] |
+| ![album cover][album-cover] | **Another Night In the City**<br />by _HIGH SPIRITS_<br /> on Another Night [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f53e2d0acf48de71559f5b22
+[album-cover]: https://i.scdn.co/image/ab67616d0000485114d261887675bbf80f314710
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
