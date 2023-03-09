@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lo/Hi**<br />by _The Black Keys_<br /> on Lo/Hi [2019] |
+| ![album cover][album-cover] | **Mother Tongue**<br />by _White Lies_<br /> on BIG TV [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510f8815042d91b244aa279ee6
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f53e2d0acf48de71559f5b22
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
