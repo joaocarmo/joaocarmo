@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Another Night In the City**<br />by _HIGH SPIRITS_<br /> on Another Night [2011] |
+| ![album cover][album-cover] | **Ride**<br />by _Jack Broadbent_<br /> on Ride [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485114d261887675bbf80f314710
+[album-cover]: https://i.scdn.co/image/ab67616d00004851376399e0617ca34e146c7d3f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
