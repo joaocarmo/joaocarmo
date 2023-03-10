@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Ride**<br />by _Jack Broadbent_<br /> on Ride [2022] |
+| ![album cover][album-cover] | **Wasted Years - 2015 Remaster**<br />by _Iron Maiden_<br /> on Somewhere in Time (2015 Remaster) [1986] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851376399e0617ca34e146c7d3f
+[album-cover]: https://i.scdn.co/image/ab67616d0000485169059f3685b992f9ce22cd4c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
