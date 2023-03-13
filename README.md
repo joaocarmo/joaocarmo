@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wasted Years - 2015 Remaster**<br />by _Iron Maiden_<br /> on Somewhere in Time (2015 Remaster) [1986] |
+| ![album cover][album-cover] | **Maria Albertina**<br />by _Humanos_<br /> on Humanos [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485169059f3685b992f9ce22cd4c
+[album-cover]: https://i.scdn.co/image/ab67616d000048519b5725e150b79292d54b29d1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
