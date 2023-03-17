@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Maria Albertina**<br />by _Humanos_<br /> on Humanos [2005] |
+| ![album cover][album-cover] | **Pai da criança (quem será)**<br />by _Chave D'ouro_<br /> on Pai da Criança [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519b5725e150b79292d54b29d1
+[album-cover]: https://i.scdn.co/image/27b6e725ee6014325424f8bd29ae91a15272d1b4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
