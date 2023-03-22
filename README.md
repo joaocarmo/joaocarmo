@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Pai da criança (quem será)**<br />by _Chave D'ouro_<br /> on Pai da Criança [2010] |
+| ![album cover][album-cover] | **Amar Pelos Dois**<br />by _Salvador Sobral_<br /> on Amar Pelos Dois [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/27b6e725ee6014325424f8bd29ae91a15272d1b4
+[album-cover]: https://i.scdn.co/image/ab67616d0000485106a4fa4f796f568d5830ebc2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
