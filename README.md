@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Amar Pelos Dois**<br />by _Salvador Sobral_<br /> on Amar Pelos Dois [2017] |
+| ![album cover][album-cover] | **Call Me**<br />by _Pain_<br /> on Coming Home [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485106a4fa4f796f568d5830ebc2
+[album-cover]: https://i.scdn.co/image/ab67616d000048511df949b1a86713b6ed93d765
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
