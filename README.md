@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **ObZen - 2023, 15th Anniversary Remastered Edition**<br />by _Meshuggah_<br /> on ObZen (15th Anniversary Remastered Edition) [2023] |
+| ![album cover][album-cover] | **Steh auf**<br />by _Lindemann_<br /> on F & M (Deluxe) [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a9d0561d2548e399dc0b1635
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e675d7e4970918b5e0fb3052
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
