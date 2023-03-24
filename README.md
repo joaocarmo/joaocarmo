@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Party in My Head**<br />by _Pain_<br /> on Party in My Head [2021] |
+| ![album cover][album-cover] | **ObZen - 2023, 15th Anniversary Remastered Edition**<br />by _Meshuggah_<br /> on ObZen (15th Anniversary Remastered Edition) [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514e4748bda16b21489b1b5f4c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a9d0561d2548e399dc0b1635
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
