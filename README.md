@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Steh auf**<br />by _Lindemann_<br /> on F & M (Deluxe) [2019] |
+| ![album cover][album-cover] | **Lampshades on Fire**<br />by _Modest Mouse_<br /> on Strangers to Ourselves [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e675d7e4970918b5e0fb3052
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ec0240f3581605ecae347c76
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
