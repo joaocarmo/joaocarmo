@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Haunt My Mind**<br />by _Robert Pehrsson's Humbucker_<br /> on Robert Pehrsson's Humbucker [2013] |
+| ![album cover][album-cover] | **To Build A Home**<br />by _The Cinematic Orchestra, Patrick Watson_<br /> on Ma Fleur [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485122ac3019579e00bdbd746ced
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e9101167efda432462dfec58
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
