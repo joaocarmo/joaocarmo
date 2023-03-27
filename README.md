@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Still Alive**<br />by _3 Doors Down_<br /> on Us And The Night [2016] |
+| ![album cover][album-cover] | **I Miss the Misery**<br />by _Halestorm_<br /> on The Strange Case of... [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e3b0a09bcc8813d47b1392b1
+[album-cover]: https://i.scdn.co/image/ab67616d000048519393dddec21088565d10f03b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
