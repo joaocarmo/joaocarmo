@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Strangelove**<br />by _Marina_<br /> on Strangelove [2020] |
+| ![album cover][album-cover] | **Shoot Me Your Ace**<br />by _Reef_<br /> on Shoot Me Your Ace [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518042cc7dc55b633317cc7521
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c6b060fe8ca121e52adf053d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
