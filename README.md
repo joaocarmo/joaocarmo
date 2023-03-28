@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Miss the Misery**<br />by _Halestorm_<br /> on The Strange Case of... [2012] |
+| ![album cover][album-cover] | **Strangelove**<br />by _Marina_<br /> on Strangelove [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519393dddec21088565d10f03b
+[album-cover]: https://i.scdn.co/image/ab67616d000048518042cc7dc55b633317cc7521
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
