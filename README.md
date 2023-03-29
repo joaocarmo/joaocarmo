@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Shoot Me Your Ace**<br />by _Reef_<br /> on Shoot Me Your Ace [2022] |
+| ![album cover][album-cover] | **Route 666**<br />by _Helltrain_<br /> on Route 666 [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c6b060fe8ca121e52adf053d
+[album-cover]: https://i.scdn.co/image/ab67616d000048517a00bc10cac7b74cef9408c2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
