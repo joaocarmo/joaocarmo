@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Route 666**<br />by _Helltrain_<br /> on Route 666 [2004] |
+| ![album cover][album-cover] | **Mate Spawn And Die**<br />by _Lard_<br /> on The Last Temptation Of Reid [1990] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517a00bc10cac7b74cef9408c2
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bd62504b1aed39e18c2f7407
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
