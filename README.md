@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Mate Spawn And Die**<br />by _Lard_<br /> on The Last Temptation Of Reid [1990] |
+| ![album cover][album-cover] | **The Greatest Fear**<br />by _Parkway Drive_<br /> on Darker Still [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bd62504b1aed39e18c2f7407
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e4551f6b8bdde8aaeaed85cd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
