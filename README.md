@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Greatest Fear**<br />by _Parkway Drive_<br /> on Darker Still [2022] |
+| ![album cover][album-cover] | **Loteria**<br />by _Hurrockaine_<br /> on Amantes Amentes [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e4551f6b8bdde8aaeaed85cd
+[album-cover]: https://i.scdn.co/image/ab67616d0000485179581935fadecbe565f9e807
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
