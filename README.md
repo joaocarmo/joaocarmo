@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Howlin' for You**<br />by _The Black Keys_<br /> on Brothers (Deluxe Remastered Anniversary Edition) [2020] |
+| ![album cover][album-cover] | **Oddball**<br />by _The Baboon Show_<br /> on God Bless You All [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851995cafb297bbedb4795bc673
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d020d4e893f10f0886ec8a2e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
