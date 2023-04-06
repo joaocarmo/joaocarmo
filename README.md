@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Indiscriminate Murder is Counter-Productive**<br />by _Machinae Supremacy_<br /> on A View From The End Of The World [2010] |
+| ![album cover][album-cover] | **Lost Boys**<br />by _The 69 Eyes_<br /> on Devils [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851019a15323feed566b1d97a91
+[album-cover]: https://i.scdn.co/image/ab67616d000048519608604a88bdb849331a21ae
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
