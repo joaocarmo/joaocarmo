@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Oddball**<br />by _The Baboon Show_<br /> on God Bless You All [2023] |
+| ![album cover][album-cover] | **Indiscriminate Murder is Counter-Productive**<br />by _Machinae Supremacy_<br /> on A View From The End Of The World [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d020d4e893f10f0886ec8a2e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851019a15323feed566b1d97a91
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
