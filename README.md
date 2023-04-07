@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Used to the Darkness**<br />by _Des Rocs_<br /> on Let the Vultures In [2018] |
+| ![album cover][album-cover] | **Pressure and Time**<br />by _Rival Sons_<br /> on Pressure & Time [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851979c11cfa4daa0ee228a2bab
+[album-cover]: https://i.scdn.co/image/ab67616d000048511989b4727337562a3f36c78f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
