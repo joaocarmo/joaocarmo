@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Pressure and Time**<br />by _Rival Sons_<br /> on Pressure & Time [2011] |
+| ![album cover][album-cover] | **As yet Untitled**<br />by _COUNTERFEIT._<br /> on Together We Are Stronger [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511989b4727337562a3f36c78f
+[album-cover]: https://i.scdn.co/image/ab67616d000048519048a6675f6bc1c173a13207
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
