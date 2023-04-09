@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Feel Good Inc.**<br />by _Gorillaz_<br /> on Demon Days [2005] |
+| ![album cover][album-cover] | **Morning Sun**<br />by _The Underground Youth_<br /> on Sadovaya [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485119d85a472f328a6ed9b704cf
+[album-cover]: https://i.scdn.co/image/ab67616d00004851678b9884cfb47c7dd2697b2f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
