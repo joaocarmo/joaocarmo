@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **As yet Untitled**<br />by _COUNTERFEIT._<br /> on Together We Are Stronger [2017] |
+| ![album cover][album-cover] | **Feel Good Inc.**<br />by _Gorillaz_<br /> on Demon Days [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519048a6675f6bc1c173a13207
+[album-cover]: https://i.scdn.co/image/ab67616d0000485119d85a472f328a6ed9b704cf
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
