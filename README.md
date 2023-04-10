@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **To Lose My Life**<br />by _White Lies_<br /> on To Lose My Life ... [2009] |
+| ![album cover][album-cover] | **Berlin**<br />by _Black Rebel Motorcycle Club_<br /> on Baby 81 [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485132fc28e3e988cd9911429b88
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e1c76251612b6f85a86aebb1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
