@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Señoras y Señores**<br />by _Sonotones_<br /> on No Hay Futuro [2016] |
+| ![album cover][album-cover] | **What I've Done**<br />by _Linkin Park_<br /> on Minutes to Midnight [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485165bf290aade587db8ebc3c4d
+[album-cover]: https://i.scdn.co/image/ab67616d0000485146e207de66ba06422897f769
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
