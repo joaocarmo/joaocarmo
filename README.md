@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Paparazzi**<br />by _Exit Eden_<br /> on Rhapsodies in Black [2017] |
+| ![album cover][album-cover] | **To Lose My Life**<br />by _White Lies_<br /> on To Lose My Life ... [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851accce2c1d6039c23227eef4f
+[album-cover]: https://i.scdn.co/image/ab67616d0000485132fc28e3e988cd9911429b88
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
