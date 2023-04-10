@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Berlin**<br />by _Black Rebel Motorcycle Club_<br /> on Baby 81 [2007] |
+| ![album cover][album-cover] | **Señoras y Señores**<br />by _Sonotones_<br /> on No Hay Futuro [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e1c76251612b6f85a86aebb1
+[album-cover]: https://i.scdn.co/image/ab67616d0000485165bf290aade587db8ebc3c4d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
