@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Manic Memories**<br />by _Des Rocs_<br /> on Manic Memories [2022] |
+| ![album cover][album-cover] | **Pencil Fight**<br />by _Atomship_<br /> on The Crash of '47 [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511757a710d940b5976b53d48a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c4adf58ae3bf4bb7494c4a5e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
