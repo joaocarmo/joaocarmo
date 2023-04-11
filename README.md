@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hail to the King**<br />by _Avenged Sevenfold_<br /> on Hail to the King [2013] |
+| ![album cover][album-cover] | **Manic Memories**<br />by _Des Rocs_<br /> on Manic Memories [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510ea1ecb2d5271c2db402b0c2
+[album-cover]: https://i.scdn.co/image/ab67616d000048511757a710d940b5976b53d48a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
