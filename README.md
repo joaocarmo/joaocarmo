@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bastard von Asgard (feat. Fabienne Erni)**<br />by _Feuerschwanz, Fabienne Erni_<br /> on Bastard von Asgard [2023] |
+| ![album cover][album-cover] | **Your Touch**<br />by _Foreign Air_<br /> on Hello Sunshine [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b67946622743af6b259de89f
+[album-cover]: https://i.scdn.co/image/ab67616d000048511dcfc3806014c9be622621e8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
