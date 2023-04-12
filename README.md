@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Mary On A Cross**<br />by _Ghost_<br /> on [MESSAGE FROM THE CLERGY] [2022] |
+| ![album cover][album-cover] | **Bastard von Asgard (feat. Fabienne Erni)**<br />by _Feuerschwanz, Fabienne Erni_<br /> on Bastard von Asgard [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851670331d6f704ada42d07f1f7
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b67946622743af6b259de89f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
