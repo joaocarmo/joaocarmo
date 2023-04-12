@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Pencil Fight**<br />by _Atomship_<br /> on The Crash of '47 [2004] |
+| ![album cover][album-cover] | **Indiscriminate Murder is Counter-Productive**<br />by _Machinae Supremacy_<br /> on A View From The End Of The World [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c4adf58ae3bf4bb7494c4a5e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851019a15323feed566b1d97a91
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
