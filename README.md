@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dude (Looks Like A Lady)**<br />by _Aerosmith_<br /> on Permanent Vacation [1987] |
+| ![album cover][album-cover] | **Let's Work Together**<br />by _Canned Heat_<br /> on Future Blues (Expanded Edition) [1970] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a8a965df6a845b265ee19106
+[album-cover]: https://i.scdn.co/image/ab67616d0000485103734cc395470357196c07f4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
