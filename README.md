@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Your Touch**<br />by _Foreign Air_<br /> on Hello Sunshine [2022] |
+| ![album cover][album-cover] | **.getawayfortheweekend.**<br />by _Dead Poet Society_<br /> on -!- [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511dcfc3806014c9be622621e8
+[album-cover]: https://i.scdn.co/image/ab67616d0000485189185a072a44cdc2a0cfefaa
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
