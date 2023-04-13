@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **.getawayfortheweekend.**<br />by _Dead Poet Society_<br /> on -!- [2021] |
+| ![album cover][album-cover] | **Dude (Looks Like A Lady)**<br />by _Aerosmith_<br /> on Permanent Vacation [1987] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485189185a072a44cdc2a0cfefaa
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a8a965df6a845b265ee19106
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
