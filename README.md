@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Let's Work Together**<br />by _Canned Heat_<br /> on Future Blues (Expanded Edition) [1970] |
+| ![album cover][album-cover] | **Mississippi King**<br />by _Five Horse Johnson_<br /> on The No. 6 Dance [2001] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485103734cc395470357196c07f4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a2313b51dac42591a7467a41
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
