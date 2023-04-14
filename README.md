@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Mary On A Cross - slowed + reverb**<br />by _Ghost_<br /> on [MESSAGE FROM THE CLERGY] [2022] |
+| ![album cover][album-cover] | **Fire**<br />by _Asteroid_<br /> on II [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851670331d6f704ada42d07f1f7
+[album-cover]: https://i.scdn.co/image/ab67616d0000485176ebf945cfcb22869afec004
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
