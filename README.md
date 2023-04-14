@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Mississippi King**<br />by _Five Horse Johnson_<br /> on The No. 6 Dance [2001] |
+| ![album cover][album-cover] | **Mary On A Cross - slowed + reverb**<br />by _Ghost_<br /> on [MESSAGE FROM THE CLERGY] [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a2313b51dac42591a7467a41
+[album-cover]: https://i.scdn.co/image/ab67616d00004851670331d6f704ada42d07f1f7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
