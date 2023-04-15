@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Funeralopolis**<br />by _Electric Wizard_<br /> on Dopethrone (Remaster) [2000] |
+| ![album cover][album-cover] | **Emperor**<br />by _Mark Lanegan_<br /> on Gargoyle [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510d22d5bbe47f72c19cb85a3a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a722fe80687de9611ea42a04
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
