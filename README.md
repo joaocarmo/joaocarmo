@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Fire**<br />by _Asteroid_<br /> on II [2010] |
+| ![album cover][album-cover] | **Funeralopolis**<br />by _Electric Wizard_<br /> on Dopethrone (Remaster) [2000] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485176ebf945cfcb22869afec004
+[album-cover]: https://i.scdn.co/image/ab67616d000048510d22d5bbe47f72c19cb85a3a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
