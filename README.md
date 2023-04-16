@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Nobody Move, Nobody Get Hurt**<br />by _We Are Scientists_<br /> on With Love And Squalor [2005] |
+| ![album cover][album-cover] | **Sundial**<br />by _Wolfmother_<br /> on Cosmic Egg [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e76e9b8bfb239b050c72a16f
+[album-cover]: https://i.scdn.co/image/ab67616d0000485137824f5d9998d7863bc88d4f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
