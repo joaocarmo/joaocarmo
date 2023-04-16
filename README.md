@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Emperor**<br />by _Mark Lanegan_<br /> on Gargoyle [2017] |
+| ![album cover][album-cover] | **Nobody Move, Nobody Get Hurt**<br />by _We Are Scientists_<br /> on With Love And Squalor [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a722fe80687de9611ea42a04
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e76e9b8bfb239b050c72a16f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
