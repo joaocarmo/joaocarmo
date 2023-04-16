@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sundial**<br />by _Wolfmother_<br /> on Cosmic Egg [2009] |
+| ![album cover][album-cover] | **Universal Phase**<br />by _Black Rainbows_<br /> on Cosmic Ritual Supertrip [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485137824f5d9998d7863bc88d4f
+[album-cover]: https://i.scdn.co/image/ab67616d000048511cbf28b427201d2ae4b56f42
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
