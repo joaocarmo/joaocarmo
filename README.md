@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I'm the Mountain**<br />by _Stoned Jesus_<br /> on Seven Thunders Roar [2012] |
+| ![album cover][album-cover] | **Kill Your Darlings**<br />by _Mesh_<br /> on Kill Your Darlings [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517e266fc9d1ed70ca5ab91cc9
+[album-cover]: https://i.scdn.co/image/ab67616d00004851dd6455d8138ad63332de5b28
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
