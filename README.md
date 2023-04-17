@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Universal Phase**<br />by _Black Rainbows_<br /> on Cosmic Ritual Supertrip [2020] |
+| ![album cover][album-cover] | **Eatin' Dust**<br />by _Fu Manchu_<br /> on Godzilla's / Eatin' Dust [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511cbf28b427201d2ae4b56f42
+[album-cover]: https://i.scdn.co/image/ab67616d000048512ee16776f180081db67652fe
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
