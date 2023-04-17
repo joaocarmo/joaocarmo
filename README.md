@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Eatin' Dust**<br />by _Fu Manchu_<br /> on Godzilla's / Eatin' Dust [2010] |
+| ![album cover][album-cover] | **I'm the Mountain**<br />by _Stoned Jesus_<br /> on Seven Thunders Roar [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512ee16776f180081db67652fe
+[album-cover]: https://i.scdn.co/image/ab67616d000048517e266fc9d1ed70ca5ab91cc9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
