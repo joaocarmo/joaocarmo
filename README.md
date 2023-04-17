@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Kill Your Darlings**<br />by _Mesh_<br /> on Kill Your Darlings [2016] |
+| ![album cover][album-cover] | **Older No Wiser**<br />by _Red Desert_<br /> on Damned by Fate [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851dd6455d8138ad63332de5b28
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a56d304c8d6fa0a6deb95416
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
