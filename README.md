@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **El Mañana**<br />by _Gorillaz_<br /> on Demon Days [2005] |
+| ![album cover][album-cover] | **Heavy Low**<br />by _We Hunt Buffalo_<br /> on Head Smashed In [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485119d85a472f328a6ed9b704cf
+[album-cover]: https://i.scdn.co/image/ab67616d0000485137b10398fb82963fe147e429
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
