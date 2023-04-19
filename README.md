@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Marching Dogs of War**<br />by _Orchid_<br /> on The Mouths of Madness [2013] |
+| ![album cover][album-cover] | **Hide It in the Night**<br />by _electric citizen_<br /> on Helltown [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ac487896150bb75e50c43739
+[album-cover]: https://i.scdn.co/image/ab67616d000048515c63d0f16c39867ffd3118de
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
