@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Heavy Low**<br />by _We Hunt Buffalo_<br /> on Head Smashed In [2018] |
+| ![album cover][album-cover] | **Marching Dogs of War**<br />by _Orchid_<br /> on The Mouths of Madness [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485137b10398fb82963fe147e429
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ac487896150bb75e50c43739
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
