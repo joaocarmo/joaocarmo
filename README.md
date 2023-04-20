@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hide It in the Night**<br />by _electric citizen_<br /> on Helltown [2018] |
+| ![album cover][album-cover] | **Liar**<br />by _Brutus_<br /> on Unison Life [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515c63d0f16c39867ffd3118de
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e85a24126a7b79e9c374bb81
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
