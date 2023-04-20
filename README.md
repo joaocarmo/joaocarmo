@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sin on Skin**<br />by _Those Damn Crows_<br /> on Point of No Return (Ultimate Edition) [2021] |
+| ![album cover][album-cover] | **I Bet They're Asleep In New York**<br />by _Call Me Malcolm_<br /> on Me, Myself and Something Else [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851328cf27979fc4e251581ad04
+[album-cover]: https://i.scdn.co/image/ab67616d0000485198518c5806619203d6ccb6b6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
