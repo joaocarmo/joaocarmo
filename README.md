@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Liar**<br />by _Brutus_<br /> on Unison Life [2022] |
+| ![album cover][album-cover] | **Sin on Skin**<br />by _Those Damn Crows_<br /> on Point of No Return (Ultimate Edition) [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e85a24126a7b79e9c374bb81
+[album-cover]: https://i.scdn.co/image/ab67616d00004851328cf27979fc4e251581ad04
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
