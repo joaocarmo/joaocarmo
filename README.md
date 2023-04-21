@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Pressure**<br />by _Muse_<br /> on Simulation Theory (Super Deluxe) [2018] |
+| ![album cover][album-cover] | **Don't Sit Down 'Cause I've Moved Your Chair**<br />by _Arctic Monkeys_<br /> on Suck It and See [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514cb163c1d111f77307c842b6
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cb44038b22f3d8a5e4e62d5a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
