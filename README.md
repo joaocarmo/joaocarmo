@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Don't Sit Down 'Cause I've Moved Your Chair**<br />by _Arctic Monkeys_<br /> on Suck It and See [2011] |
+| ![album cover][album-cover] | **Last Living Dinosaur**<br />by _Kadavar_<br /> on Berlin [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cb44038b22f3d8a5e4e62d5a
+[album-cover]: https://i.scdn.co/image/ab67616d000048510283c29c0b3f9c3c099c610d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
