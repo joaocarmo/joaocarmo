@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Kids Aren't Alright**<br />by _The Offspring_<br /> on Americana [1998] |
+| ![album cover][album-cover] | **Don't Stop**<br />by _Bad Nerves_<br /> on Don't Stop [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cbd2ee7dff77bfb2b5f0af52
+[album-cover]: https://i.scdn.co/image/ab67616d000048511c3a62d8d827d8e55b7ad5ba
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
