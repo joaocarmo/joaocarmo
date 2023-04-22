@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Last Living Dinosaur**<br />by _Kadavar_<br /> on Berlin [2015] |
+| ![album cover][album-cover] | **The Kids Aren't Alright**<br />by _The Offspring_<br /> on Americana [1998] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510283c29c0b3f9c3c099c610d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cbd2ee7dff77bfb2b5f0af52
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
