@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Mystify**<br />by _INXS_<br /> on Kick (Remastered 2011) [1987] |
+| ![album cover][album-cover] | **Electricity**<br />by _Arctic Monkeys_<br /> on R U Mine? / Electricity [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851dac4efc0ebdfd9d92f127129
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b47993a314c504506062cfb3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
