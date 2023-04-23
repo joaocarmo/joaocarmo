@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Electricity**<br />by _Arctic Monkeys_<br /> on R U Mine? / Electricity [2012] |
+| ![album cover][album-cover] | **World Paranormal**<br />by _Jess and the Ancient Ones_<br /> on Vertigo [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b47993a314c504506062cfb3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f6813490b9f4b67b6e81ff66
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
