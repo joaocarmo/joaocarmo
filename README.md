@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Prehistoric Dog**<br />by _Red Fang_<br /> on Red Fang [2009] |
+| ![album cover][album-cover] | **We’re Not Alright**<br />by _zebrahead_<br /> on Brain Invaders (Deluxe Edition) [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bc7bd2dafbd55237b170777c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e033145c911d305aed8ed66b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
