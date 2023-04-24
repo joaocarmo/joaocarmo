@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **World Paranormal**<br />by _Jess and the Ancient Ones_<br /> on Vertigo [2021] |
+| ![album cover][album-cover] | **Prehistoric Dog**<br />by _Red Fang_<br /> on Red Fang [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f6813490b9f4b67b6e81ff66
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bc7bd2dafbd55237b170777c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
