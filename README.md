@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **We’re Not Alright**<br />by _zebrahead_<br /> on Brain Invaders (Deluxe Edition) [2019] |
+| ![album cover][album-cover] | **Black Holes (Solid Ground)**<br />by _The Blue Stones_<br /> on Black Holes [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e033145c911d305aed8ed66b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c8cda1be549790f809b8e7e0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
