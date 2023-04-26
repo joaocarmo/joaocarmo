@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hareklavit**<br />by _Keygen Church_<br /> on ░█░█░░█░█░█░ [2021] |
+| ![album cover][album-cover] | **Black Moon**<br />by _Cellar Darling_<br /> on This Is the Sound [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485171297ef02b95ac4546009c6e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c02f13a41ff0fbf4523fc31c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
