@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Black Holes (Solid Ground)**<br />by _The Blue Stones_<br /> on Black Holes [2018] |
+| ![album cover][album-cover] | **Hareklavit**<br />by _Keygen Church_<br /> on ░█░█░░█░█░█░ [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c8cda1be549790f809b8e7e0
+[album-cover]: https://i.scdn.co/image/ab67616d0000485171297ef02b95ac4546009c6e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
