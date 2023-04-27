@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **No One Loves Me and Neither Do I**<br />by _Them Crooked Vultures_<br /> on Them Crooked Vultures [2009] |
+| ![album cover][album-cover] | **Hypno**<br />by _The Stone Foxes_<br /> on Visalia [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517355bb17937d57983e09f9f9
+[album-cover]: https://i.scdn.co/image/ab67616d0000485161bf0622115e5f6eb32534b4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
