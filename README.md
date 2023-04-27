@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Black Moon**<br />by _Cellar Darling_<br /> on This Is the Sound [2017] |
+| ![album cover][album-cover] | **No One Loves Me and Neither Do I**<br />by _Them Crooked Vultures_<br /> on Them Crooked Vultures [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c02f13a41ff0fbf4523fc31c
+[album-cover]: https://i.scdn.co/image/ab67616d000048517355bb17937d57983e09f9f9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
