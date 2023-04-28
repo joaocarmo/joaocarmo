@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hypno**<br />by _The Stone Foxes_<br /> on Visalia [2017] |
+| ![album cover][album-cover] | **Panic Station**<br />by _Muse_<br /> on The 2nd Law [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485161bf0622115e5f6eb32534b4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fc192c54d1823a04ffb6c8c9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
