@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dream On**<br />by _Aerosmith_<br /> on Aerosmith [1973] |
+| ![album cover][album-cover] | **Woman**<br />by _Wolfmother_<br /> on Wolfmother [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bbf0146981704a073405b6c2
+[album-cover]: https://i.scdn.co/image/ab67616d00004851335534788cbc39cfd23ee993
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
