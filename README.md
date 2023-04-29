@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Woman**<br />by _Wolfmother_<br /> on Wolfmother [2005] |
+| ![album cover][album-cover] | **Need You Tonight**<br />by _INXS_<br /> on Kick (Remastered 2011) [1987] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851335534788cbc39cfd23ee993
+[album-cover]: https://i.scdn.co/image/ab67616d00004851dac4efc0ebdfd9d92f127129
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
