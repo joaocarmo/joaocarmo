@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Stayin' Alive**<br />by _Bee Gees_<br /> on Staying Alive (Original Motion Picture Soundtrack) [1977] |
+| ![album cover][album-cover] | **A Teia - Ao Vivo**<br />by _Humanos_<br /> on Humanos Ao Vivo [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485155fb38fda5321a8923911ff9
+[album-cover]: https://i.scdn.co/image/ab67616d000048516bdd37dfc7f80d0d3d95efb7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
