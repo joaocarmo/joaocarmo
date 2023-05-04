@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **A Teia - Ao Vivo**<br />by _Humanos_<br /> on Humanos Ao Vivo [2006] |
+| ![album cover][album-cover] | **Furia**<br />by _Mass Hysteria_<br /> on Contraddiction [1999] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516bdd37dfc7f80d0d3d95efb7
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b61161dff1229ca42338bd6d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
