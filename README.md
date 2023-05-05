@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Evil Eye**<br />by _Fu Manchu_<br /> on The Action Is Go [1997] |
+| ![album cover][album-cover] | **One + One**<br />by _HYPER!_<br /> on Breakfast [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519f3e244fe6dbc178918320b2
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c9312df5e8422917b835b31c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
