@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Run Right Back**<br />by _The Black Keys_<br /> on El Camino [2011] |
+| ![album cover][album-cover] | **Evil Eye**<br />by _Fu Manchu_<br /> on The Action Is Go [1997] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516a21b97de47168df4f0c1993
+[album-cover]: https://i.scdn.co/image/ab67616d000048519f3e244fe6dbc178918320b2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
