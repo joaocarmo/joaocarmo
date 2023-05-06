@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **One + One**<br />by _HYPER!_<br /> on Breakfast [2019] |
+| ![album cover][album-cover] | **Paranoid**<br />by _Black Sabbath_<br /> on Paranoid (2009 Remastered Version) [1970] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c9312df5e8422917b835b31c
+[album-cover]: https://i.scdn.co/image/ab67616d000048519683e5d7361bb80bfb00f46d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
