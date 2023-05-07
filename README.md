@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Paranoid**<br />by _Black Sabbath_<br /> on Paranoid (2009 Remastered Version) [1970] |
+| ![album cover][album-cover] | **Protect The Land**<br />by _System Of A Down_<br /> on Protect The Land / Genocidal Humanoidz [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519683e5d7361bb80bfb00f46d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ba00e990d1520a4cde41ce0c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
