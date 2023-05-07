@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Protect The Land**<br />by _System Of A Down_<br /> on Protect The Land / Genocidal Humanoidz [2020] |
+| ![album cover][album-cover] | **Lady of the Dark**<br />by _Sabaton_<br /> on The War to End All Wars [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ba00e990d1520a4cde41ce0c
+[album-cover]: https://i.scdn.co/image/ab67616d000048514973c03327b47148881afe9c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
