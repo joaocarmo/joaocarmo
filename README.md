@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Clint Eastwood (Metal Version)**<br />by _Leo_<br /> on Leo Metal, Vol. 41 [2023] |
+| ![album cover][album-cover] | **Rat Race**<br />by _Billy Idol_<br /> on Devil's Playground [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851439b7580dceb1f04d9fb6de9
+[album-cover]: https://i.scdn.co/image/ab67616d00004851034526950c37020773b72f37
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
