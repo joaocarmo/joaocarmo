@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Meet Your Maker**<br />by _In Flames_<br /> on Foregone [2023] |
+| ![album cover][album-cover] | **Clint Eastwood (Metal Version)**<br />by _Leo_<br /> on Leo Metal, Vol. 41 [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d156aa78022844777cc51267
+[album-cover]: https://i.scdn.co/image/ab67616d00004851439b7580dceb1f04d9fb6de9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
