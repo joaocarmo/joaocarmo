@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lady of the Dark**<br />by _Sabaton_<br /> on The War to End All Wars [2022] |
+| ![album cover][album-cover] | **Meet Your Maker**<br />by _In Flames_<br /> on Foregone [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514973c03327b47148881afe9c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d156aa78022844777cc51267
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
