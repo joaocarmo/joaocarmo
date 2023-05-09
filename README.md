@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Rat Race**<br />by _Billy Idol_<br /> on Devil's Playground [2005] |
+| ![album cover][album-cover] | **Mitä iistimpää, sitä siistimpää**<br />by _Notkea Rotta_<br /> on Notkea Rotta [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851034526950c37020773b72f37
+[album-cover]: https://i.scdn.co/image/ab67616d00004851293c5dc729170d7989e88456
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
