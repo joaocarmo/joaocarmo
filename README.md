@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Mitä iistimpää, sitä siistimpää**<br />by _Notkea Rotta_<br /> on Notkea Rotta [2012] |
+| ![album cover][album-cover] | **Hurt**<br />by _Johnny Cash_<br /> on American IV: The Man Comes Around [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851293c5dc729170d7989e88456
+[album-cover]: https://i.scdn.co/image/ab67616d000048516f4f62da3d811b6501a69ffa
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
