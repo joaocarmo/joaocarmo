@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hurt**<br />by _Johnny Cash_<br /> on American IV: The Man Comes Around [2002] |
+| ![album cover][album-cover] | **Look To Your Orb For The Warning**<br />by _Monster Magnet_<br /> on Dopes To Infinity [1995] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516f4f62da3d811b6501a69ffa
+[album-cover]: https://i.scdn.co/image/ab67616d000048518e3090c027167e7008df9f1c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
