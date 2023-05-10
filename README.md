@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Look To Your Orb For The Warning**<br />by _Monster Magnet_<br /> on Dopes To Infinity [1995] |
+| ![album cover][album-cover] | **Time is Running Out**<br />by _Muse_<br /> on Absolution [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518e3090c027167e7008df9f1c
+[album-cover]: https://i.scdn.co/image/ab67616d000048518cb690f962092fd44bbe2bf4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
