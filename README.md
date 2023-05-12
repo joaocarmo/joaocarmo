@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Time is Running Out**<br />by _Muse_<br /> on Absolution [2004] |
+| ![album cover][album-cover] | **In the End**<br />by _Linkin Park_<br /> on Hybrid Theory (Bonus Edition) [2000] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518cb690f962092fd44bbe2bf4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e2f039481babe23658fc719a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
