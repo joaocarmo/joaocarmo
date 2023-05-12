@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **In the End**<br />by _Linkin Park_<br /> on Hybrid Theory (Bonus Edition) [2000] |
+| ![album cover][album-cover] | **Tattooed Smiles**<br />by _Black Box Revelation_<br /> on Tattooed Smiles [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e2f039481babe23658fc719a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d84e1c75b37dc93929c4fd96
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
