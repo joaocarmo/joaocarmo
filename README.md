@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Tattooed Smiles**<br />by _Black Box Revelation_<br /> on Tattooed Smiles [2018] |
+| ![album cover][album-cover] | **Towing The Line**<br />by _Ben Howard_<br /> on Noonday Dream [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d84e1c75b37dc93929c4fd96
+[album-cover]: https://i.scdn.co/image/ab67616d0000485192c2c7a51d8009481a211067
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
