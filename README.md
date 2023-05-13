@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Towing The Line**<br />by _Ben Howard_<br /> on Noonday Dream [2018] |
+| ![album cover][album-cover] | **Paint**<br />by _The Paper Kites_<br /> on Young North [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485192c2c7a51d8009481a211067
+[album-cover]: https://i.scdn.co/image/ab67616d00004851badc29f1dadb78abeb04e3bb
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
