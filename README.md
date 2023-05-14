@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Paint**<br />by _The Paper Kites_<br /> on Young North [2013] |
+| ![album cover][album-cover] | **Time**<br />by _Hans Zimmer_<br /> on Inception (Music from the Motion Picture) [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851badc29f1dadb78abeb04e3bb
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a883e26f90ab617c91b90e56
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
