@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Time**<br />by _Hans Zimmer_<br /> on Inception (Music from the Motion Picture) [2010] |
+| ![album cover][album-cover] | **The Body is Ready**<br />by _Hans Zimmer, David Fleming_<br /> on The Night Logan Woke Up (Original Series Soundtrack) [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a883e26f90ab617c91b90e56
+[album-cover]: https://i.scdn.co/image/ab67616d000048514c7a153dc049574b4434211c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
