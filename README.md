@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Body is Ready**<br />by _Hans Zimmer, David Fleming_<br /> on The Night Logan Woke Up (Original Series Soundtrack) [2023] |
+| ![album cover][album-cover] | **Arrival of the Birds**<br />by _The Cinematic Orchestra, London Metropolitan Orchestra_<br /> on The Crimson Wing: Mystery of the Flamingos (Original Soundtrack) [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514c7a153dc049574b4434211c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ed59cea75575ea8166c23bdb
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
