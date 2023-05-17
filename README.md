@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Arrival of the Birds**<br />by _The Cinematic Orchestra, London Metropolitan Orchestra_<br /> on The Crimson Wing: Mystery of the Flamingos (Original Soundtrack) [2008] |
+| ![album cover][album-cover] | **Lonely Boy**<br />by _The Black Keys_<br /> on El Camino [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ed59cea75575ea8166c23bdb
+[album-cover]: https://i.scdn.co/image/ab67616d000048516a21b97de47168df4f0c1993
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
