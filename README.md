@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Kill Your Darlings**<br />by _Mesh_<br /> on Kill Your Darlings [2016] |
+| ![album cover][album-cover] | **Tax on Death**<br />by _Middle Class Rut_<br /> on Tax on Death [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851dd6455d8138ad63332de5b28
+[album-cover]: https://i.scdn.co/image/ab67616d000048515ca5022e3491246110f6f3a3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
