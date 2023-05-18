@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Take Me Out**<br />by _Franz Ferdinand_<br /> on Franz Ferdinand [2004] |
+| ![album cover][album-cover] | **Kill Your Darlings**<br />by _Mesh_<br /> on Kill Your Darlings [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485109a90531b85be7899c3234c4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851dd6455d8138ad63332de5b28
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
