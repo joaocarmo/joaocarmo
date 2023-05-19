@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Self Love Age**<br />by _KO KO MO_<br /> on Lemon Twins [2019] |
+| ![album cover][album-cover] | **Like A Drug**<br />by _BRKN LOVE_<br /> on Black Box [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485107a09064afe75259b6e05b45
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c8a57e4aecd133175d770d27
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
