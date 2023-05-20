@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Like A Drug**<br />by _BRKN LOVE_<br /> on Black Box [2022] |
+| ![album cover][album-cover] | **gxxgle maps**<br />by _Story Untold_<br /> on gxxgle maps [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c8a57e4aecd133175d770d27
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b87bace0c3d6125c561a0e8d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
