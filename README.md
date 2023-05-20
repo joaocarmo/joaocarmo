@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **gxxgle maps**<br />by _Story Untold_<br /> on gxxgle maps [2021] |
+| ![album cover][album-cover] | **About A Girl**<br />by _Nirvana_<br /> on Nirvana [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b87bace0c3d6125c561a0e8d
+[album-cover]: https://i.scdn.co/image/ab67616d0000485156072fea6785a3ad2d24237c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
