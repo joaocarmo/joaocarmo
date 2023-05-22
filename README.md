@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **About A Girl**<br />by _Nirvana_<br /> on Nirvana [2002] |
+| ![album cover][album-cover] | **The Defeat**<br />by _Ben Howard_<br /> on Noonday Dream [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485156072fea6785a3ad2d24237c
+[album-cover]: https://i.scdn.co/image/ab67616d0000485192c2c7a51d8009481a211067
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
