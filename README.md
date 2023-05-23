@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Defeat**<br />by _Ben Howard_<br /> on Noonday Dream [2018] |
+| ![album cover][album-cover] | **Birthplace**<br />by _Novo Amor_<br /> on Birthplace [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485192c2c7a51d8009481a211067
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bb7f4860ea8f7f6515756252
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
