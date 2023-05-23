@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Spillways**<br />by _Ghost_<br /> on IMPERA [2022] |
+| ![album cover][album-cover] | **N.I.B.**<br />by _Brownout, Brown Sabbath, Alex Marrero_<br /> on Brownout Presents Brown Sabbath [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485139df655040aa0f194c6d2972
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b92cb2850e35dcfac0c63229
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
