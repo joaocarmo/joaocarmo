@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **N.I.B.**<br />by _Brownout, Brown Sabbath, Alex Marrero_<br /> on Brownout Presents Brown Sabbath [2014] |
+| ![album cover][album-cover] | **Journey of the Host**<br />by _Dave Lombardo_<br /> on Rites Of Percussion [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b92cb2850e35dcfac0c63229
+[album-cover]: https://i.scdn.co/image/ab67616d000048514fa25c277e7037462474c0ff
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
