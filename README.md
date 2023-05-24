@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Journey of the Host**<br />by _Dave Lombardo_<br /> on Rites Of Percussion [2023] |
+| ![album cover][album-cover] | **Promise**<br />by _Voyager_<br /> on Promise [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514fa25c277e7037462474c0ff
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b3250f964a7ef3d6e50e0725
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
