@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Promise**<br />by _Voyager_<br /> on Promise [2023] |
+| ![album cover][album-cover] | **Ready Steady Go**<br />by _Sick Puppies_<br /> on Ready Steady Go [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b3250f964a7ef3d6e50e0725
+[album-cover]: https://i.scdn.co/image/ab67616d0000485125488dd78bd305fc117ee25a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
