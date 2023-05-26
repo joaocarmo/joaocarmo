@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Ready Steady Go**<br />by _Sick Puppies_<br /> on Ready Steady Go [2022] |
+| ![album cover][album-cover] | **Red Nation**<br />by _The Game, Lil Wayne_<br /> on The R.E.D. Album [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485125488dd78bd305fc117ee25a
+[album-cover]: https://i.scdn.co/image/ab67616d000048519694b30f3bf3eb96a95e18da
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
