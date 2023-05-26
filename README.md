@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Red Nation**<br />by _The Game, Lil Wayne_<br /> on The R.E.D. Album [2011] |
+| ![album cover][album-cover] | **No One Knows**<br />by _Queens of the Stone Age_<br /> on Songs For The Deaf [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519694b30f3bf3eb96a95e18da
+[album-cover]: https://i.scdn.co/image/ab67616d000048519eec33b045d88f87b9b06e67
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
