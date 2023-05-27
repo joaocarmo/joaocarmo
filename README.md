@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **My Friend John**<br />by _The Fratellis_<br /> on Here We Stand (other BPs international) [2008] |
+| ![album cover][album-cover] | **Ni**as In Paris**<br />by _JAY-Z, Kanye West_<br /> on Watch The Throne (Deluxe) [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f66177339bc1b9814d6fee81
+[album-cover]: https://i.scdn.co/image/ab67616d00004851699bfca9512ee8d1fbf126a7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
