@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Chain - 2004 Remaster**<br />by _Fleetwood Mac_<br /> on Rumours (Super Deluxe) [1977] |
+| ![album cover][album-cover] | **Enjoy the Silence**<br />by _Depeche Mode_<br /> on Violator | The 12" Singles [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e52a59a28efa4773dd2bfe1b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851972ac79d249efed1c7b2c8c1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
