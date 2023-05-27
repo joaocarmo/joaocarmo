@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Ni**as In Paris**<br />by _JAY-Z, Kanye West_<br /> on Watch The Throne (Deluxe) [2011] |
+| ![album cover][album-cover] | **The Chain - 2004 Remaster**<br />by _Fleetwood Mac_<br /> on Rumours (Super Deluxe) [1977] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851699bfca9512ee8d1fbf126a7
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e52a59a28efa4773dd2bfe1b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
