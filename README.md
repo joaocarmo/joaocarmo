@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Enjoy the Silence**<br />by _Depeche Mode_<br /> on Violator | The 12" Singles [2022] |
+| ![album cover][album-cover] | **Go Your Own Way - 2004 Remaster**<br />by _Fleetwood Mac_<br /> on Rumours [1977] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851972ac79d249efed1c7b2c8c1
+[album-cover]: https://i.scdn.co/image/ab67616d0000485157df7ce0eac715cf70e519a7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
