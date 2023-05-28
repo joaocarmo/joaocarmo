@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Go Your Own Way - 2004 Remaster**<br />by _Fleetwood Mac_<br /> on Rumours [1977] |
+| ![album cover][album-cover] | **Hail to the King**<br />by _Avenged Sevenfold_<br /> on Hail to the King [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485157df7ce0eac715cf70e519a7
+[album-cover]: https://i.scdn.co/image/ab67616d000048510ea1ecb2d5271c2db402b0c2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
