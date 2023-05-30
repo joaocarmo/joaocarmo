@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **So Far Away**<br />by _Avenged Sevenfold_<br /> on Nightmare [2010] |
+| ![album cover][album-cover] | **Red**<br />by _Ramkot_<br /> on Red [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c34064a3c5e4a25892a091f3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e09e7dc524eea3b411687c83
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
