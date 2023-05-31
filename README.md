@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **It's in the bag**<br />by _Melrose_<br /> on It's In The Bag [2002] |
+| ![album cover][album-cover] | **Look To Your Orb For The Warning**<br />by _Monster Magnet_<br /> on Dopes To Infinity [1995] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485148d86df219bf7e8fdd45a591
+[album-cover]: https://i.scdn.co/image/ab67616d000048518e3090c027167e7008df9f1c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
