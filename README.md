@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Red**<br />by _Ramkot_<br /> on Red [2021] |
+| ![album cover][album-cover] | **It's in the bag**<br />by _Melrose_<br /> on It's In The Bag [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e09e7dc524eea3b411687c83
+[album-cover]: https://i.scdn.co/image/ab67616d0000485148d86df219bf7e8fdd45a591
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
