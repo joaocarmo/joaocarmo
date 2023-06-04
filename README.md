@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bad Blood**<br />by _Black Pistol Fire_<br /> on Don't Wake the Riot [2016] |
+| ![album cover][album-cover] | **Scenario**<br />by _Subvision_<br /> on So Far so Noir [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485199daa496029bcfd0d8ce55b3
+[album-cover]: https://i.scdn.co/image/ab67616d0000485127dd0bb5c34679b3f9723008
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
