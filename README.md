@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Scenario**<br />by _Subvision_<br /> on So Far so Noir [2006] |
+| ![album cover][album-cover] | **In the Name of Tragedy**<br />by _Motörhead_<br /> on Inferno [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485127dd0bb5c34679b3f9723008
+[album-cover]: https://i.scdn.co/image/ab67616d0000485153dfe2a9cdfa4597a63bf597
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
