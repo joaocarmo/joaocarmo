@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hate To Say I Told You So**<br />by _The Hives_<br /> on Veni Vidi Vicious [2000] |
+| ![album cover][album-cover] | **Square Hammer**<br />by _Ghost_<br /> on [MESSAGE FROM THE CLERGY] [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485185c160f9951c570a8e81f998
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f7dbc53976b1ed64fa5c172b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
