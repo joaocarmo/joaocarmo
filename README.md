@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **In the Name of Tragedy**<br />by _Motörhead_<br /> on Inferno [2004] |
+| ![album cover][album-cover] | **Hate To Say I Told You So**<br />by _The Hives_<br /> on Veni Vidi Vicious [2000] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485153dfe2a9cdfa4597a63bf597
+[album-cover]: https://i.scdn.co/image/ab67616d0000485185c160f9951c570a8e81f998
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
