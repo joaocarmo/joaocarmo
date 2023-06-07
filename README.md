@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Square Hammer**<br />by _Ghost_<br /> on [MESSAGE FROM THE CLERGY] [2022] |
+| ![album cover][album-cover] | **A Cut Inside**<br />by _The Cult_<br /> on Under The Midnight Sun [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f7dbc53976b1ed64fa5c172b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e84543d0714c0211fcef6b79
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
