@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **A Cut Inside**<br />by _The Cult_<br /> on Under The Midnight Sun [2022] |
+| ![album cover][album-cover] | **Peach Trees**<br />by _Barerra_<br /> on I'm Not Your Girl [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e84543d0714c0211fcef6b79
+[album-cover]: https://i.scdn.co/image/ab67616d000048512ef55ad8538548926ee0a5d1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
