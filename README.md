@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Peach Trees**<br />by _Barerra_<br /> on I'm Not Your Girl [2023] |
+| ![album cover][album-cover] | **Wannabe in L.A**<br />by _Eagles Of Death Metal_<br /> on Heart On [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512ef55ad8538548926ee0a5d1
+[album-cover]: https://i.scdn.co/image/ab67616d000048518c28853e104e7c93373f6695
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
