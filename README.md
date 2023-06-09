@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wannabe in L.A**<br />by _Eagles Of Death Metal_<br /> on Heart On [2008] |
+| ![album cover][album-cover] | **In The Wind**<br />by _Steve Vai_<br /> on Vai/Gash [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518c28853e104e7c93373f6695
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f7d8b3ca6c4a1f578c2b0ac7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
