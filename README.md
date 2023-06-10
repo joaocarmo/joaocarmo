@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **In The Wind**<br />by _Steve Vai_<br /> on Vai/Gash [2023] |
+| ![album cover][album-cover] | **Lights, Camera, Action**<br />by _Nonpoint_<br /> on Nonpoint [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f7d8b3ca6c4a1f578c2b0ac7
+[album-cover]: https://i.scdn.co/image/ab67616d000048510e8fc61b50581f11c02e42fe
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
