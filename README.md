@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lights, Camera, Action**<br />by _Nonpoint_<br /> on Nonpoint [2012] |
+| ![album cover][album-cover] | **Faster Than Light (From Stellaris Original Game Soundtrack) - Instrumental**<br />by _Paradox Interactive, Andreas Waldetoft_<br /> on Stellaris (Original Game Soundtrack) [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510e8fc61b50581f11c02e42fe
+[album-cover]: https://i.scdn.co/image/ab67616d0000485169aff599538f15c73a34252c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
