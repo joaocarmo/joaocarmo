@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Faster Than Light (From Stellaris Original Game Soundtrack) - Instrumental**<br />by _Paradox Interactive, Andreas Waldetoft_<br /> on Stellaris (Original Game Soundtrack) [2016] |
+| ![album cover][album-cover] | **Kiss The Go-Goat**<br />by _Ghost_<br /> on Seven Inches Of Satanic Panic [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485169aff599538f15c73a34252c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bef9b0a348ea8dd18a581025
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
