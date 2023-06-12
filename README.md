@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Kiss The Go-Goat**<br />by _Ghost_<br /> on Seven Inches Of Satanic Panic [2019] |
+| ![album cover][album-cover] | **Nineteen**<br />by _Karma To Burn_<br /> on Almost Heathen [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bef9b0a348ea8dd18a581025
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c24bac52d271ab116e700009
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
