@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Hunt - 2005 Remaster**<br />by _New Model Army_<br /> on The Ghost Of Cain (Bonus Content) [1990] |
+| ![album cover][album-cover] | **Mary Jane's Last Dance**<br />by _Tom Petty and the Heartbreakers_<br /> on Greatest Hits [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851794710a4da4011442f39c18c
+[album-cover]: https://i.scdn.co/image/ab67616d000048510c3a1b46b6b846dfdfbc6a7d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
