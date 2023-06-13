@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Awakening the Gateway**<br />by _Daikaiju_<br /> on Phase 3 [2023] |
+| ![album cover][album-cover] | **Red**<br />by _Ramkot_<br /> on Red [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515fc27ceababe4d8ec3f38e0e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e09e7dc524eea3b411687c83
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
