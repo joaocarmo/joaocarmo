@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bad Romance**<br />by _Lady Gaga_<br /> on The Fame Monster (Deluxe Edition) [2009] |
+| ![album cover][album-cover] | **Take Me To Church**<br />by _Hozier_<br /> on Hozier [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515c9890c0456a3719eeecd8aa
+[album-cover]: https://i.scdn.co/image/ab67616d000048517a9bf5f82e32d33d4503fe7b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
