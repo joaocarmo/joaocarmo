@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Take Me To Church**<br />by _Hozier_<br /> on Hozier [2014] |
+| ![album cover][album-cover] | **She Wolf (Falling to Pieces) [feat. Sia]**<br />by _David Guetta, Sia_<br /> on Nothing but the Beat (Ultimate Edition) [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517a9bf5f82e32d33d4503fe7b
+[album-cover]: https://i.scdn.co/image/ab67616d000048515c8cfe4b2c4aa89c9c92108e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
