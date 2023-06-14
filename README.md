@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **She Wolf (Falling to Pieces) [feat. Sia]**<br />by _David Guetta, Sia_<br /> on Nothing but the Beat (Ultimate Edition) [2012] |
+| ![album cover][album-cover] | **Apologize**<br />by _Timbaland, OneRepublic_<br /> on Shock Value [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515c8cfe4b2c4aa89c9c92108e
+[album-cover]: https://i.scdn.co/image/ab67616d000048514ed674ab91bdc566534f9285
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
