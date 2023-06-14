@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Mary Jane's Last Dance**<br />by _Tom Petty and the Heartbreakers_<br /> on Greatest Hits [2008] |
+| ![album cover][album-cover] | **Bad Romance**<br />by _Lady Gaga_<br /> on The Fame Monster (Deluxe Edition) [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510c3a1b46b6b846dfdfbc6a7d
+[album-cover]: https://i.scdn.co/image/ab67616d000048515c9890c0456a3719eeecd8aa
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
