@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Do Your Worst**<br />by _Rival Sons_<br /> on Do Your Worst [2018] |
+| ![album cover][album-cover] | **Interlude (Reprise) - Lake Isabel Rework**<br />by _Illuminine, Lake Isabel_<br /> on Dear, Piano [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510d7556aa5e57e36b7e5e1294
+[album-cover]: https://i.scdn.co/image/ab67616d0000485179e7e41d4ca2a5edab29a5d8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
