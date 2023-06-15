@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Apologize**<br />by _Timbaland, OneRepublic_<br /> on Shock Value [2007] |
+| ![album cover][album-cover] | **Do Your Worst**<br />by _Rival Sons_<br /> on Do Your Worst [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514ed674ab91bdc566534f9285
+[album-cover]: https://i.scdn.co/image/ab67616d000048510d7556aa5e57e36b7e5e1294
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
