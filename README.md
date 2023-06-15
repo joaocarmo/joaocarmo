@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Interlude (Reprise) - Lake Isabel Rework**<br />by _Illuminine, Lake Isabel_<br /> on Dear, Piano [2020] |
+| ![album cover][album-cover] | **Roller**<br />by _April Wine_<br /> on April Wine: Greatest Hits [1991] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485179e7e41d4ca2a5edab29a5d8
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d4b9be30862a9da519afd823
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
