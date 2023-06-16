@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Roller**<br />by _April Wine_<br /> on April Wine: Greatest Hits [1991] |
+| ![album cover][album-cover] | **Just Can't Get Enough**<br />by _Depeche Mode_<br /> on Speak And Spell (Deluxe) [1981] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d4b9be30862a9da519afd823
+[album-cover]: https://i.scdn.co/image/ab67616d0000485188ffe8c41647856e6fa5e1ab
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
