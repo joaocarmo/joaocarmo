@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Edge of Seventeen - 2016 Remaster**<br />by _Stevie Nicks_<br /> on Bella Donna (2016 Remastered) [1981] |
+| ![album cover][album-cover] | **Fortunate Son**<br />by _Creedence Clearwater Revival_<br /> on Willy And The Poor Boys (Expanded Edition) [1969] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851af14d74d5e308ce2f3ec22f8
+[album-cover]: https://i.scdn.co/image/ab67616d000048519f39192f9f8ca1c90847b3e5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
