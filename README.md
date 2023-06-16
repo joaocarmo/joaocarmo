@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Fortunate Son**<br />by _Creedence Clearwater Revival_<br /> on Willy And The Poor Boys (Expanded Edition) [1969] |
+| ![album cover][album-cover] | **Need You Tonight**<br />by _INXS_<br /> on Kick (Remastered 2011) [1987] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519f39192f9f8ca1c90847b3e5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851dac4efc0ebdfd9d92f127129
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
