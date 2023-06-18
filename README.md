@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Need You Tonight**<br />by _INXS_<br /> on Kick (Remastered 2011) [1987] |
+| ![album cover][album-cover] | **The Overload**<br />by _Yard Act_<br /> on The Overload [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851dac4efc0ebdfd9d92f127129
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e9cb95bcfb8b7ce00a2c2fa0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
