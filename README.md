@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Overload**<br />by _Yard Act_<br /> on The Overload [2022] |
+| ![album cover][album-cover] | **Exit 353**<br />by _Damien Jurado_<br /> on Visions of Us on the Land [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e9cb95bcfb8b7ce00a2c2fa0
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f1a5d354f8b28f57b1e9b3ad
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
