@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hey Gringo**<br />by _KALEO_<br /> on Surface Sounds [2021] |
+| ![album cover][album-cover] | **Path Vol. 2**<br />by _Apocalyptica, Sandra Nasic_<br /> on Cult [2000] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515956beefe0c79f85aec384b6
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f0c36c1e4b9dcac2c566cf15
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
