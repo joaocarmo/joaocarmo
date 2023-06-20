@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Exit 353**<br />by _Damien Jurado_<br /> on Visions of Us on the Land [2016] |
+| ![album cover][album-cover] | **Lights, Camera, Action**<br />by _Nonpoint_<br /> on Nonpoint [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f1a5d354f8b28f57b1e9b3ad
+[album-cover]: https://i.scdn.co/image/ab67616d000048510e8fc61b50581f11c02e42fe
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
