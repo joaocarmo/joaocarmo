@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lights, Camera, Action**<br />by _Nonpoint_<br /> on Nonpoint [2012] |
+| ![album cover][album-cover] | **Hey Gringo**<br />by _KALEO_<br /> on Surface Sounds [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510e8fc61b50581f11c02e42fe
+[album-cover]: https://i.scdn.co/image/ab67616d000048515956beefe0c79f85aec384b6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
