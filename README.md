@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Path Vol. 2**<br />by _Apocalyptica, Sandra Nasic_<br /> on Cult [2000] |
+| ![album cover][album-cover] | **Amaranth**<br />by _Nightwish_<br /> on Dark Passion Play [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f0c36c1e4b9dcac2c566cf15
+[album-cover]: https://i.scdn.co/image/ab67616d000048517988cb5b6506529454590ece
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
