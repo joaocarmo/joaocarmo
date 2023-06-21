@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Amaranth**<br />by _Nightwish_<br /> on Dark Passion Play [2007] |
+| ![album cover][album-cover] | **Here To Stay**<br />by _Korn_<br /> on Untouchables [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517988cb5b6506529454590ece
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b9b950561aa1d3606865a2ee
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
