@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **How You Like Me Now**<br />by _The Heavy_<br /> on The House That Dirt Built [2009] |
+| ![album cover][album-cover] | **Love Again**<br />by _Dua Lipa_<br /> on Future Nostalgia (The Moonlight Edition) [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485187aa34532133fbd0ba267b16
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ef12a4e8cdb297684e197cc4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
