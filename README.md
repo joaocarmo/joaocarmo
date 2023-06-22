@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Love Again**<br />by _Dua Lipa_<br /> on Future Nostalgia (The Moonlight Edition) [2021] |
+| ![album cover][album-cover] | **The Chariot**<br />by _Valley of the Sun_<br /> on The Chariot [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ef12a4e8cdb297684e197cc4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b8e0eb753e534347f63ed82b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
