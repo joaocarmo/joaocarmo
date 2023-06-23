@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Movin’ On**<br />by _Tom Meighan_<br /> on Movin’ On [2022] |
+| ![album cover][album-cover] | **Song 2 - 2012 Remaster**<br />by _Blur_<br /> on Blur (Special Edition) [1997] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519b48b1212b2a8031f5079312
+[album-cover]: https://i.scdn.co/image/ab67616d00004851de114203356c1f7b136960b6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
