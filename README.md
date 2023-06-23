@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **All For You (with Ella Henderson)**<br />by _Cian Ducrot, Ella Henderson_<br /> on All For You (with Ella Henderson) [2022] |
+| ![album cover][album-cover] | **Movin’ On**<br />by _Tom Meighan_<br /> on Movin’ On [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bf00f06968dc1b7f5d077f50
+[album-cover]: https://i.scdn.co/image/ab67616d000048519b48b1212b2a8031f5079312
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
