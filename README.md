@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Chariot**<br />by _Valley of the Sun_<br /> on The Chariot [2022] |
+| ![album cover][album-cover] | **All For You (with Ella Henderson)**<br />by _Cian Ducrot, Ella Henderson_<br /> on All For You (with Ella Henderson) [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b8e0eb753e534347f63ed82b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bf00f06968dc1b7f5d077f50
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
