@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Song 2 - 2012 Remaster**<br />by _Blur_<br /> on Blur (Special Edition) [1997] |
+| ![album cover][album-cover] | **Hey Gringo**<br />by _KALEO_<br /> on Surface Sounds [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851de114203356c1f7b136960b6
+[album-cover]: https://i.scdn.co/image/ab67616d000048515956beefe0c79f85aec384b6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
