@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hey Gringo**<br />by _KALEO_<br /> on Surface Sounds [2021] |
+| ![album cover][album-cover] | **Thundering Voices**<br />by _Rival Sons_<br /> on Hollow Bones [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515956beefe0c79f85aec384b6
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e621ec64a14356ee90d9b8cd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
