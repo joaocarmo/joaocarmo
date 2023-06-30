@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Thundering Voices**<br />by _Rival Sons_<br /> on Hollow Bones [2016] |
+| ![album cover][album-cover] | **Наши юные смешные голоса**<br />by _Nogu Svelo!_<br /> on В темноте [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e621ec64a14356ee90d9b8cd
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c709967b182a539462a888ce
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
