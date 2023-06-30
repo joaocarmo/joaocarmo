@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Наши юные смешные голоса**<br />by _Nogu Svelo!_<br /> on В темноте [2002] |
+| ![album cover][album-cover] | **Steady, As She Goes**<br />by _The Raconteurs_<br /> on Broken Boy Soldiers [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c709967b182a539462a888ce
+[album-cover]: https://i.scdn.co/image/ab67616d00004851aaafcdc8e35209dc99554017
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
