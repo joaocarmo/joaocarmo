@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **You're Gonna Go Far, Kid**<br />by _The Offspring_<br /> on Rise And Fall, Rage And Grace [2008] |
+| ![album cover][album-cover] | **The Middle**<br />by _Jimmy Eat World_<br /> on Bleed American [2001] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851890ce61533a89e00ce593fcb
+[album-cover]: https://i.scdn.co/image/ab67616d0000485195d1d98c5176e4f982bd73d6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
