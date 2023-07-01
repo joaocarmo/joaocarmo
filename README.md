@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Steady, As She Goes**<br />by _The Raconteurs_<br /> on Broken Boy Soldiers [2006] |
+| ![album cover][album-cover] | **You're Gonna Go Far, Kid**<br />by _The Offspring_<br /> on Rise And Fall, Rage And Grace [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851aaafcdc8e35209dc99554017
+[album-cover]: https://i.scdn.co/image/ab67616d00004851890ce61533a89e00ce593fcb
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
