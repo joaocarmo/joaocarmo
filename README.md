@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I'm Shipping Up To Boston**<br />by _Dropkick Murphys_<br /> on The Warrior's Code [2005] |
+| ![album cover][album-cover] | **Highway**<br />by _Bleeker_<br /> on Erase You [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851030915ffa58125ae36f13a6f
+[album-cover]: https://i.scdn.co/image/ab67616d000048517f5b69b478318495992473eb
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
