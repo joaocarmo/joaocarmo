@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Middle**<br />by _Jimmy Eat World_<br /> on Bleed American [2001] |
+| ![album cover][album-cover] | **I'm Shipping Up To Boston**<br />by _Dropkick Murphys_<br /> on The Warrior's Code [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485195d1d98c5176e4f982bd73d6
+[album-cover]: https://i.scdn.co/image/ab67616d00004851030915ffa58125ae36f13a6f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
