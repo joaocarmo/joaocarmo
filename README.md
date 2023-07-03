@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Highway**<br />by _Bleeker_<br /> on Erase You [2016] |
+| ![album cover][album-cover] | **Reconcile**<br />by _Curly Heads_<br /> on Ruby Dress Skinny Dog [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517f5b69b478318495992473eb
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f9acc7bad7283b5438dd0847
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
