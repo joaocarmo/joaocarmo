@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Reconcile**<br />by _Curly Heads_<br /> on Ruby Dress Skinny Dog [2014] |
+| ![album cover][album-cover] | **Billie Toppy**<br />by _Men I Trust_<br /> on Billie Toppy [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f9acc7bad7283b5438dd0847
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d656b18c4468ee151d885b81
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
