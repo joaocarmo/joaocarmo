@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Billie Toppy**<br />by _Men I Trust_<br /> on Billie Toppy [2022] |
+| ![album cover][album-cover] | **All For You**<br />by _Cian Ducrot_<br /> on All For You [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d656b18c4468ee151d885b81
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b27f73c256e4f6054d72d096
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
