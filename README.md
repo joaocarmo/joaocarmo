@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **All For You**<br />by _Cian Ducrot_<br /> on All For You [2022] |
+| ![album cover][album-cover] | **Rebel Yell - Edit**<br />by _Billy Idol_<br /> on Rebel Yell [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b27f73c256e4f6054d72d096
+[album-cover]: https://i.scdn.co/image/ab67616d00004851175a92be1b516edd4a7e1b72
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
