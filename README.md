@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Rebel Yell - Edit**<br />by _Billy Idol_<br /> on Rebel Yell [2009] |
+| ![album cover][album-cover] | **New Future Weapon**<br />by _Billy Idol_<br /> on The Very Best Of Billy Idol: Idolize Yourself [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851175a92be1b516edd4a7e1b72
+[album-cover]: https://i.scdn.co/image/ab67616d000048512121a2d5202ce105a6a8ef1e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
