@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **New Future Weapon**<br />by _Billy Idol_<br /> on The Very Best Of Billy Idol: Idolize Yourself [2008] |
+| ![album cover][album-cover] | **Geronimo's Cadillac**<br />by _Modern Talking_<br /> on In The Middle Of Nowhere [1986] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512121a2d5202ce105a6a8ef1e
+[album-cover]: https://i.scdn.co/image/ab67616d000048519bfc30d5173d5cddab44e5c1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
