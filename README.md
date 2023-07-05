@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Maria**<br />by _Blondie_<br /> on Greatest Hits [2002] |
+| ![album cover][album-cover] | **Get Free**<br />by _The Vines_<br /> on Highly Evolved [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512847f04f9de392e290b5a0be
+[album-cover]: https://i.scdn.co/image/ab67616d000048517135d37ce920db353f813f32
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
