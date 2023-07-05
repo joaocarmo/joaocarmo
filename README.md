@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Geronimo's Cadillac**<br />by _Modern Talking_<br /> on In The Middle Of Nowhere [1986] |
+| ![album cover][album-cover] | **Maria**<br />by _Blondie_<br /> on Greatest Hits [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519bfc30d5173d5cddab44e5c1
+[album-cover]: https://i.scdn.co/image/ab67616d000048512847f04f9de392e290b5a0be
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
