@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Kick Out the Jams**<br />by _The Presidents Of The United States Of America_<br /> on The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition [1995] |
+| ![album cover][album-cover] | **Snow (Hey Oh)**<br />by _Red Hot Chili Peppers_<br /> on Stadium Arcadium [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f26fe2d28f3ea184db9be5a2
+[album-cover]: https://i.scdn.co/image/ab67616d0000485109fd83d32aee93dceba78517
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
