@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Get Free**<br />by _The Vines_<br /> on Highly Evolved [2002] |
+| ![album cover][album-cover] | **Voodoo Child (Slight Return)**<br />by _Jimi Hendrix_<br /> on Electric Ladyland [1968] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517135d37ce920db353f813f32
+[album-cover]: https://i.scdn.co/image/ab67616d00004851522088789d49e216d9818292
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
