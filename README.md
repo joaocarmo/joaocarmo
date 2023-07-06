@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Wizard And I - From "Wicked" Original Broadway Cast Recording/2003**<br />by _Stephen Schwartz, Carole Shelley, Idina Menzel, Stephen Oremus, Alex Lacamoire_<br /> on Wicked (Original Broadway Cast Recording / Deluxe Edition) [2013] |
+| ![album cover][album-cover] | **Kick Out the Jams**<br />by _The Presidents Of The United States Of America_<br /> on The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition [1995] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f3eaae22e1c6b26400073c05
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f26fe2d28f3ea184db9be5a2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
