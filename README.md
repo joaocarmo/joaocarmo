@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version**<br />by _Buzzcocks_<br /> on Love Bites [1978] |
+| ![album cover][album-cover] | **Juice**<br />by _Lizzo_<br /> on Cuz I Love You [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851409373691d3c2025c7d5f846
+[album-cover]: https://i.scdn.co/image/ab67616d0000485106af802e2ea241b6ba1ce0f2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
