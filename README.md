@@ -18,7 +18,7 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Snow (Hey Oh)**<br />by _Red Hot Chili Peppers_<br /> on Stadium Arcadium [2006] |
+| ![album cover][album-cover] | **Dani California**<br />by _Red Hot Chili Peppers_<br /> on Stadium Arcadium [2006] |
 
 <!-- References -->
 
