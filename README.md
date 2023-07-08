@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Juice**<br />by _Lizzo_<br /> on Cuz I Love You [2019] |
+| ![album cover][album-cover] | **Special (feat. SZA)**<br />by _Lizzo, SZA_<br /> on Special (feat. SZA) [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485106af802e2ea241b6ba1ce0f2
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b9041796cb2839e2e89e3ea6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
