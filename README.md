@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Special (feat. SZA)**<br />by _Lizzo, SZA_<br /> on Special (feat. SZA) [2023] |
+| ![album cover][album-cover] | **Golden Brown**<br />by _The Stranglers_<br /> on La Folie [1981] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b9041796cb2839e2e89e3ea6
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a713f9b06accedba5d963d61
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
