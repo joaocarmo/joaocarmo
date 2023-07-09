@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **People Are People**<br />by _Depeche Mode_<br /> on Some Great Reward (Deluxe) [1984] |
+| ![album cover][album-cover] | **Lost on You**<br />by _LP_<br /> on Lost on You [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b01f868ecc62e809af0dd63b
+[album-cover]: https://i.scdn.co/image/ab67616d000048519a04e1af7adecc49050a810c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
