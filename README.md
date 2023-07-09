@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Golden Brown**<br />by _The Stranglers_<br /> on La Folie [1981] |
+| ![album cover][album-cover] | **People Are People**<br />by _Depeche Mode_<br /> on Some Great Reward (Deluxe) [1984] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a713f9b06accedba5d963d61
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b01f868ecc62e809af0dd63b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
