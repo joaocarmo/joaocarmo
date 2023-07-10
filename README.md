@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lost on You**<br />by _LP_<br /> on Lost on You [2016] |
+| ![album cover][album-cover] | **Juice**<br />by _Lizzo_<br /> on Cuz I Love You [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519a04e1af7adecc49050a810c
+[album-cover]: https://i.scdn.co/image/ab67616d0000485106af802e2ea241b6ba1ce0f2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
