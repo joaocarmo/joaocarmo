@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **bad guy**<br />by _Billie Eilish_<br /> on WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? [2019] |
+| ![album cover][album-cover] | **Song 2 - 2012 Remaster**<br />by _Blur_<br /> on Blur (Special Edition) [1997] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485150a3147b4edd7701a876c6ce
+[album-cover]: https://i.scdn.co/image/ab67616d00004851de114203356c1f7b136960b6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
