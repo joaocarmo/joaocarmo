@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bastard Song**<br />by _Skip the Use_<br /> on Can Be Late (Super Deluxe Version) [2012] |
+| ![album cover][album-cover] | **Hysteria**<br />by _Muse_<br /> on Absolution [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f0cd8e7f43cf4ef7a0c1548e
+[album-cover]: https://i.scdn.co/image/ab67616d000048518cb690f962092fd44bbe2bf4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
