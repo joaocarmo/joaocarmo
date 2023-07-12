@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Cocaine**<br />by _Nomy_<br /> on Song or suicide [2008] |
+| ![album cover][album-cover] | **The Dead Can't Testify**<br />by _Billy Talent_<br /> on Billy Talent III [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510ad5a24a1da918a12a24c0c8
+[album-cover]: https://i.scdn.co/image/ab67616d000048517fd1237085e6617487d43c3f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
