@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Meds**<br />by _Placebo, Alison Mosshart_<br /> on A Place For Us To Dream [2016] |
+| ![album cover][album-cover] | **Cocaine**<br />by _Nomy_<br /> on Song or suicide [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511e5e1aca0280bcedf00be7ec
+[album-cover]: https://i.scdn.co/image/ab67616d000048510ad5a24a1da918a12a24c0c8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
