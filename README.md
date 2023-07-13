@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Pins and Needles**<br />by _Billy Talent_<br /> on Billy Talent II [2006] |
+| ![album cover][album-cover] | **Screaming Bloody Murder**<br />by _Sum 41_<br /> on Screaming Bloody Murder [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485151ad1636a7d0456ad972a71c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fc6b79df5c1bfd73626dddd1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
