@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Dead Can't Testify**<br />by _Billy Talent_<br /> on Billy Talent III [2009] |
+| ![album cover][album-cover] | **Pins and Needles**<br />by _Billy Talent_<br /> on Billy Talent II [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517fd1237085e6617487d43c3f
+[album-cover]: https://i.scdn.co/image/ab67616d0000485151ad1636a7d0456ad972a71c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
