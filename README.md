@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Screaming Bloody Murder**<br />by _Sum 41_<br /> on Screaming Bloody Murder [2011] |
+| ![album cover][album-cover] | **Lift Me Up**<br />by _Moby_<br /> on Hotel [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fc6b79df5c1bfd73626dddd1
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c53e23db5736aa55bd73f063
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
