@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lift Me Up**<br />by _Moby_<br /> on Hotel [2005] |
+| ![album cover][album-cover] | **The Funeral**<br />by _Band of Horses_<br /> on Everything All The Time [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c53e23db5736aa55bd73f063
+[album-cover]: https://i.scdn.co/image/ab67616d00004851024bdaecebd5e9d3b6a0949e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
