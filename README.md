@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **3's & 7's**<br />by _Queens of the Stone Age_<br /> on Era Vulgaris [2007] |
+| ![album cover][album-cover] | **Evil Eye**<br />by _Franz Ferdinand_<br /> on Right Thoughts, Right Words, Right Action (Deluxe Edition) [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485101b7dc44ae31364925b4eadc
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f85c427ae396ec88898572f5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
