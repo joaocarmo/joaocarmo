@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Funeral**<br />by _Band of Horses_<br /> on Everything All The Time [2006] |
+| ![album cover][album-cover] | **3's & 7's**<br />by _Queens of the Stone Age_<br /> on Era Vulgaris [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851024bdaecebd5e9d3b6a0949e
+[album-cover]: https://i.scdn.co/image/ab67616d0000485101b7dc44ae31364925b4eadc
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
