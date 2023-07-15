@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Evil Eye**<br />by _Franz Ferdinand_<br /> on Right Thoughts, Right Words, Right Action (Deluxe Edition) [2013] |
+| ![album cover][album-cover] | **Back To Black**<br />by _Amy Winehouse_<br /> on Back To Black (Deluxe Edition) [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f85c427ae396ec88898572f5
+[album-cover]: https://i.scdn.co/image/ab67616d0000485176ffb5b5ab045d22c81235c1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
