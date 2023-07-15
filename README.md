@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Back To Black**<br />by _Amy Winehouse_<br /> on Back To Black (Deluxe Edition) [2006] |
+| ![album cover][album-cover] | **Rehab - Live On Jools Holland**<br />by _Amy Winehouse_<br /> on AMY (Original Motion Picture Soundtrack) [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485176ffb5b5ab045d22c81235c1
+[album-cover]: https://i.scdn.co/image/ab67616d00004851340aba0dcdba43d89f6a037a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
