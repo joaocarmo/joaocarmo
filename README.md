@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Rehab - Live On Jools Holland**<br />by _Amy Winehouse_<br /> on AMY (Original Motion Picture Soundtrack) [2015] |
+| ![album cover][album-cover] | **The River**<br />by _Good Charlotte_<br /> on Good Morning Revival [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851340aba0dcdba43d89f6a037a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cbb5aebf323058ff06224338
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
