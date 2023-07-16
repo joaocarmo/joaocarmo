@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The River**<br />by _Good Charlotte_<br /> on Good Morning Revival [2008] |
+| ![album cover][album-cover] | **Who Gon Stop Me**<br />by _JAY-Z, Kanye West_<br /> on Watch The Throne (Deluxe) [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cbb5aebf323058ff06224338
+[album-cover]: https://i.scdn.co/image/ab67616d00004851699bfca9512ee8d1fbf126a7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
