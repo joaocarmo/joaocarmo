@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Illest Motherf**ker Alive**<br />by _JAY-Z, Kanye West_<br /> on Watch The Throne (Deluxe) [2011] |
+| ![album cover][album-cover] | **Dirty South**<br />by _James Leg_<br /> on Below The Belt [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851699bfca9512ee8d1fbf126a7
+[album-cover]: https://i.scdn.co/image/ab67616d00004851643eacfb026d50fd0e601d36
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
