@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dirty South**<br />by _James Leg_<br /> on Below The Belt [2015] |
+| ![album cover][album-cover] | **Holiday**<br />by _Green Day_<br /> on Holiday [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851643eacfb026d50fd0e601d36
+[album-cover]: https://i.scdn.co/image/ab67616d000048511bb1db39abc18755d7ab2114
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
