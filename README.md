@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Try Better Next Time**<br />by _Placebo_<br /> on Never Let Me Go [2022] |
+| ![album cover][album-cover] | **Do Me a Favour**<br />by _Arctic Monkeys_<br /> on Favourite Worst Nightmare [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519032f1862bccb4a1b4ec6a47
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b1f8da74f225fa1225cdface
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
