@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Do Me a Favour**<br />by _Arctic Monkeys_<br /> on Favourite Worst Nightmare [2007] |
+| ![album cover][album-cover] | **Black Swan**<br />by _Thom Yorke_<br /> on The Eraser [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b1f8da74f225fa1225cdface
+[album-cover]: https://i.scdn.co/image/ab67616d00004851691b5e122dee32f6dcb7894b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
