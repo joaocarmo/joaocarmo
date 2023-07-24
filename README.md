@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Heart In a Cage**<br />by _The Strokes_<br /> on First Impressions Of Earth [2006] |
+| ![album cover][album-cover] | **I Bet You Look Good On The Dancefloor**<br />by _Arctic Monkeys_<br /> on Whatever People Say I Am, That's What I'm Not [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516898a982ff3c6049ba52586c
+[album-cover]: https://i.scdn.co/image/ab67616d000048516b3fa88bdd4af566fbbf2bbf
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
