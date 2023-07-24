@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Bet You Look Good On The Dancefloor**<br />by _Arctic Monkeys_<br /> on Whatever People Say I Am, That's What I'm Not [2006] |
+| ![album cover][album-cover] | **Try Better Next Time**<br />by _Placebo_<br /> on Never Let Me Go [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516b3fa88bdd4af566fbbf2bbf
+[album-cover]: https://i.scdn.co/image/ab67616d000048519032f1862bccb4a1b4ec6a47
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
