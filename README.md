@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Thick of the Honey**<br />by _Fazerdaze_<br /> on Break! [2022] |
+| ![album cover][album-cover] | **Hello**<br />by _GROUPLOVE_<br /> on Hello, All! [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a0f17dfe7643d5599f0b48d1
+[album-cover]: https://i.scdn.co/image/ab67616d000048518897cae78c4de08f715829ec
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
