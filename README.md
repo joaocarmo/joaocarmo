@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hello**<br />by _GROUPLOVE_<br /> on Hello, All! [2023] |
+| ![album cover][album-cover] | **Days Of Lantana**<br />by _Ben Howard_<br /> on Is It? [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518897cae78c4de08f715829ec
+[album-cover]: https://i.scdn.co/image/ab67616d0000485142586c7583f550ba8ca480e2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
