@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Days Of Lantana**<br />by _Ben Howard_<br /> on Is It? [2023] |
+| ![album cover][album-cover] | **Go With The Flow**<br />by _Queens of the Stone Age_<br /> on Songs For The Deaf [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485142586c7583f550ba8ca480e2
+[album-cover]: https://i.scdn.co/image/ab67616d000048519eec33b045d88f87b9b06e67
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
