@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bigmouth Strikes Again - 2011 Remaster**<br />by _The Smiths_<br /> on The Queen Is Dead [1986] |
+| ![album cover][album-cover] | **I'm So Excited**<br />by _The Pointer Sisters_<br /> on So Excited! (Expanded Edition) [1982] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ada101c2e9e97feb8fae37a9
+[album-cover]: https://i.scdn.co/image/ab67616d000048514650ca0a8f88129d4667acc5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
