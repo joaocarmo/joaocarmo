@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Try Better Next Time**<br />by _Placebo_<br /> on Never Let Me Go [2022] |
+| ![album cover][album-cover] | **No One Knows**<br />by _Queens of the Stone Age_<br /> on Songs For The Deaf [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519032f1862bccb4a1b4ec6a47
+[album-cover]: https://i.scdn.co/image/ab67616d000048519eec33b045d88f87b9b06e67
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
