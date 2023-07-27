@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Another One Bites The Dust - Remastered 2011**<br />by _Queen_<br /> on The Game (2011 Remaster) [1980] |
+| ![album cover][album-cover] | **Love Shack**<br />by _The B-52's_<br /> on Cosmic Thing [1989] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851056e90910cbaf5c5b892aeba
+[album-cover]: https://i.scdn.co/image/ab67616d0000485193bf4c5e67f6a72149d94c94
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
