@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I'm So Excited**<br />by _The Pointer Sisters_<br /> on So Excited! (Expanded Edition) [1982] |
+| ![album cover][album-cover] | **Another One Bites The Dust - Remastered 2011**<br />by _Queen_<br /> on The Game (2011 Remaster) [1980] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514650ca0a8f88129d4667acc5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851056e90910cbaf5c5b892aeba
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
