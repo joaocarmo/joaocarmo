@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **In the Dark**<br />by _Biig Piig_<br /> on Bubblegum [2023] |
+| ![album cover][album-cover] | **Dou-me corda**<br />by _Samuel Uria_<br /> on Dou-me corda [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518dbf7228e7f2da3fdacfdc78
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b5b332b8d6e646c8e3ecbc66
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
