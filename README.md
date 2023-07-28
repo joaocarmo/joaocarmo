@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Someone In The Doorway**<br />by _Ben Howard_<br /> on Noonday Dream [2018] |
+| ![album cover][album-cover] | **In the Dark**<br />by _Biig Piig_<br /> on Bubblegum [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485192c2c7a51d8009481a211067
+[album-cover]: https://i.scdn.co/image/ab67616d000048518dbf7228e7f2da3fdacfdc78
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
