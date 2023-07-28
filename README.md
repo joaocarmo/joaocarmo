@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dou-me corda**<br />by _Samuel Uria_<br /> on Dou-me corda [2016] |
+| ![album cover][album-cover] | **Last Night I Dreamt That Somebody Loved Me - 2011 Remaster**<br />by _The Smiths_<br /> on Strangeways, Here We Come [1987] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b5b332b8d6e646c8e3ecbc66
+[album-cover]: https://i.scdn.co/image/ab67616d000048516d965be72ad1bceb7f2bd089
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
