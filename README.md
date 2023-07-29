@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Last Night I Dreamt That Somebody Loved Me - 2011 Remaster**<br />by _The Smiths_<br /> on Strangeways, Here We Come [1987] |
+| ![album cover][album-cover] | **Old Yellow Bricks**<br />by _Arctic Monkeys_<br /> on Favourite Worst Nightmare [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516d965be72ad1bceb7f2bd089
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b1f8da74f225fa1225cdface
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
