@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Judas**<br />by _Lord Of The Lost_<br /> on Judas [2022] |
+| ![album cover][album-cover] | **Trash**<br />by _The Whip_<br /> on X Marks Destination [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851188687f24304d791c4363735
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bf437ec4319c64f755edd9ea
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
