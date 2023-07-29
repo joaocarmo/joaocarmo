@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Old Yellow Bricks**<br />by _Arctic Monkeys_<br /> on Favourite Worst Nightmare [2007] |
+| ![album cover][album-cover] | **Judas**<br />by _Lord Of The Lost_<br /> on Judas [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b1f8da74f225fa1225cdface
+[album-cover]: https://i.scdn.co/image/ab67616d00004851188687f24304d791c4363735
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
