@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Trash**<br />by _The Whip_<br /> on X Marks Destination [2008] |
+| ![album cover][album-cover] | **Wiosna**<br />by _Organek_<br /> on Czarna Madonna [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bf437ec4319c64f755edd9ea
+[album-cover]: https://i.scdn.co/image/ab67616d000048515273fca5d770d09a4f32ea65
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
