@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Follow Me**<br />by _In Flames_<br /> on I, the Mask [2019] |
+| ![album cover][album-cover] | **1901**<br />by _Phoenix_<br /> on Wolfgang Amadeus Phoenix [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d4b51feaef809a84e5e8327d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851869df273a6f34f759b426ace
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
