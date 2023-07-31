@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **1901**<br />by _Phoenix_<br /> on Wolfgang Amadeus Phoenix [2009] |
+| ![album cover][album-cover] | **Anyway**<br />by _VHS Collection_<br /> on Night Drive [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851869df273a6f34f759b426ace
+[album-cover]: https://i.scdn.co/image/ab67616d00004851113173bf837c8869b95cc7a4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
