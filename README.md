@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Anyway**<br />by _VHS Collection_<br /> on Night Drive [2022] |
+| ![album cover][album-cover] | **Oh Yeah (The Bitch Wants More)**<br />by _Biters_<br /> on All Chewed Up [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851113173bf837c8869b95cc7a4
+[album-cover]: https://i.scdn.co/image/ab67616d0000485148ab2841332511545b9d260c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
