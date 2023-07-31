@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Oh Yeah (The Bitch Wants More)**<br />by _Biters_<br /> on All Chewed Up [2011] |
+| ![album cover][album-cover] | **Black Lightning**<br />by _The BellRays_<br /> on Black Lightning [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485148ab2841332511545b9d260c
+[album-cover]: https://i.scdn.co/image/ab67616d000048515f2864237e654cf23f180e29
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
