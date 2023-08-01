@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Black Lightning**<br />by _The BellRays_<br /> on Black Lightning [2011] |
+| ![album cover][album-cover] | **Dead But Rising**<br />by _Volbeat_<br /> on Outlaw Gentlemen & Shady Ladies [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515f2864237e654cf23f180e29
+[album-cover]: https://i.scdn.co/image/ab67616d000048513bf8ce7eb3ceb6847ba1ab65
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
