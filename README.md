@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dead But Rising**<br />by _Volbeat_<br /> on Outlaw Gentlemen & Shady Ladies [2013] |
+| ![album cover][album-cover] | **Hammerhead**<br />by _The Offspring_<br /> on Rise And Fall, Rage And Grace [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513bf8ce7eb3ceb6847ba1ab65
+[album-cover]: https://i.scdn.co/image/ab67616d00004851890ce61533a89e00ce593fcb
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
