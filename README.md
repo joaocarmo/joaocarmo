@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hammerhead**<br />by _The Offspring_<br /> on Rise And Fall, Rage And Grace [2008] |
+| ![album cover][album-cover] | **Little Sister**<br />by _Queens of the Stone Age_<br /> on Lullabies To Paralyze [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851890ce61533a89e00ce593fcb
+[album-cover]: https://i.scdn.co/image/ab67616d0000485190cd89ddbbd2034ee1f20b5c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
