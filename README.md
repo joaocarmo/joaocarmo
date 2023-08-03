@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sick of Being Young**<br />by _Krooked Kings_<br /> on Sick of Being Young [2023] |
+| ![album cover][album-cover] | **Wiggy**<br />by _Gretel Hänlyn_<br /> on Wiggy [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a95974219ad141c8d7ca7386
+[album-cover]: https://i.scdn.co/image/ab67616d0000485176cf0ec849de43d1ac9c917b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
