@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Little Sister**<br />by _Queens of the Stone Age_<br /> on Lullabies To Paralyze [2005] |
+| ![album cover][album-cover] | **Sick of Being Young**<br />by _Krooked Kings_<br /> on Sick of Being Young [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485190cd89ddbbd2034ee1f20b5c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a95974219ad141c8d7ca7386
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
