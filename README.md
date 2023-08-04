@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Meshuggah**<br />by _Unknown Mortal Orchestra_<br /> on Meshuggah [2023] |
+| ![album cover][album-cover] | **Alien Blues**<br />by _Vundabar_<br /> on Gawk [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516aff7c39334895ca9b36e264
+[album-cover]: https://i.scdn.co/image/ab67616d00004851578b0e6109b76bad0821ca71
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
