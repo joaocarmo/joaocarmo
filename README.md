@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wiggy**<br />by _Gretel Hänlyn_<br /> on Wiggy [2023] |
+| ![album cover][album-cover] | **Meshuggah**<br />by _Unknown Mortal Orchestra_<br /> on Meshuggah [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485176cf0ec849de43d1ac9c917b
+[album-cover]: https://i.scdn.co/image/ab67616d000048516aff7c39334895ca9b36e264
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
