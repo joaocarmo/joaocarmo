@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Alien Blues**<br />by _Vundabar_<br /> on Gawk [2015] |
+| ![album cover][album-cover] | **Crying Lightning**<br />by _Arctic Monkeys_<br /> on Humbug [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851578b0e6109b76bad0821ca71
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f65d720a5d70dbb93e96d528
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
