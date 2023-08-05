@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Ladybug**<br />by _The Vines_<br /> on Wicked Nature [2014] |
+| ![album cover][album-cover] | **Breaking the Law**<br />by _Judas Priest_<br /> on British Steel [1980] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517c5e6d4a5062b9f18e249490
+[album-cover]: https://i.scdn.co/image/ab67616d00004851be0e5ebab8c61469b1ff9f62
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
