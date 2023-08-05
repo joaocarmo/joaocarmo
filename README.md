@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Breaking the Law**<br />by _Judas Priest_<br /> on British Steel [1980] |
+| ![album cover][album-cover] | **Give It Away**<br />by _Red Hot Chili Peppers_<br /> on Blood Sugar Sex Magik (Deluxe Edition) [1991] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851be0e5ebab8c61469b1ff9f62
+[album-cover]: https://i.scdn.co/image/ab67616d00004851153d79816d853f2694b2cc70
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
