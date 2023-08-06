@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Let's Go Crazy**<br />by _Prince_<br /> on Purple Rain [1984] |
+| ![album cover][album-cover] | **Money - 2011 Remastered Version**<br />by _Pink Floyd_<br /> on The Dark Side Of The Moon (2011 Remastered Version) [1973] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d52bfb90ee8dfeda8378b99b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d3709135d1005baa36939d80
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
