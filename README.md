@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Money - 2011 Remastered Version**<br />by _Pink Floyd_<br /> on The Dark Side Of The Moon (2011 Remastered Version) [1973] |
+| ![album cover][album-cover] | **All Right Now**<br />by _Free_<br /> on Fire And Water [1970] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d3709135d1005baa36939d80
+[album-cover]: https://i.scdn.co/image/ab67616d00004851753c41c7fdc5e78ba017bbf5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
