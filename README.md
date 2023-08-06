@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Give It Away**<br />by _Red Hot Chili Peppers_<br /> on Blood Sugar Sex Magik (Deluxe Edition) [1991] |
+| ![album cover][album-cover] | **Let's Go Crazy**<br />by _Prince_<br /> on Purple Rain [1984] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851153d79816d853f2694b2cc70
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d52bfb90ee8dfeda8378b99b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
