@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **All Right Now**<br />by _Free_<br /> on Fire And Water [1970] |
+| ![album cover][album-cover] | **Sweet Home Alabama**<br />by _Lynyrd Skynyrd_<br /> on Second Helping (Expanded Edition) [1974] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851753c41c7fdc5e78ba017bbf5
+[album-cover]: https://i.scdn.co/image/ab67616d0000485117e1907923e91181f38290ac
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
