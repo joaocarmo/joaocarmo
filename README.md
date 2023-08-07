@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sweet Home Alabama**<br />by _Lynyrd Skynyrd_<br /> on Second Helping (Expanded Edition) [1974] |
+| ![album cover][album-cover] | **Smells Like Teen Spirit**<br />by _Nirvana_<br /> on Nevermind (Remastered) [1991] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485117e1907923e91181f38290ac
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
