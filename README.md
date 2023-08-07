@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Smells Like Teen Spirit**<br />by _Nirvana_<br /> on Nevermind (Remastered) [1991] |
+| ![album cover][album-cover] | **Immigrant Song - Remaster**<br />by _Led Zeppelin_<br /> on Led Zeppelin III (Remaster) [1970] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6
+[album-cover]: https://i.scdn.co/image/ab67616d0000485190a50cfe99a4c19ff3cbfbdb
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
