@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Stargazer**<br />by _Rainbow_<br /> on Rising [1976] |
+| ![album cover][album-cover] | **Pushing Daisies (Oh My My)**<br />by _Friday Pilots Club_<br /> on Pushing Daisies (Oh My My) [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fef85212f7a490f833612275
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e8ab6dbcf22c741f9420fbc8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
