@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **home**<br />by _Pinkshift_<br /> on home [2023] |
+| ![album cover][album-cover] | **bb put on deftones**<br />by _Current Joys_<br /> on LOVE + POP [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b37a406095ce6ad7460632c1
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e7c9d377bb84094f1b45cc89
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
