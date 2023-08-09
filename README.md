@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Party in My Head**<br />by _Pain_<br /> on Party in My Head [2021] |
+| ![album cover][album-cover] | **Breaking the Law**<br />by _Judas Priest_<br /> on British Steel [1980] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514e4748bda16b21489b1b5f4c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851be0e5ebab8c61469b1ff9f62
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
