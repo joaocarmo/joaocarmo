@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **All Lined Up**<br />by _Sheer Mag_<br /> on All Lined Up [2023] |
+| ![album cover][album-cover] | **Party in My Head**<br />by _Pain_<br /> on Party in My Head [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514bafbe5115ee66edbe63a9d1
+[album-cover]: https://i.scdn.co/image/ab67616d000048514e4748bda16b21489b1b5f4c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
