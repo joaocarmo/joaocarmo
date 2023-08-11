@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Right Down the Line**<br />by _Gerry Rafferty_<br /> on City to City [1978] |
+| ![album cover][album-cover] | **Stuck In The Middle With You**<br />by _Stealers Wheel_<br /> on Stealers Wheel [1972] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851dc60cf9a010f86354e6735dd
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a5ce236c22035a02cf87d4de
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
