@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Ghostwriter**<br />by _Speedy Ortiz_<br /> on Ghostwriter [2023] |
+| ![album cover][album-cover] | **Right Down the Line**<br />by _Gerry Rafferty_<br /> on City to City [1978] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485104eea0732078590474b49dd8
+[album-cover]: https://i.scdn.co/image/ab67616d00004851dc60cf9a010f86354e6735dd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
