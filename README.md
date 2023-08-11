@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Stuck In The Middle With You**<br />by _Stealers Wheel_<br /> on Stealers Wheel [1972] |
+| ![album cover][album-cover] | **Frostbite**<br />by _Ocean Alley_<br /> on Chiaroscuro [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a5ce236c22035a02cf87d4de
+[album-cover]: https://i.scdn.co/image/ab67616d0000485146329ac2946a9313ff6b52f3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
