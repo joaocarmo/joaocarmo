@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Frostbite**<br />by _Ocean Alley_<br /> on Chiaroscuro [2018] |
+| ![album cover][album-cover] | **Demons**<br />by _Imagine Dragons_<br /> on Night Visions [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485146329ac2946a9313ff6b52f3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851407bd04707c463bbb3410737
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
