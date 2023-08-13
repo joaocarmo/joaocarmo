@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **MAMMAMIA**<br />by _Måneskin_<br /> on RUSH! [2023] |
+| ![album cover][album-cover] | **Elastic Heart**<br />by _Sia_<br /> on 1000 Forms Of Fear [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c1b211b5fcdef31be5f806df
+[album-cover]: https://i.scdn.co/image/ab67616d000048515d199c9f6e6562aafa5aa357
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
