@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Elastic Heart**<br />by _Sia_<br /> on 1000 Forms Of Fear [2014] |
+| ![album cover][album-cover] | **Poker Face**<br />by _Lady Gaga_<br /> on The Fame [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515d199c9f6e6562aafa5aa357
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e691217483df8798445c82e2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
