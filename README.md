@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Prayer in C - Robin Schulz Radio Edit**<br />by _Lilly Wood and The Prick, Robin Schulz_<br /> on Prayer in C [2014] |
+| ![album cover][album-cover] | **Natural**<br />by _Imagine Dragons_<br /> on Origins (Deluxe) [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510538d5d965798a403219a470
+[album-cover]: https://i.scdn.co/image/ab67616d00004851da6f73a25f4c79d0e6b4a8bd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
