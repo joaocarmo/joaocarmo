@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Poker Face**<br />by _Lady Gaga_<br /> on The Fame [2008] |
+| ![album cover][album-cover] | **Prayer in C - Robin Schulz Radio Edit**<br />by _Lilly Wood and The Prick, Robin Schulz_<br /> on Prayer in C [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e691217483df8798445c82e2
+[album-cover]: https://i.scdn.co/image/ab67616d000048510538d5d965798a403219a470
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
