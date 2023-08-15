@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Natural**<br />by _Imagine Dragons_<br /> on Origins (Deluxe) [2018] |
+| ![album cover][album-cover] | **Back To Black**<br />by _Amy Winehouse_<br /> on Back To Black (Deluxe Edition) [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851da6f73a25f4c79d0e6b4a8bd
+[album-cover]: https://i.scdn.co/image/ab67616d0000485176ffb5b5ab045d22c81235c1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
