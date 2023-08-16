@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Back To Black**<br />by _Amy Winehouse_<br /> on Back To Black (Deluxe Edition) [2006] |
+| ![album cover][album-cover] | **Spillways**<br />by _Ghost_<br /> on IMPERA [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485176ffb5b5ab045d22c81235c1
+[album-cover]: https://i.scdn.co/image/ab67616d0000485139df655040aa0f194c6d2972
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
