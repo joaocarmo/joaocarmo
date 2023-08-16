@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Spillways**<br />by _Ghost_<br /> on IMPERA [2022] |
+| ![album cover][album-cover] | **I’m So Sorry**<br />by _Imagine Dragons_<br /> on Smoke + Mirrors (Deluxe) [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485139df655040aa0f194c6d2972
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fc4fd5caca9f1dc4a3b0460a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
