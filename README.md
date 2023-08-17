@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I’m So Sorry**<br />by _Imagine Dragons_<br /> on Smoke + Mirrors (Deluxe) [2015] |
+| ![album cover][album-cover] | **Wolf Like Me**<br />by _TV On The Radio_<br /> on Return To Cookie Mountain [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fc4fd5caca9f1dc4a3b0460a
+[album-cover]: https://i.scdn.co/image/ab67616d000048519a9c25a9f9f7adb419694a4b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
