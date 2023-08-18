@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wolf Like Me**<br />by _TV On The Radio_<br /> on Return To Cookie Mountain [2006] |
+| ![album cover][album-cover] | **Spiked**<br />by _Bilk_<br /> on Spiked [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519a9c25a9f9f7adb419694a4b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e46f4ccb15a028a26df72026
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
