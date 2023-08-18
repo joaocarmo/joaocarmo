@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Spiked**<br />by _Bilk_<br /> on Spiked [2018] |
+| ![album cover][album-cover] | **Meet Your Maker**<br />by _In Flames_<br /> on Foregone [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e46f4ccb15a028a26df72026
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d156aa78022844777cc51267
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
