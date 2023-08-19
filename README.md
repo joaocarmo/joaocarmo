@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Meet Your Maker**<br />by _In Flames_<br /> on Foregone [2023] |
+| ![album cover][album-cover] | **Dance Now**<br />by _Girl and Girl_<br /> on Dance Now [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d156aa78022844777cc51267
+[album-cover]: https://i.scdn.co/image/ab67616d0000485161e5229b52056d02274ebe59
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
