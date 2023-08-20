@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **(Can't Get My) Head Around You**<br />by _The Offspring_<br /> on Splinter [2003] |
+| ![album cover][album-cover] | **Hysteria**<br />by _Muse_<br /> on Absolution [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512d631767c4043be5539782ee
+[album-cover]: https://i.scdn.co/image/ab67616d000048518cb690f962092fd44bbe2bf4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
