@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dance Now**<br />by _Girl and Girl_<br /> on Dance Now [2022] |
+| ![album cover][album-cover] | **(Can't Get My) Head Around You**<br />by _The Offspring_<br /> on Splinter [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485161e5229b52056d02274ebe59
+[album-cover]: https://i.scdn.co/image/ab67616d000048512d631767c4043be5539782ee
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
