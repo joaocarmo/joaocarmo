@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Love Me Again**<br />by _V_<br /> on Layover [2023] |
+| ![album cover][album-cover] | **vampire**<br />by _Olivia Rodrigo_<br /> on vampire [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512f1a5b69c2bd76474bca8035
+[album-cover]: https://i.scdn.co/image/ab67616d000048511e5e75dc1d878a0007cb6525
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
