@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hallo Spaceboy**<br />by _David Bowie_<br /> on 1. Outside (The Nathan Adler Diaries: A Hyper Cycle) [Expanded Edition] [1995] |
+| ![album cover][album-cover] | **Permanent Rebellion**<br />by _L.S. Dunes_<br /> on Past Lives [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851011ed419faf77d21a133f09d
+[album-cover]: https://i.scdn.co/image/ab67616d000048514d2cdcb487a9cc82882c16ad
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
