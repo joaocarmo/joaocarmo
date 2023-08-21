@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hysteria**<br />by _Muse_<br /> on Absolution [2004] |
+| ![album cover][album-cover] | **Love Me Again**<br />by _V_<br /> on Layover [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518cb690f962092fd44bbe2bf4
+[album-cover]: https://i.scdn.co/image/ab67616d000048512f1a5b69c2bd76474bca8035
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
