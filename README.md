@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Permanent Rebellion**<br />by _L.S. Dunes_<br /> on Past Lives [2022] |
+| ![album cover][album-cover] | **Summer of Luv (feat. Unknown Mortal Orchestra)**<br />by _Portugal. The Man, Unknown Mortal Orchestra_<br /> on Chris Black Changed My Life [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514d2cdcb487a9cc82882c16ad
+[album-cover]: https://i.scdn.co/image/ab67616d0000485127e49a37460c4445053eeb4f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
