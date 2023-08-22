@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **blame**<br />by _The Maine_<br /> on blame / how to exit a room [2023] |
+| ![album cover][album-cover] | **Gangsters Paradise**<br />by _Like A Storm_<br /> on Awaken the Fire [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851104c287ad665d631d7ad3612
+[album-cover]: https://i.scdn.co/image/ab67616d0000485160bfef50fea806401d24eed2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
