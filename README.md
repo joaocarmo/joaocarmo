@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Summer of Luv (feat. Unknown Mortal Orchestra)**<br />by _Portugal. The Man, Unknown Mortal Orchestra_<br /> on Chris Black Changed My Life [2023] |
+| ![album cover][album-cover] | **blame**<br />by _The Maine_<br /> on blame / how to exit a room [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485127e49a37460c4445053eeb4f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851104c287ad665d631d7ad3612
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
