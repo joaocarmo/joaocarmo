@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hey Joe**<br />by _Body Count_<br /> on Born Dead [1994] |
+| ![album cover][album-cover] | **Come Together**<br />by _Godsmack_<br /> on Live And Inspired [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c1e9186f5c35b37901022e00
+[album-cover]: https://i.scdn.co/image/ab67616d000048513827ade560ff1ad9eeacbaaa
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
