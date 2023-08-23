@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Come Together**<br />by _Godsmack_<br /> on Live And Inspired [2012] |
+| ![album cover][album-cover] | **Beat It**<br />by _One Morning Left_<br /> on Beat It [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513827ade560ff1ad9eeacbaaa
+[album-cover]: https://i.scdn.co/image/ab67616d000048515aea0223566b16aebe11e8e0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
