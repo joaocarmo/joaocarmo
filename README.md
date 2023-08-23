@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Gangsters Paradise**<br />by _Like A Storm_<br /> on Awaken the Fire [2015] |
+| ![album cover][album-cover] | **Hey Joe**<br />by _Body Count_<br /> on Born Dead [1994] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485160bfef50fea806401d24eed2
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c1e9186f5c35b37901022e00
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
