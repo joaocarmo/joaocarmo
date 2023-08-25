@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Beat It**<br />by _One Morning Left_<br /> on Beat It [2021] |
+| ![album cover][album-cover] | **Eucalyptus**<br />by _The National_<br /> on Eucalyptus [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515aea0223566b16aebe11e8e0
+[album-cover]: https://i.scdn.co/image/ab67616d000048519f50d823b2f887e0583703ef
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
