@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Cinerama Holy Days**<br />by _Blossoms_<br /> on Ribbon Around The Bomb [2022] |
+| ![album cover][album-cover] | **Baba O'Riley**<br />by _The Who_<br /> on Who's Next (Deluxe Edition) [1971] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c395a976a612d14640383945
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fe24dcd263c08c6dd84b6e8c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
