@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Eucalyptus**<br />by _The National_<br /> on Eucalyptus [2023] |
+| ![album cover][album-cover] | **Cinerama Holy Days**<br />by _Blossoms_<br /> on Ribbon Around The Bomb [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519f50d823b2f887e0583703ef
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c395a976a612d14640383945
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
