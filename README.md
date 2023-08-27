@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Baba O'Riley**<br />by _The Who_<br /> on Who's Next (Deluxe Edition) [1971] |
+| ![album cover][album-cover] | **Heroes - 2017 Remaster**<br />by _David Bowie_<br /> on "Heroes" (2017 Remaster) [1977] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fe24dcd263c08c6dd84b6e8c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851204f41d52743c6a9efd62985
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
