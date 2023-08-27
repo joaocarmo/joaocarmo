@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Heroes - 2017 Remaster**<br />by _David Bowie_<br /> on "Heroes" (2017 Remaster) [1977] |
+| ![album cover][album-cover] | **Need You Tonight**<br />by _INXS_<br /> on Kick (Remastered 2011) [1987] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851204f41d52743c6a9efd62985
+[album-cover]: https://i.scdn.co/image/ab67616d00004851dac4efc0ebdfd9d92f127129
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
