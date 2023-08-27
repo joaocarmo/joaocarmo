@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Need You Tonight**<br />by _INXS_<br /> on Kick (Remastered 2011) [1987] |
+| ![album cover][album-cover] | **Born to Run**<br />by _Bruce Springsteen_<br /> on Born To Run [1975] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851dac4efc0ebdfd9d92f127129
+[album-cover]: https://i.scdn.co/image/ab67616d00004851503143a281a3f30268dcd9f9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
