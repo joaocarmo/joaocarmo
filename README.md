@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **A Great Day For Freedom - 2011 Remaster**<br />by _Pink Floyd_<br /> on The Division Bell (2011 Remastered Version) [1994] |
+| ![album cover][album-cover] | **Like a Stone**<br />by _Audioslave_<br /> on Audioslave [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d067828a6bcc3c1c9fa5f43f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a7292b6863258e889b78d787
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
