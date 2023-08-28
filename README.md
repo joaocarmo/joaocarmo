@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Born to Run**<br />by _Bruce Springsteen_<br /> on Born To Run [1975] |
+| ![album cover][album-cover] | **The Power Of Love**<br />by _Huey Lewis & The News_<br /> on Greatest Hits: Huey Lewis And The News [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851503143a281a3f30268dcd9f9
+[album-cover]: https://i.scdn.co/image/ab67616d000048515306ed42ae78f317258c51bb
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
