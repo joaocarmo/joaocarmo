@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Power Of Love**<br />by _Huey Lewis & The News_<br /> on Greatest Hits: Huey Lewis And The News [2006] |
+| ![album cover][album-cover] | **American Pie**<br />by _Don McLean_<br /> on The Best Of Don McLean [1988] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515306ed42ae78f317258c51bb
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b387752e21389aa53753329e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
