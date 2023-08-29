@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lost For Words - 2011 Remaster**<br />by _Pink Floyd_<br /> on The Division Bell (2011 Remastered Version) [1994] |
+| ![album cover][album-cover] | **Riot Radio**<br />by _The Dead 60s_<br /> on The Dead 60s [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d067828a6bcc3c1c9fa5f43f
+[album-cover]: https://i.scdn.co/image/ab67616d000048514b090a145e4c473e7ac94c9b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
