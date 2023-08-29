@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Riot Radio**<br />by _The Dead 60s_<br /> on The Dead 60s [2005] |
+| ![album cover][album-cover] | **[Insert Girl's Name Here]**<br />by _The Luka State_<br /> on Fall In Fall Out [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514b090a145e4c473e7ac94c9b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ff1f9d09369a241592edabfd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
