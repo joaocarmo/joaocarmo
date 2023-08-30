@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **[Insert Girl's Name Here]**<br />by _The Luka State_<br /> on Fall In Fall Out [2021] |
+| ![album cover][album-cover] | **Pumped Up Kicks**<br />by _Foster The People_<br /> on Torches [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ff1f9d09369a241592edabfd
+[album-cover]: https://i.scdn.co/image/ab67616d00004851121d5f92cf90576907dfb1e5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
