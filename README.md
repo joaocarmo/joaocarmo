@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Pumped Up Kicks**<br />by _Foster The People_<br /> on Torches [2011] |
+| ![album cover][album-cover] | **Sex on Fire**<br />by _Kings of Leon_<br /> on Only By The Night [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851121d5f92cf90576907dfb1e5
+[album-cover]: https://i.scdn.co/image/ab67616d000048512519d01c0cca06f134eeadd8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
