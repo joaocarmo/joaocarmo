@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sex on Fire**<br />by _Kings of Leon_<br /> on Only By The Night [2008] |
+| ![album cover][album-cover] | **Just Tonight**<br />by _Jimmy Eat World_<br /> on Futures (Deluxe Edition) [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512519d01c0cca06f134eeadd8
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f7d76f56dcec489d92bcfffc
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
