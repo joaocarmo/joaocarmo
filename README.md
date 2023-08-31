@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Just Tonight**<br />by _Jimmy Eat World_<br /> on Futures (Deluxe Edition) [2004] |
+| ![album cover][album-cover] | **Psycho Killer - 2005 Remaster**<br />by _Talking Heads_<br /> on Talking Heads '77 (Deluxe Version) [1977] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f7d76f56dcec489d92bcfffc
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e71708b667804f6241dd1a59
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
