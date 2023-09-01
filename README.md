@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Psycho Killer - 2005 Remaster**<br />by _Talking Heads_<br /> on Talking Heads '77 (Deluxe Version) [1977] |
+| ![album cover][album-cover] | **Set The Controls For The Heart Of The Sun (Live) [2011 - Remaster]**<br />by _Pink Floyd_<br /> on Ummagumma (2011 Remastered Version) [1969] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e71708b667804f6241dd1a59
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d36a1b4e0832d9044f0b44b6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
