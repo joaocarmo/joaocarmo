@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Chandelier**<br />by _Sia_<br /> on 1000 Forms Of Fear [2014] |
+| ![album cover][album-cover] | **Jaded**<br />by _Miley Cyrus_<br /> on Endless Summer Vacation [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515d199c9f6e6562aafa5aa357
+[album-cover]: https://i.scdn.co/image/ab67616d0000485158039b5147731b6e52202e46
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
