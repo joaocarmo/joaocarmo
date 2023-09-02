@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Jaded**<br />by _Miley Cyrus_<br /> on Endless Summer Vacation [2023] |
+| ![album cover][album-cover] | **Nothing Breaks Like a Heart (feat. Miley Cyrus)**<br />by _Mark Ronson, Miley Cyrus_<br /> on Late Night Feelings [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485158039b5147731b6e52202e46
+[album-cover]: https://i.scdn.co/image/ab67616d00004851de087ae2924d2c1654f60d74
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
