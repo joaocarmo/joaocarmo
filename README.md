@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Elastic Heart**<br />by _Sia_<br /> on 1000 Forms Of Fear [2014] |
+| ![album cover][album-cover] | **A Saucerful Of Secrets (Live) [2011 - Remaster]**<br />by _Pink Floyd_<br /> on Ummagumma (2011 Remastered Version) [1969] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515d199c9f6e6562aafa5aa357
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d36a1b4e0832d9044f0b44b6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
