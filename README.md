@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **A Saucerful Of Secrets (Live) [2011 - Remaster]**<br />by _Pink Floyd_<br /> on Ummagumma (2011 Remastered Version) [1969] |
+| ![album cover][album-cover] | **Addicted To You**<br />by _Avicii_<br /> on True [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d36a1b4e0832d9044f0b44b6
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e14f11f796cef9f9a82691a7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
