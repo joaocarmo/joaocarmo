@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Addicted To You**<br />by _Avicii_<br /> on True [2013] |
+| ![album cover][album-cover] | **Picture That**<br />by _Roger Waters_<br /> on Is This The Life We Really Want? [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e14f11f796cef9f9a82691a7
+[album-cover]: https://i.scdn.co/image/ab67616d000048518c4d26d2520de391c8d7f0d0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
