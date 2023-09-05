@@ -18,7 +18,7 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Broken Bones**<br />by _Roger Waters_<br /> on Is This The Life We Really Want? [2017] |
+| ![album cover][album-cover] | **The Most Beautiful Girl**<br />by _Roger Waters_<br /> on Is This The Life We Really Want? [2017] |
 
 <!-- References -->
 
