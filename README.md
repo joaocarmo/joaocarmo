@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Way down We Go**<br />by _KALEO_<br /> on A/B [2016] |
+| ![album cover][album-cover] | **Hot Mess**<br />by _Friday Pilots Club_<br /> on Hot Mess [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f793a842c1642b09a768a63b
+[album-cover]: https://i.scdn.co/image/ab67616d000048512b4e6a72ec4c394f1a96bf32
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
