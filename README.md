@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **What I Really Need**<br />by _RPWL_<br /> on What I Really Need [2019] |
+| ![album cover][album-cover] | **Down To The Waterline**<br />by _Dire Straits_<br /> on Dire Straits [1978] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485147d0c7566d17d4cb771e5350
+[album-cover]: https://i.scdn.co/image/ab67616d000048519dfee5404d5e0763998c958e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
