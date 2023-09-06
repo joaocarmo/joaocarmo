@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Most Beautiful Girl**<br />by _Roger Waters_<br /> on Is This The Life We Really Want? [2017] |
+| ![album cover][album-cover] | **What I Really Need**<br />by _RPWL_<br /> on What I Really Need [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518c4d26d2520de391c8d7f0d0
+[album-cover]: https://i.scdn.co/image/ab67616d0000485147d0c7566d17d4cb771e5350
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
