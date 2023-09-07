@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hot Mess**<br />by _Friday Pilots Club_<br /> on Hot Mess [2022] |
+| ![album cover][album-cover] | **The Logical Song**<br />by _Roger Hodgson_<br /> on Classics Live [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512b4e6a72ec4c394f1a96bf32
+[album-cover]: https://i.scdn.co/image/ab67616d000048514b2f68adbda70c5e7adf951e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
