@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Faces of Stone**<br />by _David Gilmour_<br /> on Rattle That Lock (Deluxe) [2015] |
+| ![album cover][album-cover] | **For The Wicked**<br />by _Friday Pilots Club_<br /> on For The Wicked [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851766fa7c4c98099f2e9153923
+[album-cover]: https://i.scdn.co/image/ab67616d0000485117913037d53be0e7bf60515b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
