@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Logical Song**<br />by _Roger Hodgson_<br /> on Classics Live [2012] |
+| ![album cover][album-cover] | **Faces of Stone**<br />by _David Gilmour_<br /> on Rattle That Lock (Deluxe) [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514b2f68adbda70c5e7adf951e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851766fa7c4c98099f2e9153923
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
