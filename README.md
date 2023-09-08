@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wrong**<br />by _Depeche Mode_<br /> on Sounds of the Universe (Deluxe) [2009] |
+| ![album cover][album-cover] | **Black Polished Chrome**<br />by _Jim Morrison, The Doors_<br /> on An American Prayer [1978] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485129a5ddad99bc6ec6cc4a512a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851661df6aa776da029b6802c0e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
