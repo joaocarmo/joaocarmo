@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **For The Wicked**<br />by _Friday Pilots Club_<br /> on For The Wicked [2021] |
+| ![album cover][album-cover] | **Wrong**<br />by _Depeche Mode_<br /> on Sounds of the Universe (Deluxe) [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485117913037d53be0e7bf60515b
+[album-cover]: https://i.scdn.co/image/ab67616d0000485129a5ddad99bc6ec6cc4a512a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
