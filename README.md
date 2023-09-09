@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Black Polished Chrome**<br />by _Jim Morrison, The Doors_<br /> on An American Prayer [1978] |
+| ![album cover][album-cover] | **Running Out Of Time**<br />by _Paramore_<br /> on This Is Why [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851661df6aa776da029b6802c0e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f633b71861897348253993f4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
