@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Running Out Of Time**<br />by _Paramore_<br /> on This Is Why [2023] |
+| ![album cover][album-cover] | **What's My Age Again?**<br />by _blink-182_<br /> on Enema Of The State [1999] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f633b71861897348253993f4
+[album-cover]: https://i.scdn.co/image/ab67616d000048516da502e35a7a3e48de2b0f74
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
