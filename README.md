@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dog Days Are Over**<br />by _Florence + The Machine_<br /> on Lungs (Deluxe Version) [2009] |
+| ![album cover][album-cover] | **Bohemian Rhapsody - Remastered 2011**<br />by _Queen_<br /> on A Night At The Opera (2011 Remaster) [1975] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851003f81b1f4246362638e682d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e319baafd16e84f0408af2a0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
