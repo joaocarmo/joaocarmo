@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Go Your Own Way**<br />by _Fleetwood Mac_<br /> on Greatest Hits [1988] |
+| ![album cover][album-cover] | **Dog Days Are Over**<br />by _Florence + The Machine_<br /> on Lungs (Deluxe Version) [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851813da91820fd194cbee5bdce
+[album-cover]: https://i.scdn.co/image/ab67616d00004851003f81b1f4246362638e682d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
