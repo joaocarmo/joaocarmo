@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **What's My Age Again?**<br />by _blink-182_<br /> on Enema Of The State [1999] |
+| ![album cover][album-cover] | **Go Your Own Way**<br />by _Fleetwood Mac_<br /> on Greatest Hits [1988] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516da502e35a7a3e48de2b0f74
+[album-cover]: https://i.scdn.co/image/ab67616d00004851813da91820fd194cbee5bdce
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
