@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Ho Hey**<br />by _The Lumineers_<br /> on The Lumineers (Deluxe Edition) [2012] |
+| ![album cover][album-cover] | **Lux Æterna**<br />by _Metallica_<br /> on 72 Seasons [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485115784f5212050cf2e67f1935
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cf2420c5c82d351496e8fd9e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
