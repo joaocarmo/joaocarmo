@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bohemian Rhapsody - Remastered 2011**<br />by _Queen_<br /> on A Night At The Opera (2011 Remaster) [1975] |
+| ![album cover][album-cover] | **Ho Hey**<br />by _The Lumineers_<br /> on The Lumineers (Deluxe Edition) [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e319baafd16e84f0408af2a0
+[album-cover]: https://i.scdn.co/image/ab67616d0000485115784f5212050cf2e67f1935
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
