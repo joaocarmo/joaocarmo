@@ -1,5 +1,4 @@
 import { Request, Response } from 'express'
-import open from 'open'
 import SpotifyWebApi from 'spotify-web-api-node'
 import dotenv from 'dotenv'
 import { loginAndAuthorize } from './loginAndAuthorize'
@@ -31,6 +30,8 @@ export const handleStart = async () => {
   const authorizeURL = spotifyApi.createAuthorizeURL(scopes, state)
 
   if (authorize) {
+    const { default: open } = await import('open')
+
     console.log('Opening browser...')
 
     open(authorizeURL)
