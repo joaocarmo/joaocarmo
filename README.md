@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lux Æterna**<br />by _Metallica_<br /> on 72 Seasons [2023] |
+| ![album cover][album-cover] | **Song For The Dead**<br />by _Queens of the Stone Age_<br /> on Songs For The Deaf [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cf2420c5c82d351496e8fd9e
+[album-cover]: https://i.scdn.co/image/ab67616d000048519eec33b045d88f87b9b06e67
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
