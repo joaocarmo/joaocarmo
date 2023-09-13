@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Take Me Out**<br />by _Franz Ferdinand_<br /> on Franz Ferdinand [2004] |
+| ![album cover][album-cover] | **Joker And The Thief**<br />by _Wolfmother_<br /> on Wolfmother [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485109a90531b85be7899c3234c4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851335534788cbc39cfd23ee993
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
