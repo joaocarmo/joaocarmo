@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Can't Stop**<br />by _Red Hot Chili Peppers_<br /> on By the Way (Deluxe Edition) [2002] |
+| ![album cover][album-cover] | **Take Me Out**<br />by _Franz Ferdinand_<br /> on Franz Ferdinand [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4
+[album-cover]: https://i.scdn.co/image/ab67616d0000485109a90531b85be7899c3234c4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
