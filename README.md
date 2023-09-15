@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Fallin' With Me**<br />by _The Struts_<br /> on Fallin' With Me [2022] |
+| ![album cover][album-cover] | **Where Is My Mind? - Remastered**<br />by _Pixies_<br /> on Surfer Rosa [1988] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ee78b480ec77e3819b600885
+[album-cover]: https://i.scdn.co/image/ab67616d00004851626ad9bb7d5f84c59652b161
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
