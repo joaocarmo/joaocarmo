@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Joker And The Thief**<br />by _Wolfmother_<br /> on Wolfmother [2005] |
+| ![album cover][album-cover] | **Fallin' With Me**<br />by _The Struts_<br /> on Fallin' With Me [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851335534788cbc39cfd23ee993
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ee78b480ec77e3819b600885
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
