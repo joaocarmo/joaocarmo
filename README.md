@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Where Is My Mind? - Remastered**<br />by _Pixies_<br /> on Surfer Rosa [1988] |
+| ![album cover][album-cover] | **Figure It Out**<br />by _Royal Blood_<br /> on Royal Blood [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851626ad9bb7d5f84c59652b161
+[album-cover]: https://i.scdn.co/image/ab67616d0000485169471a9c0a6073a9beb81410
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
