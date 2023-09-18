@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bad Spell**<br />by _Larkin Poe_<br /> on Blood Harmony [2022] |
+| ![album cover][album-cover] | **Shake Your City**<br />by _Danko Jones_<br /> on Electric Sounds [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c7cf4cbf9014c39dc8d8689a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851839fbec43ff6ca4543492e75
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
