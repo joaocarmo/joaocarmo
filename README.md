@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Keep The Faith**<br />by _Bon Jovi_<br /> on Keep The Faith [1992] |
+| ![album cover][album-cover] | **Bad Spell**<br />by _Larkin Poe_<br /> on Blood Harmony [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485159bfe048568a969c6f0bd08c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c7cf4cbf9014c39dc8d8689a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
