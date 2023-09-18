@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Blue Orchid**<br />by _The White Stripes_<br /> on Get Behind Me Satan [2005] |
+| ![album cover][album-cover] | **Tick Tick Boom**<br />by _The Hives_<br /> on The Black and White album [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e8a1ae591befe4bb0a9261ab
+[album-cover]: https://i.scdn.co/image/ab67616d0000485151aa8b22becdf3c98ef5d08b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
