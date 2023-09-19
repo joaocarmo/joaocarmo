@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **True Colors**<br />by _Of Virtue_<br /> on True Colors [2023] |
+| ![album cover][album-cover] | **Muistipalatsi**<br />by _Stam1na_<br /> on Muistipalatsi [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c91bfd35cca13ec0039b21bd
+[album-cover]: https://i.scdn.co/image/ab67616d000048514357c20556fe702bdbd8e717
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
