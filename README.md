@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Shake Your City**<br />by _Danko Jones_<br /> on Electric Sounds [2023] |
+| ![album cover][album-cover] | **True Colors**<br />by _Of Virtue_<br /> on True Colors [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851839fbec43ff6ca4543492e75
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c91bfd35cca13ec0039b21bd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
