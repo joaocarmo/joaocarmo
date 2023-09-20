@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Muistipalatsi**<br />by _Stam1na_<br /> on Muistipalatsi [2023] |
+| ![album cover][album-cover] | **The Man Who Sold The World - Live**<br />by _Nirvana_<br /> on MTV Unplugged In New York [1994] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514357c20556fe702bdbd8e717
+[album-cover]: https://i.scdn.co/image/ab67616d0000485136c5417732e53e23cb219246
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
