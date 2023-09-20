@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Pumped Up Kicks**<br />by _Foster The People_<br /> on Torches [2011] |
+| ![album cover][album-cover] | **Tattooed Smiles**<br />by _Black Box Revelation_<br /> on Tattooed Smiles [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851121d5f92cf90576907dfb1e5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d84e1c75b37dc93929c4fd96
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
