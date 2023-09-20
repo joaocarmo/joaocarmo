@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bond Unending**<br />by _Doro, Sammy Amara, Broilers_<br /> on Bond Unending [2023] |
+| ![album cover][album-cover] | **Pumped Up Kicks**<br />by _Foster The People_<br /> on Torches [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510c50bec84d3c1bff3021089d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851121d5f92cf90576907dfb1e5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
