@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Man Who Sold The World - Live**<br />by _Nirvana_<br /> on MTV Unplugged In New York [1994] |
+| ![album cover][album-cover] | **Bond Unending**<br />by _Doro, Sammy Amara, Broilers_<br /> on Bond Unending [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485136c5417732e53e23cb219246
+[album-cover]: https://i.scdn.co/image/ab67616d000048510c50bec84d3c1bff3021089d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
