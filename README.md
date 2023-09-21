@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Tattooed Smiles**<br />by _Black Box Revelation_<br /> on Tattooed Smiles [2018] |
+| ![album cover][album-cover] | **Love Again**<br />by _Dua Lipa_<br /> on Future Nostalgia [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d84e1c75b37dc93929c4fd96
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bd26ede1ae69327010d49946
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
