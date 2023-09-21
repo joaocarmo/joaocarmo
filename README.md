@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Love Again**<br />by _Dua Lipa_<br /> on Future Nostalgia [2020] |
+| ![album cover][album-cover] | **Stupid Love**<br />by _Lady Gaga_<br /> on Chromatica [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bd26ede1ae69327010d49946
+[album-cover]: https://i.scdn.co/image/ab67616d000048516040effba89b9b00a6f6743a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
