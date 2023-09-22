@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Stupid Love**<br />by _Lady Gaga_<br /> on Chromatica [2020] |
+| ![album cover][album-cover] | **Vision Thing**<br />by _Sisters of Mercy_<br /> on Vision Thing [1990] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516040effba89b9b00a6f6743a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cb3d2ba2c2829b28e1c98863
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
