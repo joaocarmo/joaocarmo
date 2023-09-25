@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Nightfall**<br />by _Unto Others_<br /> on Mana [2019] |
+| ![album cover][album-cover] | **Broken Bones**<br />by _No Money Kids_<br /> on Broken Bones [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485128d93b5edbdcc10f554c170e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ee8057fd9e7c2b3934191b84
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
