@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Vision Thing**<br />by _Sisters of Mercy_<br /> on Vision Thing [1990] |
+| ![album cover][album-cover] | **Stuck**<br />by _Thirty Seconds To Mars_<br /> on Stuck [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cb3d2ba2c2829b28e1c98863
+[album-cover]: https://i.scdn.co/image/ab67616d0000485177252a2aed05bc40df26a8c0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
