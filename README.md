@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Good Days Again**<br />by _DYE CRAP_<br /> on Good Days Again [2023] |
+| ![album cover][album-cover] | **Blame**<br />by _The XCERTS_<br /> on Learning How To Live And Let Go [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851768258dc8c56089e25ea1772
+[album-cover]: https://i.scdn.co/image/ab67616d00004851359bbe2af364d73d90a5c61e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
