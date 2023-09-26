@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Blame**<br />by _The XCERTS_<br /> on Learning How To Live And Let Go [2023] |
+| ![album cover][album-cover] | **Everything Blu**<br />by _Day Aches_<br /> on Everything Blu [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851359bbe2af364d73d90a5c61e
+[album-cover]: https://i.scdn.co/image/ab67616d000048513ac12d90eff1efeea037192f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
