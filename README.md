@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Tell It To My Heart**<br />by _MEDUZA, Hozier_<br /> on Tell It To My Heart [2021] |
+| ![album cover][album-cover] | **Godzilla (feat. Juice WRLD)**<br />by _Eminem, Juice WRLD_<br /> on Music To Be Murdered By [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a97f3fad25245a1453b1b3b2
+[album-cover]: https://i.scdn.co/image/ab67616d000048512f44aec83b20e40f3baef73c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
