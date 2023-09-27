@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **SUPERMODEL**<br />by _Måneskin_<br /> on SUPERMODEL [2022] |
+| ![album cover][album-cover] | **Tell It To My Heart**<br />by _MEDUZA, Hozier_<br /> on Tell It To My Heart [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517a06505bb6d361bb7141166f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a97f3fad25245a1453b1b3b2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
