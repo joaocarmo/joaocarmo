@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Godzilla (feat. Juice WRLD)**<br />by _Eminem, Juice WRLD_<br /> on Music To Be Murdered By [2020] |
+| ![album cover][album-cover] | **All The Way Up**<br />by _Welshly Arms_<br /> on No Place Is Home [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512f44aec83b20e40f3baef73c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851605fea88497f83c4881df0da
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
