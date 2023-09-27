@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **All The Way Up**<br />by _Welshly Arms_<br /> on No Place Is Home [2018] |
+| ![album cover][album-cover] | **Oh Lorraine**<br />by _The Temperance Movement_<br /> on White Bear [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851605fea88497f83c4881df0da
+[album-cover]: https://i.scdn.co/image/ab67616d00004851863ede7e97ea98ce2a8220dc
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
