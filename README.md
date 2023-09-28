@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Kernkraft 400 (A Better Day)**<br />by _Topic, A7S_<br /> on Kernkraft 400 (A Better Day) [2022] |
+| ![album cover][album-cover] | **Good Luck**<br />by _Broken Bells_<br /> on Good Luck [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e1cafe604179a9438dee7a94
+[album-cover]: https://i.scdn.co/image/ab67616d0000485195b07971edcd8d451d2c2503
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
