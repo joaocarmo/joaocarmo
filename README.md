@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lay Low**<br />by _Tiësto_<br /> on Lay Low [2023] |
+| ![album cover][album-cover] | **Kernkraft 400 (A Better Day)**<br />by _Topic, A7S_<br /> on Kernkraft 400 (A Better Day) [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c8fdaf1b33263d88246ba90a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e1cafe604179a9438dee7a94
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
