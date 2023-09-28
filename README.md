@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Oh Lorraine**<br />by _The Temperance Movement_<br /> on White Bear [2016] |
+| ![album cover][album-cover] | **Lay Low**<br />by _Tiësto_<br /> on Lay Low [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851863ede7e97ea98ce2a8220dc
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c8fdaf1b33263d88246ba90a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
