@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Funeral**<br />by _YUNGBLUD_<br /> on YUNGBLUD [2022] |
+| ![album cover][album-cover] | **Sail**<br />by _AWOLNATION_<br /> on Megalithic Symphony [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851661c226e74eeed60652291c0
+[album-cover]: https://i.scdn.co/image/ab67616d0000485132f1572738340ddc9569c54b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
