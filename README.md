@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sail**<br />by _AWOLNATION_<br /> on Megalithic Symphony [2011] |
+| ![album cover][album-cover] | **Hail to the King**<br />by _Avenged Sevenfold_<br /> on Hail to the King [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485132f1572738340ddc9569c54b
+[album-cover]: https://i.scdn.co/image/ab67616d000048510ea1ecb2d5271c2db402b0c2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
