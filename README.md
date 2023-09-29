@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Good Luck**<br />by _Broken Bells_<br /> on Good Luck [2019] |
+| ![album cover][album-cover] | **The Funeral**<br />by _YUNGBLUD_<br /> on YUNGBLUD [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485195b07971edcd8d451d2c2503
+[album-cover]: https://i.scdn.co/image/ab67616d00004851661c226e74eeed60652291c0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
