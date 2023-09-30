@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hail to the King**<br />by _Avenged Sevenfold_<br /> on Hail to the King [2013] |
+| ![album cover][album-cover] | **The Factory Gates**<br />by _Kaiser Chiefs_<br /> on Education, Education, Education & War [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510ea1ecb2d5271c2db402b0c2
+[album-cover]: https://i.scdn.co/image/ab67616d00004851719c29cefd5f2e1bc882e2f3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
