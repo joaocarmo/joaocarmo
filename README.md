@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Factory Gates**<br />by _Kaiser Chiefs_<br /> on Education, Education, Education & War [2014] |
+| ![album cover][album-cover] | **Ooh La**<br />by _The Kooks_<br /> on Inside In / Inside Out [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851719c29cefd5f2e1bc882e2f3
+[album-cover]: https://i.scdn.co/image/ab67616d0000485163a28c5ecb7b13e9b329fe47
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
