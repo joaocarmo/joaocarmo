@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Yellow**<br />by _Coldplay_<br /> on Parachutes [2000] |
+| ![album cover][album-cover] | **Love Will Tear Us Apart - 2020 Remaster**<br />by _Joy Division_<br /> on Love Will Tear Us Apart [1980] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513d92b2ad5af9fbc8637425f0
+[album-cover]: https://i.scdn.co/image/ab67616d000048511e0fdc2906851e29d09320c3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
