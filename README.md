@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Ooh La**<br />by _The Kooks_<br /> on Inside In / Inside Out [2006] |
+| ![album cover][album-cover] | **Yellow**<br />by _Coldplay_<br /> on Parachutes [2000] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485163a28c5ecb7b13e9b329fe47
+[album-cover]: https://i.scdn.co/image/ab67616d000048513d92b2ad5af9fbc8637425f0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
