@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Love Will Tear Us Apart - 2020 Remaster**<br />by _Joy Division_<br /> on Love Will Tear Us Apart [1980] |
+| ![album cover][album-cover] | **Tiny Dancer**<br />by _Elton John_<br /> on Madman Across The Water [1971] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511e0fdc2906851e29d09320c3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d03ab2da904d8251a87bbc31
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
