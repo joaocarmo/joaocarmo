@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Tiny Dancer**<br />by _Elton John_<br /> on Madman Across The Water [1971] |
+| ![album cover][album-cover] | **Once in a Lifetime - 2005 Remaster**<br />by _Talking Heads_<br /> on Remain in Light (Deluxe Version) [1980] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d03ab2da904d8251a87bbc31
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e56fa8c916dc6ce419dcf557
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
