@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Burn Bright**<br />by _The Heavy_<br /> on Sons [2019] |
+| ![album cover][album-cover] | **What You Know**<br />by _Two Door Cinema Club_<br /> on Tourist History [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e03878e705b1afe8a32646d5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fc6eef9b111d87e57b4b10cc
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
