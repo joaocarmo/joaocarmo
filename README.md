@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Psychomatic**<br />by _The Vines_<br /> on Wicked Nature [2014] |
+| ![album cover][album-cover] | **Pork And Beans**<br />by _Weezer_<br /> on Weezer [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517c5e6d4a5062b9f18e249490
+[album-cover]: https://i.scdn.co/image/ab67616d000048514f368b965ef68e52c4fb4997
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
