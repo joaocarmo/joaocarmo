@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Everything is Boring**<br />by _The Beaches_<br /> on Blame My Ex [2023] |
+| ![album cover][album-cover] | **Arabella**<br />by _Arctic Monkeys_<br /> on AM [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b031aad441b2c4eb2efadf7c
+[album-cover]: https://i.scdn.co/image/ab67616d000048514ae1c4c5c45aabe565499163
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
