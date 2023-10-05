@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Pull Me Through**<br />by _Royal Blood_<br /> on Back To The Water Below [2023] |
+| ![album cover][album-cover] | **welcome2paradise**<br />by _Conquer Divide_<br /> on welcome2paradise [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513d19b00fa756f64eee1fe0c8
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a06ef10fd97311809ccf209d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
