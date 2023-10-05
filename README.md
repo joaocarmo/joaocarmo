@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Arabella**<br />by _Arctic Monkeys_<br /> on AM [2013] |
+| ![album cover][album-cover] | **Pull Me Through**<br />by _Royal Blood_<br /> on Back To The Water Below [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514ae1c4c5c45aabe565499163
+[album-cover]: https://i.scdn.co/image/ab67616d000048513d19b00fa756f64eee1fe0c8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
