@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Slow**<br />by _Airways_<br /> on Terrible Town [2021] |
+| ![album cover][album-cover] | **Love Illumination**<br />by _Franz Ferdinand_<br /> on Right Thoughts, Right Words, Right Action (Deluxe Edition) [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512f43f6635de17e2b3238f9a5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f85c427ae396ec88898572f5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
