@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **welcome2paradise**<br />by _Conquer Divide_<br /> on welcome2paradise [2023] |
+| ![album cover][album-cover] | **Slow**<br />by _Airways_<br /> on Terrible Town [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a06ef10fd97311809ccf209d
+[album-cover]: https://i.scdn.co/image/ab67616d000048512f43f6635de17e2b3238f9a5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
