@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Welcome to the Black Parade**<br />by _My Chemical Romance_<br /> on The Black Parade [2006] |
+| ![album cover][album-cover] | **Step Aside**<br />by _Goodbye June_<br /> on See Where The Night Goes [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485117f77fab7e8f18d5f9fee4a1
+[album-cover]: https://i.scdn.co/image/ab67616d0000485188c69583746db7a0e997ae76
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
