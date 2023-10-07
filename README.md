@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Love Illumination**<br />by _Franz Ferdinand_<br /> on Right Thoughts, Right Words, Right Action (Deluxe Edition) [2013] |
+| ![album cover][album-cover] | **Welcome to the Black Parade**<br />by _My Chemical Romance_<br /> on The Black Parade [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f85c427ae396ec88898572f5
+[album-cover]: https://i.scdn.co/image/ab67616d0000485117f77fab7e8f18d5f9fee4a1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
