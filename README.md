@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Either You Want It**<br />by _Royal Blood_<br /> on Typhoons [2021] |
+| ![album cover][album-cover] | **From Hell to Here**<br />by _HIMALAYAS_<br /> on From Hell to Here [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851712b9c0f9a8d380e26a95c1c
+[album-cover]: https://i.scdn.co/image/ab67616d0000485124156fef3ad4840c7b4e0746
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
