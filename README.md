@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **From Hell to Here**<br />by _HIMALAYAS_<br /> on From Hell to Here [2023] |
+| ![album cover][album-cover] | **Electric Man**<br />by _Rival Sons_<br /> on Great Western Valkyrie (Tour Edition) [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485124156fef3ad4840c7b4e0746
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a00b56dab4cb9c077493fe76
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
