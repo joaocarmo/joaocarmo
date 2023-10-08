@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Step Aside**<br />by _Goodbye June_<br /> on See Where The Night Goes [2022] |
+| ![album cover][album-cover] | **Either You Want It**<br />by _Royal Blood_<br /> on Typhoons [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485188c69583746db7a0e997ae76
+[album-cover]: https://i.scdn.co/image/ab67616d00004851712b9c0f9a8d380e26a95c1c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
