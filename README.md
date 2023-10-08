@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Electric Man**<br />by _Rival Sons_<br /> on Great Western Valkyrie (Tour Edition) [2015] |
+| ![album cover][album-cover] | **BABY SAID**<br />by _Måneskin_<br /> on RUSH! [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a00b56dab4cb9c077493fe76
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c1b211b5fcdef31be5f806df
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
