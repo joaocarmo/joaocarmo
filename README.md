@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Tear in My Heart**<br />by _Twenty One Pilots_<br /> on Blurryface [2015] |
+| ![album cover][album-cover] | **Psycho**<br />by _Muse_<br /> on Drones [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851de03bfc2991fd5bcfde65ba3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851808846f0223d97d5963c420d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
