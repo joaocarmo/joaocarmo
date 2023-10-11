@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **505**<br />by _Arctic Monkeys_<br /> on Favourite Worst Nightmare [2007] |
+| ![album cover][album-cover] | **Arabella**<br />by _Arctic Monkeys_<br /> on AM [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b1f8da74f225fa1225cdface
+[album-cover]: https://i.scdn.co/image/ab67616d000048514ae1c4c5c45aabe565499163
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
