@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Arabella**<br />by _Arctic Monkeys_<br /> on AM [2013] |
+| ![album cover][album-cover] | **Vertigo**<br />by _Alice Merton_<br /> on S.I.D.E.S. [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514ae1c4c5c45aabe565499163
+[album-cover]: https://i.scdn.co/image/ab67616d000048516bc3c357d6ac208943e97989
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
