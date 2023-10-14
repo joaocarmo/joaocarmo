@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Vertigo**<br />by _Alice Merton_<br /> on S.I.D.E.S. [2022] |
+| ![album cover][album-cover] | **Trouble’s Coming**<br />by _Royal Blood_<br /> on Typhoons [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516bc3c357d6ac208943e97989
+[album-cover]: https://i.scdn.co/image/ab67616d00004851712b9c0f9a8d380e26a95c1c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
