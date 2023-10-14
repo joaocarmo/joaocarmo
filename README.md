@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Trouble’s Coming**<br />by _Royal Blood_<br /> on Typhoons [2021] |
+| ![album cover][album-cover] | **persona non grata**<br />by _Hayden J Barlow_<br /> on CAUSTIC [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851712b9c0f9a8d380e26a95c1c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e6fa45ced42659849e4f339e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
