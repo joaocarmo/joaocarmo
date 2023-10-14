@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **persona non grata**<br />by _Hayden J Barlow_<br /> on CAUSTIC [2022] |
+| ![album cover][album-cover] | **IN NOME DEL PADRE**<br />by _Måneskin_<br /> on Teatro d'ira - Vol. I [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e6fa45ced42659849e4f339e
+[album-cover]: https://i.scdn.co/image/ab67616d000048515aa05015cfa7bd2943c29b21
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
