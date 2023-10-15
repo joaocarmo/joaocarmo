@@ -18,7 +18,7 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **IN NOME DEL PADRE**<br />by _Måneskin_<br /> on Teatro d'ira - Vol. I [2021] |
+| ![album cover][album-cover] | **FOR YOUR LOVE**<br />by _Måneskin_<br /> on Teatro d'ira - Vol. I [2021] |
 
 <!-- References -->
 
