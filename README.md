@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **FOR YOUR LOVE**<br />by _Måneskin_<br /> on Teatro d'ira - Vol. I [2021] |
+| ![album cover][album-cover] | **Why'd You Only Call Me When You're High?**<br />by _Arctic Monkeys_<br /> on AM [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515aa05015cfa7bd2943c29b21
+[album-cover]: https://i.scdn.co/image/ab67616d000048514ae1c4c5c45aabe565499163
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
