@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Time to Pretend**<br />by _MGMT_<br /> on Oracular Spectacular [2007] |
+| ![album cover][album-cover] | **Cheap Thrills**<br />by _Sia_<br /> on This Is Acting [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518b32b139981e79f2ebe005eb
+[album-cover]: https://i.scdn.co/image/ab67616d0000485149e0134c686547c28b7c999f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
