@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Cheap Thrills**<br />by _Sia_<br /> on This Is Acting [2016] |
+| ![album cover][album-cover] | **John the Revelator**<br />by _Curtis Stigers, The Forest Rangers_<br /> on Sons of Anarchy: North Country (Music from the TV Series) [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485149e0134c686547c28b7c999f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851168c60d2238f57bcb290b3a7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
