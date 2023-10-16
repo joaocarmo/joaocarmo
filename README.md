@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Why'd You Only Call Me When You're High?**<br />by _Arctic Monkeys_<br /> on AM [2013] |
+| ![album cover][album-cover] | **Time to Pretend**<br />by _MGMT_<br /> on Oracular Spectacular [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514ae1c4c5c45aabe565499163
+[album-cover]: https://i.scdn.co/image/ab67616d000048518b32b139981e79f2ebe005eb
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
