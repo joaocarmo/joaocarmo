@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **John the Revelator**<br />by _Curtis Stigers, The Forest Rangers_<br /> on Sons of Anarchy: North Country (Music from the TV Series) [2009] |
+| ![album cover][album-cover] | **Blinding Lights**<br />by _Saint Asonia_<br /> on Blinding Lights [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851168c60d2238f57bcb290b3a7
+[album-cover]: https://i.scdn.co/image/ab67616d0000485173aa56f1d6235e36159bc147
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
