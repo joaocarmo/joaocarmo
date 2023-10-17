@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Zombie**<br />by _Jamie T_<br /> on Carry On The Grudge [2014] |
+| ![album cover][album-cover] | **When We Were Young**<br />by _Andy Black, Juliet Simms_<br /> on Punk Goes Pop, Vol. 7 [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514fb56ec277f5a8750863acb9
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cc2ca6b486b9eab3dcf68412
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
