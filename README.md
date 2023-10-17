@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Blinding Lights**<br />by _Saint Asonia_<br /> on Blinding Lights [2021] |
+| ![album cover][album-cover] | **Zombie**<br />by _Jamie T_<br /> on Carry On The Grudge [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485173aa56f1d6235e36159bc147
+[album-cover]: https://i.scdn.co/image/ab67616d000048514fb56ec277f5a8750863acb9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
