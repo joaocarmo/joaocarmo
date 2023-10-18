@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **When We Were Young**<br />by _Andy Black, Juliet Simms_<br /> on Punk Goes Pop, Vol. 7 [2017] |
+| ![album cover][album-cover] | **Are You Ready?**<br />by _Måneskin_<br /> on Il ballo della vita [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cc2ca6b486b9eab3dcf68412
+[album-cover]: https://i.scdn.co/image/ab67616d00004851dbc892b8194e35ca3524e767
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
