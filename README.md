@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **LA FINE**<br />by _Måneskin_<br /> on RUSH! [2023] |
+| ![album cover][album-cover] | **Somebody Else**<br />by _HIMALAYAS_<br /> on From Hell to Here [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c1b211b5fcdef31be5f806df
+[album-cover]: https://i.scdn.co/image/ab67616d0000485124156fef3ad4840c7b4e0746
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
