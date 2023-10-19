@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Are You Ready?**<br />by _Måneskin_<br /> on Il ballo della vita [2018] |
+| ![album cover][album-cover] | **LA FINE**<br />by _Måneskin_<br /> on RUSH! [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851dbc892b8194e35ca3524e767
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c1b211b5fcdef31be5f806df
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
