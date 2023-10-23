@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Spillways [Feat. Joe Elliott]**<br />by _Ghost, Def Leppard, Joe Elliott_<br /> on Spillways [Feat. Joe Elliott] [2023] |
+| ![album cover][album-cover] | **I Love You**<br />by _Fontaines D.C._<br /> on Skinty Fia [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a7e74acfaf004e89a091699e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fa10fcd519ad13a7512805ca
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
