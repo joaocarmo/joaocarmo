@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Love You**<br />by _Fontaines D.C._<br /> on Skinty Fia [2022] |
+| ![album cover][album-cover] | **An Alternative to Freedom**<br />by _Witchcraft_<br /> on Legend [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fa10fcd519ad13a7512805ca
+[album-cover]: https://i.scdn.co/image/ab67616d00004851edc7a57add129d1479f4c1c8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
