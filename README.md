@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **An Alternative to Freedom**<br />by _Witchcraft_<br /> on Legend [2012] |
+| ![album cover][album-cover] | **Trouble In America - Bonus Track**<br />by _White Lies_<br /> on As I Try Not To Fall Apart (Bonus Edition) [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851edc7a57add129d1479f4c1c8
+[album-cover]: https://i.scdn.co/image/ab67616d00004851657033dbbba01bc7f33b6fa2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
