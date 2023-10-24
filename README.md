@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Frank's Choice**<br />by _Tyler Bates_<br /> on The Punisher (Original Soundtrack) [2017] |
+| ![album cover][album-cover] | **The Dying Gull**<br />by _Geoff Zanelli_<br /> on Pirates of the Caribbean: Dead Men Tell No Tales (Original Motion Picture Soundtrack) [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851eda820ae76cd4af1f787eab6
+[album-cover]: https://i.scdn.co/image/ab67616d000048512ad539dc7450095a86288f82
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
