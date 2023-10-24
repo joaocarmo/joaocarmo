@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Trouble In America - Bonus Track**<br />by _White Lies_<br /> on As I Try Not To Fall Apart (Bonus Edition) [2022] |
+| ![album cover][album-cover] | **Frank's Choice**<br />by _Tyler Bates_<br /> on The Punisher (Original Soundtrack) [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851657033dbbba01bc7f33b6fa2
+[album-cover]: https://i.scdn.co/image/ab67616d00004851eda820ae76cd4af1f787eab6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
