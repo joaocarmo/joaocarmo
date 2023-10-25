@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Dying Gull**<br />by _Geoff Zanelli_<br /> on Pirates of the Caribbean: Dead Men Tell No Tales (Original Motion Picture Soundtrack) [2017] |
+| ![album cover][album-cover] | **Leaving Earth**<br />by _Clint Mansell_<br /> on Mass Effect 3 (Original Soundtrack) [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512ad539dc7450095a86288f82
+[album-cover]: https://i.scdn.co/image/ab67616d00004851deadf3aca148bed403c81558
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
