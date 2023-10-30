@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Leaving Earth**<br />by _Clint Mansell_<br /> on Mass Effect 3 (Original Soundtrack) [2012] |
+| ![album cover][album-cover] | **Gimme Some Lovin' - Single Mix**<br />by _The Spencer Davis Group_<br /> on Gimme Some Lovin' / Blues In F [1966] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851deadf3aca148bed403c81558
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fd4270760937e919281721c4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
