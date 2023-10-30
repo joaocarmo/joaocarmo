@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Gimme Some Lovin' - Single Mix**<br />by _The Spencer Davis Group_<br /> on Gimme Some Lovin' / Blues In F [1966] |
+| ![album cover][album-cover] | **Fever for the Flava**<br />by _Hot Action Cop_<br /> on Hot Action Cop [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fd4270760937e919281721c4
+[album-cover]: https://i.scdn.co/image/ab67616d000048515a78848fe96e342e35a98921
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
