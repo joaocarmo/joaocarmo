@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Fever for the Flava**<br />by _Hot Action Cop_<br /> on Hot Action Cop [2003] |
+| ![album cover][album-cover] | **Pump It**<br />by _Electric Callboy_<br /> on TEKKNO [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515a78848fe96e342e35a98921
+[album-cover]: https://i.scdn.co/image/ab67616d00004851237fb58544c59034021c3e4b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
