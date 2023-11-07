@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Pump It**<br />by _Electric Callboy_<br /> on TEKKNO [2022] |
+| ![album cover][album-cover] | **Hey Ya!**<br />by _Outkast_<br /> on Speakerboxxx/The Love Below [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851237fb58544c59034021c3e4b
+[album-cover]: https://i.scdn.co/image/ab67616d000048516a6387ab37f64034cdc7b367
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
