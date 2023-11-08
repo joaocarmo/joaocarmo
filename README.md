@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hey Ya!**<br />by _Outkast_<br /> on Speakerboxxx/The Love Below [2003] |
+| ![album cover][album-cover] | **DON'T WANNA SLEEP**<br />by _Måneskin_<br /> on RUSH! [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516a6387ab37f64034cdc7b367
+[album-cover]: https://i.scdn.co/image/ab67616d00004851aad7b695784a8dc4342fea8c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
