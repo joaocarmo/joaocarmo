@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Secrets in the Sunset**<br />by _Goodbye June_<br /> on Community Inn [2019] |
+| ![album cover][album-cover] | **Magreb**<br />by _Toundra_<br /> on (II) [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511f486fc32bcfc669f770923e
+[album-cover]: https://i.scdn.co/image/ab67616d0000485159d3d03c5202050815422771
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
