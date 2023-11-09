@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Magreb**<br />by _Toundra_<br /> on (II) [2010] |
+| ![album cover][album-cover] | **All That Medicine**<br />by _Tax The Heat_<br /> on Change Your Position [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485159d3d03c5202050815422771
+[album-cover]: https://i.scdn.co/image/ab67616d00004851069baeda81ceaeaabb99aef7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
