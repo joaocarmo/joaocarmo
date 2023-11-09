@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **All That Medicine**<br />by _Tax The Heat_<br /> on Change Your Position [2018] |
+| ![album cover][album-cover] | **Lights**<br />by _Omar Rodríguez-López_<br /> on Blind Worms, Pious Swine [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851069baeda81ceaeaabb99aef7
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cdb31473bcb834df0b83b7cc
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
