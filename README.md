@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Rolling With the Punches**<br />by _The Blue Stones_<br /> on Black Holes [2018] |
+| ![album cover][album-cover] | **Ain't No Easy Way**<br />by _Black Rebel Motorcycle Club_<br /> on Howl [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c8cda1be549790f809b8e7e0
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c26015396f200026d23fb9ce
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
