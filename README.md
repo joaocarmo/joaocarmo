@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I'm Shakin'**<br />by _Jack White_<br /> on Blunderbuss [2012] |
+| ![album cover][album-cover] | **Eyes Of Oblivion**<br />by _The Hellacopters_<br /> on Eyes Of Oblivion [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485131521abf3574d6f66084f366
+[album-cover]: https://i.scdn.co/image/ab67616d0000485182a8edffb93f96246e507143
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
