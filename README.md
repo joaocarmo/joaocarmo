@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Psycho**<br />by _Muse_<br /> on Drones [2015] |
+| ![album cover][album-cover] | **I'm Shakin'**<br />by _Jack White_<br /> on Blunderbuss [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851808846f0223d97d5963c420d
+[album-cover]: https://i.scdn.co/image/ab67616d0000485131521abf3574d6f66084f366
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
