@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Eyes Of Oblivion**<br />by _The Hellacopters_<br /> on Eyes Of Oblivion [2022] |
+| ![album cover][album-cover] | **Stressed Out**<br />by _Twenty One Pilots_<br /> on Blurryface [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485182a8edffb93f96246e507143
+[album-cover]: https://i.scdn.co/image/ab67616d00004851de03bfc2991fd5bcfde65ba3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
