@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Stressed Out**<br />by _Twenty One Pilots_<br /> on Blurryface [2015] |
+| ![album cover][album-cover] | **Jump Around - 30 Years Remaster**<br />by _House Of Pain_<br /> on House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition] [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851de03bfc2991fd5bcfde65ba3
+[album-cover]: https://i.scdn.co/image/ab67616d0000485179606c79fde418c0bc458abb
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
