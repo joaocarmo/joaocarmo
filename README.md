@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Why'd You Only Call Me When You're High?**<br />by _Arctic Monkeys_<br /> on AM [2013] |
+| ![album cover][album-cover] | **THE LONELIEST**<br />by _Måneskin_<br /> on RUSH! [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514ae1c4c5c45aabe565499163
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c1b211b5fcdef31be5f806df
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
