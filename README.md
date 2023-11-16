@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Jump Around - 30 Years Remaster**<br />by _House Of Pain_<br /> on House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition] [2022] |
+| ![album cover][album-cover] | **Why'd You Only Call Me When You're High?**<br />by _Arctic Monkeys_<br /> on AM [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485179606c79fde418c0bc458abb
+[album-cover]: https://i.scdn.co/image/ab67616d000048514ae1c4c5c45aabe565499163
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
