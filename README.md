@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Creep**<br />by _Radiohead_<br /> on Pablo Honey [1993] |
+| ![album cover][album-cover] | **A King's Sadness**<br />by _William Ross_<br /> on The Tale Of Despereaux (Original Motion Picture Soundtrack) [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851df55e326ed144ab4f5cecf95
+[album-cover]: https://i.scdn.co/image/ab67616d000048514cabe3003542b97304b0be67
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
