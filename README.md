@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Won’t Stand Down**<br />by _Muse_<br /> on Will Of The People [2022] |
+| ![album cover][album-cover] | **Life's Coming in Slow - from GRAN TURISMO 7**<br />by _Nothing But Thieves_<br /> on Life's Coming in Slow (from GRAN TURISMO 7) [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485142c90d53e8c596285e8f59ff
+[album-cover]: https://i.scdn.co/image/ab67616d0000485188ebf446dba1b77bf99b2738
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
