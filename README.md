@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **A King's Sadness**<br />by _William Ross_<br /> on The Tale Of Despereaux (Original Motion Picture Soundtrack) [2008] |
+| ![album cover][album-cover] | **Won’t Stand Down**<br />by _Muse_<br /> on Will Of The People [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514cabe3003542b97304b0be67
+[album-cover]: https://i.scdn.co/image/ab67616d0000485142c90d53e8c596285e8f59ff
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
