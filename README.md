@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Life's Coming in Slow - from GRAN TURISMO 7**<br />by _Nothing But Thieves_<br /> on Life's Coming in Slow (from GRAN TURISMO 7) [2022] |
+| ![album cover][album-cover] | **abcdefu (angrier)**<br />by _GAYLE_<br /> on abcdefu (angrier) [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485188ebf446dba1b77bf99b2738
+[album-cover]: https://i.scdn.co/image/ab67616d000048513acbe79d4a2013021b607a84
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
