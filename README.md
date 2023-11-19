@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **abcdefu (angrier)**<br />by _GAYLE_<br /> on abcdefu (angrier) [2021] |
+| ![album cover][album-cover] | **Figure It Out**<br />by _Royal Blood_<br /> on Royal Blood [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513acbe79d4a2013021b607a84
+[album-cover]: https://i.scdn.co/image/ab67616d0000485169471a9c0a6073a9beb81410
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
