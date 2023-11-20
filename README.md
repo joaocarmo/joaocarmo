@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Surprise Surprise**<br />by _Billy Talent_<br /> on Dead Silence [2012] |
+| ![album cover][album-cover] | **Secrets in the Sunset**<br />by _Goodbye June_<br /> on Community Inn [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485193149ddad8adb18aa2087eb0
+[album-cover]: https://i.scdn.co/image/ab67616d000048511f486fc32bcfc669f770923e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
