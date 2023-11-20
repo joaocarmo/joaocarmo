@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Heart In a Cage**<br />by _The Strokes_<br /> on First Impressions Of Earth [2006] |
+| ![album cover][album-cover] | **Surprise Surprise**<br />by _Billy Talent_<br /> on Dead Silence [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516898a982ff3c6049ba52586c
+[album-cover]: https://i.scdn.co/image/ab67616d0000485193149ddad8adb18aa2087eb0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
