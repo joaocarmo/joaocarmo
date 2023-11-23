@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Seize the Power**<br />by _YONAKA_<br /> on Seize the Power [2021] |
+| ![album cover][album-cover] | **still feel.**<br />by _half•alive_<br /> on Now, Not Yet [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485138debe8dc40c62d7c593bed2
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f89d2d949f9671982e9e732c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
