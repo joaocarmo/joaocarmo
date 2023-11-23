@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dogs of War: Main Title**<br />by _Christopher Lennertz_<br /> on Medal of Honor: European Assault (Original Soundtrack) [2005] |
+| ![album cover][album-cover] | **Seize the Power**<br />by _YONAKA_<br /> on Seize the Power [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851deb78c2384bd72f08e25d91d
+[album-cover]: https://i.scdn.co/image/ab67616d0000485138debe8dc40c62d7c593bed2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
