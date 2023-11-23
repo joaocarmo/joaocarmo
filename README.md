@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Heart Full of Black**<br />by _Burning Brides_<br /> on Leave No Ashes [2016] |
+| ![album cover][album-cover] | **Sometimes On A Sunday**<br />by _The Glorious Sons_<br /> on Sometimes On A Sunday [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d1b3781a9e0207fc7e8c1ece
+[album-cover]: https://i.scdn.co/image/ab67616d000048514eb91911503a4b9046c4a76d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
