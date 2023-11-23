@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sometimes On A Sunday**<br />by _The Glorious Sons_<br /> on Sometimes On A Sunday [2015] |
+| ![album cover][album-cover] | **Dogs of War: Main Title**<br />by _Christopher Lennertz_<br /> on Medal of Honor: European Assault (Original Soundtrack) [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514eb91911503a4b9046c4a76d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851deb78c2384bd72f08e25d91d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
