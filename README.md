@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **still feel.**<br />by _half•alive_<br /> on Now, Not Yet [2019] |
+| ![album cover][album-cover] | **Dani California**<br />by _Red Hot Chili Peppers_<br /> on Stadium Arcadium [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f89d2d949f9671982e9e732c
+[album-cover]: https://i.scdn.co/image/ab67616d0000485109fd83d32aee93dceba78517
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
