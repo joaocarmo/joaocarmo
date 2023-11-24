@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **READ YOUR DIARY**<br />by _Måneskin_<br /> on RUSH! [2023] |
+| ![album cover][album-cover] | **Afterlife**<br />by _Holding Absence_<br /> on The Greatest Mistake of My Life [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c1b211b5fcdef31be5f806df
+[album-cover]: https://i.scdn.co/image/ab67616d00004851541a0129b72e8cbac8fa095f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
