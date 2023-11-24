@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dani California**<br />by _Red Hot Chili Peppers_<br /> on Stadium Arcadium [2006] |
+| ![album cover][album-cover] | **READ YOUR DIARY**<br />by _Måneskin_<br /> on RUSH! [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485109fd83d32aee93dceba78517
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c1b211b5fcdef31be5f806df
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
