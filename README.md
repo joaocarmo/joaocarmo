@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Float On**<br />by _Modest Mouse_<br /> on Good News For People Who Love Bad News [2004] |
+| ![album cover][album-cover] | **Standing Next To Me**<br />by _The Last Shadow Puppets, Alex Turner, Miles Kane_<br /> on The Age Of The Understatement [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cc68329bfbf34037df965dc1
+[album-cover]: https://i.scdn.co/image/ab67616d0000485156e4e3118af9dec4a5670a33
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
