@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Standing Next To Me**<br />by _The Last Shadow Puppets, Alex Turner, Miles Kane_<br /> on The Age Of The Understatement [2008] |
+| ![album cover][album-cover] | **No Good**<br />by _KALEO_<br /> on A/B [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485156e4e3118af9dec4a5670a33
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f793a842c1642b09a768a63b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
