@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Ten Tonne Skeleton**<br />by _Royal Blood_<br /> on Royal Blood [2014] |
+| ![album cover][album-cover] | **Banquet**<br />by _Bloc Party_<br /> on Silent Alarm [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485169471a9c0a6073a9beb81410
+[album-cover]: https://i.scdn.co/image/ab67616d00004851dd5fbd879c9189622463b3bf
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
