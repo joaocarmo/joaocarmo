@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **No One Loves Me and Neither Do I**<br />by _Them Crooked Vultures_<br /> on Them Crooked Vultures [2009] |
+| ![album cover][album-cover] | **Nights In White Satin - Single Version / Mono**<br />by _The Moody Blues_<br /> on Days Of Future Passed (Deluxe Version) [1967] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517355bb17937d57983e09f9f9
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ec351e05f8bcf97e7999ac64
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
