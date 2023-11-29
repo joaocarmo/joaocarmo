@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Why'd You Only Call Me When You're High?**<br />by _Arctic Monkeys_<br /> on AM [2013] |
+| ![album cover][album-cover] | **No One Loves Me and Neither Do I**<br />by _Them Crooked Vultures_<br /> on Them Crooked Vultures [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514ae1c4c5c45aabe565499163
+[album-cover]: https://i.scdn.co/image/ab67616d000048517355bb17937d57983e09f9f9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
