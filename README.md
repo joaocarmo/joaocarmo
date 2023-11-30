@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Nights In White Satin - Single Version / Mono**<br />by _The Moody Blues_<br /> on Days Of Future Passed (Deluxe Version) [1967] |
+| ![album cover][album-cover] | **Wild Thing**<br />by _The Troggs_<br /> on From Nowhere [1966] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ec351e05f8bcf97e7999ac64
+[album-cover]: https://i.scdn.co/image/ab67616d0000485127b24620f0b3b592472552f5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
