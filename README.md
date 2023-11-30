@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wild Thing**<br />by _The Troggs_<br /> on From Nowhere [1966] |
+| ![album cover][album-cover] | **Lights, Camera, Action**<br />by _Nonpoint_<br /> on Nonpoint [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485127b24620f0b3b592472552f5
+[album-cover]: https://i.scdn.co/image/ab67616d000048510e8fc61b50581f11c02e42fe
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
