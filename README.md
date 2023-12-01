@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lights, Camera, Action**<br />by _Nonpoint_<br /> on Nonpoint [2012] |
+| ![album cover][album-cover] | **1917**<br />by _Thomas Newman_<br /> on 1917 (Original Motion Picture Soundtrack) [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510e8fc61b50581f11c02e42fe
+[album-cover]: https://i.scdn.co/image/ab67616d000048517020917e73981c25bf85d51f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
