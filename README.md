@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Green Utopia**<br />by _The Vines_<br /> on Wicked Nature [2014] |
+| ![album cover][album-cover] | **Old Yellow Bricks**<br />by _Arctic Monkeys_<br /> on Favourite Worst Nightmare [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517c5e6d4a5062b9f18e249490
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b1f8da74f225fa1225cdface
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
