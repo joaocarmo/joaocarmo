@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **1917**<br />by _Thomas Newman_<br /> on 1917 (Original Motion Picture Soundtrack) [2019] |
+| ![album cover][album-cover] | **You're Gloating**<br />by _Carlos Rafael Rivera_<br /> on The Queen's Gambit (Music from the Netflix Limited Series) [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517020917e73981c25bf85d51f
+[album-cover]: https://i.scdn.co/image/ab67616d000048515c31c2a42a670aef0c883c43
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
