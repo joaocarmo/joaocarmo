@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **You're Gloating**<br />by _Carlos Rafael Rivera_<br /> on The Queen's Gambit (Music from the Netflix Limited Series) [2020] |
+| ![album cover][album-cover] | **Green Utopia**<br />by _The Vines_<br /> on Wicked Nature [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515c31c2a42a670aef0c883c43
+[album-cover]: https://i.scdn.co/image/ab67616d000048517c5e6d4a5062b9f18e249490
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
