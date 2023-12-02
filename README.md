@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **New Fang**<br />by _Them Crooked Vultures_<br /> on Them Crooked Vultures [2009] |
+| ![album cover][album-cover] | **War Pigs (2009 - Remaster)**<br />by _Black Sabbath_<br /> on Paranoid [1970] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517355bb17937d57983e09f9f9
+[album-cover]: https://i.scdn.co/image/ab67616d00004851605b25c031f809d78054a13c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
