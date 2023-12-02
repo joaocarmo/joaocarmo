@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dancing Shoes**<br />by _Arctic Monkeys_<br /> on Whatever People Say I Am, That's What I'm Not [2006] |
+| ![album cover][album-cover] | **New Fang**<br />by _Them Crooked Vultures_<br /> on Them Crooked Vultures [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516b3fa88bdd4af566fbbf2bbf
+[album-cover]: https://i.scdn.co/image/ab67616d000048517355bb17937d57983e09f9f9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
