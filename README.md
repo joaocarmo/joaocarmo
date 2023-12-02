@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Old Yellow Bricks**<br />by _Arctic Monkeys_<br /> on Favourite Worst Nightmare [2007] |
+| ![album cover][album-cover] | **Dancing Shoes**<br />by _Arctic Monkeys_<br /> on Whatever People Say I Am, That's What I'm Not [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b1f8da74f225fa1225cdface
+[album-cover]: https://i.scdn.co/image/ab67616d000048516b3fa88bdd4af566fbbf2bbf
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
