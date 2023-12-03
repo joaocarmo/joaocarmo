@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Vertigo**<br />by _Hundredth_<br /> on RARE [2017] |
+| ![album cover][album-cover] | **Central**<br />by _John Frusciante_<br /> on The Empyrean [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851850a5aefe47ceea3e7e3e19d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851833104647f596f77a3a6aa5f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
