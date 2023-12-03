@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Monster**<br />by _Reckless Love_<br /> on InVader [2016] |
+| ![album cover][album-cover] | **Vertigo**<br />by _Hundredth_<br /> on RARE [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851820b85e537863d02d5979153
+[album-cover]: https://i.scdn.co/image/ab67616d00004851850a5aefe47ceea3e7e3e19d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
