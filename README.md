@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Central**<br />by _John Frusciante_<br /> on The Empyrean [2009] |
+| ![album cover][album-cover] | **In This Shirt - Royksopp Remix**<br />by _The Irrepressibles, Röyksopp_<br /> on In This Shirt [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851833104647f596f77a3a6aa5f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851689e51b99185a8f679fefe69
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
