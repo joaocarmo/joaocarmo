@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **War Pigs (2009 - Remaster)**<br />by _Black Sabbath_<br /> on Paranoid [1970] |
+| ![album cover][album-cover] | **Monster**<br />by _Reckless Love_<br /> on InVader [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851605b25c031f809d78054a13c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851820b85e537863d02d5979153
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
