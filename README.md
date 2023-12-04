@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **In This Shirt - Royksopp Remix**<br />by _The Irrepressibles, Röyksopp_<br /> on In This Shirt [2016] |
+| ![album cover][album-cover] | **M5**<br />by _Sports Team_<br /> on Keep Walking! [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851689e51b99185a8f679fefe69
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d3a00c3c338ebc9c400cf6b1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
