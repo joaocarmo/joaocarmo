@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **M5**<br />by _Sports Team_<br /> on Keep Walking! [2019] |
+| ![album cover][album-cover] | **Achilles Come Down**<br />by _Gang of Youths_<br /> on Go Farther In Lightness [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d3a00c3c338ebc9c400cf6b1
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f539f9a64d5603185f70e02b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
