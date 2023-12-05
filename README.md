@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Achilles Come Down**<br />by _Gang of Youths_<br /> on Go Farther In Lightness [2017] |
+| ![album cover][album-cover] | **Alrighty Aphrodite**<br />by _Peach Pit_<br /> on Being So Normal [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f539f9a64d5603185f70e02b
+[album-cover]: https://i.scdn.co/image/ab67616d0000485100b39b4a73d28536690b355c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
