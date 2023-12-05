@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Living in the Shadows**<br />by _Matthew Perryman Jones_<br /> on Living in the Shadows [2016] |
+| ![album cover][album-cover] | **Alive**<br />by _Warbly Jets_<br /> on Warbly Jets [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485113f1a15c18f40a991691f3d6
+[album-cover]: https://i.scdn.co/image/ab67616d000048510bb3304de7a39077cd8118ad
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
