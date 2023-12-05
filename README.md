@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Alrighty Aphrodite**<br />by _Peach Pit_<br /> on Being So Normal [2018] |
+| ![album cover][album-cover] | **Living in the Shadows**<br />by _Matthew Perryman Jones_<br /> on Living in the Shadows [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485100b39b4a73d28536690b355c
+[album-cover]: https://i.scdn.co/image/ab67616d0000485113f1a15c18f40a991691f3d6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
