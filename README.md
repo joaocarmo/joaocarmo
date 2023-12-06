@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Alive**<br />by _Warbly Jets_<br /> on Warbly Jets [2017] |
+| ![album cover][album-cover] | **Bullet With Butterfly Wings - Remastered 2012**<br />by _The Smashing Pumpkins_<br /> on Mellon Collie And The Infinite Sadness (Deluxe Edition) [1995] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510bb3304de7a39077cd8118ad
+[album-cover]: https://i.scdn.co/image/ab67616d00004851431ac6e6f393acf475730ec6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
