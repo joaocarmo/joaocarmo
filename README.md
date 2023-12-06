@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bullet With Butterfly Wings - Remastered 2012**<br />by _The Smashing Pumpkins_<br /> on Mellon Collie And The Infinite Sadness (Deluxe Edition) [1995] |
+| ![album cover][album-cover] | **Mystify**<br />by _INXS_<br /> on Kick (Remastered 2011) [1987] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851431ac6e6f393acf475730ec6
+[album-cover]: https://i.scdn.co/image/ab67616d00004851dac4efc0ebdfd9d92f127129
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
