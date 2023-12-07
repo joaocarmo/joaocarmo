@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Delusions of Saviour**<br />by _Slayer_<br /> on Repentless [2015] |
+| ![album cover][album-cover] | **Dance Macabre**<br />by _Ghost_<br /> on Prequelle [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851de52c3555fd297174abacdb3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d12e0639819f09e00d73410e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
