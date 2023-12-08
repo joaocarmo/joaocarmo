@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Red**<br />by _Gospel Dating Service_<br /> on Champagne [2016] |
+| ![album cover][album-cover] | **Spillways**<br />by _Ghost_<br /> on IMPERA [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485196c0e1567bbe14c55b9a77e4
+[album-cover]: https://i.scdn.co/image/ab67616d0000485139df655040aa0f194c6d2972
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
