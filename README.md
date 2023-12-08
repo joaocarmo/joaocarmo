@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dance Macabre**<br />by _Ghost_<br /> on Prequelle [2018] |
+| ![album cover][album-cover] | **Between the Lines**<br />by _Beseech_<br /> on Soul Highway [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d12e0639819f09e00d73410e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d7941990ab9d5f86770beca1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
