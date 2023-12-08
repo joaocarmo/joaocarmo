@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Between the Lines**<br />by _Beseech_<br /> on Soul Highway [2002] |
+| ![album cover][album-cover] | **Red**<br />by _Gospel Dating Service_<br /> on Champagne [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d7941990ab9d5f86770beca1
+[album-cover]: https://i.scdn.co/image/ab67616d0000485196c0e1567bbe14c55b9a77e4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
