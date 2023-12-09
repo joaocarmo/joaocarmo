@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lonely Boy**<br />by _The Black Keys_<br /> on El Camino [2011] |
+| ![album cover][album-cover] | **Every Little Thing She Does Is Magic**<br />by _The Police_<br /> on Ghost In The Machine (Remastered 2003) [1981] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516a21b97de47168df4f0c1993
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b7879980ef2ea7ac1cc29316
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
