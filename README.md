@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Ace of Spades**<br />by _Motörhead_<br /> on Ace of Spades (Expanded Edition) [1980] |
+| ![album cover][album-cover] | **Death of a Master**<br />by _Kevin Kiner, Takeshi Furukawa_<br /> on Star Wars: The Clone Wars (Seasons One Through Six/Original Soundtrack) [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851471f2ffab78e922fd9e576d3
+[album-cover]: https://i.scdn.co/image/ab67616d000048516625df9dd2582bcdb50e7596
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
