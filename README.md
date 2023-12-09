@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Death of a Master**<br />by _Kevin Kiner, Takeshi Furukawa_<br /> on Star Wars: The Clone Wars (Seasons One Through Six/Original Soundtrack) [2014] |
+| ![album cover][album-cover] | **Lonely Boy**<br />by _The Black Keys_<br /> on El Camino [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516625df9dd2582bcdb50e7596
+[album-cover]: https://i.scdn.co/image/ab67616d000048516a21b97de47168df4f0c1993
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
