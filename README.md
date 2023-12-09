@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Spillways**<br />by _Ghost_<br /> on IMPERA [2022] |
+| ![album cover][album-cover] | **Ace of Spades**<br />by _Motörhead_<br /> on Ace of Spades (Expanded Edition) [1980] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485139df655040aa0f194c6d2972
+[album-cover]: https://i.scdn.co/image/ab67616d00004851471f2ffab78e922fd9e576d3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
