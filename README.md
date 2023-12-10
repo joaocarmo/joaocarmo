@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Don't You Want Me**<br />by _The Human League_<br /> on Dare! [1981] |
+| ![album cover][album-cover] | **Believe In Us**<br />by _Hell Or Highwater_<br /> on Lost At Sonic Ranch [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515579d8a505c727349a203074
+[album-cover]: https://i.scdn.co/image/ab67616d000048516a1a4a22d11a40108e751e3a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
