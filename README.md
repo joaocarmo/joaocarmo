@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Every Little Thing She Does Is Magic**<br />by _The Police_<br /> on Ghost In The Machine (Remastered 2003) [1981] |
+| ![album cover][album-cover] | **Uptown Girl**<br />by _Billy Joel_<br /> on An Innocent Man [1983] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b7879980ef2ea7ac1cc29316
+[album-cover]: https://i.scdn.co/image/ab67616d00004851814cbc4746358a25c84c62e7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
