@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Uptown Girl**<br />by _Billy Joel_<br /> on An Innocent Man [1983] |
+| ![album cover][album-cover] | **Don't You Want Me**<br />by _The Human League_<br /> on Dare! [1981] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851814cbc4746358a25c84c62e7
+[album-cover]: https://i.scdn.co/image/ab67616d000048515579d8a505c727349a203074
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
