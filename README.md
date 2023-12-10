@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Believe In Us**<br />by _Hell Or Highwater_<br /> on Lost At Sonic Ranch [2020] |
+| ![album cover][album-cover] | **The Great Gig In The Sky - 2011 Remastered Version**<br />by _Pink Floyd_<br /> on The Dark Side Of The Moon (2011 Remastered Version) [1973] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516a1a4a22d11a40108e751e3a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d3709135d1005baa36939d80
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
