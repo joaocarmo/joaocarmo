@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Soul Chasm**<br />by _Heriot_<br /> on Soul Chasm [2023] |
+| ![album cover][album-cover] | **Where Is My Mind? - Remastered**<br />by _Pixies_<br /> on Surfer Rosa [1988] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511fc0aba536d3e034e030d93a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851626ad9bb7d5f84c59652b161
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
