@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Great Gig In The Sky - 2011 Remastered Version**<br />by _Pink Floyd_<br /> on The Dark Side Of The Moon (2011 Remastered Version) [1973] |
+| ![album cover][album-cover] | **The General Who Became A Slave - From "Gladiator" Soundtrack**<br />by _Hans Zimmer, Lisa Gerrard, Gavin Greenaway, The Lyndhurst Orchestra_<br /> on Hans Zimmer: Soundtracks To The Movies [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d3709135d1005baa36939d80
+[album-cover]: https://i.scdn.co/image/ab67616d00004851aa58c191df91151be2272f7e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
