@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Nefarious**<br />by _Monuments_<br /> on Nefarious [2023] |
+| ![album cover][album-cover] | **Soul Chasm**<br />by _Heriot_<br /> on Soul Chasm [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cf2c449de2fd408e3a113a7d
+[album-cover]: https://i.scdn.co/image/ab67616d000048511fc0aba536d3e034e030d93a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
