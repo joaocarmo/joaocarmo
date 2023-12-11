@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The General Who Became A Slave - From "Gladiator" Soundtrack**<br />by _Hans Zimmer, Lisa Gerrard, Gavin Greenaway, The Lyndhurst Orchestra_<br /> on Hans Zimmer: Soundtracks To The Movies [2023] |
+| ![album cover][album-cover] | **Nefarious**<br />by _Monuments_<br /> on Nefarious [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851aa58c191df91151be2272f7e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cf2c449de2fd408e3a113a7d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
