@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **(Don't Fear) The Reaper**<br />by _Blue Öyster Cult_<br /> on Agents Of Fortune [1976] |
+| ![album cover][album-cover] | **FAMILY VAN**<br />by _cleopatrick_<br /> on BUMMER [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513ac318439ae56ce048d7bf5d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e63e654613de84908407529e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
