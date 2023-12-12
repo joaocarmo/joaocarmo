@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Where Is My Mind? - Remastered**<br />by _Pixies_<br /> on Surfer Rosa [1988] |
+| ![album cover][album-cover] | **(Don't Fear) The Reaper**<br />by _Blue Öyster Cult_<br /> on Agents Of Fortune [1976] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851626ad9bb7d5f84c59652b161
+[album-cover]: https://i.scdn.co/image/ab67616d000048513ac318439ae56ce048d7bf5d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
