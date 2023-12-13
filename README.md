@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **FAMILY VAN**<br />by _cleopatrick_<br /> on BUMMER [2021] |
+| ![album cover][album-cover] | **Heaven Shall Burn**<br />by _Imminence_<br /> on Heaven Shall Burn [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e63e654613de84908407529e
+[album-cover]: https://i.scdn.co/image/ab67616d0000485109f37d6079a32ec2c2cb1615
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
