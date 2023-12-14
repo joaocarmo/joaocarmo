@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **"Filthy"**<br />by _Ayron Jones_<br /> on "Filthy" [2022] |
+| ![album cover][album-cover] | **Glitch**<br />by _Parkway Drive_<br /> on Darker Still [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485100878c1a3be9dd2066a55a11
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e4551f6b8bdde8aaeaed85cd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
