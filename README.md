@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **There’s Fear In Letting Go**<br />by _I Prevail_<br /> on TRUE POWER [2022] |
+| ![album cover][album-cover] | **My Only Wish (This Year)**<br />by _Britney Spears_<br /> on My Only Wish (This Year) [2000] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fdf16e6dc8b69f3e7c2b258b
+[album-cover]: https://i.scdn.co/image/ab67616d0000485116ed688a08ecd351560f4566
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
