@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Run Rudolph Run**<br />by _Chuck Berry_<br /> on Rock 'N' Roll Rarities [1986] |
+| ![album cover][album-cover] | **Merry Christmas Everyone**<br />by _Shakin' Stevens_<br /> on Merry Christmas Everyone [1991] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485139807cff601735a3dec9e24c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d962f3b4235f8c6429a829fb
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
