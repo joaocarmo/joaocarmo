@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Old School Sound**<br />by _BLACKGOLD, Hyro The Hero_<br /> on Old School Sound [2023] |
+| ![album cover][album-cover] | **In Da Club**<br />by _Nik Nocturnal, Fronzilla, Bone Crew_<br /> on In Da Club [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e1edaf9e1b6c3e4b60f511e3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851194ec0f51b8d48c1543a043a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
