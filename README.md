@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **My Only Wish (This Year)**<br />by _Britney Spears_<br /> on My Only Wish (This Year) [2000] |
+| ![album cover][album-cover] | **Run Rudolph Run**<br />by _Chuck Berry_<br /> on Rock 'N' Roll Rarities [1986] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485116ed688a08ecd351560f4566
+[album-cover]: https://i.scdn.co/image/ab67616d0000485139807cff601735a3dec9e24c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
