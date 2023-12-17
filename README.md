@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Choices**<br />by _ALPHAMEGA_<br /> on Regeneration Machine (Deluxe Edition) [2023] |
+| ![album cover][album-cover] | **Wish You The Best - Guitar Version**<br />by _Lewis Capaldi_<br /> on Wish You The Best EP [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d7b26448fcd5465f33e24544
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ca6a87e8a75190a9db1ead52
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
