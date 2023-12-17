@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **In Da Club**<br />by _Nik Nocturnal, Fronzilla, Bone Crew_<br /> on In Da Club [2023] |
+| ![album cover][album-cover] | **Choices**<br />by _ALPHAMEGA_<br /> on Regeneration Machine (Deluxe Edition) [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851194ec0f51b8d48c1543a043a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d7b26448fcd5465f33e24544
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
