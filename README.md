@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wish You The Best - Guitar Version**<br />by _Lewis Capaldi_<br /> on Wish You The Best EP [2023] |
+| ![album cover][album-cover] | **Losing My Religion**<br />by _R.E.M._<br /> on Out Of Time (25th Anniversary Edition) [1991] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ca6a87e8a75190a9db1ead52
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e2dd4e821bcc3f70dc0c8ffd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
