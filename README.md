@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Losing My Religion**<br />by _R.E.M._<br /> on Out Of Time (25th Anniversary Edition) [1991] |
+| ![album cover][album-cover] | **One Way Or Another**<br />by _Blondie_<br /> on Greatest Hits: Blondie [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e2dd4e821bcc3f70dc0c8ffd
+[album-cover]: https://i.scdn.co/image/ab67616d000048514a91996f05bcfcdbc2c88e0e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
