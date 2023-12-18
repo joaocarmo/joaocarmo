@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **One Way Or Another**<br />by _Blondie_<br /> on Greatest Hits: Blondie [2006] |
+| ![album cover][album-cover] | **Don't Stop Me Now - Remastered 2011**<br />by _Queen_<br /> on Jazz (2011 Remaster) [1978] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514a91996f05bcfcdbc2c88e0e
+[album-cover]: https://i.scdn.co/image/ab67616d000048517c39dd133836c2c1c87e34d6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
