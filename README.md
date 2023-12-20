@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Don't Stop Me Now - Remastered 2011**<br />by _Queen_<br /> on Jazz (2011 Remaster) [1978] |
+| ![album cover][album-cover] | **Disappear**<br />by _Annalynn_<br /> on Disappear [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517c39dd133836c2c1c87e34d6
+[album-cover]: https://i.scdn.co/image/ab67616d000048512dbf38e293f10f6157a8293f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
