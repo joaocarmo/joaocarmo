@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Disappear**<br />by _Annalynn_<br /> on Disappear [2023] |
+| ![album cover][album-cover] | **Older Days**<br />by _Resolve, ten56., Paleface Swiss_<br /> on Older Days [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512dbf38e293f10f6157a8293f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d997acc431576d64d19b9b5f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
