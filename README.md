@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Silver Bullet**<br />by _ENMY_<br /> on Silver Bullet [2023] |
+| ![album cover][album-cover] | **Animal**<br />by _Magnolia Park, Ethan Ross, PLVTINUM_<br /> on Animal [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512464305b28e4923103c41a60
+[album-cover]: https://i.scdn.co/image/ab67616d000048515940a23c3ab3fd8b08dd5491
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
