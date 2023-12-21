@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Animal**<br />by _Magnolia Park, Ethan Ross, PLVTINUM_<br /> on Animal [2023] |
+| ![album cover][album-cover] | **The Downfall Of Us All**<br />by _A Day To Remember_<br /> on Homesick [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515940a23c3ab3fd8b08dd5491
+[album-cover]: https://i.scdn.co/image/ab67616d000048510b02af77159866fe3e011c76
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
