@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Downfall Of Us All**<br />by _A Day To Remember_<br /> on Homesick [2009] |
+| ![album cover][album-cover] | **Driver's Seat**<br />by _Sniff 'n' The Tears_<br /> on Fickle Heart (Plus Two Bonus Cuts) [1978] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510b02af77159866fe3e011c76
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ac3ce5381505864fb7a32a85
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
