@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Driver's Seat**<br />by _Sniff 'n' The Tears_<br /> on Fickle Heart (Plus Two Bonus Cuts) [1978] |
+| ![album cover][album-cover] | **Broken Bones**<br />by _No Money Kids_<br /> on Broken Bones [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ac3ce5381505864fb7a32a85
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ee8057fd9e7c2b3934191b84
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
