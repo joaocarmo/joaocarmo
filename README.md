@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Broken Bones**<br />by _No Money Kids_<br /> on Broken Bones [2023] |
+| ![album cover][album-cover] | **The Cult of Dionysus**<br />by _The Orion Experience, ORION, Linda XO_<br /> on Cosmicandy [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ee8057fd9e7c2b3934191b84
+[album-cover]: https://i.scdn.co/image/ab67616d00004851daccecee61b39522fbae9884
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
