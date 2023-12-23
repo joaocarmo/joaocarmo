@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Cult of Dionysus**<br />by _The Orion Experience, ORION, Linda XO_<br /> on Cosmicandy [2006] |
+| ![album cover][album-cover] | **Love Abuser (Save Me)**<br />by _Royal & the Serpent_<br /> on Happiness is an Inside Job [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851daccecee61b39522fbae9884
+[album-cover]: https://i.scdn.co/image/ab67616d000048512e39ab21c079a986a6cc7e60
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
