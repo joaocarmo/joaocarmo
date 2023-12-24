@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Friday Night (Going Down In Flames)**<br />by _The Damned Things_<br /> on Ironiclast [2010] |
+| ![album cover][album-cover] | **Rudolph The Red-Nosed Reindeer**<br />by _Dean Martin_<br /> on A Winter Romance [1959] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485173205d735582547420b303c0
+[album-cover]: https://i.scdn.co/image/ab67616d000048516d88028a85c771f37374c8ea
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
