@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **By Absence of the Sun**<br />by _Triggerfinger_<br /> on By Absence of the Sun [2014] |
+| ![album cover][album-cover] | **Friday Night (Going Down In Flames)**<br />by _The Damned Things_<br /> on Ironiclast [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851336ed86694c4a5effe2c4e13
+[album-cover]: https://i.scdn.co/image/ab67616d0000485173205d735582547420b303c0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
