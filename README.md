@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Love Abuser (Save Me)**<br />by _Royal & the Serpent_<br /> on Happiness is an Inside Job [2022] |
+| ![album cover][album-cover] | **ZITTI E BUONI**<br />by _Måneskin_<br /> on Teatro d'ira - Vol. I [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512e39ab21c079a986a6cc7e60
+[album-cover]: https://i.scdn.co/image/ab67616d000048515aa05015cfa7bd2943c29b21
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
