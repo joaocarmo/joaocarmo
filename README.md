@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Christmas Tree Farm**<br />by _Taylor Swift_<br /> on Christmas Tree Farm [2019] |
+| ![album cover][album-cover] | **Christmas (Baby Please Come Home)**<br />by _Mariah Carey_<br /> on Merry Christmas [1994] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b550071a3fa8e03f6a83f313
+[album-cover]: https://i.scdn.co/image/ab67616d000048514246e3158421f5abb75abc4f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
