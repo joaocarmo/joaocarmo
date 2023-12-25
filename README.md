@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Rudolph The Red-Nosed Reindeer**<br />by _Dean Martin_<br /> on A Winter Romance [1959] |
+| ![album cover][album-cover] | **Christmas Tree Farm**<br />by _Taylor Swift_<br /> on Christmas Tree Farm [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516d88028a85c771f37374c8ea
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b550071a3fa8e03f6a83f313
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
