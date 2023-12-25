@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Under The Mistletoe**<br />by _Kelly Clarkson, Brett Eldredge, Atlantic Holiday_<br /> on Under The Mistletoe [2020] |
+| ![album cover][album-cover] | **White Christmas - Spotify Singles - Holiday, Recorded at Air Studios, London**<br />by _George Ezra_<br /> on White Christmas (Spotify Singles - Holiday, Recorded at Air Studios, London) [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b258b7954efb0741bcef97de
+[album-cover]: https://i.scdn.co/image/ab67616d00004851affb8f26c7b1643e6ea93551
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
