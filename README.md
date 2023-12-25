@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Christmas (Baby Please Come Home)**<br />by _Mariah Carey_<br /> on Merry Christmas [1994] |
+| ![album cover][album-cover] | **Under The Mistletoe**<br />by _Kelly Clarkson, Brett Eldredge, Atlantic Holiday_<br /> on Under The Mistletoe [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514246e3158421f5abb75abc4f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b258b7954efb0741bcef97de
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
