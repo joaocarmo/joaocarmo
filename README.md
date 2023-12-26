@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Silent Night**<br />by _Teddy Swims_<br /> on A Very Teddy Christmas [2021] |
+| ![album cover][album-cover] | **It's the Most Wonderful Time of the Year**<br />by _Andy Williams_<br /> on The Andy Williams Christmas Album [1963] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851eecad12abf17bdf09f4b5d20
+[album-cover]: https://i.scdn.co/image/ab67616d0000485198073965947f92f1641b8356
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
