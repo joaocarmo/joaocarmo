@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **White Christmas - Spotify Singles - Holiday, Recorded at Air Studios, London**<br />by _George Ezra_<br /> on White Christmas (Spotify Singles - Holiday, Recorded at Air Studios, London) [2017] |
+| ![album cover][album-cover] | **Silent Night**<br />by _Teddy Swims_<br /> on A Very Teddy Christmas [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851affb8f26c7b1643e6ea93551
+[album-cover]: https://i.scdn.co/image/ab67616d00004851eecad12abf17bdf09f4b5d20
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
