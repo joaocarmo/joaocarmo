@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wolf in Sheep's Clothing**<br />by _Set It Off, William Beckett_<br /> on Duality [2014] |
+| ![album cover][album-cover] | **Float On**<br />by _Modest Mouse_<br /> on Good News For People Who Love Bad News [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851eef2f969585ecd89a33564c6
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cc68329bfbf34037df965dc1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
