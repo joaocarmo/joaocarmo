@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **O Little Town of Bethlehem**<br />by _Elvis Presley_<br /> on Elvis' Christmas Album [1957] |
+| ![album cover][album-cover] | **Wolf in Sheep's Clothing**<br />by _Set It Off, William Beckett_<br /> on Duality [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851aa509be2dd24fb6c753cf292
+[album-cover]: https://i.scdn.co/image/ab67616d00004851eef2f969585ecd89a33564c6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
