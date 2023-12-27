@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **It's the Most Wonderful Time of the Year**<br />by _Andy Williams_<br /> on The Andy Williams Christmas Album [1963] |
+| ![album cover][album-cover] | **O Little Town of Bethlehem**<br />by _Elvis Presley_<br /> on Elvis' Christmas Album [1957] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485198073965947f92f1641b8356
+[album-cover]: https://i.scdn.co/image/ab67616d00004851aa509be2dd24fb6c753cf292
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
