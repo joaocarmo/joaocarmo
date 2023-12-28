@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Float On**<br />by _Modest Mouse_<br /> on Good News For People Who Love Bad News [2004] |
+| ![album cover][album-cover] | **The Bitter End**<br />by _Placebo_<br /> on Sleeping With Ghosts [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cc68329bfbf34037df965dc1
+[album-cover]: https://i.scdn.co/image/ab67616d000048519b2e4db4b78ab31b5d55f2fc
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
