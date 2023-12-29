@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Cult of Dionysus**<br />by _The Orion Experience, ORION, Linda XO_<br /> on Cosmicandy [2006] |
+| ![album cover][album-cover] | **Somebody Told Me**<br />by _The Killers_<br /> on Hot Fuss [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851daccecee61b39522fbae9884
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ccdddd46119a4ff53eaf1f5d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
