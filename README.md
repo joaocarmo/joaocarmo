@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Bitter End**<br />by _Placebo_<br /> on Sleeping With Ghosts [2003] |
+| ![album cover][album-cover] | **Red Smoke**<br />by _The Reytons_<br /> on Red Smoke [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519b2e4db4b78ab31b5d55f2fc
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f10ffcf05d8f33ea38803325
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
