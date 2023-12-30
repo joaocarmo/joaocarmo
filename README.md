@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Somebody Told Me**<br />by _The Killers_<br /> on Hot Fuss [2004] |
+| ![album cover][album-cover] | **Bitter Sweet Symphony - Remastered 2016**<br />by _The Verve_<br /> on Urban Hymns (Remastered 2016) [1997] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ccdddd46119a4ff53eaf1f5d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851707d13d3f87652e737e94d45
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
