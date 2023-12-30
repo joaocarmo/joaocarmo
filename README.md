@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bitter Sweet Symphony - Remastered 2016**<br />by _The Verve_<br /> on Urban Hymns (Remastered 2016) [1997] |
+| ![album cover][album-cover] | **Seeing Red**<br />by _Architects_<br /> on Seeing Red [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851707d13d3f87652e737e94d45
+[album-cover]: https://i.scdn.co/image/ab67616d0000485143c8247f32bea23b6ae4fd0d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
