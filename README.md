@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Jump (For My Love)**<br />by _The Pointer Sisters_<br /> on Break Out [1983] |
+| ![album cover][album-cover] | **Born in the U.S.A.**<br />by _Bruce Springsteen_<br /> on Born In The U.S.A. [1984] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485116b818c78eb6abf0ae54c26d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a7865e686c36a4adda6c9978
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
