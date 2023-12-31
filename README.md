@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Seeing Red**<br />by _Architects_<br /> on Seeing Red [2023] |
+| ![album cover][album-cover] | **Stayin' Alive**<br />by _Bee Gees_<br /> on Staying Alive (Original Motion Picture Soundtrack) [1977] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485143c8247f32bea23b6ae4fd0d
+[album-cover]: https://i.scdn.co/image/ab67616d0000485155fb38fda5321a8923911ff9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
