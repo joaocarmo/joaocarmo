@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Stayin' Alive**<br />by _Bee Gees_<br /> on Staying Alive (Original Motion Picture Soundtrack) [1977] |
+| ![album cover][album-cover] | **Jump (For My Love)**<br />by _The Pointer Sisters_<br /> on Break Out [1983] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485155fb38fda5321a8923911ff9
+[album-cover]: https://i.scdn.co/image/ab67616d0000485116b818c78eb6abf0ae54c26d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
