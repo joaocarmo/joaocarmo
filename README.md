@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Final Countdown**<br />by _Europe_<br /> on The Final Countdown (Expanded Edition) [1986] |
+| ![album cover][album-cover] | **White Horse**<br />by _Chris Stapleton_<br /> on White Horse [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512d925cec3072ed1b74e5188f
+[album-cover]: https://i.scdn.co/image/ab67616d000048514676b161854d2215819f0d32
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
