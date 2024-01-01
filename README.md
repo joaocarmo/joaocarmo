@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Shut Up and Dance**<br />by _WALK THE MOON_<br /> on TALKING IS HARD [2014] |
+| ![album cover][album-cover] | **The Final Countdown**<br />by _Europe_<br /> on The Final Countdown (Expanded Edition) [1986] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485143294cfa2688055c9d821bf3
+[album-cover]: https://i.scdn.co/image/ab67616d000048512d925cec3072ed1b74e5188f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
