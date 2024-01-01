@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Born in the U.S.A.**<br />by _Bruce Springsteen_<br /> on Born In The U.S.A. [1984] |
+| ![album cover][album-cover] | **Shut Up and Dance**<br />by _WALK THE MOON_<br /> on TALKING IS HARD [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a7865e686c36a4adda6c9978
+[album-cover]: https://i.scdn.co/image/ab67616d0000485143294cfa2688055c9d821bf3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
