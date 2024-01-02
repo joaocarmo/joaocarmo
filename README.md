@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **White Horse**<br />by _Chris Stapleton_<br /> on White Horse [2023] |
+| ![album cover][album-cover] | **Bright Lights**<br />by _Gary Clark Jr._<br /> on Blak and Blu [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514676b161854d2215819f0d32
+[album-cover]: https://i.scdn.co/image/ab67616d000048515a4e89a0c9e6b57c4842ede6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
