@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bright Lights**<br />by _Gary Clark Jr._<br /> on Blak and Blu [2012] |
+| ![album cover][album-cover] | **Gold Confetti**<br />by _The Pink Spiders_<br /> on Freakazoid [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515a4e89a0c9e6b57c4842ede6
+[album-cover]: https://i.scdn.co/image/ab67616d000048514930d56729e8e8a2a99d6392
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
