@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Death by Rock and Roll**<br />by _The Pretty Reckless_<br /> on Death by Rock and Roll [2021] |
+| ![album cover][album-cover] | **Quick Escape**<br />by _Pearl Jam_<br /> on Quick Escape [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511c61b25b2431b8d074dcfd7f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851de782ca8270e83be40c67c48
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
