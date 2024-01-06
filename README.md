@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Legend**<br />by _The Score_<br /> on ATLAS [2017] |
+| ![album cover][album-cover] | **Love Bug - The Walking Dead Soundtrack**<br />by _Baby Bee_<br /> on The Walking Dead (AMC’s Original Soundtrack – Vol. 1) [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c469e75608b59994c1c422be
+[album-cover]: https://i.scdn.co/image/ab67616d0000485123f7542849eab78e885eb855
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
