@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Quick Escape**<br />by _Pearl Jam_<br /> on Quick Escape [2020] |
+| ![album cover][album-cover] | **Legend**<br />by _The Score_<br /> on ATLAS [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851de782ca8270e83be40c67c48
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c469e75608b59994c1c422be
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
