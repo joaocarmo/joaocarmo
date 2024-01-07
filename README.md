@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hey Gringo**<br />by _KALEO_<br /> on Surface Sounds [2021] |
+| ![album cover][album-cover] | **Black Sunday**<br />by _Bloody Hammers_<br /> on Washed In the Blood [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515956beefe0c79f85aec384b6
+[album-cover]: https://i.scdn.co/image/ab67616d000048518df9aaaab9654d3ae112fe6e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
