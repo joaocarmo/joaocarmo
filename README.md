@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **All My Pride**<br />by _Black Honey_<br /> on Black Honey (Deluxe) [2018] |
+| ![album cover][album-cover] | **Hey Gringo**<br />by _KALEO_<br /> on Surface Sounds [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a5dba0a193ed952ce88658b1
+[album-cover]: https://i.scdn.co/image/ab67616d000048515956beefe0c79f85aec384b6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
