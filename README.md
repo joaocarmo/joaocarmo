@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Mystify**<br />by _INXS_<br /> on Kick (Remastered 2011) [1987] |
+| ![album cover][album-cover] | **As yet Untitled**<br />by _COUNTERFEIT._<br /> on Together We Are Stronger [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851dac4efc0ebdfd9d92f127129
+[album-cover]: https://i.scdn.co/image/ab67616d000048519048a6675f6bc1c173a13207
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
