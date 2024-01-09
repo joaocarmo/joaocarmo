@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **As yet Untitled**<br />by _COUNTERFEIT._<br /> on Together We Are Stronger [2017] |
+| ![album cover][album-cover] | **Another Night In the City**<br />by _HIGH SPIRITS_<br /> on Another Night [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519048a6675f6bc1c173a13207
+[album-cover]: https://i.scdn.co/image/ab67616d0000485114d261887675bbf80f314710
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
