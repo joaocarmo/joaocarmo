@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Anarchy**<br />by _Lilith Czar_<br /> on Created From Filth And Dust [2021] |
+| ![album cover][album-cover] | **Too Close**<br />by _Alex Clare_<br /> on The Lateness Of The Hour [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485178208df310278006db630976
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e11a503d7be9336b72a53899
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
