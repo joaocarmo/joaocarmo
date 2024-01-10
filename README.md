@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Another Night In the City**<br />by _HIGH SPIRITS_<br /> on Another Night [2011] |
+| ![album cover][album-cover] | **Anarchy**<br />by _Lilith Czar_<br /> on Created From Filth And Dust [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485114d261887675bbf80f314710
+[album-cover]: https://i.scdn.co/image/ab67616d0000485178208df310278006db630976
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
