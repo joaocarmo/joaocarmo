@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Cornfield Chase - From "Interstellar"**<br />by _London Music Works_<br /> on The Best of Hans Zimmer Vol.2 [2015] |
+| ![album cover][album-cover] | **Vertigo**<br />by _Mini Mansions, Alex Turner_<br /> on The Great Pretenders [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519c73f6b15b4e6471b6fa1746
+[album-cover]: https://i.scdn.co/image/ab67616d0000485126d097de613eb2deae1e0de8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
