@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Vertigo**<br />by _Mini Mansions, Alex Turner_<br /> on The Great Pretenders [2015] |
+| ![album cover][album-cover] | **September Rain**<br />by _Cassyette_<br /> on Sad Girl Mixtape [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485126d097de613eb2deae1e0de8
+[album-cover]: https://i.scdn.co/image/ab67616d0000485187ce7af99786934d7df5ae16
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
