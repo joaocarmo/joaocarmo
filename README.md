@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **September Rain**<br />by _Cassyette_<br /> on Sad Girl Mixtape [2022] |
+| ![album cover][album-cover] | **Gotta Get Up**<br />by _Harry Nilsson_<br /> on Nilsson Schmilsson [1971] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485187ce7af99786934d7df5ae16
+[album-cover]: https://i.scdn.co/image/ab67616d000048514df5b571de1c3f8ba2f02386
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
