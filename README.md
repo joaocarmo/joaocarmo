@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Gotta Get Up**<br />by _Harry Nilsson_<br /> on Nilsson Schmilsson [1971] |
+| ![album cover][album-cover] | **What I Like About You**<br />by _The Romantics_<br /> on The Romantics [1980] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514df5b571de1c3f8ba2f02386
+[album-cover]: https://i.scdn.co/image/ab67616d000048514b502623ce2ab3d27798876a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
