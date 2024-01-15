@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **These Men Are Wolves**<br />by _The Heavy Eyes_<br /> on Maera [2012] |
+| ![album cover][album-cover] | **Sinister Kid**<br />by _The Black Keys_<br /> on Brothers (Deluxe Remastered Anniversary Edition) [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a24252b1d53f0fe8478b7695
+[album-cover]: https://i.scdn.co/image/ab67616d00004851995cafb297bbedb4795bc673
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
