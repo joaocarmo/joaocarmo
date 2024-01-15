@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Geralt Of Rivia**<br />by _Marcin Przybyłowicz_<br /> on The Witcher 3: Wild Hunt (Original Game Soundtrack) [2015] |
+| ![album cover][album-cover] | **These Men Are Wolves**<br />by _The Heavy Eyes_<br /> on Maera [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851df756f52b91b4dcd656760b0
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a24252b1d53f0fe8478b7695
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
