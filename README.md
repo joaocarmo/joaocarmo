@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **What I Like About You**<br />by _The Romantics_<br /> on The Romantics [1980] |
+| ![album cover][album-cover] | **Geralt Of Rivia**<br />by _Marcin Przybyłowicz_<br /> on The Witcher 3: Wild Hunt (Original Game Soundtrack) [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514b502623ce2ab3d27798876a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851df756f52b91b4dcd656760b0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
