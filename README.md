@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dance with Somebody**<br />by _Mando Diao_<br /> on Give Me Fire (Deluxe Version) [2009] |
+| ![album cover][album-cover] | **Sick From The Pressure**<br />by _Kevin Smuts_<br /> on My Octopus Teacher (Music from the Netflix Documentary) [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cc252b62e21d972c766665b1
+[album-cover]: https://i.scdn.co/image/ab67616d000048516536323418d653b0a4951e70
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
