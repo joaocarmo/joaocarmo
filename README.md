@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sick From The Pressure**<br />by _Kevin Smuts_<br /> on My Octopus Teacher (Music from the Netflix Documentary) [2020] |
+| ![album cover][album-cover] | **Life's Coming in Slow - from GRAN TURISMO 7**<br />by _Nothing But Thieves_<br /> on Life's Coming in Slow (from GRAN TURISMO 7) [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516536323418d653b0a4951e70
+[album-cover]: https://i.scdn.co/image/ab67616d0000485188ebf446dba1b77bf99b2738
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
