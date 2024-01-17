@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Life's Coming in Slow - from GRAN TURISMO 7**<br />by _Nothing But Thieves_<br /> on Life's Coming in Slow (from GRAN TURISMO 7) [2022] |
+| ![album cover][album-cover] | **Start Me Up - Remastered 2009**<br />by _The Rolling Stones_<br /> on Tattoo You (2009 Re-Mastered) [1981] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485188ebf446dba1b77bf99b2738
+[album-cover]: https://i.scdn.co/image/ab67616d0000485108fc42e575043a753f60d675
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
