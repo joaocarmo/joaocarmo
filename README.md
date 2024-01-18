@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Start Me Up - Remastered 2009**<br />by _The Rolling Stones_<br /> on Tattoo You (2009 Re-Mastered) [1981] |
+| ![album cover][album-cover] | **Song 2 - 2012 Remaster**<br />by _Blur_<br /> on Blur (Special Edition) [1997] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485108fc42e575043a753f60d675
+[album-cover]: https://i.scdn.co/image/ab67616d00004851de114203356c1f7b136960b6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
