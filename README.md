@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Song 2 - 2012 Remaster**<br />by _Blur_<br /> on Blur (Special Edition) [1997] |
+| ![album cover][album-cover] | **I Love Rock 'N Roll**<br />by _Joan Jett & the Blackhearts_<br /> on I Love Rock 'N' Roll (Expanded Edition) [1981] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851de114203356c1f7b136960b6
+[album-cover]: https://i.scdn.co/image/ab67616d000048513c73b2e0a6aa490736f19751
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
