@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Love Rock 'N Roll**<br />by _Joan Jett & the Blackhearts_<br /> on I Love Rock 'N' Roll (Expanded Edition) [1981] |
+| ![album cover][album-cover] | **Out of the Black**<br />by _Royal Blood_<br /> on Royal Blood [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513c73b2e0a6aa490736f19751
+[album-cover]: https://i.scdn.co/image/ab67616d0000485169471a9c0a6073a9beb81410
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
