@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Out of the Black**<br />by _Royal Blood_<br /> on Royal Blood [2014] |
+| ![album cover][album-cover] | **Fuel**<br />by _Metallica_<br /> on Reload [1997] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485169471a9c0a6073a9beb81410
+[album-cover]: https://i.scdn.co/image/ab67616d0000485106cb74d39d123ebe1b3c6631
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
