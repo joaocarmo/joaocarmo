@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Fuel**<br />by _Metallica_<br /> on Reload [1997] |
+| ![album cover][album-cover] | **Fear of the Dark - 2015 Remaster**<br />by _Iron Maiden_<br /> on Fear of the Dark (2015 Remaster) [1992] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485106cb74d39d123ebe1b3c6631
+[album-cover]: https://i.scdn.co/image/ab67616d000048510dda9c11454b9053d07f585a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
