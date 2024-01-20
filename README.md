@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Another Life**<br />by _Motionless In White_<br /> on Disguise [2019] |
+| ![album cover][album-cover] | **There’s Fear In Letting Go**<br />by _I Prevail_<br /> on TRUE POWER [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851daa4a83d2f794c1e31265dab
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fdf16e6dc8b69f3e7c2b258b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
