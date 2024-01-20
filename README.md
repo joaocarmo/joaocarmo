@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Fear of the Dark - 2015 Remaster**<br />by _Iron Maiden_<br /> on Fear of the Dark (2015 Remaster) [1992] |
+| ![album cover][album-cover] | **Diggy Diggy Hole**<br />by _Wind Rose_<br /> on Wintersaga [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510dda9c11454b9053d07f585a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f6186aceed57dd555b846a62
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
