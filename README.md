@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Talk to a Friend**<br />by _Rain City Drive_<br /> on To Better Days [2020] |
+| ![album cover][album-cover] | **Throne**<br />by _Bring Me The Horizon_<br /> on That's The Spirit [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b048f1c35393209592b515c0
+[album-cover]: https://i.scdn.co/image/ab67616d00004851413697269620e16f4466f543
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
