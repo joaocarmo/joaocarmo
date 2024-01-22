@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Miserable Man**<br />by _David Kushner_<br /> on Miserable Man [2022] |
+| ![album cover][album-cover] | **You've Got Time**<br />by _Regina Spektor_<br /> on You've Got Time [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513098c022f4ffe7065e033451
+[album-cover]: https://i.scdn.co/image/ab67616d0000485110c91319c637b0f9de5f397d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
