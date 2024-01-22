@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Throne**<br />by _Bring Me The Horizon_<br /> on That's The Spirit [2015] |
+| ![album cover][album-cover] | **Miserable Man**<br />by _David Kushner_<br /> on Miserable Man [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851413697269620e16f4466f543
+[album-cover]: https://i.scdn.co/image/ab67616d000048513098c022f4ffe7065e033451
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
