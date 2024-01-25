@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **You've Got Time**<br />by _Regina Spektor_<br /> on You've Got Time [2013] |
+| ![album cover][album-cover] | **Leave It All Behind**<br />by _Cult To Follow_<br /> on Leave It All Behind - Single [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485110c91319c637b0f9de5f397d
+[album-cover]: https://i.scdn.co/image/ab67616d0000485173df595d6eb87161a711cb23
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
