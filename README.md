@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Kill Your Heroes**<br />by _AWOLNATION_<br /> on Megalithic Symphony [2011] |
+| ![album cover][album-cover] | **You've Got Time**<br />by _Regina Spektor_<br /> on You've Got Time [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485132f1572738340ddc9569c54b
+[album-cover]: https://i.scdn.co/image/ab67616d0000485110c91319c637b0f9de5f397d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
