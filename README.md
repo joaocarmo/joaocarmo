@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Mr. Blue Sky**<br />by _Electric Light Orchestra_<br /> on Out of the Blue [1977] |
+| ![album cover][album-cover] | **Everybody Talks**<br />by _Neon Trees_<br /> on Picture Show [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518c4e95986c803791125e8991
+[album-cover]: https://i.scdn.co/image/ab67616d000048514a6c0376235e5aa44e59d2c2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
