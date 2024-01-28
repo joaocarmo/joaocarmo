@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **You've Got Time**<br />by _Regina Spektor_<br /> on You've Got Time [2013] |
+| ![album cover][album-cover] | **Mr. Blue Sky**<br />by _Electric Light Orchestra_<br /> on Out of the Blue [1977] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485110c91319c637b0f9de5f397d
+[album-cover]: https://i.scdn.co/image/ab67616d000048518c4e95986c803791125e8991
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
