@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sweet Disposition**<br />by _The Temper Trap_<br /> on Conditions [2009] |
+| ![album cover][album-cover] | **Once in a Lifetime - 2005 Remaster**<br />by _Talking Heads_<br /> on Remain in Light (Deluxe Version) [1980] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514e5ba21f4684097923205d0a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e56fa8c916dc6ce419dcf557
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
