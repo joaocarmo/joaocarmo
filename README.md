@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Everybody Talks**<br />by _Neon Trees_<br /> on Picture Show [2012] |
+| ![album cover][album-cover] | **Sweet Disposition**<br />by _The Temper Trap_<br /> on Conditions [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514a6c0376235e5aa44e59d2c2
+[album-cover]: https://i.scdn.co/image/ab67616d000048514e5ba21f4684097923205d0a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
