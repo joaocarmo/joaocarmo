@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Once in a Lifetime - 2005 Remaster**<br />by _Talking Heads_<br /> on Remain in Light (Deluxe Version) [1980] |
+| ![album cover][album-cover] | **mOBSCENE**<br />by _Marilyn Manson_<br /> on The Golden Age Of Grotesque [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e56fa8c916dc6ce419dcf557
+[album-cover]: https://i.scdn.co/image/ab67616d00004851dcca264f538d015a1c9733a5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
