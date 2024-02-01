@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **When I'm Gone**<br />by _3 Doors Down_<br /> on Away From The Sun [2002] |
+| ![album cover][album-cover] | **My Body - 2020 Remaster**<br />by _Young the Giant_<br /> on Young The Giant (10th Anniversary Edition) [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485183c39b0d32eb4a2064e1e228
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e0e1939607a3854a59433f5f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
