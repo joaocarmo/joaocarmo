@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **mOBSCENE**<br />by _Marilyn Manson_<br /> on The Golden Age Of Grotesque [2003] |
+| ![album cover][album-cover] | **When I'm Gone**<br />by _3 Doors Down_<br /> on Away From The Sun [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851dcca264f538d015a1c9733a5
+[album-cover]: https://i.scdn.co/image/ab67616d0000485183c39b0d32eb4a2064e1e228
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
