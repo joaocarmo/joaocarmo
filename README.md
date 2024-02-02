@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I'm Eighteen**<br />by _Alice Cooper_<br /> on Love It to Death [1971] |
+| ![album cover][album-cover] | **Since You've Been Gone - A Memória**<br />by _Orelha Negra, Orlando Santos_<br /> on Mixtape [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a686891e44bcadacb68ee3de
+[album-cover]: https://i.scdn.co/image/ab67616d0000485159afa85aa07b128fde04db99
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
