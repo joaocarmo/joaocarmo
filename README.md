@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **My Body - 2020 Remaster**<br />by _Young the Giant_<br /> on Young The Giant (10th Anniversary Edition) [2010] |
+| ![album cover][album-cover] | **I'm Eighteen**<br />by _Alice Cooper_<br /> on Love It to Death [1971] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e0e1939607a3854a59433f5f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a686891e44bcadacb68ee3de
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
