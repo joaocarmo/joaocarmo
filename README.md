@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **A Melhor Rima de Sempre**<br />by _Orelha Negra, Valete_<br /> on Mixtape [2011] |
+| ![album cover][album-cover] | **Somebody Told Me**<br />by _The Killers_<br /> on Hot Fuss [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485159afa85aa07b128fde04db99
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ccdddd46119a4ff53eaf1f5d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
