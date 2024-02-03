@@ -18,7 +18,7 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Since You've Been Gone - A Memória**<br />by _Orelha Negra, Orlando Santos_<br /> on Mixtape [2011] |
+| ![album cover][album-cover] | **A Melhor Rima de Sempre**<br />by _Orelha Negra, Valete_<br /> on Mixtape [2011] |
 
 <!-- References -->
 
