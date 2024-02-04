@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Take Me Out**<br />by _Franz Ferdinand_<br /> on Franz Ferdinand [2004] |
+| ![album cover][album-cover] | **Chico Fininho**<br />by _Rui Veloso_<br /> on Ar de rock [2001] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485109a90531b85be7899c3234c4
+[album-cover]: https://i.scdn.co/image/ab67616d000048511f73f723514046e1c0edde6b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
