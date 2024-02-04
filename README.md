@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Chico Fininho**<br />by _Rui Veloso_<br /> on Ar de rock [2001] |
+| ![album cover][album-cover] | **Empires**<br />by _The Electric Swing Circus_<br /> on It Flew By [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511f73f723514046e1c0edde6b
+[album-cover]: https://i.scdn.co/image/ab67616d000048511a88df8b9c4b0dce51054ea1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
