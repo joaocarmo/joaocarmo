@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Empires**<br />by _The Electric Swing Circus_<br /> on It Flew By [2017] |
+| ![album cover][album-cover] | **Gasoline**<br />by _Whiskey Myers_<br /> on Whiskey Myers [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511a88df8b9c4b0dce51054ea1
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e5a6abf4217c03befaee3f79
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
