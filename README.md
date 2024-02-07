@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **10,000 Feet**<br />by _Wolfmother_<br /> on Cosmic Egg [2009] |
+| ![album cover][album-cover] | **Don't Let Me Be Misunderstood**<br />by _The Animals_<br /> on The Singles Plus [1987] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485137824f5d9998d7863bc88d4f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851015c484a7aca592df1a77828
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
