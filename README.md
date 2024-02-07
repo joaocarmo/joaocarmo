@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Silence Speaks**<br />by _While She Sleeps, Oli Sykes_<br /> on You Are We [2017] |
+| ![album cover][album-cover] | **10,000 Feet**<br />by _Wolfmother_<br /> on Cosmic Egg [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c3be9c013bd38a4a4c55b985
+[album-cover]: https://i.scdn.co/image/ab67616d0000485137824f5d9998d7863bc88d4f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
