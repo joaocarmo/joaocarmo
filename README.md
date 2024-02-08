@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Take a Walk**<br />by _Passion Pit_<br /> on Gossamer [2012] |
+| ![album cover][album-cover] | **DONTTRUSTME**<br />by _3OH!3_<br /> on WANT [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f860547bc8ba0c59df4fe2c3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a05a849e8c3d0966cf1f6790
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
