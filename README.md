@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Don't Let Me Be Misunderstood**<br />by _The Animals_<br /> on The Singles Plus [1987] |
+| ![album cover][album-cover] | **Take a Walk**<br />by _Passion Pit_<br /> on Gossamer [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851015c484a7aca592df1a77828
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f860547bc8ba0c59df4fe2c3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
