@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Notion**<br />by _The Rare Occasions_<br /> on Notion [2021] |
+| ![album cover][album-cover] | **I Disagree**<br />by _Poppy_<br /> on I Disagree [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851598721fc8c9dde3f65a73a08
+[album-cover]: https://i.scdn.co/image/ab67616d0000485192976a0cccf566f7162fee42
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
