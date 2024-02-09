@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Disagree**<br />by _Poppy_<br /> on I Disagree [2020] |
+| ![album cover][album-cover] | **Teeth**<br />by _5 Seconds of Summer_<br /> on CALM [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485192976a0cccf566f7162fee42
+[album-cover]: https://i.scdn.co/image/ab67616d00004851726005f0f81903e157d9dbc7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
