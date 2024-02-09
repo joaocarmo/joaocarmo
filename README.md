@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **DONTTRUSTME**<br />by _3OH!3_<br /> on WANT [2008] |
+| ![album cover][album-cover] | **Notion**<br />by _The Rare Occasions_<br /> on Notion [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a05a849e8c3d0966cf1f6790
+[album-cover]: https://i.scdn.co/image/ab67616d00004851598721fc8c9dde3f65a73a08
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
