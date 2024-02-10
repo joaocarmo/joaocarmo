@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Teeth**<br />by _5 Seconds of Summer_<br /> on CALM [2020] |
+| ![album cover][album-cover] | **broken**<br />by _lovelytheband_<br /> on finding it hard to smile [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851726005f0f81903e157d9dbc7
+[album-cover]: https://i.scdn.co/image/ab67616d0000485185ea5f82c855acb4476b046c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
