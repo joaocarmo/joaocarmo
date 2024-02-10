@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **broken**<br />by _lovelytheband_<br /> on finding it hard to smile [2018] |
+| ![album cover][album-cover] | **Take a Walk**<br />by _Passion Pit_<br /> on Gossamer [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485185ea5f82c855acb4476b046c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f860547bc8ba0c59df4fe2c3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
