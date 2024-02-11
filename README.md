@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Take a Walk**<br />by _Passion Pit_<br /> on Gossamer [2012] |
+| ![album cover][album-cover] | **Scatman (ski-ba-bop-ba-dop-bop)**<br />by _Scatman John_<br /> on Scatman's World [1995] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f860547bc8ba0c59df4fe2c3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c7ed51b9dc1014285cae2ae2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
