@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Scatman (ski-ba-bop-ba-dop-bop)**<br />by _Scatman John_<br /> on Scatman's World [1995] |
+| ![album cover][album-cover] | **You Spin Me Round (Like a Record)**<br />by _Netta_<br /> on You Spin Me Round (Like a Record) [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c7ed51b9dc1014285cae2ae2
+[album-cover]: https://i.scdn.co/image/ab67616d0000485186ae4c49012049dd0337c6a3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
