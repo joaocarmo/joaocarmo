@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **You Spin Me Round (Like a Record)**<br />by _Netta_<br /> on You Spin Me Round (Like a Record) [2023] |
+| ![album cover][album-cover] | **Dancing In The Moonlight (It's Caught Me In It's Spotlight)**<br />by _Thin Lizzy_<br /> on Bad Reputation (Expanded Edition) [1977] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485186ae4c49012049dd0337c6a3
+[album-cover]: https://i.scdn.co/image/ab67616d000048519d64200d0ce43d5e4826f08e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
