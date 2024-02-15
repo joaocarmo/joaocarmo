@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dancing In The Moonlight (It's Caught Me In It's Spotlight)**<br />by _Thin Lizzy_<br /> on Bad Reputation (Expanded Edition) [1977] |
+| ![album cover][album-cover] | **Leave It All Behind**<br />by _Cult To Follow_<br /> on Leave It All Behind - Single [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519d64200d0ce43d5e4826f08e
+[album-cover]: https://i.scdn.co/image/ab67616d0000485173df595d6eb87161a711cb23
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
