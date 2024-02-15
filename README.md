@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Leave It All Behind**<br />by _Cult To Follow_<br /> on Leave It All Behind - Single [2011] |
+| ![album cover][album-cover] | **engravings**<br />by _Ethan Bortnick_<br /> on the last laugh [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485173df595d6eb87161a711cb23
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b25290a919b0fc918d2b6534
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
