@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **engravings**<br />by _Ethan Bortnick_<br /> on the last laugh [2023] |
+| ![album cover][album-cover] | **Supermassive Black Hole**<br />by _Muse_<br /> on Black Holes and Revelations [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b25290a919b0fc918d2b6534
+[album-cover]: https://i.scdn.co/image/ab67616d0000485128933b808bfb4cbbd0385400
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
