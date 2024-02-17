@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Norman**<br />by _Steven Price_<br /> on Fury (Original Motion Picture Soundtrack) [2014] |
+| ![album cover][album-cover] | **With Love Comes Loss (Arr. for Piano Solo)**<br />by _John Powell, Batu Sener_<br /> on Piano Solos from How to Train Your Dragon: The Hidden World [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851242eb64407e94b4a47e52349
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ab28171b7b65e38aecd72c6a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
