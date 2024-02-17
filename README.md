@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Supermassive Black Hole**<br />by _Muse_<br /> on Black Holes and Revelations [2006] |
+| ![album cover][album-cover] | **Norman**<br />by _Steven Price_<br /> on Fury (Original Motion Picture Soundtrack) [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485128933b808bfb4cbbd0385400
+[album-cover]: https://i.scdn.co/image/ab67616d00004851242eb64407e94b4a47e52349
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
