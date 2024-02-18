@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **With Love Comes Loss (Arr. for Piano Solo)**<br />by _John Powell, Batu Sener_<br /> on Piano Solos from How to Train Your Dragon: The Hidden World [2020] |
+| ![album cover][album-cover] | **He's a Pirate**<br />by _Klaus Badelt_<br /> on Pirates of the Caribbean: The Curse of the Black Pearl (Original Motion Picture Soundtrack) [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ab28171b7b65e38aecd72c6a
+[album-cover]: https://i.scdn.co/image/ab67616d0000485138786c7492ac252797bb2648
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
