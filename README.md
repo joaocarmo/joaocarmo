@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Evil Eye**<br />by _Franz Ferdinand_<br /> on Right Thoughts, Right Words, Right Action (Deluxe Edition) [2013] |
+| ![album cover][album-cover] | **Happy Idiot**<br />by _TV On The Radio_<br /> on Seeds [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f85c427ae396ec88898572f5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d37d023cf0ddb1440f659ee3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
