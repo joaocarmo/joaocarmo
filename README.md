@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Evil Eye**<br />by _Franz Ferdinand_<br /> on Right Thoughts, Right Words, Right Action (Deluxe Edition) [2013] |
+| ![album cover][album-cover] | **I Always Knew**<br />by _The Vaccines_<br /> on Come Of Age [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f85c427ae396ec88898572f5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bf25c435afdd3f63252692f2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
