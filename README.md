@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **False Pretense**<br />by _The Red Jumpsuit Apparatus_<br /> on Don't You Fake It [2006] |
+| ![album cover][album-cover] | **Upside Down & Inside Out**<br />by _OK Go_<br /> on Hungry Ghosts [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f98edbc89407338a90437d34
+[album-cover]: https://i.scdn.co/image/ab67616d000048514a32fe2b346217a38772a8da
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
