@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Always Knew**<br />by _The Vaccines_<br /> on Come Of Age [2012] |
+| ![album cover][album-cover] | **False Pretense**<br />by _The Red Jumpsuit Apparatus_<br /> on Don't You Fake It [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bf25c435afdd3f63252692f2
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f98edbc89407338a90437d34
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
