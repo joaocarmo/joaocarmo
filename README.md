@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Upside Down & Inside Out**<br />by _OK Go_<br /> on Hungry Ghosts [2014] |
+| ![album cover][album-cover] | **Main Title**<br />by _Carlos Rafael Rivera_<br /> on The Queen's Gambit (Music from the Netflix Limited Series) [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514a32fe2b346217a38772a8da
+[album-cover]: https://i.scdn.co/image/ab67616d000048515c31c2a42a670aef0c883c43
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
