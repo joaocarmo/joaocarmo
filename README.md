@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Main Title**<br />by _Carlos Rafael Rivera_<br /> on The Queen's Gambit (Music from the Netflix Limited Series) [2020] |
+| ![album cover][album-cover] | **Genghis Khan**<br />by _Miike Snow_<br /> on iii [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515c31c2a42a670aef0c883c43
+[album-cover]: https://i.scdn.co/image/ab67616d0000485106eda68098c2a886a43685a8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
