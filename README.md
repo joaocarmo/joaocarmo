@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Genghis Khan**<br />by _Miike Snow_<br /> on iii [2016] |
+| ![album cover][album-cover] | **Don't Forget Who You Are**<br />by _Miles Kane_<br /> on Don't Forget Who You Are (Deluxe) [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485106eda68098c2a886a43685a8
+[album-cover]: https://i.scdn.co/image/ab67616d0000485198db683b0054420ff2cb7640
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
