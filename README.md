@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Don't Forget Who You Are**<br />by _Miles Kane_<br /> on Don't Forget Who You Are (Deluxe) [2013] |
+| ![album cover][album-cover] | **MakeDamnSure**<br />by _Taking Back Sunday_<br /> on Louder Now (Deluxe Edition) [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485198db683b0054420ff2cb7640
+[album-cover]: https://i.scdn.co/image/ab67616d000048517592cccc051542c3df4daa41
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
