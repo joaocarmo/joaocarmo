@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Cold Comfort Lane**<br />by _Holy Moly & The Crackers_<br /> on Salem [2017] |
+| ![album cover][album-cover] | **Human (feat. Barns Courtney)**<br />by _Tom Morello, Barns Courtney_<br /> on The Atlas Underground Flood [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c581b5d561466267a8ad62e5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b38cc9e394e7428e4aae802f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
