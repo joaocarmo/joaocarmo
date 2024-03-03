@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Onde quando como porquê cantamos pessoas vivas (1ª parte)**<br />by _Quarteto 1111_<br /> on Onde Quando Como Porquê Cantamos Pessoas Vivas [1975] |
+| ![album cover][album-cover] | **Seven Nation Army**<br />by _The White Stripes_<br /> on Elephant [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510ddf549e79f9bc8a82330da1
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a69f71a8794e2d867a52f98f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
