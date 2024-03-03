@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Fire**<br />by _Barns Courtney_<br /> on The Attractions Of Youth [2017] |
+| ![album cover][album-cover] | **I Bet You Look Good On The Dancefloor**<br />by _Arctic Monkeys_<br /> on Whatever People Say I Am, That's What I'm Not [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512a9e5743f2d7c93c43fee849
+[album-cover]: https://i.scdn.co/image/ab67616d000048516b3fa88bdd4af566fbbf2bbf
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
