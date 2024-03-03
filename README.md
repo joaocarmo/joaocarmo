@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Perpetual Terminal**<br />by _Darkest Hour_<br /> on Perpetual Terminal [2024] |
+| ![album cover][album-cover] | **Onde quando como porquê cantamos pessoas vivas (1ª parte)**<br />by _Quarteto 1111_<br /> on Onde Quando Como Porquê Cantamos Pessoas Vivas [1975] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519b50e1b4cd4a24c7b957e551
+[album-cover]: https://i.scdn.co/image/ab67616d000048510ddf549e79f9bc8a82330da1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
