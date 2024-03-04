@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Bet You Look Good On The Dancefloor**<br />by _Arctic Monkeys_<br /> on Whatever People Say I Am, That's What I'm Not [2006] |
+| ![album cover][album-cover] | **Time Warp**<br />by _Little Nell, Patricia Quinn, Richard O'Brien_<br /> on The Rocky Horror Picture Show - Original Soundtrack [1975] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516b3fa88bdd4af566fbbf2bbf
+[album-cover]: https://i.scdn.co/image/ab67616d000048517bcc78f88610d99eaa8c9b50
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
