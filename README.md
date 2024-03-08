@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Time Warp**<br />by _Little Nell, Patricia Quinn, Richard O'Brien_<br /> on The Rocky Horror Picture Show - Original Soundtrack [1975] |
+| ![album cover][album-cover] | **True Survivor - From "Kung Fury"**<br />by _David Hasselhoff_<br /> on True Survivor (From "Kung Fury") [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517bcc78f88610d99eaa8c9b50
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ede79b2dc49170fd85489cee
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
