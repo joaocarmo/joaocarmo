@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **True Survivor - From "Kung Fury"**<br />by _David Hasselhoff_<br /> on True Survivor (From "Kung Fury") [2015] |
+| ![album cover][album-cover] | **In the End**<br />by _Linkin Park_<br /> on Hybrid Theory (Bonus Edition) [2000] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ede79b2dc49170fd85489cee
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e2f039481babe23658fc719a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
