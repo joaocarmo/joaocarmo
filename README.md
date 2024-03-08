@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **In the End**<br />by _Linkin Park_<br /> on Hybrid Theory (Bonus Edition) [2000] |
+| ![album cover][album-cover] | **The Rains Of Castomere**<br />by _The National_<br /> on Game Of Thrones: Season 2 (Music From The HBO Series) [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e2f039481babe23658fc719a
+[album-cover]: https://i.scdn.co/image/ab67616d000048512c6cf887c57990d092c85465
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
