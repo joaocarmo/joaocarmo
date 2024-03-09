@@ -10,19 +10,19 @@ jobs:
   get-track:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - name: Use Node.js v18 (LTS)
-        uses: actions/setup-node@v3
+      - name: Use Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: '18'
-          cache: 'yarn'
+          node-version-file: '.nvmrc'
+          cache: 'pnpm'
 
       - name: Install dependencies
-        run: yarn --frozen-lockfile
+        run: pnpm install --frozen-lockfile
 
       - name: Validate TypeScript
-        run: yarn type-check
+        run: pnpm type-check
 
       - name: Setup environment
         run: cp .env.example .env
@@ -37,7 +37,7 @@ jobs:
           REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
           SPOTIFY_PASSWORD: ${{ secrets.SPOTIFY_PASSWORD }}
           SPOTIFY_USERNAME: ${{ secrets.SPOTIFY_USERNAME }}
-        run: yarn get-latest-track
+        run: pnpm get-latest-track
 
       - name: Replace the README.md with the latest track
         run: cp README.template.md README.md
