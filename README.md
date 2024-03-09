@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Zero to Hero**<br />by _Star-Lord Band, Steve Szczepkowski, Yohann Boudreault_<br /> on Space Rider (Music from "Marvel's Guardians of the Galaxy: Original Video Game Soundtrack") [2021] |
+| ![album cover][album-cover] | **White Room**<br />by _Cream_<br /> on Wheels Of Fire [1968] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485124aacc78a6f0b05c8b3a4b5a
+[album-cover]: https://i.scdn.co/image/ab67616d000048515c7731f5acdcb2d02d78b7ee
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
