@@ -22,6 +22,7 @@
   "scripts": {
     "get-latest-track": "ts-node ./src/no-login/getLatestTrack.ts",
     "login-and-get-latest-track": "ts-node ./src/with-login/server.ts",
+    "preinstall": "npx only-allow pnpm",
     "test": "echo \"OK\"",
     "type-check": "tsc --noEmit"
   },
