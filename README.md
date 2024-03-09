@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Rains Of Castomere**<br />by _The National_<br /> on Game Of Thrones: Season 2 (Music From The HBO Series) [2012] |
+| ![album cover][album-cover] | **Eyes Closed**<br />by _Ed Sheeran_<br /> on Eyes Closed (Piano Version) [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512c6cf887c57990d092c85465
+[album-cover]: https://i.scdn.co/image/ab67616d000048515d8aeaadd021444c5c05e737
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
