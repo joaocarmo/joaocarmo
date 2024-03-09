@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Eyes Closed**<br />by _Ed Sheeran_<br /> on Eyes Closed (Piano Version) [2023] |
+| ![album cover][album-cover] | **Zero to Hero**<br />by _Star-Lord Band, Steve Szczepkowski, Yohann Boudreault_<br /> on Space Rider (Music from "Marvel's Guardians of the Galaxy: Original Video Game Soundtrack") [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515d8aeaadd021444c5c05e737
+[album-cover]: https://i.scdn.co/image/ab67616d0000485124aacc78a6f0b05c8b3a4b5a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
