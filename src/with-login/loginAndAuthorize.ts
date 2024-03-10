@@ -42,7 +42,6 @@ class Browser {
         ...this.options,
         ...extraOptions,
       }
-      options.headless = options.headless ? 'new' : false
       this.browser = await puppeteer.launch(options)
 
       this.page = await this.browser.newPage()
