@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **White Room**<br />by _Cream_<br /> on Wheels Of Fire [1968] |
+| ![album cover][album-cover] | **You're Gonna Go Far, Kid**<br />by _The Offspring_<br /> on Rise And Fall, Rage And Grace [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515c7731f5acdcb2d02d78b7ee
+[album-cover]: https://i.scdn.co/image/ab67616d00004851890ce61533a89e00ce593fcb
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
