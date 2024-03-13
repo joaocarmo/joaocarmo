@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Remember When**<br />by _Wallows_<br /> on Nothing Happens [2019] |
+| ![album cover][album-cover] | **I'm Picky**<br />by _Shaka Ponk_<br /> on The Geeks and the Jerkin' Socks [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485184feca0133d9a8e6539a8325
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ca679b02fa2cae0756cf9a31
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
