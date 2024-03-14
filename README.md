@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I'm Picky**<br />by _Shaka Ponk_<br /> on The Geeks and the Jerkin' Socks [2011] |
+| ![album cover][album-cover] | **Kung Fu Fighting**<br />by _Carl Douglas_<br /> on Kung Fu Fighter [1974] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ca679b02fa2cae0756cf9a31
+[album-cover]: https://i.scdn.co/image/ab67616d00004851131815c9e03c070a5a953a43
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
