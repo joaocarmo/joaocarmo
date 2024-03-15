@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Kung Fu Fighting**<br />by _Carl Douglas_<br /> on Kung Fu Fighter [1974] |
+| ![album cover][album-cover] | **You Know What They Do to Guys Like Us in Prison**<br />by _My Chemical Romance_<br /> on Three Cheers for Sweet Revenge [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851131815c9e03c070a5a953a43
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cab7ae4868e9f9ce6bdfdf43
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
