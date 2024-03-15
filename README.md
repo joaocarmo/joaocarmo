@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **You Know What They Do to Guys Like Us in Prison**<br />by _My Chemical Romance_<br /> on Three Cheers for Sweet Revenge [2004] |
+| ![album cover][album-cover] | **Silence Speaks**<br />by _While She Sleeps, Oli Sykes_<br /> on You Are We [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cab7ae4868e9f9ce6bdfdf43
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c3be9c013bd38a4a4c55b985
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
