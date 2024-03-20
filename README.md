@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Right Back Where We Started From**<br />by _Maxine Nightingale_<br /> on Right Back Where We Started From [2020] |
+| ![album cover][album-cover] | **High School Never Ends - Main Version - Explicit**<br />by _Bowling For Soup_<br /> on The Great Burrito Extortion Case [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cfa6a3679b1471b340e15c4c
+[album-cover]: https://i.scdn.co/image/ab67616d000048517da35c3eff52adc7d9a6f01d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
