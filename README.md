@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Square Hammer**<br />by _Ghost_<br /> on Meliora (Deluxe Edition) [2016] |
+| ![album cover][album-cover] | **Right Back Where We Started From**<br />by _Maxine Nightingale_<br /> on Right Back Where We Started From [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515b752bd7476346431a8d1e79
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cfa6a3679b1471b340e15c4c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
