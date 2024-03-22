@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **High School Never Ends - Main Version - Explicit**<br />by _Bowling For Soup_<br /> on The Great Burrito Extortion Case [2006] |
+| ![album cover][album-cover] | **Butterfly**<br />by _Crazy Town_<br /> on The Gift Of Game [1999] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517da35c3eff52adc7d9a6f01d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851be3d60f650c3b9dbad061f7f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
