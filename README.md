@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Butterfly**<br />by _Crazy Town_<br /> on The Gift Of Game [1999] |
+| ![album cover][album-cover] | **Seven Nation Army - The Glitch Mob Remix**<br />by _The White Stripes, The Glitch Mob_<br /> on Seven Nation Army (The Glitch Mob Remix) [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851be3d60f650c3b9dbad061f7f
+[album-cover]: https://i.scdn.co/image/ab67616d000048518b644b0543e2816dcca897f6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
