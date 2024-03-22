@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Seven Nation Army - The Glitch Mob Remix**<br />by _The White Stripes, The Glitch Mob_<br /> on Seven Nation Army (The Glitch Mob Remix) [2021] |
+| ![album cover][album-cover] | **Rumble And Sway**<br />by _Jamie N Commons_<br /> on Rumble And Sway EP [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518b644b0543e2816dcca897f6
+[album-cover]: https://i.scdn.co/image/ab67616d0000485110039bdf05ec535b0c73b6f9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
