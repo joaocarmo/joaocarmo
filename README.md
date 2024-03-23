@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Rumble And Sway**<br />by _Jamie N Commons_<br /> on Rumble And Sway EP [2013] |
+| ![album cover][album-cover] | **Born To Be Wild**<br />by _Steppenwolf_<br /> on Steppenwolf [1968] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485110039bdf05ec535b0c73b6f9
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ec7e2c5c7ecd29301f1c4b93
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
