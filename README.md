@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Beyond**<br />by _Corey Taylor_<br /> on CMF2 [2023] |
+| ![album cover][album-cover] | **Fields of Verdun**<br />by _Sabaton_<br /> on The Great War [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485188a860ace6d7a6d61916b48f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b37a2bb117c7ae30ee77b6bd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
