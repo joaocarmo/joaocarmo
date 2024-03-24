@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Born To Be Wild**<br />by _Steppenwolf_<br /> on Steppenwolf [1968] |
+| ![album cover][album-cover] | **Beyond**<br />by _Corey Taylor_<br /> on CMF2 [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ec7e2c5c7ecd29301f1c4b93
+[album-cover]: https://i.scdn.co/image/ab67616d0000485188a860ace6d7a6d61916b48f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
