@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **"45"**<br />by _The Gaslight Anthem_<br /> on Handwritten (Deluxe Version) [2012] |
+| ![album cover][album-cover] | **Fine Again**<br />by _Seether_<br /> on Disclaimer [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517e1dcfb9ad3f6218e895b71a
+[album-cover]: https://i.scdn.co/image/ab67616d000048511085abdeea4d93b7c1d39554
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
