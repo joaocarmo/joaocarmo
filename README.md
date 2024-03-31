@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lift Me Up (feat. Rob Halford of Judas Priest)**<br />by _Five Finger Death Punch_<br /> on The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1 [2013] |
+| ![album cover][album-cover] | **"45"**<br />by _The Gaslight Anthem_<br /> on Handwritten (Deluxe Version) [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485176df46a3fd82c419a2dc0a43
+[album-cover]: https://i.scdn.co/image/ab67616d000048517e1dcfb9ad3f6218e895b71a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
