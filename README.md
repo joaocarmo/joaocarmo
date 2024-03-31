@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Fields of Verdun**<br />by _Sabaton_<br /> on The Great War [2019] |
+| ![album cover][album-cover] | **Lift Me Up (feat. Rob Halford of Judas Priest)**<br />by _Five Finger Death Punch_<br /> on The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1 [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b37a2bb117c7ae30ee77b6bd
+[album-cover]: https://i.scdn.co/image/ab67616d0000485176df46a3fd82c419a2dc0a43
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
