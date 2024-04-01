@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Fine Again**<br />by _Seether_<br /> on Disclaimer [2002] |
+| ![album cover][album-cover] | **Sunny**<br />by _Boney M._<br /> on Take The Heat Off Me [1976] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511085abdeea4d93b7c1d39554
+[album-cover]: https://i.scdn.co/image/ab67616d00004851dafd1cd6e9537ec8463ea691
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
