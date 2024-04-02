@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **This Life**<br />by _Vampire Weekend_<br /> on Father of the Bride [2019] |
+| ![album cover][album-cover] | **And She Was - 2005 Remaster**<br />by _Talking Heads_<br /> on Little Creatures [1985] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a2b1d3e73c66663c01351bcf
+[album-cover]: https://i.scdn.co/image/ab67616d00004851948dc970e1e9fbeb8959f7f9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
