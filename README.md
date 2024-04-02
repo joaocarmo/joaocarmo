@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sunny**<br />by _Boney M._<br /> on Take The Heat Off Me [1976] |
+| ![album cover][album-cover] | **This Life**<br />by _Vampire Weekend_<br /> on Father of the Bride [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851dafd1cd6e9537ec8463ea691
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a2b1d3e73c66663c01351bcf
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
