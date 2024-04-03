@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Malibu**<br />by _Hole_<br /> on Celebrity Skin [1998] |
+| ![album cover][album-cover] | **Beggin (original version)**<br />by _Madcon_<br /> on So Dark The Con Of Man [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510649124c37ce988317263671
+[album-cover]: https://i.scdn.co/image/ab67616d00004851197d278a26922f72a4d4b080
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
