@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Be Legendary**<br />by _Pop Evil_<br /> on Pop Evil [2018] |
+| ![album cover][album-cover] | **Never Forget You**<br />by _Noisettes_<br /> on Wild Young Hearts [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516098a7aed38eb125c14ebb83
+[album-cover]: https://i.scdn.co/image/ab67616d000048515d678fdf0b3ca742bb2d58d7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
