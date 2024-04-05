@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Say You Don't Want It**<br />by _One Night Only_<br /> on One Night Only (International Version) [2010] |
+| ![album cover][album-cover] | **Love Abuser (Save Me)**<br />by _Royal & the Serpent_<br /> on Happiness is an Inside Job [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513ce3197cfdf0736dace1047a
+[album-cover]: https://i.scdn.co/image/ab67616d000048512e39ab21c079a986a6cc7e60
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
