@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Love Abuser (Save Me)**<br />by _Royal & the Serpent_<br /> on Happiness is an Inside Job [2022] |
+| ![album cover][album-cover] | **Silver Lining**<br />by _Mt. Joy_<br /> on Mt. Joy [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512e39ab21c079a986a6cc7e60
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b6cbea9ad146a2e67cb0a4e3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
