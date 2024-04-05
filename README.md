@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Never Forget You**<br />by _Noisettes_<br /> on Wild Young Hearts [2009] |
+| ![album cover][album-cover] | **Another Life**<br />by _Motionless In White_<br /> on Disguise [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515d678fdf0b3ca742bb2d58d7
+[album-cover]: https://i.scdn.co/image/ab67616d00004851daa4a83d2f794c1e31265dab
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
