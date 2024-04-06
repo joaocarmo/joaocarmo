@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Silver Lining**<br />by _Mt. Joy_<br /> on Mt. Joy [2018] |
+| ![album cover][album-cover] | **This Head I Hold**<br />by _Electric Guest_<br /> on Mondo [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b6cbea9ad146a2e67cb0a4e3
+[album-cover]: https://i.scdn.co/image/ab67616d000048516466e833eb9b18310fab4de4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
