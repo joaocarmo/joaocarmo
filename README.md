@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **This Head I Hold**<br />by _Electric Guest_<br /> on Mondo [2012] |
+| ![album cover][album-cover] | **Be My End**<br />by _Creeper_<br /> on Sex, Death & The Infinite Void [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516466e833eb9b18310fab4de4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d13f0138e47e5facbb15f9b8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
