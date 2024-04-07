@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lemon Tree**<br />by _Fools Garden_<br /> on Dish of the Day [1995] |
+| ![album cover][album-cover] | **Deutschland**<br />by _Rammstein_<br /> on Rammstein [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485177a50cb765eef114e8ce488c
+[album-cover]: https://i.scdn.co/image/ab67616d0000485102add2c77fb6999e311a3248
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
