@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Be My End**<br />by _Creeper_<br /> on Sex, Death & The Infinite Void [2020] |
+| ![album cover][album-cover] | **Lemon Tree**<br />by _Fools Garden_<br /> on Dish of the Day [1995] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d13f0138e47e5facbb15f9b8
+[album-cover]: https://i.scdn.co/image/ab67616d0000485177a50cb765eef114e8ce488c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
