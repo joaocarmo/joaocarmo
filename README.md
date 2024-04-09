@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Deutschland**<br />by _Rammstein_<br /> on Rammstein [2019] |
+| ![album cover][album-cover] | **It's A Trip!**<br />by _Joywave_<br /> on Content [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485102add2c77fb6999e311a3248
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b74e560074b933866d5496e3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
