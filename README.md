@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **It's A Trip!**<br />by _Joywave_<br /> on Content [2017] |
+| ![album cover][album-cover] | **Stuck on the puzzle**<br />by _Alex Turner_<br /> on Submarine - Original Songs From The Film By Alex Turner [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b74e560074b933866d5496e3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851672951d44a35cb08092f2c1f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
