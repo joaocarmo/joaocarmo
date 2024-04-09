@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Stuck on the puzzle**<br />by _Alex Turner_<br /> on Submarine - Original Songs From The Film By Alex Turner [2011] |
+| ![album cover][album-cover] | **I'm Picky**<br />by _Shaka Ponk_<br /> on The Geeks and the Jerkin' Socks [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851672951d44a35cb08092f2c1f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ca679b02fa2cae0756cf9a31
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
