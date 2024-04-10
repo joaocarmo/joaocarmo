@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I'm Picky**<br />by _Shaka Ponk_<br /> on The Geeks and the Jerkin' Socks [2011] |
+| ![album cover][album-cover] | **Another Life**<br />by _Motionless In White_<br /> on Disguise [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ca679b02fa2cae0756cf9a31
+[album-cover]: https://i.scdn.co/image/ab67616d00004851daa4a83d2f794c1e31265dab
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
