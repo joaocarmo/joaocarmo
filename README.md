@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Another Life**<br />by _Motionless In White_<br /> on Disguise [2019] |
+| ![album cover][album-cover] | **The Bidding**<br />by _Tally Hall_<br /> on Marvin's Marvelous Mechanical Museum [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851daa4a83d2f794c1e31265dab
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b9ccb466665c2ac10dc0d628
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
