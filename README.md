@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Bidding**<br />by _Tally Hall_<br /> on Marvin's Marvelous Mechanical Museum [2005] |
+| ![album cover][album-cover] | **Meet Me In The Woods**<br />by _Lord Huron_<br /> on Strange Trails [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b9ccb466665c2ac10dc0d628
+[album-cover]: https://i.scdn.co/image/ab67616d0000485117875a0610c23d8946454583
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
