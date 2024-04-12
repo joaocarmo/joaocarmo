@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Meet Me In The Woods**<br />by _Lord Huron_<br /> on Strange Trails [2015] |
+| ![album cover][album-cover] | **Human (feat. Barns Courtney)**<br />by _Tom Morello, Barns Courtney_<br /> on The Atlas Underground Flood [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485117875a0610c23d8946454583
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b38cc9e394e7428e4aae802f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
