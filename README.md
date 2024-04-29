@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **You've Got Time**<br />by _Regina Spektor_<br /> on You've Got Time [2013] |
+| ![album cover][album-cover] | **Grounds for Divorce**<br />by _Elbow_<br /> on The Seldom Seen Kid [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485110c91319c637b0f9de5f397d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851967a417ba6b1db017324e8a8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
