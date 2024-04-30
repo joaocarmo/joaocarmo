@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **What It's Like**<br />by _Everlast_<br /> on Whitey Ford Sings the Blues [1998] |
+| ![album cover][album-cover] | **Grounds for Divorce**<br />by _Elbow_<br /> on The Seldom Seen Kid [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fdff0e4ec273827627487f39
+[album-cover]: https://i.scdn.co/image/ab67616d00004851967a417ba6b1db017324e8a8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
