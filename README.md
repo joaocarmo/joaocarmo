@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Novocaine**<br />by _The Unlikely Candidates_<br /> on Panther Island [2022] |
+| ![album cover][album-cover] | **What It's Like**<br />by _Everlast_<br /> on Whitey Ford Sings the Blues [1998] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d9aaa04c31a909c1f1d2c068
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fdff0e4ec273827627487f39
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
