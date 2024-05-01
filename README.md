@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Grounds for Divorce**<br />by _Elbow_<br /> on The Seldom Seen Kid [2008] |
+| ![album cover][album-cover] | **The Chosen Pessimist - Live**<br />by _In Flames_<br /> on Sounds from the Heart of Gothenburg (Live) [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851967a417ba6b1db017324e8a8
+[album-cover]: https://i.scdn.co/image/ab67616d000048516bcaf68e21520b0ef8dcd30b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
