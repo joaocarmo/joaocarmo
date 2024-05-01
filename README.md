@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Chosen Pessimist - Live**<br />by _In Flames_<br /> on Sounds from the Heart of Gothenburg (Live) [2016] |
+| ![album cover][album-cover] | **Move, Shake, Hide - Was Brauer Mix**<br />by _Marmozets, Was Brauer_<br /> on The Weird And Wonderful Marmozets [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516bcaf68e21520b0ef8dcd30b
+[album-cover]: https://i.scdn.co/image/ab67616d000048510ea27520cd0072f39ee01126
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
