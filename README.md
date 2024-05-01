@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Move, Shake, Hide - Was Brauer Mix**<br />by _Marmozets, Was Brauer_<br /> on The Weird And Wonderful Marmozets [2014] |
+| ![album cover][album-cover] | **Sweet Disaster**<br />by _DREAMERS_<br /> on This Album Does Not Exist [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510ea27520cd0072f39ee01126
+[album-cover]: https://i.scdn.co/image/ab67616d000048513035f006f639105b154a939d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
