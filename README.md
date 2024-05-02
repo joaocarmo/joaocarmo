@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sweet Disaster**<br />by _DREAMERS_<br /> on This Album Does Not Exist [2016] |
+| ![album cover][album-cover] | **Lemon Tree**<br />by _Fools Garden_<br /> on Dish of the Day [1995] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513035f006f639105b154a939d
+[album-cover]: https://i.scdn.co/image/ab67616d0000485177a50cb765eef114e8ce488c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
