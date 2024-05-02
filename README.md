@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Cult of Dionysus**<br />by _The Orion Experience, ORION, Linda XO_<br /> on Cosmicandy [2006] |
+| ![album cover][album-cover] | **Burn the House Down**<br />by _AJR_<br /> on The Click (Deluxe Edition) [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851daccecee61b39522fbae9884
+[album-cover]: https://i.scdn.co/image/ab67616d000048510e8249f6a0b9a8fd648dfc7f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
