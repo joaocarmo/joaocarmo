@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lemon Tree**<br />by _Fools Garden_<br /> on Dish of the Day [1995] |
+| ![album cover][album-cover] | **The Cult of Dionysus**<br />by _The Orion Experience, ORION, Linda XO_<br /> on Cosmicandy [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485177a50cb765eef114e8ce488c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851daccecee61b39522fbae9884
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
