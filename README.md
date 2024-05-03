@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Burn the House Down**<br />by _AJR_<br /> on The Click (Deluxe Edition) [2018] |
+| ![album cover][album-cover] | **Feel Good Inc.**<br />by _Gorillaz_<br /> on Demon Days [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510e8249f6a0b9a8fd648dfc7f
+[album-cover]: https://i.scdn.co/image/ab67616d0000485119d85a472f328a6ed9b704cf
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
