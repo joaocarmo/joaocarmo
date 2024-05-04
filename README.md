@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **No Good**<br />by _KALEO_<br /> on A/B [2016] |
+| ![album cover][album-cover] | **Gold on the Ceiling**<br />by _The Black Keys_<br /> on El Camino [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f793a842c1642b09a768a63b
+[album-cover]: https://i.scdn.co/image/ab67616d000048516a21b97de47168df4f0c1993
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
