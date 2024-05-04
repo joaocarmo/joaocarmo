@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Another Round**<br />by _The Scratch_<br /> on Another Round [2022] |
+| ![album cover][album-cover] | **No Good**<br />by _KALEO_<br /> on A/B [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485162b5f94cda61e63815d0c73b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f793a842c1642b09a768a63b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
