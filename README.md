@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Gold on the Ceiling**<br />by _The Black Keys_<br /> on El Camino [2011] |
+| ![album cover][album-cover] | **Say You Don't Want It**<br />by _One Night Only_<br /> on One Night Only (International Version) [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516a21b97de47168df4f0c1993
+[album-cover]: https://i.scdn.co/image/ab67616d000048513ce3197cfdf0736dace1047a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
