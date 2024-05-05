@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Fear for Nobody**<br />by _Måneskin_<br /> on Il ballo della vita [2018] |
+| ![album cover][album-cover] | **Home**<br />by _Edward Sharpe & The Magnetic Zeros_<br /> on Up From Below [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851dbc892b8194e35ca3524e767
+[album-cover]: https://i.scdn.co/image/ab67616d000048512c35a40544141762bb6d4d90
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
