@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Home**<br />by _Edward Sharpe & The Magnetic Zeros_<br /> on Up From Below [2009] |
+| ![album cover][album-cover] | **Zombie**<br />by _Jamie T_<br /> on Carry On The Grudge [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512c35a40544141762bb6d4d90
+[album-cover]: https://i.scdn.co/image/ab67616d000048514fb56ec277f5a8750863acb9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
