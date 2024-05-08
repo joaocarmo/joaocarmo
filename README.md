@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Kiss The Go-Goat**<br />by _Ghost_<br /> on Seven Inches Of Satanic Panic [2019] |
+| ![album cover][album-cover] | **Monster**<br />by _The Automatic_<br /> on Not Accepted Anywhere [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bef9b0a348ea8dd18a581025
+[album-cover]: https://i.scdn.co/image/ab67616d00004851550bdf7366f586a0f1a7666e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
