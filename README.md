@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Stop, I'm Already Dead**<br />by _Deadboy & The Elephantmen_<br /> on We Are Night Sky [2005] |
+| ![album cover][album-cover] | **Golden Brown**<br />by _The Stranglers_<br /> on La Folie [1981] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b6884dfe0a6b0bc6006b6452
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a713f9b06accedba5d963d61
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
