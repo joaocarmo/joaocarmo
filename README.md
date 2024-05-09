@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Monster**<br />by _The Automatic_<br /> on Not Accepted Anywhere [2006] |
+| ![album cover][album-cover] | **Stop, I'm Already Dead**<br />by _Deadboy & The Elephantmen_<br /> on We Are Night Sky [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851550bdf7366f586a0f1a7666e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b6884dfe0a6b0bc6006b6452
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
