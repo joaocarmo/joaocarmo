@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **BLOW (with Chris Stapleton & Bruno Mars)**<br />by _Ed Sheeran, Chris Stapleton, Bruno Mars_<br /> on No.6 Collaborations Project [2019] |
+| ![album cover][album-cover] | **Meet Me In The Woods**<br />by _Lord Huron_<br /> on Strange Trails [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485173304ce0653c7758dd94b259
+[album-cover]: https://i.scdn.co/image/ab67616d0000485117875a0610c23d8946454583
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
