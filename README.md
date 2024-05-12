@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Raincoat**<br />by _Letdown._<br /> on Raincoat [2024] |
+| ![album cover][album-cover] | **Fake Friends**<br />by _AViVA_<br /> on Fake Friends [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485127816645dc3518f77e920ec8
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b95315aecd4c52dd3d41a21f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
