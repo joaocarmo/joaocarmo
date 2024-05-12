@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Fake Friends**<br />by _AViVA_<br /> on Fake Friends [2024] |
+| ![album cover][album-cover] | **Dare to Dream (feat. Graham Nash)**<br />by _Mike Campbell & The Dirty Knobs, Graham Nash_<br /> on Dare to Dream (feat. Graham Nash) [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b95315aecd4c52dd3d41a21f
+[album-cover]: https://i.scdn.co/image/ab67616d000048511dca3830dcbb63c521d69ded
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
