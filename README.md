@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Money, Sex, or God**<br />by _Crossbone Skully_<br /> on Money, Sex, or God [2024] |
+| ![album cover][album-cover] | **Swell**<br />by _Prune 99_<br /> on Sand Reflection [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517020edd3405a4ec54c2f52cd
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cc6794caf88da26ff1fffc31
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
