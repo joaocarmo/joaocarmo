@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Everything**<br />by _Sly Withers_<br /> on Everything [2024] |
+| ![album cover][album-cover] | **Money, Sex, or God**<br />by _Crossbone Skully_<br /> on Money, Sex, or God [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a894eddaa21c57894b7176e7
+[album-cover]: https://i.scdn.co/image/ab67616d000048517020edd3405a4ec54c2f52cd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
