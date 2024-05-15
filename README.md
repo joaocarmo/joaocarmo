@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lazerlove**<br />by _Royal Republic_<br /> on Lazerlove [2024] |
+| ![album cover][album-cover] | **Unbelievable**<br />by _EMF_<br /> on Schubert Dip [1991] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ddfa546a7db0898a6b06793f
+[album-cover]: https://i.scdn.co/image/ab67616d000048511cfc7506e5aa43fc22fca3f2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
