@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Unbelievable**<br />by _EMF_<br /> on Schubert Dip [1991] |
+| ![album cover][album-cover] | **Asleep at the Wheel**<br />by _Band Of Skulls_<br /> on Himalayan [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511cfc7506e5aa43fc22fca3f2
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f1f60af9ce38153ee619ad30
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
