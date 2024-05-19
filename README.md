@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Rainforest Sounds**<br />by _Nature Radiance, Nature Sounds_<br /> on Jungle & Rainforest Sounds [2019] |
+| ![album cover][album-cover] | **Despair, Hangover & Ecstasy**<br />by _The Dø_<br /> on Shake Shook Shaken [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851120f2fda773184f360040276
+[album-cover]: https://i.scdn.co/image/ab67616d000048515f411b3c90058ad921934608
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
