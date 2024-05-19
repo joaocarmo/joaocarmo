@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Purification**<br />by _Daniel Deluxe_<br /> on Purification [2016] |
+| ![album cover][album-cover] | **Physical**<br />by _Dua Lipa_<br /> on Future Nostalgia [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485167cbc757737cacded793ab84
+[album-cover]: https://i.scdn.co/image/ab67616d000048514bc66095f8a70bc4e6593f4f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
