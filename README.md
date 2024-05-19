@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Physical**<br />by _Dua Lipa_<br /> on Future Nostalgia [2020] |
+| ![album cover][album-cover] | **Rainforest Sounds**<br />by _Nature Radiance, Nature Sounds_<br /> on Jungle & Rainforest Sounds [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514bc66095f8a70bc4e6593f4f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851120f2fda773184f360040276
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
