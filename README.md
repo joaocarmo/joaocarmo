@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Despair, Hangover & Ecstasy**<br />by _The Dø_<br /> on Shake Shook Shaken [2014] |
+| ![album cover][album-cover] | **Cooler Than Me - Single Mix**<br />by _Mike Posner, Gigamesh_<br /> on 31 Minutes to Takeoff [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515f411b3c90058ad921934608
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d6165c0d6eba7e5bf3fca16d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
