@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Cooler Than Me - Single Mix**<br />by _Mike Posner, Gigamesh_<br /> on 31 Minutes to Takeoff [2010] |
+| ![album cover][album-cover] | **Bogus Operandi**<br />by _The Hives_<br /> on The Death Of Randy Fitzsimmons [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d6165c0d6eba7e5bf3fca16d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f129a883e9c0ae41f89e4c6c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
