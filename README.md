@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bogus Operandi**<br />by _The Hives_<br /> on The Death Of Randy Fitzsimmons [2023] |
+| ![album cover][album-cover] | **The Taste of Ink**<br />by _The Used_<br /> on The Used [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f129a883e9c0ae41f89e4c6c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e0827a6cec3f1574249ec8c0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
