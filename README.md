@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Believe**<br />by _The Bravery_<br /> on The Sun And The Moon [2007] |
+| ![album cover][album-cover] | **I WANNA BE YOUR SLAVE**<br />by _Måneskin_<br /> on Teatro d'ira - Vol. I [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513491ab021eb1cdaab72fdaf9
+[album-cover]: https://i.scdn.co/image/ab67616d000048515aa05015cfa7bd2943c29b21
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
