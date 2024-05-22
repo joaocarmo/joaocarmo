@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Taste of Ink**<br />by _The Used_<br /> on The Used [2002] |
+| ![album cover][album-cover] | **Believe**<br />by _The Bravery_<br /> on The Sun And The Moon [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e0827a6cec3f1574249ec8c0
+[album-cover]: https://i.scdn.co/image/ab67616d000048513491ab021eb1cdaab72fdaf9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
