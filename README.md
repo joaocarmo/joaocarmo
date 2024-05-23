@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I WANNA BE YOUR SLAVE**<br />by _Måneskin_<br /> on Teatro d'ira - Vol. I [2021] |
+| ![album cover][album-cover] | **Thrift Shop (feat. Wanz)**<br />by _Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Wanz_<br /> on The Heist [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515aa05015cfa7bd2943c29b21
+[album-cover]: https://i.scdn.co/image/ab67616d000048512a6b364528b128a4a17d100d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
