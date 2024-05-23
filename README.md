@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Beggin'**<br />by _Måneskin_<br /> on Chosen [2017] |
+| ![album cover][album-cover] | **Faster**<br />by _Within Temptation_<br /> on The Unforgiving [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fa0ab3a28b5c52d8a5f97045
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bcb4a0f3772f0a25db7eb965
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
