@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Thrift Shop (feat. Wanz)**<br />by _Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Wanz_<br /> on The Heist [2012] |
+| ![album cover][album-cover] | **Beggin'**<br />by _Måneskin_<br /> on Chosen [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512a6b364528b128a4a17d100d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fa0ab3a28b5c52d8a5f97045
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
