@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Faster**<br />by _Within Temptation_<br /> on The Unforgiving [2011] |
+| ![album cover][album-cover] | **Run to the Hills - 2015 Remaster**<br />by _Iron Maiden_<br /> on The Number of the Beast (2015 Remaster) [1982] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bcb4a0f3772f0a25db7eb965
+[album-cover]: https://i.scdn.co/image/ab67616d000048515c29a88ba5341ca428f0c322
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
