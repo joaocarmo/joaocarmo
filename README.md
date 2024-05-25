@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Run to the Hills - 2015 Remaster**<br />by _Iron Maiden_<br /> on The Number of the Beast (2015 Remaster) [1982] |
+| ![album cover][album-cover] | **Cooler Than Me - Single Mix**<br />by _Mike Posner, Gigamesh_<br /> on 31 Minutes to Takeoff [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515c29a88ba5341ca428f0c322
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d6165c0d6eba7e5bf3fca16d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
