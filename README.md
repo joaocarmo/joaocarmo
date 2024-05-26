@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Cooler Than Me - Single Mix**<br />by _Mike Posner, Gigamesh_<br /> on 31 Minutes to Takeoff [2010] |
+| ![album cover][album-cover] | **On Top Of The World**<br />by _Imagine Dragons_<br /> on Night Visions [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d6165c0d6eba7e5bf3fca16d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851407bd04707c463bbb3410737
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
