@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **This Head I Hold**<br />by _Electric Guest_<br /> on Mondo [2012] |
+| ![album cover][album-cover] | **Ruby**<br />by _Kaiser Chiefs_<br /> on Yours Truly, Angry Mob (Deluxe) [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516466e833eb9b18310fab4de4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851195b15c2b6ee649a890cd770
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
