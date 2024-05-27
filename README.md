@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Take It From Me**<br />by _KONGOS_<br /> on Egomaniac [2016] |
+| ![album cover][album-cover] | **Holding Out for a Hero - From "Footloose" Soundtrack**<br />by _Bonnie Tyler_<br /> on Secret Dreams and Forbidden Fire [1986] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851613eb1b3a04bcc236e13c996
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d2675cb6847d1b1da9fc28a3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
