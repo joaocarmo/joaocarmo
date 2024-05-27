@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Cold Comfort Lane**<br />by _Holy Moly & The Crackers_<br /> on Salem [2017] |
+| ![album cover][album-cover] | **Take It From Me**<br />by _KONGOS_<br /> on Egomaniac [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c581b5d561466267a8ad62e5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851613eb1b3a04bcc236e13c996
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
