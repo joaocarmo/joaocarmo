@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Ruby**<br />by _Kaiser Chiefs_<br /> on Yours Truly, Angry Mob (Deluxe) [2007] |
+| ![album cover][album-cover] | **Cold Comfort Lane**<br />by _Holy Moly & The Crackers_<br /> on Salem [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851195b15c2b6ee649a890cd770
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c581b5d561466267a8ad62e5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
