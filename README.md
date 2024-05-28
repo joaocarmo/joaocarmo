@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Holding Out for a Hero - From "Footloose" Soundtrack**<br />by _Bonnie Tyler_<br /> on Secret Dreams and Forbidden Fire [1986] |
+| ![album cover][album-cover] | **Uh Huh**<br />by _Jade Bird_<br /> on Jade Bird [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d2675cb6847d1b1da9fc28a3
+[album-cover]: https://i.scdn.co/image/ab67616d000048518062b1c93052c488797ae67a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
