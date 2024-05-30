@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Need A Dollar**<br />by _Aloe Blacc_<br /> on Good Things [2010] |
+| ![album cover][album-cover] | **Be Legendary**<br />by _Pop Evil_<br /> on Pop Evil [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d90d47a95e1a22e4ed24c318
+[album-cover]: https://i.scdn.co/image/ab67616d000048516098a7aed38eb125c14ebb83
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
