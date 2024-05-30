@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Uh Huh**<br />by _Jade Bird_<br /> on Jade Bird [2019] |
+| ![album cover][album-cover] | **I Need A Dollar**<br />by _Aloe Blacc_<br /> on Good Things [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518062b1c93052c488797ae67a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d90d47a95e1a22e4ed24c318
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
