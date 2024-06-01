@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Nice to Meet You**<br />by _Imagine Dragons_<br /> on Nice to Meet You [2024] |
+| ![album cover][album-cover] | **Sorry**<br />by _Bad Nerves_<br /> on Still Nervous [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511d060976af0e642e97db3b2b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a36f4a606ac228352bdcea98
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
