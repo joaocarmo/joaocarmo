@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sorry**<br />by _Bad Nerves_<br /> on Still Nervous [2024] |
+| ![album cover][album-cover] | **STRAY**<br />by _jxdn_<br /> on STRAY / SAD OCTOBER [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a36f4a606ac228352bdcea98
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a8b12ada3e98945ea3dc990a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
