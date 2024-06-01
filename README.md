@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **STRAY**<br />by _jxdn_<br /> on STRAY / SAD OCTOBER [2024] |
+| ![album cover][album-cover] | **is suicide too much?**<br />by _re6ce_<br /> on grey europe [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a8b12ada3e98945ea3dc990a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851edc4c21b31ec5b3525b67f22
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
