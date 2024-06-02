@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Spaceman**<br />by _Skegss_<br /> on Spaceman [2024] |
+| ![album cover][album-cover] | **PIN-EYE**<br />by _Jhariah_<br /> on TRUST CEREMONY [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d5aa6bd132a5e411d447f0f0
+[album-cover]: https://i.scdn.co/image/ab67616d0000485136346a1a5bc20cba58358836
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
