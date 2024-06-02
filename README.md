@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **is suicide too much?**<br />by _re6ce_<br /> on grey europe [2024] |
+| ![album cover][album-cover] | **Can EU Hear Me?**<br />by _Kid Kapichi_<br /> on There Goes The Neighbourhood [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851edc4c21b31ec5b3525b67f22
+[album-cover]: https://i.scdn.co/image/ab67616d000048516dbced6012461654a5051f05
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
