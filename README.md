@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Mercy**<br />by _Duffy_<br /> on Rockferry [2008] |
+| ![album cover][album-cover] | **The River**<br />by _Petey_<br /> on The River [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851618eb90c1c10d299e51f3822
+[album-cover]: https://i.scdn.co/image/ab67616d0000485186eea5536dbab009050747c0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
