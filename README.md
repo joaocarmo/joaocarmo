@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **July**<br />by _Wunderhorse_<br /> on July [2024] |
+| ![album cover][album-cover] | **Mercy**<br />by _Duffy_<br /> on Rockferry [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d2ff810deab2ffdc68b26fc5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851618eb90c1c10d299e51f3822
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
