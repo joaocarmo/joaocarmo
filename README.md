@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **parents**<br />by _YUNGBLUD_<br /> on weird! [2020] |
+| ![album cover][album-cover] | **Sweet Dreams (Are Made of This) - Remastered**<br />by _Eurythmics, Annie Lennox, Dave Stewart_<br /> on Sweet Dreams (Are Made Of This) [1983] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b5dd9044681a2e8e0d072e27
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b3994c94dfb241923664bb4d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
