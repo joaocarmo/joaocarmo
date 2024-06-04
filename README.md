@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The River**<br />by _Petey_<br /> on The River [2024] |
+| ![album cover][album-cover] | **parents**<br />by _YUNGBLUD_<br /> on weird! [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485186eea5536dbab009050747c0
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b5dd9044681a2e8e0d072e27
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
