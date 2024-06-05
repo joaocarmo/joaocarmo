@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Glitter & Gold**<br />by _Barns Courtney_<br /> on The Attractions Of Youth [2017] |
+| ![album cover][album-cover] | **Party And Bullshit**<br />by _The Notorious B.I.G._<br /> on Whos The Man ? Soundtrack [1993] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512a9e5743f2d7c93c43fee849
+[album-cover]: https://i.scdn.co/image/ab67616d00004851248667da8d589ce025f1ba56
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
