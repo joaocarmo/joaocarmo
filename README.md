@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sweet Dreams (Are Made of This) - Remastered**<br />by _Eurythmics, Annie Lennox, Dave Stewart_<br /> on Sweet Dreams (Are Made Of This) [1983] |
+| ![album cover][album-cover] | **GOSSIP (feat. Tom Morello)**<br />by _Måneskin, Tom Morello_<br /> on RUSH! [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b3994c94dfb241923664bb4d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c1b211b5fcdef31be5f806df
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
