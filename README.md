@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **GOSSIP (feat. Tom Morello)**<br />by _Måneskin, Tom Morello_<br /> on RUSH! [2023] |
+| ![album cover][album-cover] | **Glitter & Gold**<br />by _Barns Courtney_<br /> on The Attractions Of Youth [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c1b211b5fcdef31be5f806df
+[album-cover]: https://i.scdn.co/image/ab67616d000048512a9e5743f2d7c93c43fee849
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
