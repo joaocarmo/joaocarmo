@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Party And Bullshit**<br />by _The Notorious B.I.G._<br /> on Whos The Man ? Soundtrack [1993] |
+| ![album cover][album-cover] | **Feed the Machine**<br />by _Poor Man's Poison_<br /> on Feed the Machine [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851248667da8d589ce025f1ba56
+[album-cover]: https://i.scdn.co/image/ab67616d00004851999247481fd9eec8afcabdc3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
