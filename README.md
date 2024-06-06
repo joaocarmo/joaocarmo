@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **RATATATA**<br />by _BABYMETAL, Electric Callboy_<br /> on RATATATA [2024] |
+| ![album cover][album-cover] | **In Between**<br />by _Beartooth_<br /> on Disgusting [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513900e6899672f9dfdc028611
+[album-cover]: https://i.scdn.co/image/ab67616d000048516b70e7bed9a831b79c28327f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
