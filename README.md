@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Feed the Machine**<br />by _Poor Man's Poison_<br /> on Feed the Machine [2020] |
+| ![album cover][album-cover] | **RATATATA**<br />by _BABYMETAL, Electric Callboy_<br /> on RATATATA [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851999247481fd9eec8afcabdc3
+[album-cover]: https://i.scdn.co/image/ab67616d000048513900e6899672f9dfdc028611
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
