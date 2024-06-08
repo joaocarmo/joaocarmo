@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **pick me up**<br />by _Alice Merton_<br /> on pick me up [2024] |
+| ![album cover][album-cover] | **Shimmy (feat. Spiritual Cramp)**<br />by _White Reaper, Spiritual Cramp_<br /> on White Reaper / Spiritual Cramp Split [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515770e18780be6d7b2fd9fde5
+[album-cover]: https://i.scdn.co/image/ab67616d0000485174304773fa1fc9ca2f3ceae2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
