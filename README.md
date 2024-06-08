@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Waste My Life**<br />by _Alice Merton_<br /> on Waste My Life [2023] |
+| ![album cover][album-cover] | **pick me up**<br />by _Alice Merton_<br /> on pick me up [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d9ffab147f1ce90d663cc263
+[album-cover]: https://i.scdn.co/image/ab67616d000048515770e18780be6d7b2fd9fde5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
