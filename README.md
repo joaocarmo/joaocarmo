@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Shimmy (feat. Spiritual Cramp)**<br />by _White Reaper, Spiritual Cramp_<br /> on White Reaper / Spiritual Cramp Split [2024] |
+| ![album cover][album-cover] | **Monsters (feat. blackbear)**<br />by _All Time Low, blackbear_<br /> on Wake Up, Sunshine [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485174304773fa1fc9ca2f3ceae2
+[album-cover]: https://i.scdn.co/image/ab67616d0000485128c24b54e9149cab239ac1cd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
