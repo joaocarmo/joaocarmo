@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Anjinho da guarda**<br />by _António Variações_<br /> on Anjo da guarda [1983] |
+| ![album cover][album-cover] | **Feel Good Inc.**<br />by _Gorillaz_<br /> on Demon Days [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ae673fecee9af1ae7844a20f
+[album-cover]: https://i.scdn.co/image/ab67616d0000485119d85a472f328a6ed9b704cf
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
