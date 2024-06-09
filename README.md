@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Desafinado**<br />by _João Gilberto_<br /> on Ultimate Guitar Classics 1951-1961 [2013] |
+| ![album cover][album-cover] | **Anjinho da guarda**<br />by _António Variações_<br /> on Anjo da guarda [1983] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514799a45fe5c4789866b63f79
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ae673fecee9af1ae7844a20f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
