@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Monsters (feat. blackbear)**<br />by _All Time Low, blackbear_<br /> on Wake Up, Sunshine [2020] |
+| ![album cover][album-cover] | **Desafinado**<br />by _João Gilberto_<br /> on Ultimate Guitar Classics 1951-1961 [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485128c24b54e9149cab239ac1cd
+[album-cover]: https://i.scdn.co/image/ab67616d000048514799a45fe5c4789866b63f79
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
