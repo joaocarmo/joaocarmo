@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Ivone**<br />by _Viralata_<br /> on Vai Buscar! [2012] |
+| ![album cover][album-cover] | **Put the Gun Down**<br />by _ZZ Ward_<br /> on Til the Casket Drops [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a20a1156df8736a315f56633
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b02f642851816d9384b90aa6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
