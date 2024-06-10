@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Chaga**<br />by _Ornatos Violeta_<br /> on O Monstro Precisa De Amigos [1999] |
+| ![album cover][album-cover] | **Ivone**<br />by _Viralata_<br /> on Vai Buscar! [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c43c10e473664ca39ab1febc
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a20a1156df8736a315f56633
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
