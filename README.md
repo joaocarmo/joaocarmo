@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wild Child**<br />by _The Black Keys_<br /> on Dropout Boogie [2022] |
+| ![album cover][album-cover] | **Meu Mundo Caiu**<br />by _Maysa_<br /> on Convite para Ouvir Maysa, Vol. 2 [1958] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510e8e7267c0b377e5751630f3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cc972f40611a8c895cbb7aa0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
