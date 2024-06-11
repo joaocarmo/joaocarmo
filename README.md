@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Put the Gun Down**<br />by _ZZ Ward_<br /> on Til the Casket Drops [2012] |
+| ![album cover][album-cover] | **Wild Child**<br />by _The Black Keys_<br /> on Dropout Boogie [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b02f642851816d9384b90aa6
+[album-cover]: https://i.scdn.co/image/ab67616d000048510e8e7267c0b377e5751630f3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
