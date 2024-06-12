@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Meu Mundo Caiu**<br />by _Maysa_<br /> on Convite para Ouvir Maysa, Vol. 2 [1958] |
+| ![album cover][album-cover] | **Firestarters**<br />by _Sawyer Hill_<br /> on Firestarters [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cc972f40611a8c895cbb7aa0
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fb4c65fef0793fb6929e8fc2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
