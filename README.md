@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hello**<br />by _The Cat Empire_<br /> on The Cat Empire [2003] |
+| ![album cover][album-cover] | **Beer**<br />by _Reel Big Fish_<br /> on Turn The Radio Off [1996] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851796484dbec4ccdf746691814
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ef883c94c02915cacc3b5b36
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
