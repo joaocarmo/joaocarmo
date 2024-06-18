@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **L.E.S Artistes**<br />by _Santigold_<br /> on Santigold [2008] |
+| ![album cover][album-cover] | **I'm Not Crying**<br />by _Of Men And Wolves_<br /> on Baby Release Me [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485139fe9e8e010b409b137b530a
+[album-cover]: https://i.scdn.co/image/ab67616d000048515e74a696144dc44c52985cd4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
