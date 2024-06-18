@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Beer**<br />by _Reel Big Fish_<br /> on Turn The Radio Off [1996] |
+| ![album cover][album-cover] | **L.E.S Artistes**<br />by _Santigold_<br /> on Santigold [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ef883c94c02915cacc3b5b36
+[album-cover]: https://i.scdn.co/image/ab67616d0000485139fe9e8e010b409b137b530a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
