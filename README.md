@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Favorite Color Is Blue**<br />by _Robert DeLong, K.Flay_<br /> on See You In The Future [2018] |
+| ![album cover][album-cover] | **Beer**<br />by _Reel Big Fish_<br /> on Turn The Radio Off [1996] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851aab3ddb0fd66ac1127977d49
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ef883c94c02915cacc3b5b36
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
