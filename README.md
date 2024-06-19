@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I'm Not Crying**<br />by _Of Men And Wolves_<br /> on Baby Release Me [2019] |
+| ![album cover][album-cover] | **Favorite Color Is Blue**<br />by _Robert DeLong, K.Flay_<br /> on See You In The Future [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515e74a696144dc44c52985cd4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851aab3ddb0fd66ac1127977d49
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
