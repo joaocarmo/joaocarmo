@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I'm Not Crying**<br />by _Of Men And Wolves_<br /> on Baby Release Me [2019] |
+| ![album cover][album-cover] | **Save Me**<br />by _Remy Zero_<br /> on The Golden Hum [2001] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515e74a696144dc44c52985cd4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851392801763c63d187bfd28d83
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
