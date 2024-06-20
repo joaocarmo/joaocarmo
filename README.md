@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Beer**<br />by _Reel Big Fish_<br /> on Turn The Radio Off [1996] |
+| ![album cover][album-cover] | **I'm Not Crying**<br />by _Of Men And Wolves_<br /> on Baby Release Me [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ef883c94c02915cacc3b5b36
+[album-cover]: https://i.scdn.co/image/ab67616d000048515e74a696144dc44c52985cd4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
