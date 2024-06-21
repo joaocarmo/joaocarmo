@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Fortunate Son**<br />by _Creedence Clearwater Revival_<br /> on Willy And The Poor Boys (Expanded Edition) [1969] |
+| ![album cover][album-cover] | **Her Eyes**<br />by _The Cost, Serj Tankian_<br /> on Her Eyes [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519f39192f9f8ca1c90847b3e5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851593a2ba72c7e3bf9ac84ef9d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
