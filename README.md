@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Save Me**<br />by _Remy Zero_<br /> on The Golden Hum [2001] |
+| ![album cover][album-cover] | **Black Magic**<br />by _Band Of Skulls_<br /> on By Default [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851392801763c63d187bfd28d83
+[album-cover]: https://i.scdn.co/image/ab67616d000048514a0ef5a65f32be884c5b50b9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
