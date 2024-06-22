@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Her Eyes**<br />by _The Cost, Serj Tankian_<br /> on Her Eyes [2024] |
+| ![album cover][album-cover] | **Human**<br />by _Graphic Nature_<br /> on Human [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851593a2ba72c7e3bf9ac84ef9d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ebcc9daa544e39f5b00f6f83
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
