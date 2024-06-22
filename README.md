@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Human**<br />by _Graphic Nature_<br /> on Human [2024] |
+| ![album cover][album-cover] | **Sacrifice**<br />by _ASHEN, ten56._<br /> on Sacrifice [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ebcc9daa544e39f5b00f6f83
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b17ae6fa5c3edec0d668cf12
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
