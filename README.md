@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sacrifice**<br />by _ASHEN, ten56._<br /> on Sacrifice [2024] |
+| ![album cover][album-cover] | **Shapeless in the Dark**<br />by _Foreign Hands_<br /> on What's Left Unsaid [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b17ae6fa5c3edec0d668cf12
+[album-cover]: https://i.scdn.co/image/ab67616d00004851df5fa010d41d96c5f3fe173f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
