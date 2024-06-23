@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bird In A Cage**<br />by _Harper_<br /> on Bird In A Cage [2024] |
+| ![album cover][album-cover] | **Hold the Line**<br />by _TOTO_<br /> on Toto [1978] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518d9daff39c19d879c517f4aa
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f903e62767a0e22e33b7af83
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
