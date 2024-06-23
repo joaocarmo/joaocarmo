@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Shapeless in the Dark**<br />by _Foreign Hands_<br /> on What's Left Unsaid [2024] |
+| ![album cover][album-cover] | **Bird In A Cage**<br />by _Harper_<br /> on Bird In A Cage [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851df5fa010d41d96c5f3fe173f
+[album-cover]: https://i.scdn.co/image/ab67616d000048518d9daff39c19d879c517f4aa
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
