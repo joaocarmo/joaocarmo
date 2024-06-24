@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hold the Line**<br />by _TOTO_<br /> on Toto [1978] |
+| ![album cover][album-cover] | **Johnny B. Goode**<br />by _Chuck Berry_<br /> on Berry Is On Top [1959] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f903e62767a0e22e33b7af83
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a496dc8c33ca6d10668b3157
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
