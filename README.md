@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Johnny B. Goode**<br />by _Chuck Berry_<br /> on Berry Is On Top [1959] |
+| ![album cover][album-cover] | **fade**<br />by _Holywatr_<br /> on fade [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a496dc8c33ca6d10668b3157
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c679db6fe8af1c7352736628
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
