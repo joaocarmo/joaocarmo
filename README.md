@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **fade**<br />by _Holywatr_<br /> on fade [2024] |
+| ![album cover][album-cover] | **The Devil Wears a Suit and Tie**<br />by _Colter Wall_<br /> on Imaginary Appalachia [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c679db6fe8af1c7352736628
+[album-cover]: https://i.scdn.co/image/ab67616d00004851664369d876deb40cedc5cffa
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
