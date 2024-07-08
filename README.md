@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Devil Wears a Suit and Tie**<br />by _Colter Wall_<br /> on Imaginary Appalachia [2015] |
+| ![album cover][album-cover] | **Another Celebration at the End of the World**<br />by _Mammoth WVH_<br /> on Mammoth II [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851664369d876deb40cedc5cffa
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a36ec578bac464599aa34b98
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
