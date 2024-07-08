@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Another Celebration at the End of the World**<br />by _Mammoth WVH_<br /> on Mammoth II [2023] |
+| ![album cover][album-cover] | **Hurt**<br />by _Oliver Tree_<br /> on Ugly is Beautiful [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a36ec578bac464599aa34b98
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bf5af474b6ed745faf53f508
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
