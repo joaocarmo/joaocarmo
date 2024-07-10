@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hurt**<br />by _Oliver Tree_<br /> on Ugly is Beautiful [2020] |
+| ![album cover][album-cover] | **Meant to Live**<br />by _Switchfoot_<br /> on The Beautiful Letdown (Deluxe Version) [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bf5af474b6ed745faf53f508
+[album-cover]: https://i.scdn.co/image/ab67616d00004851656001849b39dfee31b8d855
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
