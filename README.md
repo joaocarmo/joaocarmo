@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Meant to Live**<br />by _Switchfoot_<br /> on The Beautiful Letdown (Deluxe Version) [2003] |
+| ![album cover][album-cover] | **You Sexy Thing**<br />by _Hot Chocolate_<br /> on Hot Chocolate [1975] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851656001849b39dfee31b8d855
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a03bcdbf45f9ed71cf0947bd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
