@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **You Sexy Thing**<br />by _Hot Chocolate_<br /> on Hot Chocolate [1975] |
+| ![album cover][album-cover] | **The Lost Song**<br />by _The Cat Empire_<br /> on The Cat Empire [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a03bcdbf45f9ed71cf0947bd
+[album-cover]: https://i.scdn.co/image/ab67616d00004851796484dbec4ccdf746691814
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
