@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Lost Song**<br />by _The Cat Empire_<br /> on The Cat Empire [2003] |
+| ![album cover][album-cover] | **Left Hand Free**<br />by _alt-J_<br /> on This Is All Yours [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851796484dbec4ccdf746691814
+[album-cover]: https://i.scdn.co/image/ab67616d00004851616cd9879264afc938539cf7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
