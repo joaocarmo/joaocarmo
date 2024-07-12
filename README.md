@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Running With The Wolves**<br />by _AURORA_<br /> on All My Demons Greeting Me As A Friend (Deluxe) [2016] |
+| ![album cover][album-cover] | **I'll Get Along**<br />by _Michael Kiwanuka_<br /> on Home Again (Deluxe Version) [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c379325088c2845fe85cd70a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cf3cd9588ec89ab911b70780
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
