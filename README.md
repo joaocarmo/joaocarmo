@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Left Hand Free**<br />by _alt-J_<br /> on This Is All Yours [2014] |
+| ![album cover][album-cover] | **Running With The Wolves**<br />by _AURORA_<br /> on All My Demons Greeting Me As A Friend (Deluxe) [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851616cd9879264afc938539cf7
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c379325088c2845fe85cd70a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
