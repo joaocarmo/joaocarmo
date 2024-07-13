@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I'll Get Along**<br />by _Michael Kiwanuka_<br /> on Home Again (Deluxe Version) [2012] |
+| ![album cover][album-cover] | **I've Been Dazed**<br />by _Michael Kiwanuka_<br /> on KIWANUKA [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cf3cd9588ec89ab911b70780
+[album-cover]: https://i.scdn.co/image/ab67616d0000485160ada139840fb439d6750f27
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
