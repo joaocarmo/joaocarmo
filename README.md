@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Black**<br />by _Pearl Jam_<br /> on Ten [1991] |
+| ![album cover][album-cover] | **Upper Hand**<br />by _Pearl Jam_<br /> on Dark Matter [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d400d27cba05bb0545533864
+[album-cover]: https://i.scdn.co/image/ab67616d000048516fcdcbbd9cae9001ca5b20d5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
