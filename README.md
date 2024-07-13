@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I've Been Dazed**<br />by _Michael Kiwanuka_<br /> on KIWANUKA [2019] |
+| ![album cover][album-cover] | **Black**<br />by _Pearl Jam_<br /> on Ten [1991] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485160ada139840fb439d6750f27
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d400d27cba05bb0545533864
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
