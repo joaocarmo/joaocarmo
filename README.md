@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hertz**<br />by _Amyl and The Sniffers_<br /> on Comfort To Me [2021] |
+| ![album cover][album-cover] | **Novacaine**<br />by _10 Years_<br /> on (how to live) AS GHOSTS [Deluxe Edition] [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851727318aa69af60549ab3b728
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ce3da8b14aded1bb580e4088
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
