@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Inside Job**<br />by _Pearl Jam_<br /> on Pearl Jam [2006] |
+| ![album cover][album-cover] | **Hertz**<br />by _Amyl and The Sniffers_<br /> on Comfort To Me [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851abd6980a0f2f2c9cc13581e0
+[album-cover]: https://i.scdn.co/image/ab67616d00004851727318aa69af60549ab3b728
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
