@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Novacaine**<br />by _10 Years_<br /> on (how to live) AS GHOSTS [Deluxe Edition] [2018] |
+| ![album cover][album-cover] | **Neat Neat Neat**<br />by _The Damned_<br /> on Damned Damned Damned [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ce3da8b14aded1bb580e4088
+[album-cover]: https://i.scdn.co/image/ab67616d000048512bcf028d0b2e7dab418bea49
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
