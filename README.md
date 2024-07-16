@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Neat Neat Neat**<br />by _The Damned_<br /> on Damned Damned Damned [2002] |
+| ![album cover][album-cover] | **Forest Whitaker**<br />by _Bad Books, Manchester Orchestra, Kevin Devine_<br /> on II [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512bcf028d0b2e7dab418bea49
+[album-cover]: https://i.scdn.co/image/ab67616d0000485109757116183d1d28472dfcd1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
