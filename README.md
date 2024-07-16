@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Forest Whitaker**<br />by _Bad Books, Manchester Orchestra, Kevin Devine_<br /> on II [2012] |
+| ![album cover][album-cover] | **Drop The Game**<br />by _Flume, Chet Faker_<br /> on Lockjaw [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485109757116183d1d28472dfcd1
+[album-cover]: https://i.scdn.co/image/ab67616d00004851de8b653acb692b4ce30b49a5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
