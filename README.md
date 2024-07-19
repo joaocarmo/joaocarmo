@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Drop The Game**<br />by _Flume, Chet Faker_<br /> on Lockjaw [2013] |
+| ![album cover][album-cover] | **Feels Like Summer**<br />by _Weezer_<br /> on Pacific Daydream [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851de8b653acb692b4ce30b49a5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f04ed0e9d5af8b1b5f011b2f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
