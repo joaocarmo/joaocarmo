@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Feels Like Summer**<br />by _Weezer_<br /> on Pacific Daydream [2017] |
+| ![album cover][album-cover] | **Sweet Dreams Seven Nation Army Mashup**<br />by _Pomplamoose, Sarah Dugas_<br /> on Best of 2019 [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f04ed0e9d5af8b1b5f011b2f
+[album-cover]: https://i.scdn.co/image/ab67616d0000485136d1aff086bfa12d1d4707fc
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
