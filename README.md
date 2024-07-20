@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sweet Dreams Seven Nation Army Mashup**<br />by _Pomplamoose, Sarah Dugas_<br /> on Best of 2019 [2020] |
+| ![album cover][album-cover] | **Leader of the Pack**<br />by _Wunderhorse_<br /> on Cub [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485136d1aff086bfa12d1d4707fc
+[album-cover]: https://i.scdn.co/image/ab67616d00004851be8e67d6db7bb17c437092fa
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
