@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Little Things - UNKLE Variation**<br />by _Danny Elfman, UNKLE_<br /> on Wanted: Weapons of Fate - The Little Things (UNKLE Variation) [2009] |
+| ![album cover][album-cover] | **Too Good At Raising Hell**<br />by _The Struts_<br /> on Pretty Vicious [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851de389b1a9bb1f24c0215e984
+[album-cover]: https://i.scdn.co/image/ab67616d000048512bc95437875b8906f5e368a7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
