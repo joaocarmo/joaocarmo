@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Same Ol'**<br />by _The Heavy_<br /> on The Glorious Dead [2012] |
+| ![album cover][album-cover] | **The Little Things - UNKLE Variation**<br />by _Danny Elfman, UNKLE_<br /> on Wanted: Weapons of Fate - The Little Things (UNKLE Variation) [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ffa262e79ca11e55114f7fd6
+[album-cover]: https://i.scdn.co/image/ab67616d00004851de389b1a9bb1f24c0215e984
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
