@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Too Good At Raising Hell**<br />by _The Struts_<br /> on Pretty Vicious [2023] |
+| ![album cover][album-cover] | **Linger - SiriusXM Session**<br />by _Royel Otis_<br /> on Linger / Heading For The Door (Sirius XM Session) [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512bc95437875b8906f5e368a7
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ccaa2ab01efad107f3952454
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
