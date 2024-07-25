@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **9 Circles**<br />by _Softcult_<br /> on Heaven [2024] |
+| ![album cover][album-cover] | **Angelica**<br />by _Wet Leg_<br /> on Wet Leg [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514baae6840ca4c60486089332
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ea1126a33b0fb88e79915262
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
