@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Angelica**<br />by _Wet Leg_<br /> on Wet Leg [2022] |
+| ![album cover][album-cover] | **Too Close**<br />by _Sir Chloe_<br /> on Party Favors [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ea1126a33b0fb88e79915262
+[album-cover]: https://i.scdn.co/image/ab67616d00004851912b00ae82d10a2a4cdc084e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
