@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Too Close**<br />by _Sir Chloe_<br /> on Party Favors [2020] |
+| ![album cover][album-cover] | **Whirring**<br />by _The Joy Formidable_<br /> on The Big Roar [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851912b00ae82d10a2a4cdc084e
+[album-cover]: https://i.scdn.co/image/ab67616d0000485199c897154816c739a5538528
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
