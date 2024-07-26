@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Curtains**<br />by _BLOXX_<br /> on Curtains [2017] |
+| ![album cover][album-cover] | **Won't Take Me Alive**<br />by _Dirty Honey_<br /> on Can't Find The Brakes [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851393bd1f784cd5d28f35ea278
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d119ea6789b74da3ce663b35
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
