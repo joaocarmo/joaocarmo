@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Whirring**<br />by _The Joy Formidable_<br /> on The Big Roar [2011] |
+| ![album cover][album-cover] | **Curtains**<br />by _BLOXX_<br /> on Curtains [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485199c897154816c739a5538528
+[album-cover]: https://i.scdn.co/image/ab67616d00004851393bd1f784cd5d28f35ea278
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
