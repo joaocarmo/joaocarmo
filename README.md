@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Won't Take Me Alive**<br />by _Dirty Honey_<br /> on Can't Find The Brakes [2023] |
+| ![album cover][album-cover] | **Too Close**<br />by _Sir Chloe_<br /> on Party Favors [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d119ea6789b74da3ce663b35
+[album-cover]: https://i.scdn.co/image/ab67616d00004851912b00ae82d10a2a4cdc084e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
