@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Last Resort - Reimagined**<br />by _Falling In Reverse_<br /> on Last Resort (Reimagined) [2023] |
+| ![album cover][album-cover] | **40'**<br />by _Franz Ferdinand_<br /> on Franz Ferdinand [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510e767936418b9ed65f2c5ebd
+[album-cover]: https://i.scdn.co/image/ab67616d0000485109a90531b85be7899c3234c4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
