@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **40'**<br />by _Franz Ferdinand_<br /> on Franz Ferdinand [2004] |
+| ![album cover][album-cover] | **This fffire - New Version**<br />by _Franz Ferdinand_<br /> on This fffire [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485109a90531b85be7899c3234c4
+[album-cover]: https://i.scdn.co/image/ab67616d0000485144fadeb140014c49e807c468
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
