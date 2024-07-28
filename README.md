@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **This fffire - New Version**<br />by _Franz Ferdinand_<br /> on This fffire [2004] |
+| ![album cover][album-cover] | **Georgia Off My Mind**<br />by _Larkin Poe_<br /> on Blood Harmony [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485144fadeb140014c49e807c468
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c7cf4cbf9014c39dc8d8689a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
