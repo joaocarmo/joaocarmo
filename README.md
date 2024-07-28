@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Neat Neat Neat**<br />by _The Damned_<br /> on Damned Damned Damned [2002] |
+| ![album cover][album-cover] | **Someday**<br />by _The Strokes_<br /> on Is This It [2001] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512bcf028d0b2e7dab418bea49
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a388a3f20d1bf2123249cc79
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
