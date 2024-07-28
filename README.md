@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Georgia Off My Mind**<br />by _Larkin Poe_<br /> on Blood Harmony [2022] |
+| ![album cover][album-cover] | **Neat Neat Neat**<br />by _The Damned_<br /> on Damned Damned Damned [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c7cf4cbf9014c39dc8d8689a
+[album-cover]: https://i.scdn.co/image/ab67616d000048512bcf028d0b2e7dab418bea49
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
