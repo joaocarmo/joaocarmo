@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Little Monster**<br />by _Royal Blood_<br /> on Royal Blood [2014] |
+| ![album cover][album-cover] | **Bad Girlfriend**<br />by _Theory of a Deadman_<br /> on Scars & Souvenirs [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518c23906cd30a0564bcebb5e5
+[album-cover]: https://i.scdn.co/image/ab67616d0000485102c979ea5d277d659496d0a3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
