@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bad Girlfriend**<br />by _Theory of a Deadman_<br /> on Scars & Souvenirs [2008] |
+| ![album cover][album-cover] | **Wait for Me**<br />by _Kings of Leon_<br /> on Mechanical Bull (Expanded Edition) [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485102c979ea5d277d659496d0a3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d50b35057090d03bb0e759bc
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
