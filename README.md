@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wait for Me**<br />by _Kings of Leon_<br /> on Mechanical Bull (Expanded Edition) [2013] |
+| ![album cover][album-cover] | **Sunday Morning**<br />by _No Doubt_<br /> on Tragic Kingdom [1995] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d50b35057090d03bb0e759bc
+[album-cover]: https://i.scdn.co/image/ab67616d000048516ebd5e789646a833b8f7d4ba
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
