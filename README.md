@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sunday Morning**<br />by _No Doubt_<br /> on Tragic Kingdom [1995] |
+| ![album cover][album-cover] | **Shadow in the Sun**<br />by _Joe P_<br /> on Shadow in the Sun [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516ebd5e789646a833b8f7d4ba
+[album-cover]: https://i.scdn.co/image/ab67616d00004851df7d32f825eb64ae12c258e5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
