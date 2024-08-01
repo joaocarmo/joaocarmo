@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dead Dreamers**<br />by _Demob Happy_<br /> on Dead Dreamers [2017] |
+| ![album cover][album-cover] | **Wait for Me**<br />by _Kings of Leon_<br /> on Mechanical Bull (Expanded Edition) [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485107d3907ed06b0a2d554891f7
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d50b35057090d03bb0e759bc
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
