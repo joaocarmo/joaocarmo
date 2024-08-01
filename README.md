@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wait for Me**<br />by _Kings of Leon_<br /> on Mechanical Bull (Expanded Edition) [2013] |
+| ![album cover][album-cover] | **Flying Whales**<br />by _Gojira_<br /> on From Mars to Sirius [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d50b35057090d03bb0e759bc
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f7b11aeef189b2ec6857d90e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
