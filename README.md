@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Shadow in the Sun**<br />by _Joe P_<br /> on Shadow in the Sun [2024] |
+| ![album cover][album-cover] | **Dead Dreamers**<br />by _Demob Happy_<br /> on Dead Dreamers [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851df7d32f825eb64ae12c258e5
+[album-cover]: https://i.scdn.co/image/ab67616d0000485107d3907ed06b0a2d554891f7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
