@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Flying Whales**<br />by _Gojira_<br /> on From Mars to Sirius [2005] |
+| ![album cover][album-cover] | **Amazonia**<br />by _Gojira_<br /> on Fortitude [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f7b11aeef189b2ec6857d90e
+[album-cover]: https://i.scdn.co/image/ab67616d000048513eb3d09afc2829a9706f891e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
