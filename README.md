@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Abra Cadaver**<br />by _The Hives_<br /> on Tyrannosaurus Hives [2004] |
+| ![album cover][album-cover] | **Little Monster**<br />by _Royal Blood_<br /> on Royal Blood [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485168fb48c259aa205c9f18117f
+[album-cover]: https://i.scdn.co/image/ab67616d000048518c23906cd30a0564bcebb5e5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
