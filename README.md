@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Amazonia**<br />by _Gojira_<br /> on Fortitude [2021] |
+| ![album cover][album-cover] | **Abra Cadaver**<br />by _The Hives_<br /> on Tyrannosaurus Hives [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513eb3d09afc2829a9706f891e
+[album-cover]: https://i.scdn.co/image/ab67616d0000485168fb48c259aa205c9f18117f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
