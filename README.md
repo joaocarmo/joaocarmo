@@ -18,7 +18,7 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Little Monster**<br />by _Royal Blood_<br /> on Royal Blood [2014] |
+| ![album cover][album-cover] | **You Can Be So Cruel**<br />by _Royal Blood_<br /> on Royal Blood [2014] |
 
 <!-- References -->
 
