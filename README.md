@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Broken Bones**<br />by _KALEO_<br /> on A/B [2016] |
+| ![album cover][album-cover] | **Deliver Us**<br />by _In Flames_<br /> on Sounds Of A Playground Fading [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f793a842c1642b09a768a63b
+[album-cover]: https://i.scdn.co/image/ab67616d0000485105a0a629a962da34367822e5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
