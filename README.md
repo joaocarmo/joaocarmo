@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Low Lays the Devil**<br />by _The Veils_<br /> on Total Depravity [2016] |
+| ![album cover][album-cover] | **Broken Bones**<br />by _KALEO_<br /> on A/B [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a9fcaf906a9b4982a9405ddb
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f793a842c1642b09a768a63b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
