@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Deliver Us**<br />by _In Flames_<br /> on Sounds Of A Playground Fading [2011] |
+| ![album cover][album-cover] | **Una Mattina**<br />by _Ludovico Einaudi_<br /> on Una Mattina [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485105a0a629a962da34367822e5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c0c021c0ac135d923b3a0ddc
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
