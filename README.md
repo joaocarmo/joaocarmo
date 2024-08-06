@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Una Mattina**<br />by _Ludovico Einaudi_<br /> on Una Mattina [2004] |
+| ![album cover][album-cover] | **Keep Your Head Up**<br />by _Ben Howard_<br /> on Every Kingdom [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c0c021c0ac135d923b3a0ddc
+[album-cover]: https://i.scdn.co/image/ab67616d0000485125d10f813fd1114b2bb9e39a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
