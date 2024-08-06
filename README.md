@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Keep Your Head Up**<br />by _Ben Howard_<br /> on Every Kingdom [2011] |
+| ![album cover][album-cover] | **Love The Way You Lie**<br />by _Eminem, Rihanna_<br /> on Recovery [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485125d10f813fd1114b2bb9e39a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c08d5fa5c0f1a834acef5100
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
