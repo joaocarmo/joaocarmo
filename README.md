@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Love The Way You Lie**<br />by _Eminem, Rihanna_<br /> on Recovery [2010] |
+| ![album cover][album-cover] | **Demons**<br />by _Imagine Dragons_<br /> on Night Visions [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c08d5fa5c0f1a834acef5100
+[album-cover]: https://i.scdn.co/image/ab67616d00004851407bd04707c463bbb3410737
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
