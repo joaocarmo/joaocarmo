@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Demons**<br />by _Imagine Dragons_<br /> on Night Visions [2012] |
+| ![album cover][album-cover] | **All of Me**<br />by _John Legend_<br /> on Love In The Future (Expanded Edition) [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851407bd04707c463bbb3410737
+[album-cover]: https://i.scdn.co/image/ab67616d0000485194c9217a398f5174757c0c78
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
