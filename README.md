@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **My Happiness**<br />by _Powderfinger_<br /> on Odyssey Number Five [2000] |
+| ![album cover][album-cover] | **Pretty Lady**<br />by _Tash Sultana_<br /> on Pretty Lady [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ceba92eb0f296101eca62342
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d2b8a729b9e2f630f10585c0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
