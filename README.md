@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **All of Me**<br />by _John Legend_<br /> on Love In The Future (Expanded Edition) [2013] |
+| ![album cover][album-cover] | **My Happiness**<br />by _Powderfinger_<br /> on Odyssey Number Five [2000] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485194c9217a398f5174757c0c78
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ceba92eb0f296101eca62342
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
