@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Pretty Lady**<br />by _Tash Sultana_<br /> on Pretty Lady [2020] |
+| ![album cover][album-cover] | **Out of My Head**<br />by _First Aid Kit_<br /> on Out of My Head [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d2b8a729b9e2f630f10585c0
+[album-cover]: https://i.scdn.co/image/ab67616d00004851341927a18c89a4dba8eccfb1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
