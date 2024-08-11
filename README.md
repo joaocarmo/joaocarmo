@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Black & Thunder**<br />by _The Paper Kites_<br /> on At the Roadhouse [2023] |
+| ![album cover][album-cover] | **One Evening**<br />by _Feist_<br /> on Let It Die [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f22522179c2e107d354c33dd
+[album-cover]: https://i.scdn.co/image/ab67616d000048512e3a93f7e7cf2ff54852c8a1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
