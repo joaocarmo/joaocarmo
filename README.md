@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Out of My Head**<br />by _First Aid Kit_<br /> on Out of My Head [2022] |
+| ![album cover][album-cover] | **Mia & Keira (Days To Come)**<br />by _Giant Rooks_<br /> on New Estate [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851341927a18c89a4dba8eccfb1
+[album-cover]: https://i.scdn.co/image/ab67616d000048514a72f7ae0082704e32ff2ba3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
