@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Mia & Keira (Days To Come)**<br />by _Giant Rooks_<br /> on New Estate [2017] |
+| ![album cover][album-cover] | **Black & Thunder**<br />by _The Paper Kites_<br /> on At the Roadhouse [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514a72f7ae0082704e32ff2ba3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f22522179c2e107d354c33dd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
