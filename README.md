@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **One Evening**<br />by _Feist_<br /> on Let It Die [2004] |
+| ![album cover][album-cover] | **Around the Bend**<br />by _The Asteroids Galaxy Tour_<br /> on Around the Bend [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512e3a93f7e7cf2ff54852c8a1
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a1d91d3556f7979c88710483
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
