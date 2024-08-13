@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Your Light**<br />by _The Big Moon_<br /> on Walking Like We Do [2020] |
+| ![album cover][album-cover] | **Drop the Guillotine**<br />by _Peach Pit_<br /> on Being So Normal [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519d23f7b84df36eee441bf636
+[album-cover]: https://i.scdn.co/image/ab67616d0000485100b39b4a73d28536690b355c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
