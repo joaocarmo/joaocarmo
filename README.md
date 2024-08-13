@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Around the Bend**<br />by _The Asteroids Galaxy Tour_<br /> on Around the Bend [2008] |
+| ![album cover][album-cover] | **Your Light**<br />by _The Big Moon_<br /> on Walking Like We Do [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a1d91d3556f7979c88710483
+[album-cover]: https://i.scdn.co/image/ab67616d000048519d23f7b84df36eee441bf636
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
