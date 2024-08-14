@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Tears Dry On Their Own**<br />by _Amy Winehouse_<br /> on Back To Black (Deluxe Edition) [2006] |
+| ![album cover][album-cover] | **Play My Favourite Song**<br />by _Tigercub_<br /> on The Perfume of Decay [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485176ffb5b5ab045d22c81235c1
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a5791f3b8b8cc33759ebf067
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
