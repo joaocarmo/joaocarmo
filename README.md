@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Drop the Guillotine**<br />by _Peach Pit_<br /> on Being So Normal [2018] |
+| ![album cover][album-cover] | **Tears Dry On Their Own**<br />by _Amy Winehouse_<br /> on Back To Black (Deluxe Edition) [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485100b39b4a73d28536690b355c
+[album-cover]: https://i.scdn.co/image/ab67616d0000485176ffb5b5ab045d22c81235c1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
