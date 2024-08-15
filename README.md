@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Your Light**<br />by _The Big Moon_<br /> on Walking Like We Do [2020] |
+| ![album cover][album-cover] | **The Judge**<br />by _Twenty One Pilots_<br /> on Blurryface [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519d23f7b84df36eee441bf636
+[album-cover]: https://i.scdn.co/image/ab67616d000048512df0d98a423025032d0db1f7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
