@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Judge**<br />by _Twenty One Pilots_<br /> on Blurryface [2015] |
+| ![album cover][album-cover] | **Spiders**<br />by _System Of A Down_<br /> on System Of A Down [1998] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512df0d98a423025032d0db1f7
+[album-cover]: https://i.scdn.co/image/ab67616d000048512dc63e977bd5101072adcef6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
