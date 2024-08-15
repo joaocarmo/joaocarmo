@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Play My Favourite Song**<br />by _Tigercub_<br /> on The Perfume of Decay [2023] |
+| ![album cover][album-cover] | **Your Light**<br />by _The Big Moon_<br /> on Walking Like We Do [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a5791f3b8b8cc33759ebf067
+[album-cover]: https://i.scdn.co/image/ab67616d000048519d23f7b84df36eee441bf636
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
