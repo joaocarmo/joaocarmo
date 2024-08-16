@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Chokehold**<br />by _Sleep Token_<br /> on Chokehold [2023] |
+| ![album cover][album-cover] | **Y'all Want a Single**<br />by _Korn_<br /> on Take A Look In The Mirror [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485137e062080cfa13915e082ff3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f3d72bc62b3f0fc059da2e46
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
