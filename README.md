@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Vertigo**<br />by _Siamese_<br /> on Elements [2024] |
+| ![album cover][album-cover] | **Gorgeous**<br />by _Cold Gawd_<br /> on Gorgeous [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485154cb9826f8ebff6fda5e990e
+[album-cover]: https://i.scdn.co/image/ab67616d000048516170611e2a5a1bfb3775e606
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
