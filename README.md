@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Y'all Want a Single**<br />by _Korn_<br /> on Take A Look In The Mirror [2003] |
+| ![album cover][album-cover] | **Being One**<br />by _House of Protection_<br /> on Being One [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f3d72bc62b3f0fc059da2e46
+[album-cover]: https://i.scdn.co/image/ab67616d00004851aee83d96bbee10a1619e4294
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
