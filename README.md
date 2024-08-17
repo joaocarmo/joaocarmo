@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Being One**<br />by _House of Protection_<br /> on Being One [2024] |
+| ![album cover][album-cover] | **Vertigo**<br />by _Siamese_<br /> on Elements [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851aee83d96bbee10a1619e4294
+[album-cover]: https://i.scdn.co/image/ab67616d0000485154cb9826f8ebff6fda5e990e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
