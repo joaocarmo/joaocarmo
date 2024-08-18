@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Gorgeous**<br />by _Cold Gawd_<br /> on Gorgeous [2024] |
+| ![album cover][album-cover] | **Sun Killer**<br />by _Spiritbox_<br /> on Eternal Blue [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516170611e2a5a1bfb3775e606
+[album-cover]: https://i.scdn.co/image/ab67616d00004851db90af657d7c2e085ee4a3da
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
