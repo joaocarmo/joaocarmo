@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sun Killer**<br />by _Spiritbox_<br /> on Eternal Blue [2021] |
+| ![album cover][album-cover] | **Echolalia**<br />by _Faetooth_<br /> on Remnants of the Vessel [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851db90af657d7c2e085ee4a3da
+[album-cover]: https://i.scdn.co/image/ab67616d000048513250c07999d7a46ab99c901b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
