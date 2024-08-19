@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **BLOW (with Chris Stapleton & Bruno Mars)**<br />by _Ed Sheeran, Chris Stapleton, Bruno Mars_<br /> on No.6 Collaborations Project [2019] |
+| ![album cover][album-cover] | **Going Under**<br />by _Evanescence_<br /> on Fallen [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485173304ce0653c7758dd94b259
+[album-cover]: https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
