@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Going Under**<br />by _Evanescence_<br /> on Fallen [2003] |
+| ![album cover][album-cover] | **It's Not Over**<br />by _Daughtry_<br /> on Daughtry [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e42a527a7ce207ca12b6bdf8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
