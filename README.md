@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **You're Somebody Else**<br />by _flora cash_<br /> on Baby, It's Okay [2020] |
+| ![album cover][album-cover] | **Toothpaste Kisses**<br />by _The Maccabees_<br /> on Colour It In [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a41efd971d404d5015103712
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f349ed3ed26e47dc0555621e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
