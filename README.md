@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **It's Not Over**<br />by _Daughtry_<br /> on Daughtry [2006] |
+| ![album cover][album-cover] | **You're Somebody Else**<br />by _flora cash_<br /> on Baby, It's Okay [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e42a527a7ce207ca12b6bdf8
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a41efd971d404d5015103712
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
