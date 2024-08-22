@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Toothpaste Kisses**<br />by _The Maccabees_<br /> on Colour It In [2007] |
+| ![album cover][album-cover] | **I Found Out**<br />by _The Pigeon Detectives_<br /> on Wait for Me (10th Anniversary Deluxe Edition) [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f349ed3ed26e47dc0555621e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a792b1be0f1ca259c248943f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
