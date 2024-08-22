@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Found Out**<br />by _The Pigeon Detectives_<br /> on Wait for Me (10th Anniversary Deluxe Edition) [2007] |
+| ![album cover][album-cover] | **It's Not Over**<br />by _Daughtry_<br /> on Daughtry [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a792b1be0f1ca259c248943f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e42a527a7ce207ca12b6bdf8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
