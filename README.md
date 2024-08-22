@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **It's Not Over**<br />by _Daughtry_<br /> on Daughtry [2006] |
+| ![album cover][album-cover] | **Hurricane**<br />by _MS MR_<br /> on Secondhand Rapture [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e42a527a7ce207ca12b6bdf8
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c71518faf895951dc5e078bc
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
