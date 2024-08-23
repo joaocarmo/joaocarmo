@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hurricane**<br />by _MS MR_<br /> on Secondhand Rapture [2013] |
+| ![album cover][album-cover] | **Gypsy Woman**<br />by _Anarbor_<br /> on The Words You Don't Swallow [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c71518faf895951dc5e078bc
+[album-cover]: https://i.scdn.co/image/ab67616d00004851225e632c77faa59f64235285
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
