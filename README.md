@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Gypsy Woman**<br />by _Anarbor_<br /> on The Words You Don't Swallow [2010] |
+| ![album cover][album-cover] | **Ode to a Conversation Stuck in Your Throat**<br />by _Del Water Gap_<br /> on Del Water Gap [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851225e632c77faa59f64235285
+[album-cover]: https://i.scdn.co/image/ab67616d000048514809a527289734861ce03e20
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
