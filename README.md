@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Ode to a Conversation Stuck in Your Throat**<br />by _Del Water Gap_<br /> on Del Water Gap [2021] |
+| ![album cover][album-cover] | **Going Under**<br />by _Evanescence_<br /> on Fallen [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514809a527289734861ce03e20
+[album-cover]: https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
