@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Leader of the Pack**<br />by _Wunderhorse_<br /> on Cub [2022] |
+| ![album cover][album-cover] | **Missed Connection**<br />by _The Head And The Heart_<br /> on Living Mirage [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851be8e67d6db7bb17c437092fa
+[album-cover]: https://i.scdn.co/image/ab67616d000048513f0ab9acab2c5907d8b0b8be
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
