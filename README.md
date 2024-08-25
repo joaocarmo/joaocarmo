@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Phantoms and Friends**<br />by _Old Man Canyon_<br /> on Phantoms & Friends (10th Anniversary Edition) [2023] |
+| ![album cover][album-cover] | **In Between**<br />by _Beartooth_<br /> on Disgusting [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851073da07ef5b663b6e135a5a0
+[album-cover]: https://i.scdn.co/image/ab67616d000048516b70e7bed9a831b79c28327f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
