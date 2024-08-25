@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **In Between**<br />by _Beartooth_<br /> on Disgusting [2014] |
+| ![album cover][album-cover] | **Leader of the Pack**<br />by _Wunderhorse_<br /> on Cub [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516b70e7bed9a831b79c28327f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851be8e67d6db7bb17c437092fa
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
