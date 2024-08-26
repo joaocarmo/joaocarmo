@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Missed Connection**<br />by _The Head And The Heart_<br /> on Living Mirage [2019] |
+| ![album cover][album-cover] | **I Like the Way You Die**<br />by _Black Honey_<br /> on Written & Directed [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513f0ab9acab2c5907d8b0b8be
+[album-cover]: https://i.scdn.co/image/ab67616d00004851594ce327001e8d39c44680ca
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
