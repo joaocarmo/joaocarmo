@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Like the Way You Die**<br />by _Black Honey_<br /> on Written & Directed [2021] |
+| ![album cover][album-cover] | **The Adventure**<br />by _Angels & Airwaves_<br /> on We Don't Need To Whisper [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851594ce327001e8d39c44680ca
+[album-cover]: https://i.scdn.co/image/ab67616d000048518803d5c289ccf6c092aa1a68
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
