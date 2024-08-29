@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Father Of Mine**<br />by _Everclear_<br /> on So Much For The Afterglow [1997] |
+| ![album cover][album-cover] | **DANGER**<br />by _South Arcade_<br /> on DANGER [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485165a9e11c89449998ac3da930
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d6d8c531ab6d3beeb28c1fab
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
