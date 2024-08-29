@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Adventure**<br />by _Angels & Airwaves_<br /> on We Don't Need To Whisper [2006] |
+| ![album cover][album-cover] | **Father Of Mine**<br />by _Everclear_<br /> on So Much For The Afterglow [1997] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518803d5c289ccf6c092aa1a68
+[album-cover]: https://i.scdn.co/image/ab67616d0000485165a9e11c89449998ac3da930
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
