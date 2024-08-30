@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **DANGER**<br />by _South Arcade_<br /> on DANGER [2023] |
+| ![album cover][album-cover] | **Nightmare**<br />by _From Ashes to New_<br /> on Blackout [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d6d8c531ab6d3beeb28c1fab
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e2ac9e3c89c8a3e1b40884c1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
