@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Nightmare**<br />by _From Ashes to New_<br /> on Blackout [2023] |
+| ![album cover][album-cover] | **Burn It Down**<br />by _Daughter_<br /> on Music From Before the Storm [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e2ac9e3c89c8a3e1b40884c1
+[album-cover]: https://i.scdn.co/image/ab67616d0000485137b43514fe2d8ec40c59f130
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
