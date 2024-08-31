@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Adventure**<br />by _Angels & Airwaves_<br /> on We Don't Need To Whisper [2006] |
+| ![album cover][album-cover] | **Pink Pony Club**<br />by _Chappell Roan_<br /> on The Rise and Fall of a Midwest Princess [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518803d5c289ccf6c092aa1a68
+[album-cover]: https://i.scdn.co/image/ab67616d0000485196fa88fb1789be437d5cb4b6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
