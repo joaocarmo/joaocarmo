@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Burn It Down**<br />by _Daughter_<br /> on Music From Before the Storm [2017] |
+| ![album cover][album-cover] | **The Adventure**<br />by _Angels & Airwaves_<br /> on We Don't Need To Whisper [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485137b43514fe2d8ec40c59f130
+[album-cover]: https://i.scdn.co/image/ab67616d000048518803d5c289ccf6c092aa1a68
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
