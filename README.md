@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Pink Pony Club**<br />by _Chappell Roan_<br /> on The Rise and Fall of a Midwest Princess [2023] |
+| ![album cover][album-cover] | **Pretty Vicious**<br />by _The Struts_<br /> on Pretty Vicious [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485196fa88fb1789be437d5cb4b6
+[album-cover]: https://i.scdn.co/image/ab67616d000048512bc95437875b8906f5e368a7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
