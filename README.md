@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Pretty Vicious**<br />by _The Struts_<br /> on Pretty Vicious [2023] |
+| ![album cover][album-cover] | **Uh Huh**<br />by _Jade Bird_<br /> on Jade Bird [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512bc95437875b8906f5e368a7
+[album-cover]: https://i.scdn.co/image/ab67616d000048518062b1c93052c488797ae67a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
