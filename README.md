@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Let’s Go**<br />by _Stuck in the Sound_<br /> on Pursuit [2012] |
+| ![album cover][album-cover] | **The Impression That I Get**<br />by _The Mighty Mighty Bosstones_<br /> on Let’s Face It [1997] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d563ba2c03dea998cbabadb8
+[album-cover]: https://i.scdn.co/image/ab67616d0000485170f9552f4e3fa939cf26a78e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
