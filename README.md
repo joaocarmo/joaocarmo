@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Misty Mountains (The Hobbit Lofi)**<br />by _Chill Astronaut_<br /> on Lord Of The Rings Lofi [2023] |
+| ![album cover][album-cover] | **I Just Wanna Live**<br />by _Good Charlotte_<br /> on The Chronicles of Life and Death ("LIFE" version) [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511e1f8735c46cfb46a783a4a3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a58ea3c31c1fd13a659a4ef0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
