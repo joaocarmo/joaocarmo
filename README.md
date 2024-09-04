@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Just Wanna Live**<br />by _Good Charlotte_<br /> on The Chronicles of Life and Death ("LIFE" version) [2004] |
+| ![album cover][album-cover] | **Going Under**<br />by _Evanescence_<br /> on Fallen [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a58ea3c31c1fd13a659a4ef0
+[album-cover]: https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
