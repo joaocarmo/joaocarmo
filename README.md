@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Impression That I Get**<br />by _The Mighty Mighty Bosstones_<br /> on Let’s Face It [1997] |
+| ![album cover][album-cover] | **Misty Mountains (The Hobbit Lofi)**<br />by _Chill Astronaut_<br /> on Lord Of The Rings Lofi [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485170f9552f4e3fa939cf26a78e
+[album-cover]: https://i.scdn.co/image/ab67616d000048511e1f8735c46cfb46a783a4a3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
