@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Going Under**<br />by _Evanescence_<br /> on Fallen [2003] |
+| ![album cover][album-cover] | **Hysteria**<br />by _Muse_<br /> on Absolution [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432
+[album-cover]: https://i.scdn.co/image/ab67616d000048513303a842ee1bc0b23204333d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
