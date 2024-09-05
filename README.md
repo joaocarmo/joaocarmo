@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hysteria**<br />by _Muse_<br /> on Absolution [2003] |
+| ![album cover][album-cover] | **Dammit (After Dark)**<br />by _Dead On A Sunday_<br /> on Dammit (After Dark) [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513303a842ee1bc0b23204333d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b34eadfd982d336bf2ccdbe2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
