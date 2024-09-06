@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Waiting Room**<br />by _Fugazi_<br /> on 13 Songs [1989] |
+| ![album cover][album-cover] | **Read 'Em Their Rights**<br />by _Sons Of Silver_<br /> on Read 'Em Their Rights [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f18ce5dc5f6b0843d3acb3a1
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f511c4919aadeeb625966fc7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
