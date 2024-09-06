@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dammit (After Dark)**<br />by _Dead On A Sunday_<br /> on Dammit (After Dark) [2022] |
+| ![album cover][album-cover] | **One Eyed Bastard**<br />by _Green Day_<br /> on Saviors [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b34eadfd982d336bf2ccdbe2
+[album-cover]: https://i.scdn.co/image/ab67616d000048514e805200727de6c107de5b33
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
