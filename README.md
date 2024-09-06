@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **One Eyed Bastard**<br />by _Green Day_<br /> on Saviors [2024] |
+| ![album cover][album-cover] | **Waiting Room**<br />by _Fugazi_<br /> on 13 Songs [1989] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514e805200727de6c107de5b33
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f18ce5dc5f6b0843d3acb3a1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
