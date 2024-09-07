@@ -1,5 +1,6 @@
 #!/usr/bin/env ts-node
 import { resolve } from 'path'
+import esMain from 'es-main'
 import SpotifyWebApi from 'spotify-web-api-node'
 import dotenv from 'dotenv'
 import { findAndReplace, parseTrack, saveTokens } from '../utils'
@@ -67,6 +68,6 @@ const main = async () => {
 
 export default main
 
-if (import.meta.url === new URL('.', import.meta.url).href) {
+if (esMain(import.meta)) {
   main()
 }

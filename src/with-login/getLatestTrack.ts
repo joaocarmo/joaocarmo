@@ -1,6 +1,7 @@
 #!/usr/bin/env ts-node
 /// <reference types="spotify-api" />
 import { resolve } from 'path'
+import esMain from 'es-main'
 import fetch from 'cross-fetch'
 import dotenv from 'dotenv'
 import { parseTrack, findAndReplace } from '../utils'
@@ -42,6 +43,6 @@ const main = async () => {
 
 export default main
 
-if (import.meta.url === new URL('.', import.meta.url).href) {
+if (esMain(import.meta)) {
   main()
 }
