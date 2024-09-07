@@ -1,5 +1,5 @@
 /// <reference types="spotify-api" />
-import replace from 'replace-in-file'
+import { replaceInFile } from 'replace-in-file'
 import dotenv from 'dotenv'
 
 dotenv.config()
@@ -21,7 +21,7 @@ interface FROptions {
   files: string[]
 }
 
-export const findAndReplace = async (
+export const findAndReplace = (
   parsedTrack: ParsedTrack,
   options: FROptions,
 ) => {
@@ -35,7 +35,7 @@ export const findAndReplace = async (
   ]
   const to = [artist, title, album, image, released]
 
-  return replace.sync({ ...options, from, to })
+  return replaceInFile({ ...options, from, to })
 }
 
 export const parseTrack = ({
