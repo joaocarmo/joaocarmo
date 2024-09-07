@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Give Me One Reason**<br />by _Tracy Chapman_<br /> on New Beginning [1995] |
+| ![album cover][album-cover] | **One Eyed Bastard**<br />by _Green Day_<br /> on Saviors [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516b38571f15487588ed53032f
+[album-cover]: https://i.scdn.co/image/ab67616d000048514e805200727de6c107de5b33
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
