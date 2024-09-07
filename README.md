@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Read 'Em Their Rights**<br />by _Sons Of Silver_<br /> on Read 'Em Their Rights [2019] |
+| ![album cover][album-cover] | **Give Me One Reason**<br />by _Tracy Chapman_<br /> on New Beginning [1995] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f511c4919aadeeb625966fc7
+[album-cover]: https://i.scdn.co/image/ab67616d000048516b38571f15487588ed53032f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
