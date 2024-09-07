@@ -6,7 +6,7 @@ import { findAndReplace, parseTrack, saveTokens } from '../utils'
 
 dotenv.config()
 
-const readmeFile = resolve(__dirname, '../../README.template.md')
+const readmeFile = resolve(import.meta.dirname, '../../README.template.md')
 
 const accessToken = process.env.ACCESS_TOKEN
 const refreshToken = process.env.REFRESH_TOKEN
