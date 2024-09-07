@@ -19,9 +19,10 @@
     "url": "https://github.com/joaocarmo/joaocarmo/issues"
   },
   "homepage": "https://github.com/joaocarmo/joaocarmo#readme",
+  "type": "module",
   "scripts": {
-    "get-latest-track": "ts-node ./src/no-login/getLatestTrack.ts",
-    "login-and-get-latest-track": "ts-node ./src/with-login/server.ts",
+    "get-latest-track": "tsx ./src/no-login/getLatestTrack.ts",
+    "login-and-get-latest-track": "tsx ./src/with-login/server.ts",
     "preinstall": "npx only-allow pnpm",
     "test": "echo \"OK\"",
     "type-check": "tsc --noEmit"
@@ -36,11 +37,11 @@
     "puppeteer": "^23.3.0",
     "replace-in-file": "^8.1.0",
     "spotify-web-api-node": "^5.0.2",
-    "ts-node": "^10.9.2",
+    "tsx": "^4.19.0",
     "typescript": "^5.5.4"
   },
   "devDependencies": {
-    "@tsconfig/node18": "^18.2.4",
+    "@tsconfig/node20": "^20.1.4",
     "@types/body-parser": "^1.19.5",
     "@types/cors": "^2.8.17",
     "@types/express": "^4.17.21",
