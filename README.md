@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **{{title}}**<br />by _{{artist}}_<br /> on {{album}} [{{released}}] |
+| ![album cover][album-cover] | **I Think I'm Paranoid (2018 - Remaster)**<br />by _Garbage_<br /> on Version 2.0 (20th Anniversary Deluxe Edition) [1998] |
 
 <!-- References -->
 
-[album-cover]: {{image}}
+[album-cover]: https://i.scdn.co/image/ab67616d0000485188ad069d44592dec31db1f95
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
