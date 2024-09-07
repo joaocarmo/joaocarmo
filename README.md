@@ -6,7 +6,7 @@
 ### 👋 Hello there
 
 - 🔭 I’m currently working on the mobile app [Litten][littenwebpage] and spreading the word on the [Uyghurs][uyghurswebpage]
-- 🌱 I’m currently improving my knowledge in software engineering management, algorithms and data structures, design patterns, and object-oriented programming
+- 🌱 I’m constantly improving my knowledge in software engineering, algorithms and data structures, design patterns, and object-oriented programming
 - 👯 I’m looking to collaborate on something that will have a positive (+) impact on the world
 - 🤔 I’m looking for help with every project I have public
 - 💬 Ask me about anything, really
@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **One Eyed Bastard**<br />by _Green Day_<br /> on Saviors [2024] |
+| ![album cover][album-cover] | **{{title}}**<br />by _{{artist}}_<br /> on {{album}} [{{released}}] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514e805200727de6c107de5b33
+[album-cover]: {{image}}
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
