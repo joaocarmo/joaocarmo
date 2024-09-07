@@ -7,7 +7,7 @@ import { parseTrack, findAndReplace } from '../utils'
 
 dotenv.config()
 
-const readmeFile = resolve(__dirname, '../../README.template.md')
+const readmeFile = resolve(import.meta.dirname, '../../README.template.md')
 
 const main = async () => {
   const baseUri = process.env.BASE_URI
@@ -42,6 +42,6 @@ const main = async () => {
 
 export default main
 
-if (require.main === module) {
+if (import.meta.url === new URL('.', import.meta.url).href) {
   main()
 }
