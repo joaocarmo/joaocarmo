@@ -67,6 +67,6 @@ const main = async () => {
 
 export default main
 
-if (require.main === module) {
+if (import.meta.url === new URL('.', import.meta.url).href) {
   main()
 }
