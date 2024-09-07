@@ -33,11 +33,11 @@
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "open": "^10.1.0",
-    "puppeteer": "^22.10.0",
-    "replace-in-file": "^7.2.0",
+    "puppeteer": "^23.3.0",
+    "replace-in-file": "^8.1.0",
     "spotify-web-api-node": "^5.0.2",
     "ts-node": "^10.9.2",
-    "typescript": "^5.4.5"
+    "typescript": "^5.5.4"
   },
   "devDependencies": {
     "@tsconfig/node18": "^18.2.4",
