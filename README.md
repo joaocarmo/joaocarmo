@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Think I'm Paranoid (2018 - Remaster)**<br />by _Garbage_<br /> on Version 2.0 (20th Anniversary Deluxe Edition) [1998] |
+| ![album cover][album-cover] | **Bones**<br />by _The Rills_<br /> on Bones [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485188ad069d44592dec31db1f95
+[album-cover]: https://i.scdn.co/image/ab67616d000048513a0901a4955c9e10fde430ef
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
