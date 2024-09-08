@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bones**<br />by _The Rills_<br /> on Bones [2023] |
+| ![album cover][album-cover] | **Pink Pony Club**<br />by _Chappell Roan_<br /> on The Rise and Fall of a Midwest Princess [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513a0901a4955c9e10fde430ef
+[album-cover]: https://i.scdn.co/image/ab67616d0000485196fa88fb1789be437d5cb4b6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
