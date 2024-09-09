@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Pink Pony Club**<br />by _Chappell Roan_<br /> on The Rise and Fall of a Midwest Princess [2023] |
+| ![album cover][album-cover] | **Waltzing Matilda (Arr. Koncz)**<br />by _Traditional, Ray Chen, Made in Berlin_<br /> on Traditional: Waltzing Matilda (Arr. Koncz) [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485196fa88fb1789be437d5cb4b6
+[album-cover]: https://i.scdn.co/image/ab67616d000048519bd25f351e848fba5a2db0b0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
