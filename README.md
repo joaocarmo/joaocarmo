@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Waltzing Matilda (Arr. Koncz)**<br />by _Traditional, Ray Chen, Made in Berlin_<br /> on Traditional: Waltzing Matilda (Arr. Koncz) [2018] |
+| ![album cover][album-cover] | **What Could Have Been (from the series Arcane League of Legends)**<br />by _Sting, Ray Chen_<br /> on Arcane League of Legends (Soundtrack from the Animated Series) [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519bd25f351e848fba5a2db0b0
+[album-cover]: https://i.scdn.co/image/ab67616d0000485190d1dd89316f336262258965
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
