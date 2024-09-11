@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **What Could Have Been (from the series Arcane League of Legends)**<br />by _Sting, Ray Chen_<br /> on Arcane League of Legends (Soundtrack from the Animated Series) [2021] |
+| ![album cover][album-cover] | **Firestarters**<br />by _Sawyer Hill_<br /> on Firestarters [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485190d1dd89316f336262258965
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fb4c65fef0793fb6929e8fc2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
