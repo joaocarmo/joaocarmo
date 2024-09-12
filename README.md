@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Winter Rain**<br />by _Sick Century_<br /> on Outer Worlds, Inner Demons [2022] |
+| ![album cover][album-cover] | **She Keeps Me Up**<br />by _Nickelback_<br /> on No Fixed Address [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851426a573b2bee27384297f019
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f9ba9aaff9970a65cddc43ee
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
