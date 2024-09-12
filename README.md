@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Firestarters**<br />by _Sawyer Hill_<br /> on Firestarters [2023] |
+| ![album cover][album-cover] | **Winter Rain**<br />by _Sick Century_<br /> on Outer Worlds, Inner Demons [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fb4c65fef0793fb6929e8fc2
+[album-cover]: https://i.scdn.co/image/ab67616d00004851426a573b2bee27384297f019
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
