@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **She Keeps Me Up**<br />by _Nickelback_<br /> on No Fixed Address [2014] |
+| ![album cover][album-cover] | **ROOFTOPS (A LIBERATION BROADCAST)**<br />by _lostprophets_<br /> on LIBERATION TRANSMISSION [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f9ba9aaff9970a65cddc43ee
+[album-cover]: https://i.scdn.co/image/ab67616d00004851382d8f7bb0236f94373f21b4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
