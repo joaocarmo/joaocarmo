@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Fly**<br />by _Sugar Ray_<br /> on Floored [1997] |
+| ![album cover][album-cover] | **Hand in My Pocket - 2015 Remaster**<br />by _Alanis Morissette_<br /> on Jagged Little Pill - 2015 Remaster [1995] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485164b697bcce413506208f866e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851242e643ea07118ecf677a6ef
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
