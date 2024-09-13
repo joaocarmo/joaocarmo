@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Ballroom Blitz**<br />by _Sweet_<br /> on Throwback Tunes: Classic Rock [2017] |
+| ![album cover][album-cover] | **Fly**<br />by _Sugar Ray_<br /> on Floored [1997] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851aaca298e6fc1b377b699572b
+[album-cover]: https://i.scdn.co/image/ab67616d0000485164b697bcce413506208f866e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
