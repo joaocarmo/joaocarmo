@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **ROOFTOPS (A LIBERATION BROADCAST)**<br />by _lostprophets_<br /> on LIBERATION TRANSMISSION [2006] |
+| ![album cover][album-cover] | **Ballroom Blitz**<br />by _Sweet_<br /> on Throwback Tunes: Classic Rock [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851382d8f7bb0236f94373f21b4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851aaca298e6fc1b377b699572b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
