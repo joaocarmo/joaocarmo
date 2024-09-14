@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dragonfly**<br />by _Shaman's Harvest_<br /> on Shine [2009] |
+| ![album cover][album-cover] | **Rose Tattoo**<br />by _Dropkick Murphys_<br /> on SIGNED and SEALED in BLOOD [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b16383ff6f2bec4481847d24
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d2cd14fdfecbe5b7c4e56557
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
