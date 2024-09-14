@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hand in My Pocket - 2015 Remaster**<br />by _Alanis Morissette_<br /> on Jagged Little Pill - 2015 Remaster [1995] |
+| ![album cover][album-cover] | **Dragonfly**<br />by _Shaman's Harvest_<br /> on Shine [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851242e643ea07118ecf677a6ef
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b16383ff6f2bec4481847d24
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
