@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Rose Tattoo**<br />by _Dropkick Murphys_<br /> on SIGNED and SEALED in BLOOD [2013] |
+| ![album cover][album-cover] | **Candy Coated Lie$**<br />by _Hot Milk_<br /> on Candy Coated Lie$ [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d2cd14fdfecbe5b7c4e56557
+[album-cover]: https://i.scdn.co/image/ab67616d000048511b440485fcfc4631d10668af
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
