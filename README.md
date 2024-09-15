@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Candy Coated Lie$**<br />by _Hot Milk_<br /> on Candy Coated Lie$ [2019] |
+| ![album cover][album-cover] | **Tear You Apart**<br />by _She Wants Revenge_<br /> on She Wants Revenge [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511b440485fcfc4631d10668af
+[album-cover]: https://i.scdn.co/image/ab67616d00004851717f38200c8370df83f6364b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
