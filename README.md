@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **This Head I Hold**<br />by _Electric Guest_<br /> on Mondo [2012] |
+| ![album cover][album-cover] | **All I Need**<br />by _Within Temptation_<br /> on The Heart Of Everything [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516466e833eb9b18310fab4de4
+[album-cover]: https://i.scdn.co/image/ab67616d000048515d22cd316736c66d068a71e2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
