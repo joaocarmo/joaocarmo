@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Tear You Apart**<br />by _She Wants Revenge_<br /> on She Wants Revenge [2005] |
+| ![album cover][album-cover] | **This Head I Hold**<br />by _Electric Guest_<br /> on Mondo [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851717f38200c8370df83f6364b
+[album-cover]: https://i.scdn.co/image/ab67616d000048516466e833eb9b18310fab4de4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
