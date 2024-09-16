@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **All I Need**<br />by _Within Temptation_<br /> on The Heart Of Everything [2007] |
+| ![album cover][album-cover] | **Word Up!**<br />by _Korn_<br /> on Word Up! (The Remixes) [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515d22cd316736c66d068a71e2
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d28bc84c691163fb094787fa
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
