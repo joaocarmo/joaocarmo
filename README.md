@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Word Up!**<br />by _Korn_<br /> on Word Up! (The Remixes) [2004] |
+| ![album cover][album-cover] | **Numb / Encore**<br />by _JAY-Z, Linkin Park_<br /> on Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d28bc84c691163fb094787fa
+[album-cover]: https://i.scdn.co/image/ab67616d000048517282412ad025c14f7039f516
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
