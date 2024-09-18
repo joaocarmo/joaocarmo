@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Numb / Encore**<br />by _JAY-Z, Linkin Park_<br /> on Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course [2004] |
+| ![album cover][album-cover] | **Low Life (2018)**<br />by _The Reytons_<br /> on Alcopops & Charity Shops [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517282412ad025c14f7039f516
+[album-cover]: https://i.scdn.co/image/ab67616d0000485156f586794d7a0df94c7b334c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
