@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Low Life (2018)**<br />by _The Reytons_<br /> on Alcopops & Charity Shops [2018] |
+| ![album cover][album-cover] | **This Is Love**<br />by _Air Traffic Controller_<br /> on Black Box [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485156f586794d7a0df94c7b334c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a5e9bf1505a10296ecc166b2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
