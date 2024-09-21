@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **This Is Love**<br />by _Air Traffic Controller_<br /> on Black Box [2016] |
+| ![album cover][album-cover] | **Lea - Hütten-Mix**<br />by _Bierkapitän, Andy Luxx, Dj Aaron_<br /> on Best Of Oktoberfest 2023 - Ich find Schlager toll [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a5e9bf1505a10296ecc166b2
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f7e81f4953cda6ff43518ad9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
