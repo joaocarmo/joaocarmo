@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lea - Hütten-Mix**<br />by _Bierkapitän, Andy Luxx, Dj Aaron_<br /> on Best Of Oktoberfest 2023 - Ich find Schlager toll [2023] |
+| ![album cover][album-cover] | **Natural Blues**<br />by _Moby_<br /> on Play [1999] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f7e81f4953cda6ff43518ad9
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f675ddc7a8c113362f983f8b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
