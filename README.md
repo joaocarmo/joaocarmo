@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Natural Blues**<br />by _Moby_<br /> on Play [1999] |
+| ![album cover][album-cover] | **50 Ways to Say Goodbye**<br />by _Train_<br /> on California 37 [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f675ddc7a8c113362f983f8b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bde344cc54eedc35050f4c61
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
