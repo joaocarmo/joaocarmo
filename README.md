@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **50 Ways to Say Goodbye**<br />by _Train_<br /> on California 37 [2012] |
+| ![album cover][album-cover] | **Fight Fire With Gasoline**<br />by _Self Deception_<br /> on You Are Only As Sick As Your Secrets [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bde344cc54eedc35050f4c61
+[album-cover]: https://i.scdn.co/image/ab67616d000048515ebbeedbe831f4c6771fc2e5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
