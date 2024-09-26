@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Misery**<br />by _Memphis May Fire_<br /> on Remade In Misery [2022] |
+| ![album cover][album-cover] | **Are You The One**<br />by _Basement_<br /> on Be Here Now / Are You The One [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f22f3f3bf7a96492700eb7f7
+[album-cover]: https://i.scdn.co/image/ab67616d0000485138af9a7dc1dc59f0794c163f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
