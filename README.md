@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Are You The One**<br />by _Basement_<br /> on Be Here Now / Are You The One [2019] |
+| ![album cover][album-cover] | **Legends**<br />by _Self Deception_<br /> on You Are Only As Sick As Your Secrets [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485138af9a7dc1dc59f0794c163f
+[album-cover]: https://i.scdn.co/image/ab67616d000048515ebbeedbe831f4c6771fc2e5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
