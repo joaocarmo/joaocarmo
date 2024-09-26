@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Legends**<br />by _Self Deception_<br /> on You Are Only As Sick As Your Secrets [2023] |
+| ![album cover][album-cover] | **Letmego**<br />by _April Divine_<br /> on ROCK/METAL [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515ebbeedbe831f4c6771fc2e5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851091f4a7bed6bad21de08cc53
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
