@@ -18,7 +18,7 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Letmego**<br />by _April Divine_<br /> on ROCK/METAL [2022] |
+| ![album cover][album-cover] | **Buggabohoo**<br />by _Rex Isle Beat_<br /> on ROCK/METAL [2022] |
 
 <!-- References -->
 
