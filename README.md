@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **End of Me**<br />by _Ashes Remain_<br /> on What I've Become [2011] |
+| ![album cover][album-cover] | **First Time**<br />by _Cervello_<br /> on Cervello [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510ed020935eb4fc8d0b617acf
+[album-cover]: https://i.scdn.co/image/ab67616d0000485109a86a15f9689eed3c6992b5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
