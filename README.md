@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Buggabohoo**<br />by _Rex Isle Beat_<br /> on ROCK/METAL [2022] |
+| ![album cover][album-cover] | **End of Me**<br />by _Ashes Remain_<br /> on What I've Become [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851091f4a7bed6bad21de08cc53
+[album-cover]: https://i.scdn.co/image/ab67616d000048510ed020935eb4fc8d0b617acf
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
