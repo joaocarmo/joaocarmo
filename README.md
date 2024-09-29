@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **First Time**<br />by _Cervello_<br /> on Cervello [2011] |
+| ![album cover][album-cover] | **My Way**<br />by _Sherlock Brothers_<br /> on ROCK/METAL [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485109a86a15f9689eed3c6992b5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851091f4a7bed6bad21de08cc53
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
