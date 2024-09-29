@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Firestarters**<br />by _Sawyer Hill_<br /> on Firestarters [2023] |
+| ![album cover][album-cover] | **BLOW (with Chris Stapleton & Bruno Mars)**<br />by _Ed Sheeran, Chris Stapleton, Bruno Mars_<br /> on No.6 Collaborations Project [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fb4c65fef0793fb6929e8fc2
+[album-cover]: https://i.scdn.co/image/ab67616d0000485173304ce0653c7758dd94b259
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
