@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Queen**<br />by _No Money Kids_<br /> on Factory (Deluxe Edition) [2022] |
+| ![album cover][album-cover] | **Eyes Of Oblivion**<br />by _The Hellacopters_<br /> on Eyes Of Oblivion [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a91ce0e29661fd7567bcc74b
+[album-cover]: https://i.scdn.co/image/ab67616d0000485182a8edffb93f96246e507143
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
