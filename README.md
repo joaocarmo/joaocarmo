@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Eyes Of Oblivion**<br />by _The Hellacopters_<br /> on Eyes Of Oblivion [2022] |
+| ![album cover][album-cover] | **Kids In America**<br />by _Kim Wilde_<br /> on Kim Wilde [1981] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485182a8edffb93f96246e507143
+[album-cover]: https://i.scdn.co/image/ab67616d000048511233a7885e76b74d0b2a9473
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
