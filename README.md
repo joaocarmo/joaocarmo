@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Kids In America**<br />by _Kim Wilde_<br /> on Kim Wilde [1981] |
+| ![album cover][album-cover] | **Livin' La Vida Loca**<br />by _Autumn Kings_<br /> on Silver Screens [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511233a7885e76b74d0b2a9473
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d9473cca828778b1f061ef54
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
