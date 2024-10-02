@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Livin' La Vida Loca**<br />by _Autumn Kings_<br /> on Silver Screens [2017] |
+| ![album cover][album-cover] | **body bag (feat. YUNGBLUD & Bert McCracken of The Used)**<br />by _mgk, YUNGBLUD, The Used, robbietheused_<br /> on Tickets To My Downfall (SOLD OUT Deluxe) [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d9473cca828778b1f061ef54
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d2939e48fb657d72064ca699
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
