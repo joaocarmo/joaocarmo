@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **body bag (feat. YUNGBLUD & Bert McCracken of The Used)**<br />by _mgk, YUNGBLUD, The Used, robbietheused_<br /> on Tickets To My Downfall (SOLD OUT Deluxe) [2020] |
+| ![album cover][album-cover] | **Kids In America**<br />by _Kim Wilde_<br /> on Kim Wilde [1981] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d2939e48fb657d72064ca699
+[album-cover]: https://i.scdn.co/image/ab67616d000048511233a7885e76b74d0b2a9473
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
