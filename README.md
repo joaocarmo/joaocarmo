@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Alejandro (Lady Gaga cover)**<br />by _Helia_<br /> on Alejandro (Lady Gaga cover) [2010] |
+| ![album cover][album-cover] | **In Between**<br />by _Beartooth_<br /> on Disgusting [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ca507c8395f2279946f676e1
+[album-cover]: https://i.scdn.co/image/ab67616d000048516b70e7bed9a831b79c28327f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
