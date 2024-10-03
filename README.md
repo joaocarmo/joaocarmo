@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Livin' La Vida Loca**<br />by _Autumn Kings_<br /> on Silver Screens [2017] |
+| ![album cover][album-cover] | **Alejandro (Lady Gaga cover)**<br />by _Helia_<br /> on Alejandro (Lady Gaga cover) [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d9473cca828778b1f061ef54
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ca507c8395f2279946f676e1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
