@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **In Between**<br />by _Beartooth_<br /> on Disgusting [2014] |
+| ![album cover][album-cover] | **Jenny**<br />by _NOTHING MORE_<br /> on Nothing More [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516b70e7bed9a831b79c28327f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a6780d9c98263297fdeb544f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
