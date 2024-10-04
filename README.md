@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Jenny**<br />by _NOTHING MORE_<br /> on Nothing More [2014] |
+| ![album cover][album-cover] | **Livin' La Vida Loca**<br />by _Autumn Kings_<br /> on Silver Screens [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a6780d9c98263297fdeb544f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d9473cca828778b1f061ef54
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
