@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Livin' La Vida Loca**<br />by _Autumn Kings_<br /> on Silver Screens [2017] |
+| ![album cover][album-cover] | **Machine**<br />by _Days Of Jupiter_<br /> on Machine [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d9473cca828778b1f061ef54
+[album-cover]: https://i.scdn.co/image/ab67616d0000485127e24c2253d8ff46bc485bbe
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
