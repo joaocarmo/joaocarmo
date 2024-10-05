@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Machine**<br />by _Days Of Jupiter_<br /> on Machine [2024] |
+| ![album cover][album-cover] | **Just Dance**<br />by _First to Eleven_<br /> on Covers, Vol. 6 [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485127e24c2253d8ff46bc485bbe
+[album-cover]: https://i.scdn.co/image/ab67616d0000485198a737b5227544c9a3df47c5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
