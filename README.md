@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Will Find**<br />by _Vintage Culture, Rooftime_<br /> on I Will Find [2018] |
+| ![album cover][album-cover] | **Till Death Us Do Part (2019)**<br />by _Lord Of The Lost_<br /> on Till Death Us Do Part - Best Of [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512ca8af29fe8b94af84957154
+[album-cover]: https://i.scdn.co/image/ab67616d00004851461cf76c6e26bbeaaaa1e174
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
