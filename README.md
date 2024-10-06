@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Void Stares Back**<br />by _Enter Shikari, WARGASM (UK)_<br /> on Dancing On The Frontline [2024] |
+| ![album cover][album-cover] | **I Will Find**<br />by _Vintage Culture, Rooftime_<br /> on I Will Find [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f192dbd093b8bbb521bcbad8
+[album-cover]: https://i.scdn.co/image/ab67616d000048512ca8af29fe8b94af84957154
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
