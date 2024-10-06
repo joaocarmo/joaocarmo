@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Du hast**<br />by _Rammstein_<br /> on Sehnsucht - Anniversary Edition - Remastered [1997] |
+| ![album cover][album-cover] | **The Void Stares Back**<br />by _Enter Shikari, WARGASM (UK)_<br /> on Dancing On The Frontline [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851030cda12ffbebd6561c1c0f0
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f192dbd093b8bbb521bcbad8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
