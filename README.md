@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Till Death Us Do Part (2019)**<br />by _Lord Of The Lost_<br /> on Till Death Us Do Part - Best Of [2019] |
+| ![album cover][album-cover] | **The Rising**<br />by _Follow The Cipher_<br /> on Follow the Cipher [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851461cf76c6e26bbeaaaa1e174
+[album-cover]: https://i.scdn.co/image/ab67616d000048519fe0dc945b67c6e96a949755
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
