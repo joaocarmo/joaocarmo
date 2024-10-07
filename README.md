@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Death of Me**<br />by _SAINT PHNX_<br /> on DDMN [2020] |
+| ![album cover][album-cover] | **New Kings**<br />by _Sleeping Wolf_<br /> on The Silent Ones [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b50709fc8f82e3dc298d9bb3
+[album-cover]: https://i.scdn.co/image/ab67616d000048512bb0b0a1b46d5b16aeb82bf7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
