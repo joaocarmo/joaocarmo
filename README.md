@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Rising**<br />by _Follow The Cipher_<br /> on Follow the Cipher [2018] |
+| ![album cover][album-cover] | **Death of Me**<br />by _SAINT PHNX_<br /> on DDMN [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519fe0dc945b67c6e96a949755
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b50709fc8f82e3dc298d9bb3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
