@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **New Kings**<br />by _Sleeping Wolf_<br /> on The Silent Ones [2017] |
+| ![album cover][album-cover] | **Safari Song**<br />by _Greta Van Fleet_<br /> on From The Fires [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512bb0b0a1b46d5b16aeb82bf7
+[album-cover]: https://i.scdn.co/image/ab67616d0000485157b7f789d328c205b4d15893
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
