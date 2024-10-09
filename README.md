@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Born This Way**<br />by _CapGirls_<br /> on Born This Way [2020] |
+| ![album cover][album-cover] | **BEG!**<br />by _Vana_<br /> on BEG! [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513754911bd1ab8798c570010c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e2988022575d1cc16266f9a4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
