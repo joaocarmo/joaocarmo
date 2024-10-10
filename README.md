@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Riot**<br />by _Hollywood Undead_<br /> on Five [2017] |
+| ![album cover][album-cover] | **Fight**<br />by _The Dirty Youth_<br /> on Red Light Fix [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f7ca3f6073567209d99cfb7c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f967378b16badc58e7f69d70
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
