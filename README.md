@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Ready**<br />by _Red Devil Vortex_<br /> on Ready [2020] |
+| ![album cover][album-cover] | **Geralt Of Rivia**<br />by _Marcin Przybyłowicz_<br /> on The Witcher 3: Wild Hunt (Original Game Soundtrack) [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851909350c1f023f4eb0c77f367
+[album-cover]: https://i.scdn.co/image/ab67616d00004851df756f52b91b4dcd656760b0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
