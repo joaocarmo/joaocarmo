@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Geralt Of Rivia**<br />by _Marcin Przybyłowicz_<br /> on The Witcher 3: Wild Hunt (Original Game Soundtrack) [2015] |
+| ![album cover][album-cover] | **Turborider**<br />by _Reckless Love_<br /> on Turborider [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851df756f52b91b4dcd656760b0
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f2254452b1d29d4ed2259557
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
