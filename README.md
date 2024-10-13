@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Turborider**<br />by _Reckless Love_<br /> on Turborider [2022] |
+| ![album cover][album-cover] | **Black Betty**<br />by _Ram Jam_<br /> on The Very Best Of Ram Jam [1990] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f2254452b1d29d4ed2259557
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ed4989dcb7cfb1887be9d250
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
