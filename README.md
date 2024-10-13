@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Last Ride**<br />by _Black Pistol Fire_<br /> on Deadbeat Graffiti [2017] |
+| ![album cover][album-cover] | **Ready**<br />by _Red Devil Vortex_<br /> on Ready [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cb6bd4629c423b180ac6565d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851909350c1f023f4eb0c77f367
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
