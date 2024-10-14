@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Cringe**<br />by _Matt Maeson_<br /> on Bank On The Funeral [2019] |
+| ![album cover][album-cover] | **Bad**<br />by _Downstait_<br /> on With You in Mind [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851361d711120142f467651a312
+[album-cover]: https://i.scdn.co/image/ab67616d000048512bc508ecec1479ae44caf7f5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
