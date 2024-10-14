@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Black Betty**<br />by _Ram Jam_<br /> on The Very Best Of Ram Jam [1990] |
+| ![album cover][album-cover] | **Doubt It**<br />by _The Amazons_<br /> on Future Dust [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ed4989dcb7cfb1887be9d250
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ae8e5febe5468fd2e51b416d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
