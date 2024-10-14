@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Doubt It**<br />by _The Amazons_<br /> on Future Dust [2019] |
+| ![album cover][album-cover] | **Cringe**<br />by _Matt Maeson_<br /> on Bank On The Funeral [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ae8e5febe5468fd2e51b416d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851361d711120142f467651a312
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
