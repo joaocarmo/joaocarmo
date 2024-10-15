@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **If You Have Ghosts**<br />by _Ghost_<br /> on If You Have Ghost [2013] |
+| ![album cover][album-cover] | **Love To Walk Away**<br />by _The Vaccines_<br /> on Pick-Up Full Of Pink Carnations [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510b70561f93087720d94ecdfc
+[album-cover]: https://i.scdn.co/image/ab67616d0000485160132c5b3ece63840914cf51
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
