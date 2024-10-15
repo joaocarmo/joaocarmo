@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bad**<br />by _Downstait_<br /> on With You in Mind [2013] |
+| ![album cover][album-cover] | **Faster**<br />by _Within Temptation_<br /> on The Unforgiving [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512bc508ecec1479ae44caf7f5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bcb4a0f3772f0a25db7eb965
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
