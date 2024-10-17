@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **American Boys**<br />by _Halestorm_<br /> on The Strange Case of... [2012] |
+| ![album cover][album-cover] | **The Heart Asks Pleasure First / The Promise - Edit**<br />by _Michael Nyman_<br /> on The Piano: Music From The Motion Picture [1993] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517c4222c8db996a95b64f5690
+[album-cover]: https://i.scdn.co/image/ab67616d0000485182f80bc680463b2059c5826d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
