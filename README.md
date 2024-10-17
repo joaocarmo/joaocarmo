@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Heart Asks Pleasure First / The Promise - Edit**<br />by _Michael Nyman_<br /> on The Piano: Music From The Motion Picture [1993] |
+| ![album cover][album-cover] | **Still Waiting**<br />by _Sum 41_<br /> on Does This Look Infected? [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485182f80bc680463b2059c5826d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d6176a711e031d6522840c52
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
