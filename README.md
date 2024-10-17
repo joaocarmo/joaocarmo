@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dreams Gone Wrong**<br />by _Cyhra_<br /> on No Halos in Hell [2019] |
+| ![album cover][album-cover] | **American Boys**<br />by _Halestorm_<br /> on The Strange Case of... [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517ecef0b3549b9c7d84be8edb
+[album-cover]: https://i.scdn.co/image/ab67616d000048517c4222c8db996a95b64f5690
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
