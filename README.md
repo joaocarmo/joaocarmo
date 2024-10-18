@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Just Like Heaven**<br />by _Dinosaur Jr._<br /> on You're Living All Over Me [1987] |
+| ![album cover][album-cover] | **I Like the Way You Die**<br />by _Black Honey_<br /> on Written & Directed [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515a627a41693ac9bf9d32ac3a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851594ce327001e8d39c44680ca
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
