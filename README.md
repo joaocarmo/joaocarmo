@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Still Waiting**<br />by _Sum 41_<br /> on Does This Look Infected? [2002] |
+| ![album cover][album-cover] | **Somewhere I Belong**<br />by _Linkin Park_<br /> on Meteora (Bonus Edition) [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d6176a711e031d6522840c52
+[album-cover]: https://i.scdn.co/image/ab67616d000048518b5b6fa1326d996181e71dd7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
