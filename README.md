@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Left Outside Alone**<br />by _Blind Channel_<br /> on Left Outside Alone [2020] |
+| ![album cover][album-cover] | **Body Paint**<br />by _Arctic Monkeys_<br /> on The Car [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511a2733bb78a50a87a88c9ab3
+[album-cover]: https://i.scdn.co/image/ab67616d0000485107823ee6237208c835802663
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
