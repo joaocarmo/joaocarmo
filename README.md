@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Riot**<br />by _Hollywood Undead_<br /> on Five [2017] |
+| ![album cover][album-cover] | **Left Outside Alone**<br />by _Blind Channel_<br /> on Left Outside Alone [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f7ca3f6073567209d99cfb7c
+[album-cover]: https://i.scdn.co/image/ab67616d000048511a2733bb78a50a87a88c9ab3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
