@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Like the Way You Die**<br />by _Black Honey_<br /> on Written & Directed [2021] |
+| ![album cover][album-cover] | **Dia Mau**<br />by _Ornatos Violeta_<br /> on O Monstro Precisa De Amigos [1999] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851594ce327001e8d39c44680ca
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c43c10e473664ca39ab1febc
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
