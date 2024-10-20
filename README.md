@@ -18,7 +18,7 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Body Paint**<br />by _Arctic Monkeys_<br /> on The Car [2022] |
+| ![album cover][album-cover] | **Sculptures Of Anything Goes**<br />by _Arctic Monkeys_<br /> on The Car [2022] |
 
 <!-- References -->
 
