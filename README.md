@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sculptures Of Anything Goes**<br />by _Arctic Monkeys_<br /> on The Car [2022] |
+| ![album cover][album-cover] | **The Point Of No Return - From 'The Phantom Of The Opera' Motion Picture**<br />by _Andrew Lloyd Webber, Gerard Butler, Emmy Rossum_<br /> on The Phantom Of The Opera (Original Motion Picture Soundtrack) [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485107823ee6237208c835802663
+[album-cover]: https://i.scdn.co/image/ab67616d000048512f8d9427fea9dd36a4fb4f1b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
