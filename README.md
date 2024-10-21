@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Blackout**<br />by _Solence_<br /> on Direction [2020] |
+| ![album cover][album-cover] | **Sundown (Tell Me Everything Is Ok)**<br />by _Wellmess, Steven Ellis_<br /> on Your Sundown [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485138837412ba8f22822a069f15
+[album-cover]: https://i.scdn.co/image/ab67616d000048514e739a2d1299dcf133b4d10b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
