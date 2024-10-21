@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Proposta**<br />by _Gilsons_<br /> on Pra Gente Acordar [2022] |
+| ![album cover][album-cover] | **Short Stories With Tragic Endings**<br />by _From Autumn To Ashes_<br /> on Too Bad You're Beautiful [2001] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512819cbfd0dfc720b17bfc730
+[album-cover]: https://i.scdn.co/image/ab67616d000048516e6b467c1c00e0bbb4aa5ce8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
