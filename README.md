@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Point Of No Return - From 'The Phantom Of The Opera' Motion Picture**<br />by _Andrew Lloyd Webber, Gerard Butler, Emmy Rossum_<br /> on The Phantom Of The Opera (Original Motion Picture Soundtrack) [2004] |
+| ![album cover][album-cover] | **Proposta**<br />by _Gilsons_<br /> on Pra Gente Acordar [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512f8d9427fea9dd36a4fb4f1b
+[album-cover]: https://i.scdn.co/image/ab67616d000048512819cbfd0dfc720b17bfc730
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
