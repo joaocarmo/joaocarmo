@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Short Stories With Tragic Endings**<br />by _From Autumn To Ashes_<br /> on Too Bad You're Beautiful [2001] |
+| ![album cover][album-cover] | **Blackout**<br />by _Solence_<br /> on Direction [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516e6b467c1c00e0bbb4aa5ce8
+[album-cover]: https://i.scdn.co/image/ab67616d0000485138837412ba8f22822a069f15
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
