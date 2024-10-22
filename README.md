@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Rasputin**<br />by _Turisas_<br /> on Rasputin [2007] |
+| ![album cover][album-cover] | **Dry the Rain**<br />by _Lord Of The Lost_<br /> on Fears [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f0c12c46fce54b0da4c7e802
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a9f37c18e8b38c2f4bad158b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
