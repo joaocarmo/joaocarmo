@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sundown (Tell Me Everything Is Ok)**<br />by _Wellmess, Steven Ellis_<br /> on Your Sundown [2019] |
+| ![album cover][album-cover] | **Rasputin**<br />by _Turisas_<br /> on Rasputin [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514e739a2d1299dcf133b4d10b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f0c12c46fce54b0da4c7e802
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
