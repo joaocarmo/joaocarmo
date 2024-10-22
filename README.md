@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dry the Rain**<br />by _Lord Of The Lost_<br /> on Fears [2010] |
+| ![album cover][album-cover] | **Somewhere I Belong**<br />by _Linkin Park_<br /> on Meteora (Bonus Edition) [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a9f37c18e8b38c2f4bad158b
+[album-cover]: https://i.scdn.co/image/ab67616d000048518b5b6fa1326d996181e71dd7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
