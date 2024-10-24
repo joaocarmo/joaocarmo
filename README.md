@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Survivor**<br />by _Emil Bulls_<br /> on Mixtape [2019] |
+| ![album cover][album-cover] | **King**<br />by _Lilith Czar_<br /> on Created From Filth And Dust [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513b8c08b587109bdc3708aff4
+[album-cover]: https://i.scdn.co/image/ab67616d0000485178208df310278006db630976
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
