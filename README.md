@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Leader of the Pack**<br />by _Wunderhorse_<br /> on Cub [2022] |
+| ![album cover][album-cover] | **You're Going Down**<br />by _SICK PUPPIES_<br /> on Tri-Polar (International Version) [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851be8e67d6db7bb17c437092fa
+[album-cover]: https://i.scdn.co/image/ab67616d000048510bccc1eafb39ec9629368df6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
