@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bleed It Out**<br />by _Linkin Park_<br /> on Minutes to Midnight [2007] |
+| ![album cover][album-cover] | **The Wolves Are Coming**<br />by _No Man's Valley_<br /> on The Wolves Are Coming [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516e996745f2c7b8036abef213
+[album-cover]: https://i.scdn.co/image/ab67616d000048511b833027e596db331f506b37
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
