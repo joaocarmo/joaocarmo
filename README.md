@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Wolves Are Coming**<br />by _No Man's Valley_<br /> on The Wolves Are Coming [2014] |
+| ![album cover][album-cover] | **Wise Man**<br />by _Mothership_<br /> on High Strangeness [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511b833027e596db331f506b37
+[album-cover]: https://i.scdn.co/image/ab67616d000048518b8baf703bc04d67d672f42f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
