@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wise Man**<br />by _Mothership_<br /> on High Strangeness [2017] |
+| ![album cover][album-cover] | **Firebirds**<br />by _Clutch_<br /> on Psychic Warfare (Deluxe Version) [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518b8baf703bc04d67d672f42f
+[album-cover]: https://i.scdn.co/image/ab67616d000048518e2baa937f801e72f49a5e41
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
