@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Firebirds**<br />by _Clutch_<br /> on Psychic Warfare (Deluxe Version) [2015] |
+| ![album cover][album-cover] | **Heartbreaking Son of a Bitch**<br />by _Heaven's Basement_<br /> on Filthy Empire (Explicit) [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518e2baa937f801e72f49a5e41
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bb2bcd6eb15347069bf450b7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
