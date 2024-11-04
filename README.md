@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hatred**<br />by _Paleface Swiss_<br /> on Hatred [2024] |
+| ![album cover][album-cover] | **Petrichor**<br />by _Cassyette_<br /> on Petrichor [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b375bdf7eb0e4324ab125370
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f89730c2ae652c5d18c9a645
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
