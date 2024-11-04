@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Brave New World**<br />by _STARSET_<br /> on Brave New World [2024] |
+| ![album cover][album-cover] | **Hatred**<br />by _Paleface Swiss_<br /> on Hatred [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f9340302db474b310c9059ec
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b375bdf7eb0e4324ab125370
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
