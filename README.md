@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Broken Hearted Soul**<br />by _Ra_<br /> on Black Sun (Remastered) [2008] |
+| ![album cover][album-cover] | **Slide**<br />by _The Goo Goo Dolls_<br /> on Dizzy up the Girl [1998] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515df527eab207e68f4d23a8c4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851eda9478c39a21e1cdc6609ca
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
