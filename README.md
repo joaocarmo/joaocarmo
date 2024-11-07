@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Petrichor**<br />by _Cassyette_<br /> on Petrichor [2021] |
+| ![album cover][album-cover] | **Broken Hearted Soul**<br />by _Ra_<br /> on Black Sun (Remastered) [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f89730c2ae652c5d18c9a645
+[album-cover]: https://i.scdn.co/image/ab67616d000048515df527eab207e68f4d23a8c4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
