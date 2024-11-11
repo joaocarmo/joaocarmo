@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Slide**<br />by _The Goo Goo Dolls_<br /> on Dizzy up the Girl [1998] |
+| ![album cover][album-cover] | **FEEL NOTHING**<br />by _The Plot In You_<br /> on DISPOSE [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851eda9478c39a21e1cdc6609ca
+[album-cover]: https://i.scdn.co/image/ab67616d00004851197f778e9f68a8ab1d7da3f8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
