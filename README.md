@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **If I Were**<br />by _NOTHING MORE_<br /> on Nothing More [2014] |
+| ![album cover][album-cover] | **Walking On Sunshine - From The “American Psycho” Comic Series Soundtrack**<br />by _Ice Nine Kills, Reel Big Fish_<br /> on Walking On Sunshine (From The “American Psycho” Comic Series Soundtrack) [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a6780d9c98263297fdeb544f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f8fa855df7a2460fe4d10053
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
