@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Jar Of Hearts**<br />by _Through Fire_<br /> on Breathe (Deluxe Edition) [2016] |
+| ![album cover][album-cover] | **One Hand Killing**<br />by _Twelve Foot Ninja_<br /> on Outlier [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518945c1b2d37edd0a8e1678d0
+[album-cover]: https://i.scdn.co/image/ab67616d00004851657c8d236b3d5b026480e38a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
