@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Walking On Sunshine - From The “American Psycho” Comic Series Soundtrack**<br />by _Ice Nine Kills, Reel Big Fish_<br /> on Walking On Sunshine (From The “American Psycho” Comic Series Soundtrack) [2024] |
+| ![album cover][album-cover] | **Orphan Soul**<br />by _Infected Rain_<br /> on 86 [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f8fa855df7a2460fe4d10053
+[album-cover]: https://i.scdn.co/image/ab67616d000048516ee03802157398277ca53b3f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
