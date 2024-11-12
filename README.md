@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Orphan Soul**<br />by _Infected Rain_<br /> on 86 [2017] |
+| ![album cover][album-cover] | **Jar Of Hearts**<br />by _Through Fire_<br /> on Breathe (Deluxe Edition) [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516ee03802157398277ca53b3f
+[album-cover]: https://i.scdn.co/image/ab67616d000048518945c1b2d37edd0a8e1678d0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
