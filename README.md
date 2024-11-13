@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **One Hand Killing**<br />by _Twelve Foot Ninja_<br /> on Outlier [2016] |
+| ![album cover][album-cover] | **I Am a Stone**<br />by _Demon Hunter_<br /> on True Defiance (Deluxe Edition) [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851657c8d236b3d5b026480e38a
+[album-cover]: https://i.scdn.co/image/ab67616d0000485136c6aa90db422d8c40526cf1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
