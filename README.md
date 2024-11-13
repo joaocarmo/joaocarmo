@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Am a Stone**<br />by _Demon Hunter_<br /> on True Defiance (Deluxe Edition) [2013] |
+| ![album cover][album-cover] | **Losing My Religion**<br />by _Lacuna Coil_<br /> on Dark Adrenaline [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485136c6aa90db422d8c40526cf1
+[album-cover]: https://i.scdn.co/image/ab67616d00004851de2c417025472426d93162cb
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
