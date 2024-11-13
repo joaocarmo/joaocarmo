@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Losing My Religion**<br />by _Lacuna Coil_<br /> on Dark Adrenaline [2012] |
+| ![album cover][album-cover] | **S&M**<br />by _Sabl3_<br /> on S&M [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851de2c417025472426d93162cb
+[album-cover]: https://i.scdn.co/image/ab67616d000048513b58b1e78d61f466b1322fc3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
