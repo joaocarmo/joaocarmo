@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **S&M**<br />by _Sabl3_<br /> on S&M [2023] |
+| ![album cover][album-cover] | **Medicate Me**<br />by _Rain City Drive, Dayseeker_<br /> on Things Are Different Now [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513b58b1e78d61f466b1322fc3
+[album-cover]: https://i.scdn.co/image/ab67616d000048511356d39922ba5da84c36c352
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
