@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Don't Speak**<br />by _New Years Day_<br /> on Diary of a Creep - EP [2018] |
+| ![album cover][album-cover] | **Through It All**<br />by _Spoken_<br /> on Illusion [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f7bb1d973e97e3a0384971ad
+[album-cover]: https://i.scdn.co/image/ab67616d0000485105be3eb80dde0cbd513f2711
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
