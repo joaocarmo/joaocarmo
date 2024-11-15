@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Through It All**<br />by _Spoken_<br /> on Illusion [2013] |
+| ![album cover][album-cover] | **Let 'em Burn**<br />by _NOTHING MORE_<br /> on The Stories We Tell Ourselves [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485105be3eb80dde0cbd513f2711
+[album-cover]: https://i.scdn.co/image/ab67616d00004851353504127a55a603352a32ed
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
