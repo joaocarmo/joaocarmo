@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Let 'em Burn**<br />by _NOTHING MORE_<br /> on The Stories We Tell Ourselves [2017] |
+| ![album cover][album-cover] | **FEEL NOTHING**<br />by _The Plot In You_<br /> on DISPOSE [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851353504127a55a603352a32ed
+[album-cover]: https://i.scdn.co/image/ab67616d00004851197f778e9f68a8ab1d7da3f8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
