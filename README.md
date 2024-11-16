@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Riot**<br />by _Hollywood Undead_<br /> on Five [2017] |
+| ![album cover][album-cover] | **crushcrushcrush**<br />by _Paramore_<br /> on Riot! [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f7ca3f6073567209d99cfb7c
+[album-cover]: https://i.scdn.co/image/ab67616d0000485169966efa45b125ed6711b43c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
