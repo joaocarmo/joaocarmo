@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **crushcrushcrush**<br />by _Paramore_<br /> on Riot! [2007] |
+| ![album cover][album-cover] | **Bird of Paradise**<br />by _Graveyard_<br /> on Peace [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485169966efa45b125ed6711b43c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851800fa0e96c9a5e00f727fc45
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
