@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **FEEL NOTHING**<br />by _The Plot In You_<br /> on DISPOSE [2018] |
+| ![album cover][album-cover] | **Bad Day**<br />by _Charlotte Sands_<br /> on Love and Other Lies [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851197f778e9f68a8ab1d7da3f8
+[album-cover]: https://i.scdn.co/image/ab67616d000048516064c05b57123df634910611
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
