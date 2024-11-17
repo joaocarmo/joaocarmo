@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bird of Paradise**<br />by _Graveyard_<br /> on Peace [2018] |
+| ![album cover][album-cover] | **Bad Day**<br />by _Charlotte Sands_<br /> on Love and Other Lies [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851800fa0e96c9a5e00f727fc45
+[album-cover]: https://i.scdn.co/image/ab67616d000048516064c05b57123df634910611
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
