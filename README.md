@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dry the Rain**<br />by _Lord Of The Lost_<br /> on Fears [2010] |
+| ![album cover][album-cover] | **Lose Our Heads**<br />by _YONAKA_<br /> on Don't Wait 'Til Tomorrow [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a9f37c18e8b38c2f4bad158b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851469fd4715bfd4ec77af65baf
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
