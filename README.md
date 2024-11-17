@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bad Day**<br />by _Charlotte Sands_<br /> on Love and Other Lies [2022] |
+| ![album cover][album-cover] | **Dry the Rain**<br />by _Lord Of The Lost_<br /> on Fears [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516064c05b57123df634910611
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a9f37c18e8b38c2f4bad158b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
