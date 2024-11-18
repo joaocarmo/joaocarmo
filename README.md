@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lose Our Heads**<br />by _YONAKA_<br /> on Don't Wait 'Til Tomorrow [2019] |
+| ![album cover][album-cover] | **I Am the Fire**<br />by _Halestorm_<br /> on Into the Wild Life (Deluxe) [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851469fd4715bfd4ec77af65baf
+[album-cover]: https://i.scdn.co/image/ab67616d0000485191295436bcc70bf9614487ad
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
