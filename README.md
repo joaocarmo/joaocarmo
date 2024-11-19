@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Am the Fire**<br />by _Halestorm_<br /> on Into the Wild Life (Deluxe) [2015] |
+| ![album cover][album-cover] | **Cria De Favela**<br />by _Anitta_<br /> on Funk Generation [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485191295436bcc70bf9614487ad
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a607c19552e14515bcb79aad
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
