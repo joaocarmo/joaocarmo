@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Unstable**<br />by _Chaotica_<br /> on Prison of Decay [2006] |
+| ![album cover][album-cover] | **Dry the Rain**<br />by _Lord Of The Lost_<br /> on Fears [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518c235810020c54f3726efba1
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a9f37c18e8b38c2f4bad158b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
