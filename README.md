@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dreams Gone Wrong**<br />by _Cyhra_<br /> on No Halos in Hell [2019] |
+| ![album cover][album-cover] | **Unstable**<br />by _Chaotica_<br /> on Prison of Decay [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517ecef0b3549b9c7d84be8edb
+[album-cover]: https://i.scdn.co/image/ab67616d000048518c235810020c54f3726efba1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
