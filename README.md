@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Medicate Me**<br />by _Rain City Drive, Dayseeker_<br /> on Things Are Different Now [2024] |
+| ![album cover][album-cover] | **Sugar**<br />by _Mallory Knox_<br /> on Sugar [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511356d39922ba5da84c36c352
+[album-cover]: https://i.scdn.co/image/ab67616d00004851370a99e51bcbfd34bee2f602
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
