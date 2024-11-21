@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Elastic Heart - Rock Version**<br />by _Written by Wolves_<br /> on Elastic Heart (Rock Version) [2015] |
+| ![album cover][album-cover] | **Medicate Me**<br />by _Rain City Drive, Dayseeker_<br /> on Things Are Different Now [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485101bdecce3a27e7e889f17724
+[album-cover]: https://i.scdn.co/image/ab67616d000048511356d39922ba5da84c36c352
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
