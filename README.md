@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sugar**<br />by _Mallory Knox_<br /> on Sugar [2017] |
+| ![album cover][album-cover] | **Breaking Free (feat. Lacey Sturm)**<br />by _Skillet, Lacey Sturm_<br /> on Unleashed Beyond (Special Edition) [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851370a99e51bcbfd34bee2f602
+[album-cover]: https://i.scdn.co/image/ab67616d0000485167bac0588a37c0e9c0fc53bd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
