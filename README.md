@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Breaking Free (feat. Lacey Sturm)**<br />by _Skillet, Lacey Sturm_<br /> on Unleashed Beyond (Special Edition) [2017] |
+| ![album cover][album-cover] | **Not Alone**<br />by _Red_<br /> on Until We Have Faces [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485167bac0588a37c0e9c0fc53bd
+[album-cover]: https://i.scdn.co/image/ab67616d0000485169369a37140c4061d4e7a2ab
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
