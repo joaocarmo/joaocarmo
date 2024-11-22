@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Not Alone**<br />by _Red_<br /> on Until We Have Faces [2011] |
+| ![album cover][album-cover] | **Let 'em Burn**<br />by _NOTHING MORE_<br /> on The Stories We Tell Ourselves [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485169369a37140c4061d4e7a2ab
+[album-cover]: https://i.scdn.co/image/ab67616d00004851353504127a55a603352a32ed
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
