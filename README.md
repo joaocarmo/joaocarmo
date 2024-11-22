@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Eraser**<br />by _LYELL_<br /> on Eraser [2022] |
+| ![album cover][album-cover] | **Bad Girl (feat. Marilyn Manson)**<br />by _Avril Lavigne, Marilyn Manson_<br /> on Avril Lavigne (Expanded Edition) [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a2e680b35b123187da4dfa16
+[album-cover]: https://i.scdn.co/image/ab67616d00004851817da73d6641ddbcc0a50363
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
