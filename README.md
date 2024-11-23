@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wild Stare**<br />by _Giant Rooks_<br /> on ROOKERY [2020] |
+| ![album cover][album-cover] | **GODDESS**<br />by _Written by Wolves_<br /> on PLEASE, JUST BREATHE [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485135ec9f08a0116f5f77dbf462
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ea596acacbb7a06b6afaeac7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
