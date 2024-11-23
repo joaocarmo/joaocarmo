@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Already Over**<br />by _Red_<br /> on End Of Silence [2006] |
+| ![album cover][album-cover] | **Riot**<br />by _Hollywood Undead_<br /> on Five [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485135f22780496c7b7227b69d3d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f7ca3f6073567209d99cfb7c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
