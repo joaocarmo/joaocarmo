@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bad Girl (feat. Marilyn Manson)**<br />by _Avril Lavigne, Marilyn Manson_<br /> on Avril Lavigne (Expanded Edition) [2013] |
+| ![album cover][album-cover] | **Already Over**<br />by _Red_<br /> on End Of Silence [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851817da73d6641ddbcc0a50363
+[album-cover]: https://i.scdn.co/image/ab67616d0000485135f22780496c7b7227b69d3d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
