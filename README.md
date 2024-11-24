@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **GODDESS**<br />by _Written by Wolves_<br /> on PLEASE, JUST BREATHE [2024] |
+| ![album cover][album-cover] | **Had Enough**<br />by _DIAMANTE_<br /> on Coming in Hot [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ea596acacbb7a06b6afaeac7
+[album-cover]: https://i.scdn.co/image/ab67616d000048512f58f5b69aa30277c6780f88
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
