@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sucker (from the series Arcane League of Legends)**<br />by _Marcus King, Arcane, League of Legends_<br /> on Sucker (from the series Arcane League of Legends) [2024] |
+| ![album cover][album-cover] | **Wretched**<br />by _Daedric_<br /> on Mortal [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485183efca72d00ee0a33d2e7b49
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e15f915451c6443f73cdaf5f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
