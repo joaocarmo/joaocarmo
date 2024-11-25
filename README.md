@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **You're Gonna Go Far, Kid**<br />by _The Offspring_<br /> on Rise And Fall, Rage And Grace [2008] |
+| ![album cover][album-cover] | **Sucker (from the series Arcane League of Legends)**<br />by _Marcus King, Arcane, League of Legends_<br /> on Sucker (from the series Arcane League of Legends) [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851890ce61533a89e00ce593fcb
+[album-cover]: https://i.scdn.co/image/ab67616d0000485183efca72d00ee0a33d2e7b49
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
