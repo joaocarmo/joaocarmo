@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Don't Lose Your Heart**<br />by _Dream on Dreamer, Jarrad Salton_<br /> on It Comes and Goes [2018] |
+| ![album cover][album-cover] | **Feel**<br />by _Skarlett Riot_<br /> on Feel [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c054ab65f1bb08292b92dfe9
+[album-cover]: https://i.scdn.co/image/ab67616d000048514d260b50cf946582a2252723
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
