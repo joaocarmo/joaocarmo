@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wretched**<br />by _Daedric_<br /> on Mortal [2023] |
+| ![album cover][album-cover] | **Don't Lose Your Heart**<br />by _Dream on Dreamer, Jarrad Salton_<br /> on It Comes and Goes [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e15f915451c6443f73cdaf5f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c054ab65f1bb08292b92dfe9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
