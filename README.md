@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Feel**<br />by _Skarlett Riot_<br /> on Feel [2017] |
+| ![album cover][album-cover] | **I'd Rather See Your Star Explode**<br />by _SLAVES_<br /> on Beautiful Death [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514d260b50cf946582a2252723
+[album-cover]: https://i.scdn.co/image/ab67616d0000485125d9c3799537cbf06ab5d88b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
