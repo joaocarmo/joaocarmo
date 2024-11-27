@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I'd Rather See Your Star Explode**<br />by _SLAVES_<br /> on Beautiful Death [2018] |
+| ![album cover][album-cover] | **Move Mountains (feat. Benji Webbe)**<br />by _Sumo Cyco, Benji Webbe_<br /> on Opus Mar [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485125d9c3799537cbf06ab5d88b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851df9e2bcaea87dac05d2532cc
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
