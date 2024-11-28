@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Move Mountains (feat. Benji Webbe)**<br />by _Sumo Cyco, Benji Webbe_<br /> on Opus Mar [2017] |
+| ![album cover][album-cover] | **Part Of Me**<br />by _Afterlife_<br /> on Part Of Me [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851df9e2bcaea87dac05d2532cc
+[album-cover]: https://i.scdn.co/image/ab67616d00004851335f920117c772f13c3af37f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
