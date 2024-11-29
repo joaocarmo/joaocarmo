@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Feel**<br />by _Skarlett Riot_<br /> on Feel [2017] |
+| ![album cover][album-cover] | **You Should See Me in a Crown**<br />by _ODC_<br /> on You Should See Me in a Crown [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514d260b50cf946582a2252723
+[album-cover]: https://i.scdn.co/image/ab67616d0000485127873bdfac671622b863cbfa
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
