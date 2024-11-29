@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **You Should See Me in a Crown**<br />by _ODC_<br /> on You Should See Me in a Crown [2020] |
+| ![album cover][album-cover] | **Teeth**<br />by _Dirty D´Sire_<br /> on Teeth [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485127873bdfac671622b863cbfa
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ecb8f8676101240cea79b61c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
