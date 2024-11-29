@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Part Of Me**<br />by _Afterlife_<br /> on Part Of Me [2021] |
+| ![album cover][album-cover] | **Feel**<br />by _Skarlett Riot_<br /> on Feel [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851335f920117c772f13c3af37f
+[album-cover]: https://i.scdn.co/image/ab67616d000048514d260b50cf946582a2252723
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
