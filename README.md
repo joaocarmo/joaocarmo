@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Teeth**<br />by _Dirty D´Sire_<br /> on Teeth [2020] |
+| ![album cover][album-cover] | **House of Wolves**<br />by _SadSongsOnly_<br /> on House of Wolves [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ecb8f8676101240cea79b61c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a50ac66b5d8eb641865456f3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
