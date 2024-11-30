@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **House of Wolves**<br />by _SadSongsOnly_<br /> on House of Wolves [2021] |
+| ![album cover][album-cover] | **Pescador de ilusões**<br />by _O Rappa_<br /> on Rappa-Mundi [1996] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a50ac66b5d8eb641865456f3
+[album-cover]: https://i.scdn.co/image/ab67616d000048513a15e72ba0359bd01dc6fdd1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
