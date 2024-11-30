@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Pescador de ilusões**<br />by _O Rappa_<br /> on Rappa-Mundi [1996] |
+| ![album cover][album-cover] | **Counting Stars**<br />by _No Resolve, Saving Abel_<br /> on Counting Stars [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513a15e72ba0359bd01dc6fdd1
+[album-cover]: https://i.scdn.co/image/ab67616d0000485175002238c831e1cb5ae6a756
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
