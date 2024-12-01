@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Counting Stars**<br />by _No Resolve, Saving Abel_<br /> on Counting Stars [2023] |
+| ![album cover][album-cover] | **Last Dance**<br />by _Butcher Babies_<br /> on Eye For An Eye... [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485175002238c831e1cb5ae6a756
+[album-cover]: https://i.scdn.co/image/ab67616d0000485177884f44425b65103ab241e9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
