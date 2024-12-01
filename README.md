@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Last Dance**<br />by _Butcher Babies_<br /> on Eye For An Eye... [2023] |
+| ![album cover][album-cover] | **Dreams Gone Wrong**<br />by _Cyhra_<br /> on No Halos in Hell [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485177884f44425b65103ab241e9
+[album-cover]: https://i.scdn.co/image/ab67616d000048517ecef0b3549b9c7d84be8edb
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
