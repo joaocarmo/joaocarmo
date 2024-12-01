@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dreams Gone Wrong**<br />by _Cyhra_<br /> on No Halos in Hell [2019] |
+| ![album cover][album-cover] | **Mad World**<br />by _The Funeral Portrait_<br /> on Sounds From Beyond The Abyss (Vol. 1) [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517ecef0b3549b9c7d84be8edb
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b7e9cfbfe8d9937923425a83
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
