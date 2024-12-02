@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Like a Virgin**<br />by _Mötley Crüe_<br /> on The Dirt Soundtrack [2019] |
+| ![album cover][album-cover] | **The Day I Tried To Live**<br />by _Sevendust_<br /> on Blood & Stone [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851376e18d22e94bb09a4b2cb6a
+[album-cover]: https://i.scdn.co/image/ab67616d0000485199ec111abf4ce9d9b6b5d578
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
