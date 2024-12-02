@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Mad World**<br />by _The Funeral Portrait_<br /> on Sounds From Beyond The Abyss (Vol. 1) [2023] |
+| ![album cover][album-cover] | **Like a Virgin**<br />by _Mötley Crüe_<br /> on The Dirt Soundtrack [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b7e9cfbfe8d9937923425a83
+[album-cover]: https://i.scdn.co/image/ab67616d00004851376e18d22e94bb09a4b2cb6a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
