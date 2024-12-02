@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Day I Tried To Live**<br />by _Sevendust_<br /> on Blood & Stone [2020] |
+| ![album cover][album-cover] | **FEEL NOTHING**<br />by _The Plot In You_<br /> on DISPOSE [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485199ec111abf4ce9d9b6b5d578
+[album-cover]: https://i.scdn.co/image/ab67616d00004851197f778e9f68a8ab1d7da3f8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
