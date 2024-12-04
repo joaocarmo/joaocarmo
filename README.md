@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Safe And Sound**<br />by _Point North, The Ghost Inside_<br /> on Prepare For Despair [2023] |
+| ![album cover][album-cover] | **Blood Runs Red**<br />by _78rpm_<br /> on Friday Night Sessions [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511803cb8a684a32847a339a2a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a57c71fec5cc67c8500a35de
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
