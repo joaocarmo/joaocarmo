@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **MUD**<br />by _Dorothy_<br /> on MUD [2024] |
+| ![album cover][album-cover] | **PLAN Z**<br />by _BOI WHAT_<br /> on PLAN Z [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bb06a463e9fe5e64e5960629
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d90cb8ba23aa307b6eedf314
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
