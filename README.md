@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Blood Runs Red**<br />by _78rpm_<br /> on Friday Night Sessions [2017] |
+| ![album cover][album-cover] | **MUD**<br />by _Dorothy_<br /> on MUD [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a57c71fec5cc67c8500a35de
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bb06a463e9fe5e64e5960629
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
