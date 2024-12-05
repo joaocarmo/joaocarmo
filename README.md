@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Pyre**<br />by _Kronowski_<br /> on Crimson [2021] |
+| ![album cover][album-cover] | **SLEEP WHEN I’M DEAD**<br />by _Autumn Kings_<br /> on SLEEP WHEN I’M DEAD / HELLBOUND [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485183a8ca293b7ac27fb99e049e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851aca108bd7918c1e60f06ec08
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
