@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **PLAN Z**<br />by _BOI WHAT_<br /> on PLAN Z [2023] |
+| ![album cover][album-cover] | **The Pyre**<br />by _Kronowski_<br /> on Crimson [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d90cb8ba23aa307b6eedf314
+[album-cover]: https://i.scdn.co/image/ab67616d0000485183a8ca293b7ac27fb99e049e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
