@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **DIE ANOTHER DAY (feat. RØRY)**<br />by _Blind Channel, RØRY_<br /> on EXIT EMOTIONS [2024] |
+| ![album cover][album-cover] | **Burden**<br />by _As I Lay Dying_<br /> on Through Storms Ahead [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510ec420020c19348acb05aa75
+[album-cover]: https://i.scdn.co/image/ab67616d000048512517165a3d621f45c1f73cf0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
