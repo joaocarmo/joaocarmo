@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **War**<br />by _Sum 41_<br /> on 13 Voices [2016] |
+| ![album cover][album-cover] | **King For A Day (feat. Kasey Karlsen of Deadlands)**<br />by _Daisy Grenade, Kasey Karlsen, Deadlands_<br /> on King For A Day (feat. Kasey Karlsen of Deadlands) [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f206fb78ea18c379191dba77
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f7ac7296e5a91871c89e8128
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
