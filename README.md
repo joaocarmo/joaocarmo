@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **can u see me in the dark?**<br />by _Halestorm, I Prevail_<br /> on can u see me in the dark? [2024] |
+| ![album cover][album-cover] | **Bad Guy**<br />by _Falling In Reverse, Saraya_<br /> on Popular Monster [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511809b30254a3753d1be5f705
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cd850819595472eae0c06f66
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
