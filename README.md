@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bad Guy**<br />by _Falling In Reverse, Saraya_<br /> on Popular Monster [2024] |
+| ![album cover][album-cover] | **Fallen Leaves**<br />by _Billy Talent_<br /> on Billy Talent II [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cd850819595472eae0c06f66
+[album-cover]: https://i.scdn.co/image/ab67616d0000485151ad1636a7d0456ad972a71c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
