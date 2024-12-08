@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Fallen Leaves**<br />by _Billy Talent_<br /> on Billy Talent II [2006] |
+| ![album cover][album-cover] | **Petrichor**<br />by _Cassyette_<br /> on Petrichor [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485151ad1636a7d0456ad972a71c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f89730c2ae652c5d18c9a645
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
