@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **how could u love somebody like me?**<br />by _Artemas_<br /> on how could u love somebody like me? [2024] |
+| ![album cover][album-cover] | **E.T.**<br />by _First to Eleven_<br /> on Covers, Vol. 3 [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516f7b8758c82974e6d08a72be
+[album-cover]: https://i.scdn.co/image/ab67616d000048519980155a450a9634a19129db
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
