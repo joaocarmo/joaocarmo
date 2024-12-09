@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Petrichor**<br />by _Cassyette_<br /> on Petrichor [2021] |
+| ![album cover][album-cover] | **Toxicity**<br />by _System Of A Down_<br /> on Toxicity [2001] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f89730c2ae652c5d18c9a645
+[album-cover]: https://i.scdn.co/image/ab67616d0000485130d45198d0c9e8841f9a9578
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
