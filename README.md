@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Toxicity**<br />by _System Of A Down_<br /> on Toxicity [2001] |
+| ![album cover][album-cover] | **how could u love somebody like me?**<br />by _Artemas_<br /> on how could u love somebody like me? [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485130d45198d0c9e8841f9a9578
+[album-cover]: https://i.scdn.co/image/ab67616d000048516f7b8758c82974e6d08a72be
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
