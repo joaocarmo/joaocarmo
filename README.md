@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Kryptonite**<br />by _Flight Paths_<br /> on Kryptonite [2018] |
+| ![album cover][album-cover] | **Holding Me Down**<br />by _Picturesque_<br /> on Do You Feel O.K? [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c5a6ba7ca8b39a25d981ebfa
+[album-cover]: https://i.scdn.co/image/ab67616d0000485175e15f3d0d89c8df95629289
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
