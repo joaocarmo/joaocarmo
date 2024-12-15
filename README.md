@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Small Town Syndrome**<br />by _Make Them Suffer_<br /> on Make Them Suffer [2024] |
+| ![album cover][album-cover] | **BREATHING UNDERWATER**<br />by _Hot Milk_<br /> on A Call To The Void [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519a914d9579d497fd3aa4d315
+[album-cover]: https://i.scdn.co/image/ab67616d00004851824366e6d0fbba7c97443813
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
