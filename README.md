@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **E.T.**<br />by _First to Eleven_<br /> on Covers, Vol. 3 [2019] |
+| ![album cover][album-cover] | **Mindframe**<br />by _Silent Planet_<br /> on Mindframe [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519980155a450a9634a19129db
+[album-cover]: https://i.scdn.co/image/ab67616d00004851eefdbfbe5824d67a5e2d901a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
