@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Last Dance**<br />by _Butcher Babies_<br /> on Eye For An Eye... [2023] |
+| ![album cover][album-cover] | **My Muse**<br />by _Red Sun Rising_<br /> on Polyester Zeal [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485177884f44425b65103ab241e9
+[album-cover]: https://i.scdn.co/image/ab67616d000048518015640f33e5188415809e8d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
