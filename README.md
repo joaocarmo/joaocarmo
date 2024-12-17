@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lose Yourself**<br />by _Sharks In Your Mouth_<br /> on Lose Yourself [2018] |
+| ![album cover][album-cover] | **Erase Me**<br />by _Make Them Suffer_<br /> on How To Survive A Funeral [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485178f9a8fdbc120e52b9899f0e
+[album-cover]: https://i.scdn.co/image/ab67616d000048515690e88aef77fc7d931dec3b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
