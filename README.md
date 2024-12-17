@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Erase Me**<br />by _Make Them Suffer_<br /> on How To Survive A Funeral [2020] |
+| ![album cover][album-cover] | **Stuck In My Head**<br />by _Sleep Theory_<br /> on Stuck In My Head [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515690e88aef77fc7d931dec3b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fcc6679c9d205cfabe1abf17
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
