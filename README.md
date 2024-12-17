@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Stuck In My Head**<br />by _Sleep Theory_<br /> on Stuck In My Head [2024] |
+| ![album cover][album-cover] | **Six Feet Under**<br />by _Silent Theory_<br /> on Hunt or Be Hunted [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fcc6679c9d205cfabe1abf17
+[album-cover]: https://i.scdn.co/image/ab67616d0000485133abe913e4d80e678cc305af
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
