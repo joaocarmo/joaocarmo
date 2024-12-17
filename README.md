@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **My Muse**<br />by _Red Sun Rising_<br /> on Polyester Zeal [2016] |
+| ![album cover][album-cover] | **Lose Yourself**<br />by _Sharks In Your Mouth_<br /> on Lose Yourself [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518015640f33e5188415809e8d
+[album-cover]: https://i.scdn.co/image/ab67616d0000485178f9a8fdbc120e52b9899f0e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
