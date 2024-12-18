@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **All the Things She Said (Feat. Chase the Comet)**<br />by _Lena Scissorhands, Chase the Comet_<br /> on All the Things She Said (Feat. Chase the Comet) [2020] |
+| ![album cover][album-cover] | **Raise The Red Flag**<br />by _Marilyn Manson_<br /> on One Assassination Under God - Chapter 1 [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851989c76f65fb2a047197ea7f7
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f4c3ebf75f9f93a3c14be63f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
