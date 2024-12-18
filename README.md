@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Raise The Red Flag**<br />by _Marilyn Manson_<br /> on One Assassination Under God - Chapter 1 [2024] |
+| ![album cover][album-cover] | **Every Time We Touch**<br />by _Jonathan Young, SixteenInMono_<br /> on Young's Old Covers (2016-2018) [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f4c3ebf75f9f93a3c14be63f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e45329f47c62f93e75229ffa
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
