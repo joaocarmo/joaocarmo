@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Six Feet Under**<br />by _Silent Theory_<br /> on Hunt or Be Hunted [2021] |
+| ![album cover][album-cover] | **All the Things She Said (Feat. Chase the Comet)**<br />by _Lena Scissorhands, Chase the Comet_<br /> on All the Things She Said (Feat. Chase the Comet) [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485133abe913e4d80e678cc305af
+[album-cover]: https://i.scdn.co/image/ab67616d00004851989c76f65fb2a047197ea7f7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
