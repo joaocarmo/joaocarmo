@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dancing on Nails**<br />by _We Are Harlot_<br /> on We Are Harlot [2015] |
+| ![album cover][album-cover] | **Special K**<br />by _Placebo_<br /> on Black Market Music [2000] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485148ad073df39103609f210039
+[album-cover]: https://i.scdn.co/image/ab67616d0000485193deba59f323074beff846ff
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
