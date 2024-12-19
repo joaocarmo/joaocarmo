@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Special K**<br />by _Placebo_<br /> on Black Market Music [2000] |
+| ![album cover][album-cover] | **Apocalypse Please**<br />by _Muse_<br /> on Absolution XX Anniversary [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485193deba59f323074beff846ff
+[album-cover]: https://i.scdn.co/image/ab67616d00004851604c4debe59e76d900bd3317
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
