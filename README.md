@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Apocalypse Please**<br />by _Muse_<br /> on Absolution XX Anniversary [2023] |
+| ![album cover][album-cover] | **Animals**<br />by _Architects_<br /> on For Those That Wish To Exist [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851604c4debe59e76d900bd3317
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c78b2edbc9407cea20ccfb9f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
