@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Detonate**<br />by _G2, Jeris Johnson, YONAKA_<br /> on Detonate [2023] |
+| ![album cover][album-cover] | **Dancing on Nails**<br />by _We Are Harlot_<br /> on We Are Harlot [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851536af313ed6e4c4b8d51cb22
+[album-cover]: https://i.scdn.co/image/ab67616d0000485148ad073df39103609f210039
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
