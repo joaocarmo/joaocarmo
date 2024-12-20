@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Leftovers**<br />by _Planet of Zeus_<br /> on Macho Libre [2011] |
+| ![album cover][album-cover] | **Last Dance**<br />by _Butcher Babies_<br /> on Eye For An Eye... [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c255da60a94fa9cbbf86f0e7
+[album-cover]: https://i.scdn.co/image/ab67616d0000485177884f44425b65103ab241e9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
