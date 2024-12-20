@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Last Dance**<br />by _Butcher Babies_<br /> on Eye For An Eye... [2023] |
+| ![album cover][album-cover] | **Rot**<br />by _Lacey Sturm_<br /> on Life Screams [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485177884f44425b65103ab241e9
+[album-cover]: https://i.scdn.co/image/ab67616d0000485171feb092c6b5a095e584e304
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
