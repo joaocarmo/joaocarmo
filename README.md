@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Masterpiece**<br />by _Motionless In White_<br /> on Scoring The End Of The World [2022] |
+| ![album cover][album-cover] | **Leftovers**<br />by _Planet of Zeus_<br /> on Macho Libre [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513528a891d36d16d760cda271
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c255da60a94fa9cbbf86f0e7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
