@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Little Wing**<br />by _Jimi Hendrix_<br /> on Axis: Bold As Love [1967] |
+| ![album cover][album-cover] | **Lay in Bed**<br />by _After a Night of Unsettling Dreams_<br /> on Lay in Bed [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485119dcd95d28b63d10164327f2
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f1d0771ca29d15e750774d3a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
