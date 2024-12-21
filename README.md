@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Rot**<br />by _Lacey Sturm_<br /> on Life Screams [2016] |
+| ![album cover][album-cover] | **Little Wing**<br />by _Jimi Hendrix_<br /> on Axis: Bold As Love [1967] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485171feb092c6b5a095e584e304
+[album-cover]: https://i.scdn.co/image/ab67616d0000485119dcd95d28b63d10164327f2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
