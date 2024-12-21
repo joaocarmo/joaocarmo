@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lay in Bed**<br />by _After a Night of Unsettling Dreams_<br /> on Lay in Bed [2021] |
+| ![album cover][album-cover] | **Fool and The Beggar**<br />by _Melrose Avenue_<br /> on Fool and The Beggar [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f1d0771ca29d15e750774d3a
+[album-cover]: https://i.scdn.co/image/ab67616d000048515d2291a70dfd09422b4df305
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
