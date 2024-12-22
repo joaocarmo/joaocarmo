@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lost in Echoes**<br />by _Caskets_<br /> on Lost Souls [2021] |
+| ![album cover][album-cover] | **FiftyFive**<br />by _Our Promise_<br /> on FiftyFive [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516bbd5c58e7be013e8e83dcb3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bde0cd7b3c6b6e4a07ee5eee
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
