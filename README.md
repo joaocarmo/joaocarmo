@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Evoke**<br />by _Our Promise_<br /> on Evoke [2023] |
+| ![album cover][album-cover] | **Done With Everything**<br />by _Line So Thin_<br /> on Done With Everything [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511849cb98cc6a70426efda405
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d367c740f47c4fc01787998d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
