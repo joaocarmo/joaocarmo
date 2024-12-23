@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **21 Gun Salute**<br />by _Catch Your Breath_<br /> on Shame On Me [2023] |
+| ![album cover][album-cover] | **CONTORTIONIST**<br />by _Arankai_<br /> on CONTORTIONIST [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cda4c6e428938863e386ef12
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c0394de34469e0f0b55c50a3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
