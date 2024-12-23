@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **FiftyFive**<br />by _Our Promise_<br /> on FiftyFive [2024] |
+| ![album cover][album-cover] | **21 Gun Salute**<br />by _Catch Your Breath_<br /> on Shame On Me [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bde0cd7b3c6b6e4a07ee5eee
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cda4c6e428938863e386ef12
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
