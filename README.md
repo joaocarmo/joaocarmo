@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **CONTORTIONIST**<br />by _Arankai_<br /> on CONTORTIONIST [2024] |
+| ![album cover][album-cover] | **Universal Limits**<br />by _Small Town Titans_<br /> on The Ride [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c0394de34469e0f0b55c50a3
+[album-cover]: https://i.scdn.co/image/ab67616d000048516fba43385ea67358c02ff438
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
