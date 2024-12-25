@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **MUD**<br />by _Dorothy_<br /> on MUD [2024] |
+| ![album cover][album-cover] | **Dancing on Nails**<br />by _We Are Harlot_<br /> on We Are Harlot [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bb06a463e9fe5e64e5960629
+[album-cover]: https://i.scdn.co/image/ab67616d0000485148ad073df39103609f210039
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
