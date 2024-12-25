@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dancing on Nails**<br />by _We Are Harlot_<br /> on We Are Harlot [2015] |
+| ![album cover][album-cover] | **The Cave We Fear to Enter**<br />by _As I Lay Dying_<br /> on The Cave We Fear To Enter [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485148ad073df39103609f210039
+[album-cover]: https://i.scdn.co/image/ab67616d000048516abcdc3bfb15e71469e2b60c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
