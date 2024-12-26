@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Primitive**<br />by _Not Enough Space_<br /> on Primitive [2024] |
+| ![album cover][album-cover] | **Shadow's Crown**<br />by _Dal Av, Andy Cizek_<br /> on Shadow's Crown [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e0cef53c9c076b6182006ea6
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cf2e72fa6e853b7822b23ee6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
