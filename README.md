@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Shadow's Crown**<br />by _Dal Av, Andy Cizek_<br /> on Shadow's Crown [2024] |
+| ![album cover][album-cover] | **Revenant**<br />by _Bullet to the Heart_<br /> on Revenant [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cf2e72fa6e853b7822b23ee6
+[album-cover]: https://i.scdn.co/image/ab67616d0000485165ade855a3b4a97b4bee92bc
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
