@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Through Storms Ahead**<br />by _As I Lay Dying_<br /> on Through Storms Ahead [2024] |
+| ![album cover][album-cover] | **Primitive**<br />by _Not Enough Space_<br /> on Primitive [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512517165a3d621f45c1f73cf0
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e0cef53c9c076b6182006ea6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
