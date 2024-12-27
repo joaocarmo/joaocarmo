@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **What's Wrong With Me**<br />by _Spin Twice_<br /> on Gravity [2023] |
+| ![album cover][album-cover] | **GODDESS**<br />by _Written by Wolves_<br /> on PLEASE, JUST BREATHE [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851403bd8cbdc09496deb6a43aa
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ea596acacbb7a06b6afaeac7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
