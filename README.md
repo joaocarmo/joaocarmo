@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lights**<br />by _Burden of the Sky_<br /> on Lights [2022] |
+| ![album cover][album-cover] | **Call Me Maybe**<br />by _The Animal In Me_<br /> on Call Me Maybe [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bd98768e24f3bbf973352023
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d877a774ba8391a1f1c71e25
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
