@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Cave We Fear To Enter**<br />by _As I Lay Dying_<br /> on Through Storms Ahead [2024] |
+| ![album cover][album-cover] | **Lights**<br />by _Burden of the Sky_<br /> on Lights [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512517165a3d621f45c1f73cf0
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bd98768e24f3bbf973352023
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
