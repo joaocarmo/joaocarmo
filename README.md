@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **GODDESS**<br />by _Written by Wolves_<br /> on PLEASE, JUST BREATHE [2024] |
+| ![album cover][album-cover] | **Demon**<br />by _Savage Hands_<br /> on The Truth in Your Eyes [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ea596acacbb7a06b6afaeac7
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b75c58c19c787ca671d5c75c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
