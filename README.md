@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Call Me Maybe**<br />by _The Animal In Me_<br /> on Call Me Maybe [2014] |
+| ![album cover][album-cover] | **We Are The Dead (feat. Alex Terrible, Tom Barber)**<br />by _As I Lay Dying, Alex Terrible, Tom Barber_<br /> on Through Storms Ahead [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d877a774ba8391a1f1c71e25
+[album-cover]: https://i.scdn.co/image/ab67616d000048512517165a3d621f45c1f73cf0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
