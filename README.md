@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Circle With Me**<br />by _Spiritbox_<br /> on Eternal Blue [2021] |
+| ![album cover][album-cover] | **Vertigo**<br />by _Sumo Cyco_<br /> on Initiation [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d32b5650f2d544cf437cc17e
+[album-cover]: https://i.scdn.co/image/ab67616d0000485190d43e360c8d63ef5df47705
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
