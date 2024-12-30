@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Vertigo**<br />by _Sumo Cyco_<br /> on Initiation [2021] |
+| ![album cover][album-cover] | **Delete Me**<br />by _Shallowsky_<br /> on Delete Me [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485190d43e360c8d63ef5df47705
+[album-cover]: https://i.scdn.co/image/ab67616d000048515f45e7477ac328ab5820d120
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
