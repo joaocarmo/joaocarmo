@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Motherlover**<br />by _The Lonely Island, Justin Timberlake_<br /> on Turtleneck & Chain (Explicit Version) [2011] |
+| ![album cover][album-cover] | **Revenant**<br />by _Bullet to the Heart_<br /> on Revenant [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485151adf6c40da8c3e2635893e9
+[album-cover]: https://i.scdn.co/image/ab67616d0000485165ade855a3b4a97b4bee92bc
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
