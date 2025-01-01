@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Revenant**<br />by _Bullet to the Heart_<br /> on Revenant [2022] |
+| ![album cover][album-cover] | **What's Wrong With Me**<br />by _Spin Twice_<br /> on Gravity [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485165ade855a3b4a97b4bee92bc
+[album-cover]: https://i.scdn.co/image/ab67616d00004851403bd8cbdc09496deb6a43aa
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
