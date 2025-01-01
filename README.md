@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Already Over**<br />by _Red_<br /> on End Of Silence [2006] |
+| ![album cover][album-cover] | **Liminal**<br />by _Advents_<br /> on Liminal [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485135f22780496c7b7227b69d3d
+[album-cover]: https://i.scdn.co/image/ab67616d0000485101bc6f25b7ff13e2fc7eacb1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
