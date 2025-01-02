@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Liminal**<br />by _Advents_<br /> on Liminal [2024] |
+| ![album cover][album-cover] | **Hands of Sin**<br />by _Bleed From Within_<br /> on Hands of Sin [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485101bc6f25b7ff13e2fc7eacb1
+[album-cover]: https://i.scdn.co/image/ab67616d0000485113515c4eb1e03d91ddeb9d3b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
