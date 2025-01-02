@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hands of Sin**<br />by _Bleed From Within_<br /> on Hands of Sin [2024] |
+| ![album cover][album-cover] | **Wasteland**<br />by _Attila, DED_<br /> on Wasteland [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485113515c4eb1e03d91ddeb9d3b
+[album-cover]: https://i.scdn.co/image/ab67616d0000485190cbb67c091ce145ad91a05a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
