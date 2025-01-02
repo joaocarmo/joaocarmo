@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wasteland**<br />by _Attila, DED_<br /> on Wasteland [2024] |
+| ![album cover][album-cover] | **Closer**<br />by _ALESTI, Softspoken_<br /> on Closer [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485190cbb67c091ce145ad91a05a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f1c015e544b821afd87ded2e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
