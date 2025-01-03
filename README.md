@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Hurricane's Eye**<br />by _Jesse Roper_<br /> on Red Bird [2015] |
+| ![album cover][album-cover] | **Bad Dreams**<br />by _Bellhound Choir_<br /> on Imagine the Crackle [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518d04be6cbc1184499761422a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a9daeb1aca1578cb0819bd0e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
