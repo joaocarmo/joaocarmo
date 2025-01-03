@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Closer**<br />by _ALESTI, Softspoken_<br /> on Closer [2024] |
+| ![album cover][album-cover] | **The Hurricane's Eye**<br />by _Jesse Roper_<br /> on Red Bird [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f1c015e544b821afd87ded2e
+[album-cover]: https://i.scdn.co/image/ab67616d000048518d04be6cbc1184499761422a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
