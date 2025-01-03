@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bad Dreams**<br />by _Bellhound Choir_<br /> on Imagine the Crackle [2016] |
+| ![album cover][album-cover] | **IN MY REMAINS**<br />by _Linkin Park_<br /> on LIVING THINGS [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a9daeb1aca1578cb0819bd0e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851987fb4c5ec8790e9f637a4a4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
