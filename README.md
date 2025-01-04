@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Cold**<br />by _Dark Divine_<br /> on Deadly Fun [2023] |
+| ![album cover][album-cover] | **Stuck In Your Head**<br />by _I Prevail_<br /> on Lifelines [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510a3756cf33cc3de21fbca7f5
+[album-cover]: https://i.scdn.co/image/ab67616d000048515fb65e285bf78b48bba4fb57
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
