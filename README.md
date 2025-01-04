@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **IN MY REMAINS**<br />by _Linkin Park_<br /> on LIVING THINGS [2012] |
+| ![album cover][album-cover] | **A Crooked Melody**<br />by _Holding Absence_<br /> on The Noble Art Of Self Destruction [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851987fb4c5ec8790e9f637a4a4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cda1dde174c38419df93c736
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
