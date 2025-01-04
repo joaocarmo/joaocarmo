@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Stuck In Your Head**<br />by _I Prevail_<br /> on Lifelines [2016] |
+| ![album cover][album-cover] | **Glass Heart**<br />by _Caskets_<br /> on Lost Souls [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515fb65e285bf78b48bba4fb57
+[album-cover]: https://i.scdn.co/image/ab67616d000048516bbd5c58e7be013e8e83dcb3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
