@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **A Crooked Melody**<br />by _Holding Absence_<br /> on The Noble Art Of Self Destruction [2023] |
+| ![album cover][album-cover] | **Cold**<br />by _Dark Divine_<br /> on Deadly Fun [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cda1dde174c38419df93c736
+[album-cover]: https://i.scdn.co/image/ab67616d000048510a3756cf33cc3de21fbca7f5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
