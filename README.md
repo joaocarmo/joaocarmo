@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Glass Heart**<br />by _Caskets_<br /> on Lost Souls [2021] |
+| ![album cover][album-cover] | **Bad Things**<br />by _I Prevail_<br /> on TRUE POWER [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516bbd5c58e7be013e8e83dcb3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fdf16e6dc8b69f3e7c2b258b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
