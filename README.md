@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bad Things**<br />by _I Prevail_<br /> on TRUE POWER [2022] |
+| ![album cover][album-cover] | **Stay Away**<br />by _Our Promise_<br /> on Stay Away [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fdf16e6dc8b69f3e7c2b258b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bafe4b0cfe9d39544822f9d8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
