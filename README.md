@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Black Butterfly**<br />by _Scott Stapp_<br /> on Higher Power [2024] |
+| ![album cover][album-cover] | **One More Night**<br />by _From the Ash_<br /> on One More Night [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485195505d60fb00de226a6b1a8f
+[album-cover]: https://i.scdn.co/image/ab67616d0000485140585be6344d7a04954b8d5e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
