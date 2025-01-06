@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **sLeepwALkeR**<br />by _The Pretty Wild_<br /> on sLeepwALkeR [2024] |
+| ![album cover][album-cover] | **Black Butterfly**<br />by _Scott Stapp_<br /> on Higher Power [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513415ebc164c5dd38f470705e
+[album-cover]: https://i.scdn.co/image/ab67616d0000485195505d60fb00de226a6b1a8f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
