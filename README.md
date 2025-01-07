@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dead Inside**<br />by _Future Palace_<br /> on Run [2022] |
+| ![album cover][album-cover] | **Weeping Willow**<br />by _The Hellfreaks_<br /> on Pitch Black Sunset [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516d6b13d1fc6d3af5ae92f61e
+[album-cover]: https://i.scdn.co/image/ab67616d000048513335ad6c72fdafba263a21ab
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
