@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **One More Night**<br />by _From the Ash_<br /> on One More Night [2020] |
+| ![album cover][album-cover] | **Dead Inside**<br />by _Future Palace_<br /> on Run [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485140585be6344d7a04954b8d5e
+[album-cover]: https://i.scdn.co/image/ab67616d000048516d6b13d1fc6d3af5ae92f61e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
