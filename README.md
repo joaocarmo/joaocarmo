@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Like a Shadow**<br />by _Holding Absence_<br /> on Holding Absence [2019] |
+| ![album cover][album-cover] | **The Queen Is Dead - Live in London, 1986**<br />by _The Smiths_<br /> on Rank [1988] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851580f566713ef339386f200e9
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a8daeaf94d82482223742b12
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
