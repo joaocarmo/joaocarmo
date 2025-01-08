@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **GODDESS**<br />by _Written by Wolves_<br /> on PLEASE, JUST BREATHE [2024] |
+| ![album cover][album-cover] | **Like a Shadow**<br />by _Holding Absence_<br /> on Holding Absence [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ea596acacbb7a06b6afaeac7
+[album-cover]: https://i.scdn.co/image/ab67616d00004851580f566713ef339386f200e9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
