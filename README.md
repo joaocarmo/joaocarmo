@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Calamity**<br />by _Annisokay_<br /> on Calamity [2023] |
+| ![album cover][album-cover] | **Codeine**<br />by _Trampled by Turtles_<br /> on Blue Sky and the Devil [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485180212228d3669d57f82160f2
+[album-cover]: https://i.scdn.co/image/ab67616d000048515c6f2b5767fc37970a23c770
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
