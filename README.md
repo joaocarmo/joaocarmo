@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **One Step Closer**<br />by _Linkin Park_<br /> on Hybrid Theory (Bonus Edition) [2000] |
+| ![album cover][album-cover] | **Blood on the Sand**<br />by _Thrice_<br /> on To Be Everywhere Is to Be Nowhere [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e2f039481babe23658fc719a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a4731b6eac04d560710bebde
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
