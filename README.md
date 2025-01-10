@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Last Dance**<br />by _Butcher Babies_<br /> on Eye For An Eye... [2023] |
+| ![album cover][album-cover] | **HOW 2 GET AWAY WITH MURDER**<br />by _South Arcade_<br /> on HOW 2 GET AWAY WITH MURDER [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485177884f44425b65103ab241e9
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cc7b20ecdf4cd732e73aeed8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
