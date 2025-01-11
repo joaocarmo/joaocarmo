@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sleepwalkers**<br />by _Aphyxion_<br /> on Void [2019] |
+| ![album cover][album-cover] | **Roses**<br />by _Banks Arcade_<br /> on Roses [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851141eaa8b5182ef14fda69345
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cd1b65274b51292e573616fc
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
