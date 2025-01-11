@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **HOW 2 GET AWAY WITH MURDER**<br />by _South Arcade_<br /> on HOW 2 GET AWAY WITH MURDER [2024] |
+| ![album cover][album-cover] | **Sleepwalkers**<br />by _Aphyxion_<br /> on Void [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cc7b20ecdf4cd732e73aeed8
+[album-cover]: https://i.scdn.co/image/ab67616d00004851141eaa8b5182ef14fda69345
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
