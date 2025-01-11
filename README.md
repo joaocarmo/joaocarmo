@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Roses**<br />by _Banks Arcade_<br /> on Roses [2020] |
+| ![album cover][album-cover] | **Older Days**<br />by _Resolve, ten56., Paleface Swiss_<br /> on Human (Extended Cut) [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cd1b65274b51292e573616fc
+[album-cover]: https://i.scdn.co/image/ab67616d000048516b705a8cd20da7e59d675b24
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
