@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Older Days**<br />by _Resolve, ten56., Paleface Swiss_<br /> on Human (Extended Cut) [2024] |
+| ![album cover][album-cover] | **The Sylvan Embrace**<br />by _Saor_<br /> on The Sylvan Embrace [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516b705a8cd20da7e59d675b24
+[album-cover]: https://i.scdn.co/image/ab67616d0000485167f1cc7f19dfc221268257df
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
