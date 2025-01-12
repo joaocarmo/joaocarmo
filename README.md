@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Sylvan Embrace**<br />by _Saor_<br /> on The Sylvan Embrace [2025] |
+| ![album cover][album-cover] | **Cascatas - 2024 Remaster**<br />by _Trêsporcento_<br /> on Quadro (2024 Remaster) [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485167f1cc7f19dfc221268257df
+[album-cover]: https://i.scdn.co/image/ab67616d000048517b82d96ec1678ed903bd9bd0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
