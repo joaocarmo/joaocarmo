@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Cascatas - 2024 Remaster**<br />by _Trêsporcento_<br /> on Quadro (2024 Remaster) [2012] |
+| ![album cover][album-cover] | **Juventude Sónica**<br />by _Linda Martini_<br /> on Casa Ocupada [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517b82d96ec1678ed903bd9bd0
+[album-cover]: https://i.scdn.co/image/ab67616d00004851006062cebb6e21fc4abc3a7d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
