@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Kerosene**<br />by _Take The Name_<br /> on Kerosene [2024] |
+| ![album cover][album-cover] | **Warriors**<br />by _Ovtlier, Chris Motionless_<br /> on Warriors [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485127a6095c87199d1609725f96
+[album-cover]: https://i.scdn.co/image/ab67616d000048514c56bba6f3def1ed8f8dcab3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
