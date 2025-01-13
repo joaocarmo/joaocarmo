@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Nightmare**<br />by _Avenged Sevenfold_<br /> on Nightmare [2010] |
+| ![album cover][album-cover] | **Shepherd of Fire**<br />by _Avenged Sevenfold_<br /> on Hail to the King [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c34064a3c5e4a25892a091f3
+[album-cover]: https://i.scdn.co/image/ab67616d000048510ea1ecb2d5271c2db402b0c2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
