@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dancing With Myself**<br />by _Billy Idol_<br /> on Vital Idol [1985] |
+| ![album cover][album-cover] | **Snuff**<br />by _Slipknot_<br /> on All Hope Is Gone (10th Anniversary) [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851de3a001606041808a9217c40
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e7fbc0883149094912559f2c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
