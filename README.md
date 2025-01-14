@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Snuff**<br />by _Slipknot_<br /> on All Hope Is Gone (10th Anniversary) [2008] |
+| ![album cover][album-cover] | **Save A Prayer**<br />by _Eagles Of Death Metal_<br /> on Zipper Down [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e7fbc0883149094912559f2c
+[album-cover]: https://i.scdn.co/image/ab67616d000048515e293bcdefac6f090df84bfc
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
