@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Warriors**<br />by _Ovtlier, Chris Motionless_<br /> on Warriors [2024] |
+| ![album cover][album-cover] | **Dancing With Myself**<br />by _Billy Idol_<br /> on Vital Idol [1985] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514c56bba6f3def1ed8f8dcab3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851de3a001606041808a9217c40
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
