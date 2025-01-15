@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Save A Prayer**<br />by _Eagles Of Death Metal_<br /> on Zipper Down [2015] |
+| ![album cover][album-cover] | **Coma**<br />by _Gaerea_<br /> on Coma [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515e293bcdefac6f090df84bfc
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f7ff229caf734dcd653ba86a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
