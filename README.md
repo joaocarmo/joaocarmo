@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sweet Sacrifice**<br />by _Evanescence_<br /> on The Open Door [2006] |
+| ![album cover][album-cover] | **Doom Slayer**<br />by _Alex Terrible_<br /> on Doom Slayer [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517b8aabae10ab5bbe7c7f11c5
+[album-cover]: https://i.scdn.co/image/ab67616d000048513270369be13d3f3d7938cc45
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
