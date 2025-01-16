@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Uncontrolled**<br />by _Future Palace_<br /> on Distortion [2024] |
+| ![album cover][album-cover] | **Solitude (2009 Remaster)**<br />by _Black Sabbath_<br /> on Master of Reality [1971] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510602ffd250c397ae360c6757
+[album-cover]: https://i.scdn.co/image/ab67616d0000485195326acf47fb8dd45e61c8d3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
