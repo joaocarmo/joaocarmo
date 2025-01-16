@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Solitude (2009 Remaster)**<br />by _Black Sabbath_<br /> on Master of Reality [1971] |
+| ![album cover][album-cover] | **Sweet Sacrifice**<br />by _Evanescence_<br /> on The Open Door [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485195326acf47fb8dd45e61c8d3
+[album-cover]: https://i.scdn.co/image/ab67616d000048517b8aabae10ab5bbe7c7f11c5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
