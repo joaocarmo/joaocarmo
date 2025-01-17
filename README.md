@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Talking Body**<br />by _Five Hundredth Year_<br /> on Talking Body [2015] |
+| ![album cover][album-cover] | **i like the way you kiss me**<br />by _Artemas_<br /> on yustyna [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485134371df0296faa5006c584cd
+[album-cover]: https://i.scdn.co/image/ab67616d000048518fe69d8df304ff053693653e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
