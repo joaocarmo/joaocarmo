@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Fool and The Beggar**<br />by _Melrose Avenue_<br /> on Fool and The Beggar [2023] |
+| ![album cover][album-cover] | **Talking Body**<br />by _Five Hundredth Year_<br /> on Talking Body [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515d2291a70dfd09422b4df305
+[album-cover]: https://i.scdn.co/image/ab67616d0000485134371df0296faa5006c584cd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
