@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Doom Slayer**<br />by _Alex Terrible_<br /> on Doom Slayer [2023] |
+| ![album cover][album-cover] | **Fool and The Beggar**<br />by _Melrose Avenue_<br /> on Fool and The Beggar [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513270369be13d3f3d7938cc45
+[album-cover]: https://i.scdn.co/image/ab67616d000048515d2291a70dfd09422b4df305
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
