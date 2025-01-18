@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Pacific Coast Highway**<br />by _Kavinsky_<br /> on Nightcall [2010] |
+| ![album cover][album-cover] | **Little Like Hell**<br />by _The Haunt_<br /> on Little Like Hell [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d6d8c2eaa1f9031b62f7a3f7
+[album-cover]: https://i.scdn.co/image/ab67616d000048517f0b8187bf945cddf276f647
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
