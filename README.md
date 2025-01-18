@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Suffocation**<br />by _Crystal Castles_<br /> on Crystal Castles (II) [2010] |
+| ![album cover][album-cover] | **Pacific Coast Highway**<br />by _Kavinsky_<br /> on Nightcall [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512acf8c820a360269715b2d6e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d6d8c2eaa1f9031b62f7a3f7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
