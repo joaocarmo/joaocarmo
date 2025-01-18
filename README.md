@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **i like the way you kiss me**<br />by _Artemas_<br /> on yustyna [2024] |
+| ![album cover][album-cover] | **Suffocation**<br />by _Crystal Castles_<br /> on Crystal Castles (II) [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518fe69d8df304ff053693653e
+[album-cover]: https://i.scdn.co/image/ab67616d000048512acf8c820a360269715b2d6e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
