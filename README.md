@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Little Like Hell**<br />by _The Haunt_<br /> on Little Like Hell [2023] |
+| ![album cover][album-cover] | **LUCKY PENNY**<br />by _JD McPherson_<br /> on UNDIVIDED HEART & SOUL [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517f0b8187bf945cddf276f647
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f2c3d5004dff7c24b66457ad
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
