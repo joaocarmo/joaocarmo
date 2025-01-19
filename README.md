@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Psycho Killer - 2005 Remaster**<br />by _Talking Heads_<br /> on Talking Heads '77 (Deluxe Version) [1977] |
+| ![album cover][album-cover] | **Alone**<br />by _Ramp_<br /> on XXV 1988-2013 [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e71708b667804f6241dd1a59
+[album-cover]: https://i.scdn.co/image/ab67616d00004851575153f1c5e82e62cf1ca2e6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
