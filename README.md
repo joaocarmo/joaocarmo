@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Habitual Decline**<br />by _Like Moths To Flames_<br /> on No Eternity In Gold [2020] |
+| ![album cover][album-cover] | **Believe**<br />by _Caskets_<br /> on Reflections [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511448fecfa5bc122755554a2c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851865913447943999fc601dde2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
