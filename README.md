@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Terrified**<br />by _Versus Me_<br /> on Terrified [2022] |
+| ![album cover][album-cover] | **BREATHING UNDERWATER**<br />by _Hot Milk_<br /> on A Call To The Void [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510b67dc34861e8492e5ab7b72
+[album-cover]: https://i.scdn.co/image/ab67616d00004851824366e6d0fbba7c97443813
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
