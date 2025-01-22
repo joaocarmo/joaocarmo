@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Voices**<br />by _Motionless In White_<br /> on Graveyard Shift [2017] |
+| ![album cover][album-cover] | **Masochistic Lovers**<br />by _The Haunt, Escape the Fate_<br /> on Masochistic Lovers [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485120bfa6114be3fcada3b5b3e3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f3aee5a1f2f9a0f8952bbb5b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
