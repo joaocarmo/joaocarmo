@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Believe**<br />by _Caskets_<br /> on Reflections [2023] |
+| ![album cover][album-cover] | **Voices**<br />by _Motionless In White_<br /> on Graveyard Shift [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851865913447943999fc601dde2
+[album-cover]: https://i.scdn.co/image/ab67616d0000485120bfa6114be3fcada3b5b3e3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
