@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Masochistic Lovers**<br />by _The Haunt, Escape the Fate_<br /> on Masochistic Lovers [2024] |
+| ![album cover][album-cover] | **The Cave We Fear To Enter**<br />by _As I Lay Dying_<br /> on Through Storms Ahead [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f3aee5a1f2f9a0f8952bbb5b
+[album-cover]: https://i.scdn.co/image/ab67616d000048512517165a3d621f45c1f73cf0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
