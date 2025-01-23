@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Cave We Fear To Enter**<br />by _As I Lay Dying_<br /> on Through Storms Ahead [2024] |
+| ![album cover][album-cover] | **Suffocate City (feat. Spencer Charnas of Ice Nine Kills)**<br />by _The Funeral Portrait, Ice Nine Kills, Spencer Charnas_<br /> on Greetings From Suffocate City [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512517165a3d621f45c1f73cf0
+[album-cover]: https://i.scdn.co/image/ab67616d0000485181c88882e535f80aea9c021a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
