@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **All the Noise**<br />by _Spacey Jane_<br /> on All the Noise [2025] |
+| ![album cover][album-cover] | **Assombro**<br />by _Linda Martini_<br /> on Passa-Montanhas [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bf33967f74fb9d48a70a79d4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851749a68c3bef05d0cc440a4ce
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
