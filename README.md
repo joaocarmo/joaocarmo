@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lust for Delirium**<br />by _MKSTN_<br /> on Desires [2022] |
+| ![album cover][album-cover] | **All the Noise**<br />by _Spacey Jane_<br /> on All the Noise [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516cab55274136d392c9ba7415
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bf33967f74fb9d48a70a79d4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
