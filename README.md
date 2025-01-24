@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Suffocate City (feat. Spencer Charnas of Ice Nine Kills)**<br />by _The Funeral Portrait, Ice Nine Kills, Spencer Charnas_<br /> on Greetings From Suffocate City [2024] |
+| ![album cover][album-cover] | **Blanket Song**<br />by _Kikagaku Moyo_<br /> on Masana Temples [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485181c88882e535f80aea9c021a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a765313b610423c0f13aa59e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
