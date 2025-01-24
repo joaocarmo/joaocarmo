@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Blanket Song**<br />by _Kikagaku Moyo_<br /> on Masana Temples [2018] |
+| ![album cover][album-cover] | **Lust for Delirium**<br />by _MKSTN_<br /> on Desires [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a765313b610423c0f13aa59e
+[album-cover]: https://i.scdn.co/image/ab67616d000048516cab55274136d392c9ba7415
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
