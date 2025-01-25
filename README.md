@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **A.F. Day**<br />by _Serj Tankian_<br /> on A.F. Day [2024] |
+| ![album cover][album-cover] | **The Void Stares Back**<br />by _Enter Shikari, WARGASM (UK)_<br /> on Dancing On The Frontline [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e130b599c305389d4280c14d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f192dbd093b8bbb521bcbad8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
