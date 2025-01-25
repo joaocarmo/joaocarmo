@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Someday**<br />by _The Strokes_<br /> on Is This It [2001] |
+| ![album cover][album-cover] | **A.F. Day**<br />by _Serj Tankian_<br /> on A.F. Day [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a388a3f20d1bf2123249cc79
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e130b599c305389d4280c14d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
