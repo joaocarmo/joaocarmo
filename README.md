@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Void Stares Back**<br />by _Enter Shikari, WARGASM (UK)_<br /> on Dancing On The Frontline [2024] |
+| ![album cover][album-cover] | **HOW 2 GET AWAY WITH MURDER**<br />by _South Arcade_<br /> on HOW 2 GET AWAY WITH MURDER [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f192dbd093b8bbb521bcbad8
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cc7b20ecdf4cd732e73aeed8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
