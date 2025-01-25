@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Assombro**<br />by _Linda Martini_<br /> on Passa-Montanhas [2025] |
+| ![album cover][album-cover] | **Someday**<br />by _The Strokes_<br /> on Is This It [2001] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851749a68c3bef05d0cc440a4ce
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a388a3f20d1bf2123249cc79
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
