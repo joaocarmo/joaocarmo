@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Mary On A Cross**<br />by _Ghost_<br /> on Seven Inches of Satanic Panic [2019] |
+| ![album cover][album-cover] | **Heaven Knows**<br />by _The Pretty Reckless_<br /> on Going to Hell [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511d58cc1747d729aee98efe77
+[album-cover]: https://i.scdn.co/image/ab67616d0000485151c0a1b9ac78ef055014d78c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
