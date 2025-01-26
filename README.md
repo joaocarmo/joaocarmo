@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **HOW 2 GET AWAY WITH MURDER**<br />by _South Arcade_<br /> on HOW 2 GET AWAY WITH MURDER [2024] |
+| ![album cover][album-cover] | **Mary On A Cross**<br />by _Ghost_<br /> on Seven Inches of Satanic Panic [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cc7b20ecdf4cd732e73aeed8
+[album-cover]: https://i.scdn.co/image/ab67616d000048511d58cc1747d729aee98efe77
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
