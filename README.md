@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Heaven Knows**<br />by _The Pretty Reckless_<br /> on Going to Hell [2014] |
+| ![album cover][album-cover] | **Paradise**<br />by _Dreamwake_<br /> on Virtual Reality [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485151c0a1b9ac78ef055014d78c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f866263921840c9de95c5abd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
