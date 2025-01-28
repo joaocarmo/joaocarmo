@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **NO FEAR**<br />by _Falling In Reverse_<br /> on Popular Monster [2024] |
+| ![album cover][album-cover] | **Strangler**<br />by _Orbit Culture_<br /> on Shaman [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cd850819595472eae0c06f66
+[album-cover]: https://i.scdn.co/image/ab67616d0000485170bec27507239105b7a9a0f0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
