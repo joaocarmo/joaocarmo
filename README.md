@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Mess Like Me**<br />by _Foxblood_<br /> on Grief & Mercy Sleep [2019] |
+| ![album cover][album-cover] | **Stay Away**<br />by _Our Promise_<br /> on Stay Away [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bb16c2c01e3e62d31abfa72e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bafe4b0cfe9d39544822f9d8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
