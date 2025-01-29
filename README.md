@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Memories**<br />by _Beyond Unbroken_<br /> on Don't Wake the Dead - EP [2017] |
+| ![album cover][album-cover] | **Mess Like Me**<br />by _Foxblood_<br /> on Grief & Mercy Sleep [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e06f25ec7c0477c084afab4d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bb16c2c01e3e62d31abfa72e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
