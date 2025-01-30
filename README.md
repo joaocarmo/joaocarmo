@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Life Inside**<br />by _Treponem Pal_<br /> on Life Inside [2025] |
+| ![album cover][album-cover] | **KINDNESS. (with Attila)**<br />by _aurorawave, Attila, Nathan Aurora_<br /> on aurorawave [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513efc0f6faca287223399eaa6
+[album-cover]: https://i.scdn.co/image/ab67616d00004851292969e83a2a1c215a86ef50
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
