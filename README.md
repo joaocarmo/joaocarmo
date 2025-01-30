@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **KINDNESS. (with Attila)**<br />by _aurorawave, Attila, Nathan Aurora_<br /> on aurorawave [2024] |
+| ![album cover][album-cover] | **Whore**<br />by _In This Moment_<br /> on Blood [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851292969e83a2a1c215a86ef50
+[album-cover]: https://i.scdn.co/image/ab67616d000048516408df24a5f0d804f26bb4c0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
