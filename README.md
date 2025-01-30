@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Stay Away**<br />by _Our Promise_<br /> on Stay Away [2021] |
+| ![album cover][album-cover] | **29**<br />by _Twentyninepalms_<br /> on 29 [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bafe4b0cfe9d39544822f9d8
+[album-cover]: https://i.scdn.co/image/ab67616d000048519a6b68015839e7eed4096938
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
