@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **29**<br />by _Twentyninepalms_<br /> on 29 [2025] |
+| ![album cover][album-cover] | **Life Inside**<br />by _Treponem Pal_<br /> on Life Inside [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519a6b68015839e7eed4096938
+[album-cover]: https://i.scdn.co/image/ab67616d000048513efc0f6faca287223399eaa6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
