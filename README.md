@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Whore**<br />by _In This Moment_<br /> on Blood [2012] |
+| ![album cover][album-cover] | **Memories**<br />by _Beyond Unbroken_<br /> on Don't Wake the Dead - EP [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516408df24a5f0d804f26bb4c0
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e06f25ec7c0477c084afab4d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
