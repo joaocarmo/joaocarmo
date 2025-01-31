@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Memories**<br />by _Beyond Unbroken_<br /> on Don't Wake the Dead - EP [2017] |
+| ![album cover][album-cover] | **The Cave We Fear To Enter**<br />by _As I Lay Dying_<br /> on Through Storms Ahead [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e06f25ec7c0477c084afab4d
+[album-cover]: https://i.scdn.co/image/ab67616d000048512517165a3d621f45c1f73cf0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
