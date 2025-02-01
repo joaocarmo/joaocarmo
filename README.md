@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Aerials**<br />by _System Of A Down_<br /> on Toxicity [2001] |
+| ![album cover][album-cover] | **I Don't Care**<br />by _Apocalyptica, Adam Gontier_<br /> on Worlds Collide [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485130d45198d0c9e8841f9a9578
+[album-cover]: https://i.scdn.co/image/ab67616d0000485129e90501a1ea82739e39da5f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
