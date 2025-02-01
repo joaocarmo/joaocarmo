@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Jenny**<br />by _NOTHING MORE_<br /> on Nothing More [2014] |
+| ![album cover][album-cover] | **I'm Not Jesus - International Version**<br />by _Apocalyptica, Corey Taylor_<br /> on Worlds Collide [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a6780d9c98263297fdeb544f
+[album-cover]: https://i.scdn.co/image/ab67616d0000485129e90501a1ea82739e39da5f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
