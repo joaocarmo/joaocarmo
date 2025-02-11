@@ -48,6 +48,5 @@
     "@types/express": "^5.0.0",
     "@types/spotify-api": "^0.0.25",
     "@types/spotify-web-api-node": "^5.0.11"
-  },
-  "packageManager": "pnpm@9.1.4+sha256.30a1801ac4e723779efed13a21f4c39f9eb6c9fbb4ced101bce06b422593d7c9"
+  }
 }
