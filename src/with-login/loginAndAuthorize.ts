@@ -1,7 +1,7 @@
 import puppeteer, {
   Browser as PuppeteerBrowser,
   Page,
-  PuppeteerLaunchOptions,
+  LaunchOptions,
 } from 'puppeteer'
 import dotenv from 'dotenv'
 
@@ -30,13 +30,13 @@ const selectors = {
 class Browser {
   browser!: PuppeteerBrowser
   page!: Page
-  options: PuppeteerLaunchOptions
+  options: LaunchOptions
 
-  constructor(initOptions: PuppeteerLaunchOptions = {}) {
+  constructor(initOptions: LaunchOptions = {}) {
     this.options = initOptions
   }
 
-  async open(extraOptions: PuppeteerLaunchOptions = {}) {
+  async open(extraOptions: LaunchOptions = {}) {
     try {
       const options = {
         ...this.options,
@@ -144,7 +144,7 @@ export const loginAndAuthorize = async (
   const args = [proxyServer && `--proxy-server=${proxyServer}`].filter(
     Boolean,
   ) as string[]
-  const options: PuppeteerLaunchOptions = {
+  const options: LaunchOptions = {
     headless,
     defaultViewport: {
       width: 1920,
