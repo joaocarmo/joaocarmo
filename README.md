@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dangerous**<br />by _Seether_<br /> on Si Vis Pacem, Para Bellum [2020] |
+| ![album cover][album-cover] | **Take a Bow**<br />by _Mammoth WVH_<br /> on Mammoth II [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515ca27e07de053ed44dff8fca
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a36ec578bac464599aa34b98
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
