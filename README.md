@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Fire**<br />by _PVRIS_<br /> on White Noise [2014] |
+| ![album cover][album-cover] | **Running up That Hill**<br />by _Night Rider, Affiance_<br /> on Running up That Hill [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a00a1fac53a64d8589755376
+[album-cover]: https://i.scdn.co/image/ab67616d0000485104f425631623212f1f4fc6b2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
