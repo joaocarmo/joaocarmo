@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Take a Bow**<br />by _Mammoth WVH_<br /> on Mammoth II [2023] |
+| ![album cover][album-cover] | **Fire**<br />by _PVRIS_<br /> on White Noise [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a36ec578bac464599aa34b98
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a00a1fac53a64d8589755376
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
