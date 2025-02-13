@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Running up That Hill**<br />by _Night Rider, Affiance_<br /> on Running up That Hill [2022] |
+| ![album cover][album-cover] | **Made For Love**<br />by _Archers_<br /> on Made For Love [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485104f425631623212f1f4fc6b2
+[album-cover]: https://i.scdn.co/image/ab67616d000048512f30e9707746517196c62c80
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
