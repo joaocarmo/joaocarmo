@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Monster**<br />by _Take The Name_<br /> on Monster [2024] |
+| ![album cover][album-cover] | **THE BACKROOM**<br />by _SEVER THE DAY, Obzene_<br /> on THE BACKROOM [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851261558dc76ab46c48cf1947f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a43d21f716cd87c3b26a34c3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
