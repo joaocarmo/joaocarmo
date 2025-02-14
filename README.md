@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Made For Love**<br />by _Archers_<br /> on Made For Love [2024] |
+| ![album cover][album-cover] | **Monster**<br />by _Take The Name_<br /> on Monster [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512f30e9707746517196c62c80
+[album-cover]: https://i.scdn.co/image/ab67616d00004851261558dc76ab46c48cf1947f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
