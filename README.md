@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Chemicals**<br />by _The Dark_<br /> on Chemicals [2024] |
+| ![album cover][album-cover] | **What We Have Done**<br />by _Fixation_<br /> on Global Suicide [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485115c98e86163247092e47c707
+[album-cover]: https://i.scdn.co/image/ab67616d000048514ddd9b01fcd80158c9241460
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
