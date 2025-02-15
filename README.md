@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Monster**<br />by _Beyond Unbroken_<br /> on Destruction [2024] |
+| ![album cover][album-cover] | **Chemicals**<br />by _The Dark_<br /> on Chemicals [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a0096053e9c9f9f19e1a5700
+[album-cover]: https://i.scdn.co/image/ab67616d0000485115c98e86163247092e47c707
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
