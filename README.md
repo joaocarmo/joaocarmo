@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **What We Have Done**<br />by _Fixation_<br /> on Global Suicide [2020] |
+| ![album cover][album-cover] | **system**<br />by _Moikkz_<br /> on SAVE YOUR SOUL [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514ddd9b01fcd80158c9241460
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ed1dd9f965635d2a5290c825
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
