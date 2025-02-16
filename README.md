@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **system**<br />by _Moikkz_<br /> on SAVE YOUR SOUL [2024] |
+| ![album cover][album-cover] | **Don't Tell Me (feat. Ann Wilson)**<br />by _Disturbed, Ann Wilson_<br /> on Divisive [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ed1dd9f965635d2a5290c825
+[album-cover]: https://i.scdn.co/image/ab67616d00004851dd94cdd2564a2f98763e07b4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
