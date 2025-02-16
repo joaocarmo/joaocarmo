@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Don't Tell Me (feat. Ann Wilson)**<br />by _Disturbed, Ann Wilson_<br /> on Divisive [2023] |
+| ![album cover][album-cover] | **Nymphetamine Fix**<br />by _Cradle Of Filth_<br /> on Nymphetamine Special Edition [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851dd94cdd2564a2f98763e07b4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ab2535a96b875359d6cd4df7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
