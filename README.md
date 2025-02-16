@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Nymphetamine Fix**<br />by _Cradle Of Filth_<br /> on Nymphetamine Special Edition [2004] |
+| ![album cover][album-cover] | **Heaven Without You**<br />by _KID BRUNSWICK_<br /> on Heaven Without You [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ab2535a96b875359d6cd4df7
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d4cd1945d81d715bda6f0014
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
