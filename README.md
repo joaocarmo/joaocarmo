@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Heaven Without You**<br />by _KID BRUNSWICK_<br /> on Heaven Without You [2023] |
+| ![album cover][album-cover] | **Outrun**<br />by _Veil Of Maya_<br /> on Outrun [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d4cd1945d81d715bda6f0014
+[album-cover]: https://i.scdn.co/image/ab67616d0000485191e43331efdfa5697bc1c745
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
