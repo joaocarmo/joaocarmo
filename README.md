@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **One More Time Around**<br />by _The Lonely Ones_<br /> on One More Time Around [2023] |
+| ![album cover][album-cover] | **Nothing to Hide**<br />by _Caskets_<br /> on Lost Souls [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514a94850644a424f7723a8b3d
+[album-cover]: https://i.scdn.co/image/ab67616d000048516bbd5c58e7be013e8e83dcb3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
