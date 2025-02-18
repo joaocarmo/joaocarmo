@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Outrun**<br />by _Veil Of Maya_<br /> on Outrun [2021] |
+| ![album cover][album-cover] | **One More Time Around**<br />by _The Lonely Ones_<br /> on One More Time Around [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485191e43331efdfa5697bc1c745
+[album-cover]: https://i.scdn.co/image/ab67616d000048514a94850644a424f7723a8b3d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
