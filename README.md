@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Reptile**<br />by _Periphery_<br /> on Periphery IV: HAIL STAN [2019] |
+| ![album cover][album-cover] | **Butterfly**<br />by _Wearing Scars_<br /> on A Thousand Words [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518b0a50d107d50cdd18df6db3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e0e6f35450e482a45c4cd824
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
