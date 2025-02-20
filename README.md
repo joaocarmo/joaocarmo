@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Nothing to Hide**<br />by _Caskets_<br /> on Lost Souls [2021] |
+| ![album cover][album-cover] | **Peace of Mind**<br />by _Villain of the Story_<br /> on Ashes [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516bbd5c58e7be013e8e83dcb3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b2f2e80920833aebfb15a15b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
