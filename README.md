@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Peace of Mind**<br />by _Villain of the Story_<br /> on Ashes [2018] |
+| ![album cover][album-cover] | **Reptile**<br />by _Periphery_<br /> on Periphery IV: HAIL STAN [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b2f2e80920833aebfb15a15b
+[album-cover]: https://i.scdn.co/image/ab67616d000048518b0a50d107d50cdd18df6db3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
