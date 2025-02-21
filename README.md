@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Butterfly**<br />by _Wearing Scars_<br /> on A Thousand Words [2014] |
+| ![album cover][album-cover] | **KINDNESS. (with Attila)**<br />by _aurorawave, Attila, Nathan Aurora_<br /> on aurorawave [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e0e6f35450e482a45c4cd824
+[album-cover]: https://i.scdn.co/image/ab67616d00004851292969e83a2a1c215a86ef50
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
