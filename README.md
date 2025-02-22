@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dig Your Grave**<br />by _True Villains_<br /> on Dig Your Grave [2021] |
+| ![album cover][album-cover] | **Behind Closed Doors**<br />by _Cassyette, KID BRUNSWICK_<br /> on Behind Closed Doors [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b85199c14f5824d46b022afa
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a66bfbb12dfdddcf506363c5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
