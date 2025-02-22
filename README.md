@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bird of Paradise**<br />by _Graveyard_<br /> on Peace [2018] |
+| ![album cover][album-cover] | **Dig Your Grave**<br />by _True Villains_<br /> on Dig Your Grave [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851800fa0e96c9a5e00f727fc45
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b85199c14f5824d46b022afa
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
