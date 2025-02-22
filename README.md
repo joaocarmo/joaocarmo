@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **What's Wrong With Me**<br />by _Spin Twice_<br /> on Gravity [2023] |
+| ![album cover][album-cover] | **Bird of Paradise**<br />by _Graveyard_<br /> on Peace [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851403bd8cbdc09496deb6a43aa
+[album-cover]: https://i.scdn.co/image/ab67616d00004851800fa0e96c9a5e00f727fc45
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
