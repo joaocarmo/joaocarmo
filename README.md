@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Behind Closed Doors**<br />by _Cassyette, KID BRUNSWICK_<br /> on Behind Closed Doors [2021] |
+| ![album cover][album-cover] | **Still Waiting**<br />by _Sum 41_<br /> on Does This Look Infected? [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a66bfbb12dfdddcf506363c5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d6176a711e031d6522840c52
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
