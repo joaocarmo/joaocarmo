@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **American Idiot**<br />by _Green Day_<br /> on American Idiot [2004] |
+| ![album cover][album-cover] | **Petrichor**<br />by _Cassyette_<br /> on Petrichor [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485108a1b1e0674086d3f1995e1b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f89730c2ae652c5d18c9a645
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
