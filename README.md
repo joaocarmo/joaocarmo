@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Petrichor**<br />by _Cassyette_<br /> on Petrichor [2021] |
+| ![album cover][album-cover] | **Not Falling**<br />by _Mudvayne_<br /> on The End Of All Things To Come [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f89730c2ae652c5d18c9a645
+[album-cover]: https://i.scdn.co/image/ab67616d0000485138ad65f0aee427a14e231b47
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
