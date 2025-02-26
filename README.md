@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Blood**<br />by _East Capri_<br /> on Blood [2024] |
+| ![album cover][album-cover] | **Elvis Presley Circle Pit**<br />by _Devilskin_<br /> on We Rise [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a72e99044e942bbe271cfcac
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e22bdec1c595fc628d4ea6d1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
