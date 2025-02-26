@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Left To Loathe**<br />by _Heists_<br /> on Left To Loathe [2023] |
+| ![album cover][album-cover] | **Blood**<br />by _East Capri_<br /> on Blood [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851edd2a5104c536cbb5e017880
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a72e99044e942bbe271cfcac
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
