@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Not Falling**<br />by _Mudvayne_<br /> on The End Of All Things To Come [2002] |
+| ![album cover][album-cover] | **Left To Loathe**<br />by _Heists_<br /> on Left To Loathe [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485138ad65f0aee427a14e231b47
+[album-cover]: https://i.scdn.co/image/ab67616d00004851edd2a5104c536cbb5e017880
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
