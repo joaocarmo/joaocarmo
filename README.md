@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Elvis Presley Circle Pit**<br />by _Devilskin_<br /> on We Rise [2014] |
+| ![album cover][album-cover] | **Fear**<br />by _Every Waking Moment_<br /> on Fear [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e22bdec1c595fc628d4ea6d1
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bf2280855d62ed5ae4352a8a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
