@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **hometown**<br />by _cleopatrick_<br /> on hometown [2017] |
+| ![album cover][album-cover] | **Ritual**<br />by _Reignwolf_<br /> on Hear Me Out [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a59754feaf627b99328962d3
+[album-cover]: https://i.scdn.co/image/ab67616d000048513d7eddd9401e833c32809674
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
