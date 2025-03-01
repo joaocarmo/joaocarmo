@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Ritual**<br />by _Reignwolf_<br /> on Hear Me Out [2019] |
+| ![album cover][album-cover] | **Poison**<br />by _BUNNY_<br /> on Poison [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513d7eddd9401e833c32809674
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b9e630555e17a9d711fad07a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
