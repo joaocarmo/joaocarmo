@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Not Falling**<br />by _Mudvayne_<br /> on The End Of All Things To Come [2002] |
+| ![album cover][album-cover] | **hometown**<br />by _cleopatrick_<br /> on hometown [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485138ad65f0aee427a14e231b47
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a59754feaf627b99328962d3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
