@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **.CoDA.**<br />by _Dead Poet Society_<br /> on -!- (Deluxe) [2021] |
+| ![album cover][album-cover] | **Black Smoke Rising**<br />by _Greta Van Fleet_<br /> on From The Fires [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c38f0d9cbb43f048d8a6cc60
+[album-cover]: https://i.scdn.co/image/ab67616d0000485157b7f789d328c205b4d15893
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
