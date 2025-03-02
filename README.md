@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Poison**<br />by _BUNNY_<br /> on Poison [2024] |
+| ![album cover][album-cover] | **.CoDA.**<br />by _Dead Poet Society_<br /> on -!- (Deluxe) [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b9e630555e17a9d711fad07a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c38f0d9cbb43f048d8a6cc60
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
