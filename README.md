@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Black Smoke Rising**<br />by _Greta Van Fleet_<br /> on From The Fires [2017] |
+| ![album cover][album-cover] | **Distortion Sleep**<br />by _Soilwork_<br /> on Figure Number Five [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485157b7f789d328c205b4d15893
+[album-cover]: https://i.scdn.co/image/ab67616d000048511b962bb6ef3614610adafaaf
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
