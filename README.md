@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Distortion Sleep**<br />by _Soilwork_<br /> on Figure Number Five [2003] |
+| ![album cover][album-cover] | **Bleeding In The Snow**<br />by _The Plague_<br /> on Hope for the F.U.T.U.R.E. [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511b962bb6ef3614610adafaaf
+[album-cover]: https://i.scdn.co/image/ab67616d000048511d52ee932a5cc9a0d70203c2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
