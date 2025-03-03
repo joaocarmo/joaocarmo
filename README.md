@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **IDK**<br />by _Gemini Syndrome_<br /> on 3rd Degree - The Raising [2021] |
+| ![album cover][album-cover] | **FiftyFive**<br />by _Our Promise_<br /> on FiftyFive [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485123b27fdce238923912902f6d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bde0cd7b3c6b6e4a07ee5eee
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
