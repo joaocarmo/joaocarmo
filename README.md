@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **FiftyFive**<br />by _Our Promise_<br /> on FiftyFive [2024] |
+| ![album cover][album-cover] | **Thieves & Kings**<br />by _The Peach Kings_<br /> on Thieves & Kings [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bde0cd7b3c6b6e4a07ee5eee
+[album-cover]: https://i.scdn.co/image/ab67616d000048517f10323450defe47e95d818d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
