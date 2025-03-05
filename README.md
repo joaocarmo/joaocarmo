@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Thieves & Kings**<br />by _The Peach Kings_<br /> on Thieves & Kings [2012] |
+| ![album cover][album-cover] | **Black Veins**<br />by _Adept_<br /> on Sleepless [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517f10323450defe47e95d818d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ef8f5b5f7a6064ed65b9c4ad
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
