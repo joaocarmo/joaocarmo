@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lost Within**<br />by _Fivefold_<br /> on The Story [2012] |
+| ![album cover][album-cover] | **Wanted**<br />by _ODC_<br /> on Wanted [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a2feb465ead4bcc5da661705
+[album-cover]: https://i.scdn.co/image/ab67616d0000485170c9940c6c5fca95a41063e4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
