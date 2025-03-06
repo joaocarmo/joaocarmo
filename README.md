@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wanted**<br />by _ODC_<br /> on Wanted [2021] |
+| ![album cover][album-cover] | **Random Acts of Violence**<br />by _Fixation_<br /> on Speak in Tongues [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485170c9940c6c5fca95a41063e4
+[album-cover]: https://i.scdn.co/image/ab67616d0000485109633658b41e063b9512a585
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
