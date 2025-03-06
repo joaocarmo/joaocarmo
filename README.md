@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Blade**<br />by _Yenne_<br /> on Blade [2024] |
+| ![album cover][album-cover] | **Lost Within**<br />by _Fivefold_<br /> on The Story [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485114db10a06083cacb0f5ef0f2
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a2feb465ead4bcc5da661705
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
