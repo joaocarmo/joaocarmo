@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Random Acts of Violence**<br />by _Fixation_<br /> on Speak in Tongues [2024] |
+| ![album cover][album-cover] | **What We Have Done**<br />by _Fixation_<br /> on Global Suicide [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485109633658b41e063b9512a585
+[album-cover]: https://i.scdn.co/image/ab67616d000048514ddd9b01fcd80158c9241460
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
