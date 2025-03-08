@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Distance**<br />by _Soilwork_<br /> on Stabbing the Drama [2005] |
+| ![album cover][album-cover] | **Not Strong Enough**<br />by _Apocalyptica, Brent Smith_<br /> on 7th Symphony [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d652d405807445c8c56e1251
+[album-cover]: https://i.scdn.co/image/ab67616d000048515eff76a50afb7c477e1f1e34
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
