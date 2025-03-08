@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Not Strong Enough**<br />by _Apocalyptica, Brent Smith_<br /> on 7th Symphony [2010] |
+| ![album cover][album-cover] | **Elevator Operator**<br />by _Electric Callboy_<br /> on Elevator Operator [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515eff76a50afb7c477e1f1e34
+[album-cover]: https://i.scdn.co/image/ab67616d000048511b5a91650a2ef165828d936d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
