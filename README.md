@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Elevator Operator**<br />by _Electric Callboy_<br /> on Elevator Operator [2025] |
+| ![album cover][album-cover] | **Dreamweavers**<br />by _The Last Element_<br /> on Dreamweavers [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511b5a91650a2ef165828d936d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851dc656866e41bc7e76172fd90
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
