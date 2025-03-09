@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dreamweavers**<br />by _The Last Element_<br /> on Dreamweavers [2017] |
+| ![album cover][album-cover] | **Not Alone**<br />by _Discrepancies_<br /> on The Awakening [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851dc656866e41bc7e76172fd90
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c24015e37ba1602f458721e7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
