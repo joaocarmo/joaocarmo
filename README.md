@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Not Alone**<br />by _Discrepancies_<br /> on The Awakening [2018] |
+| ![album cover][album-cover] | **Pretty Vicious**<br />by _The Struts_<br /> on Pretty Vicious [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c24015e37ba1602f458721e7
+[album-cover]: https://i.scdn.co/image/ab67616d000048512bc95437875b8906f5e368a7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
