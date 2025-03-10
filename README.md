@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Pretty Vicious**<br />by _The Struts_<br /> on Pretty Vicious [2023] |
+| ![album cover][album-cover] | **Walk Tall II**<br />by _Set to Stun_<br /> on VALKYRIE ONE [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512bc95437875b8906f5e368a7
+[album-cover]: https://i.scdn.co/image/ab67616d000048517ed47a7d7a5b8f9eccf07a25
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
