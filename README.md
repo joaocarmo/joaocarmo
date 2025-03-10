@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Walk Tall II**<br />by _Set to Stun_<br /> on VALKYRIE ONE [2023] |
+| ![album cover][album-cover] | **Firefly**<br />by _Esoterica_<br /> on Firefly [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517ed47a7d7a5b8f9eccf07a25
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b475611c693b18081cad5a89
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
