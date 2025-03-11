@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Firefly**<br />by _Esoterica_<br /> on Firefly [2024] |
+| ![album cover][album-cover] | **11 Minutes**<br />by _Wars_<br /> on 11 Minutes [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b475611c693b18081cad5a89
+[album-cover]: https://i.scdn.co/image/ab67616d000048513cd3caa3679084ce974392e4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
