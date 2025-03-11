@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **11 Minutes**<br />by _Wars_<br /> on 11 Minutes [2019] |
+| ![album cover][album-cover] | **Airhead**<br />by _Honey Revenge_<br /> on Retrovision [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513cd3caa3679084ce974392e4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e5aae388b055f82fccb008fa
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
