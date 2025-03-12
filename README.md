@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Airhead**<br />by _Honey Revenge_<br /> on Retrovision [2023] |
+| ![album cover][album-cover] | **Lay in Bed**<br />by _After a Night of Unsettling Dreams_<br /> on Lay in Bed [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e5aae388b055f82fccb008fa
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f1d0771ca29d15e750774d3a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
