@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lay in Bed**<br />by _After a Night of Unsettling Dreams_<br /> on Lay in Bed [2021] |
+| ![album cover][album-cover] | **Your Life Your Call**<br />by _Junip_<br /> on Junip [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f1d0771ca29d15e750774d3a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b705c8ee0ebb7eac44501833
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
