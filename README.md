@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Is This The End**<br />by _Vilivant_<br /> on Is This The End [2024] |
+| ![album cover][album-cover] | **Narcissistic Egotist**<br />by _Crystalline_<br /> on Narcissistic Egotist [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851adc5a23f454551c2dfef742f
+[album-cover]: https://i.scdn.co/image/ab67616d000048514369510d0dd28b87aaebba71
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
