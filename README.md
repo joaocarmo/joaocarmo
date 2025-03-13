@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Your Life Your Call**<br />by _Junip_<br /> on Junip [2013] |
+| ![album cover][album-cover] | **Is This The End**<br />by _Vilivant_<br /> on Is This The End [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b705c8ee0ebb7eac44501833
+[album-cover]: https://i.scdn.co/image/ab67616d00004851adc5a23f454551c2dfef742f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
