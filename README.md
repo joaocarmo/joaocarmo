@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Narcissistic Egotist**<br />by _Crystalline_<br /> on Narcissistic Egotist [2023] |
+| ![album cover][album-cover] | **Easier to Run**<br />by _Linkin Park_<br /> on Meteora (Bonus Edition) [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514369510d0dd28b87aaebba71
+[album-cover]: https://i.scdn.co/image/ab67616d000048518b5b6fa1326d996181e71dd7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
