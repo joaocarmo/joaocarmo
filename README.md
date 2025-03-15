@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bleeding In The Snow**<br />by _The Plague_<br /> on Hope for the F.U.T.U.R.E. [2022] |
+| ![album cover][album-cover] | **Freak On a Leash**<br />by _Korn_<br /> on Follow The Leader [1998] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511d52ee932a5cc9a0d70203c2
+[album-cover]: https://i.scdn.co/image/ab67616d0000485150d216aebaf98e8ac9947fd5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
