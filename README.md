@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I'm Not A Vampire**<br />by _Falling In Reverse_<br /> on The Drug In Me Is You [2011] |
+| ![album cover][album-cover] | **Entre dos tierras**<br />by _Till Lindemann_<br /> on Entre dos tierras [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512a4546ed22694f4297f6bdb9
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ca25686a403e8f960b8dacbd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
