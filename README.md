@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Entre dos tierras**<br />by _Till Lindemann_<br /> on Entre dos tierras [2023] |
+| ![album cover][album-cover] | **Take Me Out**<br />by _Franz Ferdinand_<br /> on Franz Ferdinand [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ca25686a403e8f960b8dacbd
+[album-cover]: https://i.scdn.co/image/ab67616d0000485109a90531b85be7899c3234c4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
