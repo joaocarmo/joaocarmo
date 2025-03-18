@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Take Me Out**<br />by _Franz Ferdinand_<br /> on Franz Ferdinand [2004] |
+| ![album cover][album-cover] | **Mirror Glass**<br />by _High Regard_<br /> on Mirror Glass [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485109a90531b85be7899c3234c4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851921ab26563a217485331fb37
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
