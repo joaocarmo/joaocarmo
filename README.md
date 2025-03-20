@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Drop**<br />by _The Blue Stones_<br /> on Black Holes [2018] |
+| ![album cover][album-cover] | **Afterlife**<br />by _Holding Absence_<br /> on The Greatest Mistake of My Life [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516f2e408c2bfdfc50374b8589
+[album-cover]: https://i.scdn.co/image/ab67616d00004851541a0129b72e8cbac8fa095f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
