@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Afterlife**<br />by _Holding Absence_<br /> on The Greatest Mistake of My Life [2021] |
+| ![album cover][album-cover] | **Placebo**<br />by _The New Age_<br /> on Placebo [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851541a0129b72e8cbac8fa095f
+[album-cover]: https://i.scdn.co/image/ab67616d0000485188bb089ae647b63209b81530
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
