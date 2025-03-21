@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **One More Day**<br />by _We Are the Catalyst_<br /> on Elevation [2016] |
+| ![album cover][album-cover] | **The Urge**<br />by _Judge & Jury, Tyler Connolly, Theory of a Deadman_<br /> on The Urge [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851429f76e777adf3dbbf98aa27
+[album-cover]: https://i.scdn.co/image/ab67616d000048514c4b3722e56d8b63b015dace
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
