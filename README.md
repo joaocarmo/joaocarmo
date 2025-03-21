@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Placebo**<br />by _The New Age_<br /> on Placebo [2018] |
+| ![album cover][album-cover] | **One More Day**<br />by _We Are the Catalyst_<br /> on Elevation [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485188bb089ae647b63209b81530
+[album-cover]: https://i.scdn.co/image/ab67616d00004851429f76e777adf3dbbf98aa27
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
