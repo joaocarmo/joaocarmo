@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Urge**<br />by _Judge & Jury, Tyler Connolly, Theory of a Deadman_<br /> on The Urge [2024] |
+| ![album cover][album-cover] | **I Can't Escape**<br />by _Lockjaw_<br /> on RELENTLESS [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514c4b3722e56d8b63b015dace
+[album-cover]: https://i.scdn.co/image/ab67616d000048517335e244dd932b42aa42a14b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
