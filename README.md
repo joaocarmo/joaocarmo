@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Can't Escape**<br />by _Lockjaw_<br /> on RELENTLESS [2023] |
+| ![album cover][album-cover] | **Growing Pains**<br />by _Last Hounds_<br /> on Growing Pains [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517335e244dd932b42aa42a14b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b84b34a420cc7856b0059b4e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
