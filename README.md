@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Growing Pains**<br />by _Last Hounds_<br /> on Growing Pains [2024] |
+| ![album cover][album-cover] | **(Don't Fear) The Reaper**<br />by _Blue Öyster Cult_<br /> on Agents Of Fortune [1976] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b84b34a420cc7856b0059b4e
+[album-cover]: https://i.scdn.co/image/ab67616d000048513ac318439ae56ce048d7bf5d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
