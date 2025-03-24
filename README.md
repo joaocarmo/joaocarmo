@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **(Don't Fear) The Reaper**<br />by _Blue Öyster Cult_<br /> on Agents Of Fortune [1976] |
+| ![album cover][album-cover] | **Monsters (feat. Demi Lovato and blackbear)**<br />by _All Time Low, Demi Lovato, blackbear_<br /> on Monsters (feat. Demi Lovato and blackbear) [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513ac318439ae56ce048d7bf5d
+[album-cover]: https://i.scdn.co/image/ab67616d0000485135aa8800b1c2e000c3ce07f6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
