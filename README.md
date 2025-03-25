@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bad Day**<br />by _Charlotte Sands_<br /> on Love and Other Lies [2022] |
+| ![album cover][album-cover] | **Voices (Randy Orton)**<br />by _Rev Theory_<br /> on Salvation Nowhere [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516064c05b57123df634910611
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ef1fda7216fc11d617f2fd9b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
