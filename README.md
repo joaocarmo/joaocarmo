@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Voices (Randy Orton)**<br />by _Rev Theory_<br /> on Salvation Nowhere [2024] |
+| ![album cover][album-cover] | **Forget You**<br />by _Avalon Stone_<br /> on Forget You [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ef1fda7216fc11d617f2fd9b
+[album-cover]: https://i.scdn.co/image/ab67616d0000485162dd729b431eb24fdf2b2277
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
