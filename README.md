@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **deep cuts**<br />by _LUNA KILLS_<br /> on deep cuts [2023] |
+| ![album cover][album-cover] | **X (feat. Maluma & Ozuna) - Remix**<br />by _Nicky Jam, J Balvin, Maluma, Ozuna_<br /> on X (feat. Maluma & Ozuna) [Remix] [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d8dc3b8d599a1162c9f8562a
+[album-cover]: https://i.scdn.co/image/ab67616d0000485143ec4e5bf12be32fc0beaac2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
