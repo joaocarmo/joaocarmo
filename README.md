@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **X (feat. Maluma & Ozuna) - Remix**<br />by _Nicky Jam, J Balvin, Maluma, Ozuna_<br /> on X (feat. Maluma & Ozuna) [Remix] [2018] |
+| ![album cover][album-cover] | **On My Sleeve**<br />by _Creed_<br /> on Full Circle [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485143ec4e5bf12be32fc0beaac2
+[album-cover]: https://i.scdn.co/image/ab67616d00004851024d18f1943e08dbf91208d9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
