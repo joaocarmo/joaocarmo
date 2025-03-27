@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Forget You**<br />by _Avalon Stone_<br /> on Forget You [2023] |
+| ![album cover][album-cover] | **deep cuts**<br />by _LUNA KILLS_<br /> on deep cuts [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485162dd729b431eb24fdf2b2277
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d8dc3b8d599a1162c9f8562a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
