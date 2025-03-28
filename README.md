@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **On My Sleeve**<br />by _Creed_<br /> on Full Circle [2009] |
+| ![album cover][album-cover] | **Fix Me**<br />by _10 Years_<br /> on Feeding The Wolves (Deluxe Version) [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851024d18f1943e08dbf91208d9
+[album-cover]: https://i.scdn.co/image/ab67616d000048511ff855f3f2d8250af39392c3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
