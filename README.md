@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Windowpane**<br />by _Opeth_<br /> on Damnation [2003] |
+| ![album cover][album-cover] | **Reminder**<br />by _Kryn_<br /> on Scars Remind Me [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cf5507e5a84e6332c910b0d5
+[album-cover]: https://i.scdn.co/image/ab67616d000048513b472dc3f286d9c09d2837a8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
