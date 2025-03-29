@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Reminder**<br />by _Kryn_<br /> on Scars Remind Me [2014] |
+| ![album cover][album-cover] | **Inertia**<br />by _Summer Hailstorm_<br /> on Inertia [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513b472dc3f286d9c09d2837a8
+[album-cover]: https://i.scdn.co/image/ab67616d000048515f9dbc90bf90e25fe2ef4558
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
