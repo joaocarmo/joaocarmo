@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Inertia**<br />by _Summer Hailstorm_<br /> on Inertia [2023] |
+| ![album cover][album-cover] | **Too Late**<br />by _Dead By Sunrise_<br /> on Out Of Ashes [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515f9dbc90bf90e25fe2ef4558
+[album-cover]: https://i.scdn.co/image/ab67616d000048513cea3f53137fcb2cc86a481c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
