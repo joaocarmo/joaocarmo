@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Too Late**<br />by _Dead By Sunrise_<br /> on Out Of Ashes [2009] |
+| ![album cover][album-cover] | **Hijack**<br />by _Our Promise_<br /> on Hijack [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513cea3f53137fcb2cc86a481c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b69b99ee43edba53f65b95b4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
