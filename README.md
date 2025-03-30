@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hijack**<br />by _Our Promise_<br /> on Hijack [2024] |
+| ![album cover][album-cover] | **Two Faced**<br />by _Linkin Park_<br /> on From Zero [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b69b99ee43edba53f65b95b4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b11a5489e8cb11dd22b930a0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
