@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Glass Spiders**<br />by _Hot Milk_<br /> on Glass Spiders [2020] |
+| ![album cover][album-cover] | **A Deathless Song**<br />by _Parkway Drive, Hevenshe_<br /> on Ire (Deluxe Edition) [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485153661bfc684241290b460135
+[album-cover]: https://i.scdn.co/image/ab67616d00004851949b2f8a0936f777618bf7d4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
