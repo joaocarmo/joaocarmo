@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Maze of White**<br />by _Chasing Desolation_<br /> on The Moth Collection [2020] |
+| ![album cover][album-cover] | **Glass Spiders**<br />by _Hot Milk_<br /> on Glass Spiders [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512251feff64531d3b38773442
+[album-cover]: https://i.scdn.co/image/ab67616d0000485153661bfc684241290b460135
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
