@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Silence That Remains**<br />by _The Horrors_<br /> on Night Life [2025] |
+| ![album cover][album-cover] | **Maze of White**<br />by _Chasing Desolation_<br /> on The Moth Collection [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851158a3ba3a04ccb36798e2078
+[album-cover]: https://i.scdn.co/image/ab67616d000048512251feff64531d3b38773442
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
