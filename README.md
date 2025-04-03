@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bodybag**<br />by _Wind Walkers_<br /> on What If I Break? [2023] |
+| ![album cover][album-cover] | **Burden**<br />by _Opeth_<br /> on Watershed (Special Edition) [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511dba984405b9c9d33e03b0d4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b3d0748332085d168b6e47d3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
