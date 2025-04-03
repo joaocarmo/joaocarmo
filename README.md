@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Glass Spiders**<br />by _Hot Milk_<br /> on Glass Spiders [2020] |
+| ![album cover][album-cover] | **Bodybag**<br />by _Wind Walkers_<br /> on What If I Break? [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485153661bfc684241290b460135
+[album-cover]: https://i.scdn.co/image/ab67616d000048511dba984405b9c9d33e03b0d4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
