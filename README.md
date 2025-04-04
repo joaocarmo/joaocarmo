@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Burden**<br />by _Opeth_<br /> on Watershed (Special Edition) [2008] |
+| ![album cover][album-cover] | **Damnation Flame**<br />by _Amaranthe_<br /> on The Catalyst [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b3d0748332085d168b6e47d3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f73682a00d49786b8c743cfd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
