@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Gravity**<br />by _The Last Element_<br /> on Gravity [2017] |
+| ![album cover][album-cover] | **Placebo**<br />by _The New Age_<br /> on Placebo [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485158303837b2a8607bf0857058
+[album-cover]: https://i.scdn.co/image/ab67616d0000485188bb089ae647b63209b81530
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
