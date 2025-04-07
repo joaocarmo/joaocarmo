@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Fire Up the Night**<br />by _New Medicine_<br /> on Breaking the Model [2014] |
+| ![album cover][album-cover] | **One for All**<br />by _RoZY_<br /> on One for All [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519ff2067c9c754519a3cacd50
+[album-cover]: https://i.scdn.co/image/ab67616d00004851069ae1b3b9c3be676f06b467
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
