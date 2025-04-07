@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **One for All**<br />by _RoZY_<br /> on One for All [2023] |
+| ![album cover][album-cover] | **It's Over When It's Over**<br />by _Falling In Reverse_<br /> on Fashionably Late (Deluxe Edition) [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851069ae1b3b9c3be676f06b467
+[album-cover]: https://i.scdn.co/image/ab67616d000048517d01393d71b8025b4b8c2514
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
