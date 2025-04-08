@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **It's Over When It's Over**<br />by _Falling In Reverse_<br /> on Fashionably Late (Deluxe Edition) [2013] |
+| ![album cover][album-cover] | **Decode - Twilight Soundtrack Version**<br />by _Paramore_<br /> on Brand New Eyes [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517d01393d71b8025b4b8c2514
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b9abbedc516dd297039977bd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
