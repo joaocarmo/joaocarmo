@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bombs Away**<br />by _Age of Days_<br /> on Radioactivity [2013] |
+| ![album cover][album-cover] | **Aloy's Theme (feat. Julie Elven) - Part 1 - Motherland**<br />by _Joris de Man, Julie Elven_<br /> on Horizon Zero Dawn (Original Soundtrack) [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485144b82ee1397e1647c55014b0
+[album-cover]: https://i.scdn.co/image/ab67616d000048512523b2f62d91b1c9a82a0645
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
