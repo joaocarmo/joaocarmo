@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Aloy's Theme (feat. Julie Elven) - Part 1 - Motherland**<br />by _Joris de Man, Julie Elven_<br /> on Horizon Zero Dawn (Original Soundtrack) [2017] |
+| ![album cover][album-cover] | **The Summoning**<br />by _Sleep Token_<br /> on Take Me Back To Eden [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512523b2f62d91b1c9a82a0645
+[album-cover]: https://i.scdn.co/image/ab67616d000048510b73608b678f169d3c8f35f0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
