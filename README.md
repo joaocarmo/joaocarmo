@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Summoning**<br />by _Sleep Token_<br /> on Take Me Back To Eden [2023] |
+| ![album cover][album-cover] | **What We Have Done**<br />by _Fixation_<br /> on Global Suicide [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510b73608b678f169d3c8f35f0
+[album-cover]: https://i.scdn.co/image/ab67616d000048514ddd9b01fcd80158c9241460
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
