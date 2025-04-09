@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **What We Have Done**<br />by _Fixation_<br /> on Global Suicide [2020] |
+| ![album cover][album-cover] | **Cross My Heart**<br />by _Eyes Wide Open_<br /> on Through Life and Death (Deluxe Edition) [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514ddd9b01fcd80158c9241460
+[album-cover]: https://i.scdn.co/image/ab67616d0000485120fb3d9b59948f752fb353ec
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
