@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **A Thousand Miles**<br />by _Mac Glocky_<br /> on Fantasy Covers [2023] |
+| ![album cover][album-cover] | **Mind Of Mine**<br />by _Lø Spirit_<br /> on Mind Of Mine [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851280301f1dd26327448fa8387
+[album-cover]: https://i.scdn.co/image/ab67616d00004851be510d7b3debca9ced82b94a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
