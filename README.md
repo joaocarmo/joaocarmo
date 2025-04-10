@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Cross My Heart**<br />by _Eyes Wide Open_<br /> on Through Life and Death (Deluxe Edition) [2022] |
+| ![album cover][album-cover] | **Hades**<br />by _Falling Giant_<br /> on MMXVII MMXXII [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485120fb3d9b59948f752fb353ec
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ce3649e0e2a98cb59c22266b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
