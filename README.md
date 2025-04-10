@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Blue Skies**<br />by _Fixation_<br /> on Speak in Tongues [2024] |
+| ![album cover][album-cover] | **A Thousand Miles**<br />by _Mac Glocky_<br /> on Fantasy Covers [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485109633658b41e063b9512a585
+[album-cover]: https://i.scdn.co/image/ab67616d00004851280301f1dd26327448fa8387
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
