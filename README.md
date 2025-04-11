@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Demon**<br />by _Savage Hands_<br /> on The Truth in Your Eyes [2020] |
+| ![album cover][album-cover] | **Tramontane**<br />by _Endgame_<br /> on Tramontane [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b75c58c19c787ca671d5c75c
+[album-cover]: https://i.scdn.co/image/ab67616d0000485159950ff8b1ad587e3f98ddd5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
