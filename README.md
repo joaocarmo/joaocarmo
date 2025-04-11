@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **My Distorted Reflection**<br />by _Upon A Burning Body_<br /> on Straight From The Barrio [2016] |
+| ![album cover][album-cover] | **Demon**<br />by _Savage Hands_<br /> on The Truth in Your Eyes [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851601190ba765d140c80b1bb7a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b75c58c19c787ca671d5c75c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
