@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Water Flow**<br />by _Klyne_<br /> on Klyne [2017] |
+| ![album cover][album-cover] | **Afterlife (from the Netflix Series "Devil May Cry")**<br />by _Evanescence_<br /> on Afterlife (from the Netflix Series "Devil May Cry") [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516f4a1271eb4feda99ed35a14
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a8fc008439ab4e268d7a6bcf
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
