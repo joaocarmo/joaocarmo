@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Tramontane**<br />by _Endgame_<br /> on Tramontane [2020] |
+| ![album cover][album-cover] | **Pictures Of You - Remastered**<br />by _The Cure_<br /> on Disintegration (Deluxe Edition) [1989] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485159950ff8b1ad587e3f98ddd5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ee8b603d6c666ba428daac30
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
