@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Afterlife (from the Netflix Series "Devil May Cry")**<br />by _Evanescence_<br /> on Afterlife (from the Netflix Series "Devil May Cry") [2025] |
+| ![album cover][album-cover] | **Blue Skies**<br />by _Fixation_<br /> on Speak in Tongues [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a8fc008439ab4e268d7a6bcf
+[album-cover]: https://i.scdn.co/image/ab67616d0000485109633658b41e063b9512a585
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
