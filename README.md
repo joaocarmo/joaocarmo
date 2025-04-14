@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Midnight Sky**<br />by _Kayro_<br /> on Midnight Sky [2021] |
+| ![album cover][album-cover] | **Scorned**<br />by _Hypnogaja, ShyBoy_<br /> on Below Sunset [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d0313972f746d2294ecb0349
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b47679eecbce33410ac4f425
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
