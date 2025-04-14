@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Blue Skies**<br />by _Fixation_<br /> on Speak in Tongues [2024] |
+| ![album cover][album-cover] | **BOTA UM FUNK**<br />by _PEDRO SAMPAIO, Anitta, Mc Gw_<br /> on BOTA UM FUNK [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485109633658b41e063b9512a585
+[album-cover]: https://i.scdn.co/image/ab67616d00004851837fececf0acd21a0736445d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
