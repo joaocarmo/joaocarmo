@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **BOTA UM FUNK**<br />by _PEDRO SAMPAIO, Anitta, Mc Gw_<br /> on BOTA UM FUNK [2025] |
+| ![album cover][album-cover] | **Misery**<br />by _Atticus Chimps_<br /> on Space Exploitation [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851837fececf0acd21a0736445d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d8d2a99bd91158a15f86a784
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
