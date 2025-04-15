@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Matriarch**<br />by _VEMØD_<br /> on Demons Within [2023] |
+| ![album cover][album-cover] | **Holding On To Something More**<br />by _Asking Alexandria_<br /> on Where Do We Go From Here? [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513fdb513d5de78fcb3b413714
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f1808b03d9b0552f6bab3a7d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
