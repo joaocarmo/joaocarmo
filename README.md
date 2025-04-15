@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Scorned**<br />by _Hypnogaja, ShyBoy_<br /> on Below Sunset [2005] |
+| ![album cover][album-cover] | **AVARICE // WARS**<br />by _Cevilain, Adam Gontier, Misstiq_<br /> on AVARICE // WARS [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b47679eecbce33410ac4f425
+[album-cover]: https://i.scdn.co/image/ab67616d000048513b5d167af11a0444c9ef00c3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
