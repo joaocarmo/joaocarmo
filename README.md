@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **AVARICE // WARS**<br />by _Cevilain, Adam Gontier, Misstiq_<br /> on AVARICE // WARS [2024] |
+| ![album cover][album-cover] | **Matriarch**<br />by _VEMØD_<br /> on Demons Within [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513b5d167af11a0444c9ef00c3
+[album-cover]: https://i.scdn.co/image/ab67616d000048513fdb513d5de78fcb3b413714
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
