@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Coming Home**<br />by _Falling In Reverse_<br /> on Coming Home (Deluxe Edition) [2017] |
+| ![album cover][album-cover] | **FREEFALL**<br />by _NOTHING MORE_<br /> on CARNAL [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485150f150160dc660c5b11c754c
+[album-cover]: https://i.scdn.co/image/ab67616d0000485113cd81a2e6d7a4b70e0f7158
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
