@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **In Chains**<br />by _Shaman's Harvest_<br /> on Smokin' Hearts & Broken Guns (Deluxe Edition) [2015] |
+| ![album cover][album-cover] | **Coming Home**<br />by _Falling In Reverse_<br /> on Coming Home (Deluxe Edition) [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a2318c523a66beccff22917d
+[album-cover]: https://i.scdn.co/image/ab67616d0000485150f150160dc660c5b11c754c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
