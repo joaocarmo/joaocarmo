@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Justice**<br />by _Oxymorrons_<br /> on Mohawks & Durags [2021] |
+| ![album cover][album-cover] | **In Chains**<br />by _Shaman's Harvest_<br /> on Smokin' Hearts & Broken Guns (Deluxe Edition) [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516b5b8d8266c8db17832372ee
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a2318c523a66beccff22917d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
