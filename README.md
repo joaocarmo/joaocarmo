@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Holy Water**<br />by _The Funeral Portrait_<br /> on Greetings From Suffocate City [2024] |
+| ![album cover][album-cover] | **Black Honey**<br />by _Thrice_<br /> on To Be Everywhere Is to Be Nowhere [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485181c88882e535f80aea9c021a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a4731b6eac04d560710bebde
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
