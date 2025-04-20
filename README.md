@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Holy Water**<br />by _The Funeral Portrait_<br /> on Greetings From Suffocate City [2024] |
+| ![album cover][album-cover] | **Calm Before the Storm**<br />by _Outrun the Fall_<br /> on Hollow Point Heroes [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485181c88882e535f80aea9c021a
+[album-cover]: https://i.scdn.co/image/ab67616d000048511cfcf41522ff6b62d9c93f99
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
