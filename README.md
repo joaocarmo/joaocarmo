@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Grievous Speaks to Lord Sidious**<br />by _John Williams, London Symphony Orchestra_<br /> on Star Wars: A Vingança dos Sith (Banda Sonora Original) [2005] |
+| ![album cover][album-cover] | **Holy Water**<br />by _The Funeral Portrait_<br /> on Greetings From Suffocate City [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b7aa04a8a97dec378252c2b9
+[album-cover]: https://i.scdn.co/image/ab67616d0000485181c88882e535f80aea9c021a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
