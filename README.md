@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Calm Before the Storm**<br />by _Outrun the Fall_<br /> on Hollow Point Heroes [2013] |
+| ![album cover][album-cover] | **Reach The Top**<br />by _Ava Willow_<br /> on Welcome Home [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511cfcf41522ff6b62d9c93f99
+[album-cover]: https://i.scdn.co/image/ab67616d000048515f88b2b6bbb6ddcb20ab0b0a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
