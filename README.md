@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hades**<br />by _Falling Giant_<br /> on MMXVII MMXXII [2022] |
+| ![album cover][album-cover] | **Memories of You**<br />by _No Silence_<br /> on Memories of You [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ce3649e0e2a98cb59c22266b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851081f87f85d8c75182f872856
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
