@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Memories of You**<br />by _No Silence_<br /> on Memories of You [2024] |
+| ![album cover][album-cover] | **Same Roads**<br />by _Alborn_<br /> on Same Roads [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851081f87f85d8c75182f872856
+[album-cover]: https://i.scdn.co/image/ab67616d000048516870871653b4317f4bb6251e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
