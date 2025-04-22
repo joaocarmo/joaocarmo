@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Same Roads**<br />by _Alborn_<br /> on Same Roads [2024] |
+| ![album cover][album-cover] | **The Void**<br />by _Ariel Marx_<br /> on Black Mirror: Season 7 (Soundtrack from the Netflix Series) [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516870871653b4317f4bb6251e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851eaf54d2ce5852d5e9fe672c3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
