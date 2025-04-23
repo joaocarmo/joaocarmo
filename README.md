@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Void**<br />by _Ariel Marx_<br /> on Black Mirror: Season 7 (Soundtrack from the Netflix Series) [2025] |
+| ![album cover][album-cover] | **The Only Ones**<br />by _Caskets_<br /> on Lost Souls [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851eaf54d2ce5852d5e9fe672c3
+[album-cover]: https://i.scdn.co/image/ab67616d000048516bbd5c58e7be013e8e83dcb3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
