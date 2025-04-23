@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Numb**<br />by _Sleep Theory_<br /> on Numb [2023] |
+| ![album cover][album-cover] | **Matriarch**<br />by _VEMØD_<br /> on Demons Within [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515190e54cbde28bf9ef3eceec
+[album-cover]: https://i.scdn.co/image/ab67616d000048513fdb513d5de78fcb3b413714
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
