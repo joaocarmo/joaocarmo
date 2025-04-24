@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Matriarch**<br />by _VEMØD_<br /> on Demons Within [2023] |
+| ![album cover][album-cover] | **Hades**<br />by _Falling Giant_<br /> on MMXVII MMXXII [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513fdb513d5de78fcb3b413714
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ce3649e0e2a98cb59c22266b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
