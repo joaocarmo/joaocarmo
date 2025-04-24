@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **AVARICE // WARS**<br />by _Cevilain, Adam Gontier, Misstiq_<br /> on AVARICE // WARS [2024] |
+| ![album cover][album-cover] | **The All Spark**<br />by _Steve Jablonsky_<br /> on Transformers: The Score [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513b5d167af11a0444c9ef00c3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fb97e773be6149c9c935880c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
