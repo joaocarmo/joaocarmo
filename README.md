@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Captain America: Brave New World Main Title**<br />by _Laura Karpman_<br /> on Captain America: Brave New World (Original Motion Picture Soundtrack) [2025] |
+| ![album cover][album-cover] | **Majesty**<br />by _Ghost_<br /> on Meliora [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a1e9220115039f339dbcea02
+[album-cover]: https://i.scdn.co/image/ab67616d0000485120b19a218a86e6946387f56e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
