@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The All Spark**<br />by _Steve Jablonsky_<br /> on Transformers: The Score [2007] |
+| ![album cover][album-cover] | **Captain America: Brave New World Main Title**<br />by _Laura Karpman_<br /> on Captain America: Brave New World (Original Motion Picture Soundtrack) [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fb97e773be6149c9c935880c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a1e9220115039f339dbcea02
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
