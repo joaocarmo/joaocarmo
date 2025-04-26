@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Satanized**<br />by _Ghost_<br /> on Skeletá [2025] |
+| ![album cover][album-cover] | **Mummy Dust**<br />by _Ghost_<br /> on Meliora [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485137b6696c5c5a40ce24b76e1c
+[album-cover]: https://i.scdn.co/image/ab67616d0000485120b19a218a86e6946387f56e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
