@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Mummy Dust**<br />by _Ghost_<br /> on Meliora [2015] |
+| ![album cover][album-cover] | **Fluorescent Adolescent**<br />by _Arctic Monkeys_<br /> on Favourite Worst Nightmare [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485120b19a218a86e6946387f56e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b1f8da74f225fa1225cdface
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
