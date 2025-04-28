@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Afterlife**<br />by _Holding Absence_<br /> on The Greatest Mistake of My Life [2021] |
+| ![album cover][album-cover] | **Heavy Is the Crown**<br />by _Linkin Park_<br /> on From Zero [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851541a0129b72e8cbac8fa095f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b11a5489e8cb11dd22b930a0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
