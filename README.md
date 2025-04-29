@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Creature Of The Night**<br />by _ALYXX_<br /> on Creature Of The Night [2024] |
+| ![album cover][album-cover] | **Faith**<br />by _Ghost_<br /> on Prequelle [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485145d8632253c203753dd2ab4b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d12e0639819f09e00d73410e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
