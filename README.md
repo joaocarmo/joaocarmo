@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Faith**<br />by _Ghost_<br /> on Prequelle [2018] |
+| ![album cover][album-cover] | **Umbra**<br />by _Ghost_<br /> on Skeletá [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d12e0639819f09e00d73410e
+[album-cover]: https://i.scdn.co/image/ab67616d0000485137b6696c5c5a40ce24b76e1c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
