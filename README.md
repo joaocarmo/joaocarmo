@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Heavy Is the Crown**<br />by _Linkin Park_<br /> on From Zero [2024] |
+| ![album cover][album-cover] | **Creature Of The Night**<br />by _ALYXX_<br /> on Creature Of The Night [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b11a5489e8cb11dd22b930a0
+[album-cover]: https://i.scdn.co/image/ab67616d0000485145d8632253c203753dd2ab4b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
