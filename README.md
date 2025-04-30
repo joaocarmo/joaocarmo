@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Weightless**<br />by _Raven's Banquet_<br /> on Weightless [2024] |
+| ![album cover][album-cover] | **Dreamweavers**<br />by _The Last Element_<br /> on Dreamweavers [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851673e502ad31b20666b2d33b5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851dc656866e41bc7e76172fd90
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
