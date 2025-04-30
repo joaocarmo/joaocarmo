@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Umbra**<br />by _Ghost_<br /> on Skeletá [2025] |
+| ![album cover][album-cover] | **Weightless**<br />by _Raven's Banquet_<br /> on Weightless [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485137b6696c5c5a40ce24b76e1c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851673e502ad31b20666b2d33b5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
