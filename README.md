@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Psycho In My Head**<br />by _Skillet_<br /> on Dominion: Day of Destiny [2023] |
+| ![album cover][album-cover] | **Roses**<br />by _Awaken I Am_<br /> on Roses [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516ad8b631c5c9df42b430b4c1
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c364c42199e5af962bc11848
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
