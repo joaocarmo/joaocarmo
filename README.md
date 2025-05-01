@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dreamweavers**<br />by _The Last Element_<br /> on Dreamweavers [2017] |
+| ![album cover][album-cover] | **Psycho In My Head**<br />by _Skillet_<br /> on Dominion: Day of Destiny [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851dc656866e41bc7e76172fd90
+[album-cover]: https://i.scdn.co/image/ab67616d000048516ad8b631c5c9df42b430b4c1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
