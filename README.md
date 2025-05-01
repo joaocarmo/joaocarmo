@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Relic**<br />by _Awaken I Am_<br /> on Relic [2023] |
+| ![album cover][album-cover] | **Cold**<br />by _Dark Divine_<br /> on Deadly Fun [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851436a40f4ea29a7b3b6bd0841
+[album-cover]: https://i.scdn.co/image/ab67616d000048510a3756cf33cc3de21fbca7f5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
