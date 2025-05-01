@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Roses**<br />by _Awaken I Am_<br /> on Roses [2020] |
+| ![album cover][album-cover] | **Relic**<br />by _Awaken I Am_<br /> on Relic [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c364c42199e5af962bc11848
+[album-cover]: https://i.scdn.co/image/ab67616d00004851436a40f4ea29a7b3b6bd0841
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
