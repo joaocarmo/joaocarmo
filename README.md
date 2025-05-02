@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Higher**<br />by _Creed_<br /> on Human Clay [1999] |
+| ![album cover][album-cover] | **Clarity**<br />by _ENMY_<br /> on Breaking Down (Deluxe) [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f8f048a5f4749c970078a4fb
+[album-cover]: https://i.scdn.co/image/ab67616d000048519f665d7ce988b71f248299c3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
