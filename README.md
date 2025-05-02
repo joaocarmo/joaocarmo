@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Cold**<br />by _Dark Divine_<br /> on Deadly Fun [2023] |
+| ![album cover][album-cover] | **Higher**<br />by _Creed_<br /> on Human Clay [1999] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510a3756cf33cc3de21fbca7f5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f8f048a5f4749c970078a4fb
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
