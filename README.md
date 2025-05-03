@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Clarity**<br />by _ENMY_<br /> on Breaking Down (Deluxe) [2024] |
+| ![album cover][album-cover] | **SHALLOW**<br />by _Magnolia Park_<br /> on VAMP [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519f665d7ce988b71f248299c3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851678f3d0e0c3b451b33531b13
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
