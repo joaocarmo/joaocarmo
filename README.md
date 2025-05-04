@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **SHALLOW**<br />by _Magnolia Park_<br /> on VAMP [2025] |
+| ![album cover][album-cover] | **Paparazzi**<br />by _Exit Eden_<br /> on Rhapsodies in Black [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851678f3d0e0c3b451b33531b13
+[album-cover]: https://i.scdn.co/image/ab67616d00004851accce2c1d6039c23227eef4f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
