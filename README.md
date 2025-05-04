@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Paparazzi**<br />by _Exit Eden_<br /> on Rhapsodies in Black [2017] |
+| ![album cover][album-cover] | **Oops..! I Did It gain**<br />by _Recovery_<br /> on Different Dimension [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851accce2c1d6039c23227eef4f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c06163a35743ed56ee23bd48
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
