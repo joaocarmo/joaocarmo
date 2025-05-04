@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Oops..! I Did It gain**<br />by _Recovery_<br /> on Different Dimension [2014] |
+| ![album cover][album-cover] | **Running In Circles**<br />by _Dead Poet Society_<br /> on FISSION [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c06163a35743ed56ee23bd48
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d856363649eb9d4a03adde54
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
