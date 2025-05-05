@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Dark**<br />by _Night Rider_<br /> on The Dark [2024] |
+| ![album cover][album-cover] | **Sundial**<br />by _Wolfmother_<br /> on Cosmic Egg [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d71963801ad4da3323c007d1
+[album-cover]: https://i.scdn.co/image/ab67616d0000485137824f5d9998d7863bc88d4f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
