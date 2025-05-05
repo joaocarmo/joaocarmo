@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Running In Circles**<br />by _Dead Poet Society_<br /> on FISSION [2024] |
+| ![album cover][album-cover] | **The Dark**<br />by _Night Rider_<br /> on The Dark [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d856363649eb9d4a03adde54
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d71963801ad4da3323c007d1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
