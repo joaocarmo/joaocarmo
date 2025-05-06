@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sympathy**<br />by _Too Close To Touch_<br /> on Haven't Been Myself [2016] |
+| ![album cover][album-cover] | **Victorious (feat. Dorothy)**<br />by _Nita Strauss, Dorothy_<br /> on The Call of the Void [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e9c6a673abedd093c35e3eae
+[album-cover]: https://i.scdn.co/image/ab67616d00004851509a164a3a6f602bf68e7610
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
