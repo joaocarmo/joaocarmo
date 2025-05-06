@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Ledge**<br />by _ENMY_<br /> on ENMY [2024] |
+| ![album cover][album-cover] | **Sympathy**<br />by _Too Close To Touch_<br /> on Haven't Been Myself [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c603513de9576d849c9c22be
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e9c6a673abedd093c35e3eae
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
