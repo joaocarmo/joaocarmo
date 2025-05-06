@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sundial**<br />by _Wolfmother_<br /> on Cosmic Egg [2009] |
+| ![album cover][album-cover] | **The Ledge**<br />by _ENMY_<br /> on ENMY [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485137824f5d9998d7863bc88d4f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c603513de9576d849c9c22be
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
