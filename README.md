@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Victorious (feat. Dorothy)**<br />by _Nita Strauss, Dorothy_<br /> on The Call of the Void [2023] |
+| ![album cover][album-cover] | **welcome2paradise**<br />by _Conquer Divide_<br /> on Slow Burn [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851509a164a3a6f602bf68e7610
+[album-cover]: https://i.scdn.co/image/ab67616d000048512014b597b28ada5a275e9d60
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
