@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **welcome2paradise**<br />by _Conquer Divide_<br /> on Slow Burn [2023] |
+| ![album cover][album-cover] | **Silvera**<br />by _Gojira_<br /> on Magma [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512014b597b28ada5a275e9d60
+[album-cover]: https://i.scdn.co/image/ab67616d00004851422c622517ea0bd7eda33e08
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
