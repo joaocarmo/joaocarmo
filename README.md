@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Promise**<br />by _Ramin Djawadi_<br /> on Westworld: Season 2 (Music From the HBO Series) [2018] |
+| ![album cover][album-cover] | **I'm Bad At Life**<br />by _Falling In Reverse_<br /> on Coming Home (Deluxe Edition) [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851042e0486b2432c8f6b9783da
+[album-cover]: https://i.scdn.co/image/ab67616d0000485150f150160dc660c5b11c754c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
