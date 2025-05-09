@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I'm Bad At Life**<br />by _Falling In Reverse_<br /> on Coming Home (Deluxe Edition) [2017] |
+| ![album cover][album-cover] | **THE ONE YOU LOVED**<br />by _The Plot In You_<br /> on DISPOSE [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485150f150160dc660c5b11c754c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851197f778e9f68a8ab1d7da3f8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
