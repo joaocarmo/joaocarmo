@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **THE ONE YOU LOVED**<br />by _The Plot In You_<br /> on DISPOSE [2018] |
+| ![album cover][album-cover] | **CRIMINAL**<br />by _Stand Atlantic, Polaris_<br /> on WAS HERE [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851197f778e9f68a8ab1d7da3f8
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fd1d7d4d36871601ab872099
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
