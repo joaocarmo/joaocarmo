@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **CRIMINAL**<br />by _Stand Atlantic, Polaris_<br /> on WAS HERE [2024] |
+| ![album cover][album-cover] | **All My Life**<br />by _Falling In Reverse, Jelly Roll_<br /> on Popular Monster [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fd1d7d4d36871601ab872099
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cd850819595472eae0c06f66
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
