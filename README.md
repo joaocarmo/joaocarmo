@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I'm Not A Vampire**<br />by _Falling In Reverse_<br /> on The Drug In Me Is You [2011] |
+| ![album cover][album-cover] | **The Calling**<br />by _7 Days Away_<br /> on Stigmata [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512a4546ed22694f4297f6bdb9
+[album-cover]: https://i.scdn.co/image/ab67616d000048519ae6c9f5898b00ce7dc41a8e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
