@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Calling**<br />by _7 Days Away_<br /> on Stigmata [2015] |
+| ![album cover][album-cover] | **Butterfly**<br />by _Wearing Scars_<br /> on A Thousand Words [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519ae6c9f5898b00ce7dc41a8e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e0e6f35450e482a45c4cd824
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
