@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Butterfly**<br />by _Wearing Scars_<br /> on A Thousand Words [2014] |
+| ![album cover][album-cover] | **Duél**<br />by _Jinjer_<br /> on Duél [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e0e6f35450e482a45c4cd824
+[album-cover]: https://i.scdn.co/image/ab67616d000048513e57797f6bbcd10ff1c2b628
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
