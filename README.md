@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Duél**<br />by _Jinjer_<br /> on Duél [2025] |
+| ![album cover][album-cover] | **Bang Ya Head (feat. Fred Durst)**<br />by _WARGASM (UK), Fred Durst_<br /> on Bang Ya Head [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513e57797f6bbcd10ff1c2b628
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cf466d200cf016e94a4f7752
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
