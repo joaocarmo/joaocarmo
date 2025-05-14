@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bang Ya Head (feat. Fred Durst)**<br />by _WARGASM (UK), Fred Durst_<br /> on Bang Ya Head [2023] |
+| ![album cover][album-cover] | **Tick Tick Boom**<br />by _The Hives_<br /> on Tick Tick Boom [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cf466d200cf016e94a4f7752
+[album-cover]: https://via.placeholder.com/100
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
