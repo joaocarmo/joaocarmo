@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Tick Tick Boom**<br />by _The Hives_<br /> on Tick Tick Boom [2007] |
+| ![album cover][album-cover] | **My Sacrifice**<br />by _Creed_<br /> on Weathered [2001] |
 
 <!-- References -->
 
-[album-cover]: https://via.placeholder.com/100
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a32f2ae4dade83e0d7a294f4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
