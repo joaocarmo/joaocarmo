@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **My Sacrifice**<br />by _Creed_<br /> on Weathered [2001] |
+| ![album cover][album-cover] | **Boulevard of Broken Dreams**<br />by _Halocene, Jonathan Young_<br /> on We've Got It Covered: Vol 8 [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a32f2ae4dade83e0d7a294f4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a48d7b7b6a4f7586117cd671
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
