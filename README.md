@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Whiplash**<br />by _Architects_<br /> on The Sky, The Earth & All Between [2025] |
+| ![album cover][album-cover] | **Libertine**<br />by _Architects_<br /> on For Those That Wish To Exist [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fa9cf0435132ff2a17ce9d86
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c78b2edbc9407cea20ccfb9f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
