@@ -18,7 +18,7 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **ZOMBIFIED**<br />by _Falling In Reverse_<br /> on Popular Monster [2024] |
+| ![album cover][album-cover] | **Popular Monster**<br />by _Falling In Reverse_<br /> on Popular Monster [2024] |
 
 <!-- References -->
 
