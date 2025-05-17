@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Toxic garbage island**<br />by _Gojira_<br /> on The way of all flesh [2008] |
+| ![album cover][album-cover] | **Dragonfly**<br />by _Shaman's Harvest_<br /> on Shine [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851501ce8fe21aa2dc722600d8e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b16383ff6f2bec4481847d24
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
