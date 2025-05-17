@@ -18,7 +18,7 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The art of dying**<br />by _Gojira_<br /> on The way of all flesh [2008] |
+| ![album cover][album-cover] | **Toxic garbage island**<br />by _Gojira_<br /> on The way of all flesh [2008] |
 
 <!-- References -->
 
