@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Animals**<br />by _Architects_<br /> on For Those That Wish To Exist [2021] |
+| ![album cover][album-cover] | **The art of dying**<br />by _Gojira_<br /> on The way of all flesh [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c78b2edbc9407cea20ccfb9f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851501ce8fe21aa2dc722600d8e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
