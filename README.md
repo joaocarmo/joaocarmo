@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **How You Like Me Now**<br />by _The Heavy_<br /> on The House That Dirt Built [2009] |
+| ![album cover][album-cover] | **Numb**<br />by _Sleep Theory_<br /> on Numb [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485187aa34532133fbd0ba267b16
+[album-cover]: https://i.scdn.co/image/ab67616d000048515190e54cbde28bf9ef3eceec
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
