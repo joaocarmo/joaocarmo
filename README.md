@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Beginning of the End Movement IV**<br />by _The Newton Brothers_<br /> on The Haunting of Hill House (Music from the Netflix Horror Series) [2018] |
+| ![album cover][album-cover] | **Hearteater**<br />by _Emil Bulls_<br /> on Sacrifice to Venus [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c2f54eb209f9b70f09e597ed
+[album-cover]: https://i.scdn.co/image/ab67616d00004851711655e5fefaa72371f9106a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
