@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Numb**<br />by _Sleep Theory_<br /> on Numb [2023] |
+| ![album cover][album-cover] | **Beginning of the End Movement IV**<br />by _The Newton Brothers_<br /> on The Haunting of Hill House (Music from the Netflix Horror Series) [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515190e54cbde28bf9ef3eceec
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c2f54eb209f9b70f09e597ed
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
