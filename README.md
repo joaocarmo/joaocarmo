@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hearteater**<br />by _Emil Bulls_<br /> on Sacrifice to Venus [2014] |
+| ![album cover][album-cover] | **Broken Love**<br />by _Imminence_<br /> on This Is Goodbye [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851711655e5fefaa72371f9106a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e2c60d0cdb5bce9f146d5a90
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
