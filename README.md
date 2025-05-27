@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Entre dos tierras**<br />by _Till Lindemann_<br /> on Entre dos tierras [2023] |
+| ![album cover][album-cover] | **PRESSURE**<br />by _Conquer Divide_<br /> on Slow Burn (Deluxe Edition) [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ca25686a403e8f960b8dacbd
+[album-cover]: https://i.scdn.co/image/ab67616d000048514f82b959678f55c36a92a69b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
