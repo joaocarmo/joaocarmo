@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **PRESSURE**<br />by _Conquer Divide_<br /> on Slow Burn (Deluxe Edition) [2024] |
+| ![album cover][album-cover] | **The Weigh Down**<br />by _The Amity Affliction_<br /> on Let the Ocean Take Me [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514f82b959678f55c36a92a69b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b114fcb563aee544e5664e58
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
