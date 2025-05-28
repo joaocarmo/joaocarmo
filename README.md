@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Weigh Down**<br />by _The Amity Affliction_<br /> on Let the Ocean Take Me [2014] |
+| ![album cover][album-cover] | **Give Me a Reason**<br />by _Versus Me_<br /> on Continuous [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b114fcb563aee544e5664e58
+[album-cover]: https://i.scdn.co/image/ab67616d000048513f9f3f645fdcbb2190e063e8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
