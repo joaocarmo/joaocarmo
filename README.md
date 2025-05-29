@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Give Me a Reason**<br />by _Versus Me_<br /> on Continuous [2019] |
+| ![album cover][album-cover] | **Bad Habits**<br />by _Nerv_<br /> on Bad Habits [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513f9f3f645fdcbb2190e063e8
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f2daa671cc6e41a2daed53e6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
