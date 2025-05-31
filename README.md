@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bad Habits**<br />by _Nerv_<br /> on Bad Habits [2018] |
+| ![album cover][album-cover] | **AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)**<br />by _Bring Me The Horizon, Lil Uzi Vert, Daryl Palumbo, Glassjaw_<br /> on POST HUMAN: NeX GEn [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f2daa671cc6e41a2daed53e6
+[album-cover]: https://i.scdn.co/image/ab67616d00004851df51a3d66223e5b01813e0c4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
