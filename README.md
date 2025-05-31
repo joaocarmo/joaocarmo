@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)**<br />by _Bring Me The Horizon, Lil Uzi Vert, Daryl Palumbo, Glassjaw_<br /> on POST HUMAN: NeX GEn [2024] |
+| ![album cover][album-cover] | **Stranded**<br />by _Gojira_<br /> on Magma [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851df51a3d66223e5b01813e0c4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851422c622517ea0bd7eda33e08
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
