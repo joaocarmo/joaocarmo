@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Stranded**<br />by _Gojira_<br /> on Magma [2016] |
+| ![album cover][album-cover] | **Monochrome**<br />by _BABYMETAL_<br /> on THE OTHER ONE [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851422c622517ea0bd7eda33e08
+[album-cover]: https://i.scdn.co/image/ab67616d000048514bb6d96d3e9c5a844d2bd080
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
