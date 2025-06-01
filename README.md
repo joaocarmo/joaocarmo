@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Monochrome**<br />by _BABYMETAL_<br /> on THE OTHER ONE [2023] |
+| ![album cover][album-cover] | **I'm Not A Vampire**<br />by _Falling In Reverse_<br /> on The Drug In Me Is You [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514bb6d96d3e9c5a844d2bd080
+[album-cover]: https://i.scdn.co/image/ab67616d000048512a4546ed22694f4297f6bdb9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
