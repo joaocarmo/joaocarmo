@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Infinite Horizons**<br />by _God Is An Astronaut_<br /> on All Is Violent, All Is Bright (2011 Remastered Edition) [2011] |
+| ![album cover][album-cover] | **Sacred**<br />by _Parkway Drive_<br /> on Sacred [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f682220fac054e88a347a243
+[album-cover]: https://i.scdn.co/image/ab67616d00004851547075c4a68bac90dcf7008f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
