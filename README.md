@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Calm Before the Storm**<br />by _Outrun the Fall_<br /> on Hollow Point Heroes [2013] |
+| ![album cover][album-cover] | **Infinite Horizons**<br />by _God Is An Astronaut_<br /> on All Is Violent, All Is Bright (2011 Remastered Edition) [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511cfcf41522ff6b62d9c93f99
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f682220fac054e88a347a243
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
