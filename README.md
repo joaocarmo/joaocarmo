@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Blue Skies**<br />by _Fixation_<br /> on Speak in Tongues [2024] |
+| ![album cover][album-cover] | **Headline**<br />by _The Plague_<br /> on The Divided States of Hysteria [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485109633658b41e063b9512a585
+[album-cover]: https://i.scdn.co/image/ab67616d0000485115ae5581994be0fcfd9892d7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
