@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Everything**<br />by _Bridge to Grace_<br /> on Origins [2015] |
+| ![album cover][album-cover] | **Burn**<br />by _ALESTI, Robin Adams_<br /> on Burn [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514ea0623a80b65a2becbb27b0
+[album-cover]: https://i.scdn.co/image/ab67616d000048519f33dfaf81beb02475d45767
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
