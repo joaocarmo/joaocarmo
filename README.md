@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Burn**<br />by _ALESTI, Robin Adams_<br /> on Burn [2018] |
+| ![album cover][album-cover] | **A Little Piece of Heaven**<br />by _Avenged Sevenfold_<br /> on Avenged Sevenfold [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519f33dfaf81beb02475d45767
+[album-cover]: https://i.scdn.co/image/ab67616d0000485133c52ca8309741c6999ca742
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
