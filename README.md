@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Headline**<br />by _The Plague_<br /> on The Divided States of Hysteria [2025] |
+| ![album cover][album-cover] | **Everything**<br />by _Bridge to Grace_<br /> on Origins [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485115ae5581994be0fcfd9892d7
+[album-cover]: https://i.scdn.co/image/ab67616d000048514ea0623a80b65a2becbb27b0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
