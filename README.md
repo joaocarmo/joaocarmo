@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **A Little Piece of Heaven**<br />by _Avenged Sevenfold_<br /> on Avenged Sevenfold [2007] |
+| ![album cover][album-cover] | **PRESSURE**<br />by _Conquer Divide_<br /> on Slow Burn [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485133c52ca8309741c6999ca742
+[album-cover]: https://i.scdn.co/image/ab67616d000048512014b597b28ada5a275e9d60
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
