@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Division Symbols**<br />by _Hands Like Houses_<br /> on Dissonants [2016] |
+| ![album cover][album-cover] | **Problems**<br />by _Stitched Up Heart_<br /> on Darkness [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851633e8010ec45672375f81083
+[album-cover]: https://i.scdn.co/image/ab67616d000048519434f82be6ec1dfef6d61c07
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
