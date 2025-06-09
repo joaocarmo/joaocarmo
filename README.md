@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **PRESSURE**<br />by _Conquer Divide_<br /> on Slow Burn [2023] |
+| ![album cover][album-cover] | **Kill or Be Killed**<br />by _New Years Day_<br /> on Malevolence [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512014b597b28ada5a275e9d60
+[album-cover]: https://i.scdn.co/image/ab67616d000048510360a10c5c2f853192819e92
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
