@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Why Am I Like This?**<br />by _The Word Alive_<br /> on Violent Noise [2018] |
+| ![album cover][album-cover] | **Sun Killer**<br />by _Spiritbox_<br /> on Eternal Blue [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d997e6c050cf7deae873fec1
+[album-cover]: https://i.scdn.co/image/ab67616d000048513e234c82f96fa4ded8e5ca47
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
