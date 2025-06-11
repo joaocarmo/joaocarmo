@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lost in a Wave**<br />by _LANDMVRKS_<br /> on Lost in the Waves [2021] |
+| ![album cover][album-cover] | **Why Am I Like This?**<br />by _The Word Alive_<br /> on Violent Noise [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851044327565119bf13591a654d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d997e6c050cf7deae873fec1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
