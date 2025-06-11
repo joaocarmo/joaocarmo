@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Problems**<br />by _Stitched Up Heart_<br /> on Darkness [2020] |
+| ![album cover][album-cover] | **Lost in a Wave**<br />by _LANDMVRKS_<br /> on Lost in the Waves [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519434f82be6ec1dfef6d61c07
+[album-cover]: https://i.scdn.co/image/ab67616d00004851044327565119bf13591a654d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
