@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Holy Water**<br />by _The Funeral Portrait_<br /> on Greetings From Suffocate City [2024] |
+| ![album cover][album-cover] | **Let You Fade**<br />by _Linkin Park_<br /> on From Zero (Deluxe Edition) [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485181c88882e535f80aea9c021a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a493a67f01bcfe65b23bc910
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
