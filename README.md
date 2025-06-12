@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Let You Fade**<br />by _Linkin Park_<br /> on From Zero (Deluxe Edition) [2025] |
+| ![album cover][album-cover] | **Become the Martyr**<br />by _Light The Torch_<br /> on You Will Be the Death of Me [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a493a67f01bcfe65b23bc910
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e7bdb09c822252c93e3f9a57
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
