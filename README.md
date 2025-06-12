@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sun Killer**<br />by _Spiritbox_<br /> on Eternal Blue [2021] |
+| ![album cover][album-cover] | **Holy Water**<br />by _The Funeral Portrait_<br /> on Greetings From Suffocate City [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513e234c82f96fa4ded8e5ca47
+[album-cover]: https://i.scdn.co/image/ab67616d0000485181c88882e535f80aea9c021a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
