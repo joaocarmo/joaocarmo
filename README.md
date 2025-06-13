@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dead Inside**<br />by _Future Palace_<br /> on Run [2022] |
+| ![album cover][album-cover] | **Just Pretend**<br />by _Bad Omens_<br /> on THE DEATH OF PEACE OF MIND [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516d6b13d1fc6d3af5ae92f61e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e5f6f7ec99735d7b870f18ae
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
