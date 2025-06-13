@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lost Boys**<br />by _Essenger, Young Medicine_<br /> on After Dark (Deluxe Edition) [2020] |
+| ![album cover][album-cover] | **Burn**<br />by _ALESTI, Robin Adams_<br /> on Burn [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513127ae7ff2ffdeb7961e15fc
+[album-cover]: https://i.scdn.co/image/ab67616d000048519f33dfaf81beb02475d45767
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
