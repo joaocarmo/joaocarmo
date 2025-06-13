@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Become the Martyr**<br />by _Light The Torch_<br /> on You Will Be the Death of Me [2021] |
+| ![album cover][album-cover] | **Dead Inside**<br />by _Future Palace_<br /> on Run [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e7bdb09c822252c93e3f9a57
+[album-cover]: https://i.scdn.co/image/ab67616d000048516d6b13d1fc6d3af5ae92f61e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
