@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Just Pretend**<br />by _Bad Omens_<br /> on THE DEATH OF PEACE OF MIND [2022] |
+| ![album cover][album-cover] | **Lost Boys**<br />by _Essenger, Young Medicine_<br /> on After Dark (Deluxe Edition) [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e5f6f7ec99735d7b870f18ae
+[album-cover]: https://i.scdn.co/image/ab67616d000048513127ae7ff2ffdeb7961e15fc
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
