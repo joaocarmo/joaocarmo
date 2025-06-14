@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Crush**<br />by _Pendulum_<br /> on Immersion [2010] |
+| ![album cover][album-cover] | **NO FEAR**<br />by _Falling In Reverse_<br /> on Popular Monster [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485130f8e0f777376780c4077507
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cd850819595472eae0c06f66
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
