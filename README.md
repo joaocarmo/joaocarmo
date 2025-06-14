@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Burn**<br />by _ALESTI, Robin Adams_<br /> on Burn [2018] |
+| ![album cover][album-cover] | **Division Symbols**<br />by _Hands Like Houses_<br /> on Dissonants [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519f33dfaf81beb02475d45767
+[album-cover]: https://i.scdn.co/image/ab67616d00004851633e8010ec45672375f81083
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
