@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Earth**<br />by _Jesper Kyd, Assassin's Creed_<br /> on Assassin's Creed 2 (Original Game Soundtrack) [2009] |
+| ![album cover][album-cover] | **Indestructible**<br />by _Solence_<br /> on Deafening [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485197dd973df77a343bd38bcff7
+[album-cover]: https://i.scdn.co/image/ab67616d000048515e7c5c40aec59fab41e4a1ea
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
