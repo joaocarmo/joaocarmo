@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Indestructible**<br />by _Solence_<br /> on Deafening [2021] |
+| ![album cover][album-cover] | **Burning**<br />by _Ludovico Einaudi, I Virtuosi Italiani_<br /> on In A Time Lapse [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515e7c5c40aec59fab41e4a1ea
+[album-cover]: https://i.scdn.co/image/ab67616d000048516c8ef0538e04f2e28380dcc5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
