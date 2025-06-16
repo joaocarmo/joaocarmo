@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Division Symbols**<br />by _Hands Like Houses_<br /> on Dissonants [2016] |
+| ![album cover][album-cover] | **Earth**<br />by _Jesper Kyd, Assassin's Creed_<br /> on Assassin's Creed 2 (Original Game Soundtrack) [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851633e8010ec45672375f81083
+[album-cover]: https://i.scdn.co/image/ab67616d0000485197dd973df77a343bd38bcff7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
