@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Burning**<br />by _Ludovico Einaudi, I Virtuosi Italiani_<br /> on In A Time Lapse [2013] |
+| ![album cover][album-cover] | **Wait For Me**<br />by _Luca D'Alberto_<br /> on Endless [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516c8ef0538e04f2e28380dcc5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c09ccc2d30522a0b13e34aaa
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
