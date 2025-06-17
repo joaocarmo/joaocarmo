@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Crossing Mars**<br />by _Harry Gregson-Williams_<br /> on The Martian: Original Motion Picture Score [2015] |
+| ![album cover][album-cover] | **We'll Meet Again**<br />by _Ramin Djawadi_<br /> on Westworld: Season 2 (Music From the HBO Series) [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f2e147a12737edc08423306b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851042e0486b2432c8f6b9783da
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
