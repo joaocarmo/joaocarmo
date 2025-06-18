@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Can Almost See You**<br />by _Hammock_<br /> on Raising Your Voice... Trying to Stop an Echo (Deluxe Edition) [2006] |
+| ![album cover][album-cover] | **V.A.N**<br />by _Bad Omens, Poppy_<br /> on CONCRETE JUNGLE [THE OST] [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485198c72e33061991493e145f9d
+[album-cover]: https://i.scdn.co/image/ab67616d000048515e880f3245d99ba61c456012
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
