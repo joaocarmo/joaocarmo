@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **We'll Meet Again**<br />by _Ramin Djawadi_<br /> on Westworld: Season 2 (Music From the HBO Series) [2018] |
+| ![album cover][album-cover] | **Breaking Down**<br />by _ENMY_<br /> on Breaking Down (Deluxe) [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851042e0486b2432c8f6b9783da
+[album-cover]: https://i.scdn.co/image/ab67616d000048519f665d7ce988b71f248299c3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
