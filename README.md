@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Same**<br />by _Treatheal_<br /> on The Same [2025] |
+| ![album cover][album-cover] | **Porém Não Posso**<br />by _José Pinhal_<br /> on Vol. 1 [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519d2a0651727ab40d573e9a4e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851070470315de20f6ace13fbb4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
