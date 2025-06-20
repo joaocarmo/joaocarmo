@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Such Small Hands**<br />by _La Dispute_<br /> on Somewhere at the Bottom of the River Between Vega and Altair (10th Anniversary) [2018] |
+| ![album cover][album-cover] | **Gematria (The Killing Name)**<br />by _Slipknot_<br /> on All Hope Is Gone [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a33cf1cbd5cd623a7d3c8e56
+[album-cover]: https://i.scdn.co/image/ab67616d00004851457163bec7e8e4decf8c6375
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
