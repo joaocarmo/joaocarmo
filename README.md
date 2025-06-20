@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Porém Não Posso**<br />by _José Pinhal_<br /> on Vol. 1 [2022] |
+| ![album cover][album-cover] | **Such Small Hands**<br />by _La Dispute_<br /> on Somewhere at the Bottom of the River Between Vega and Altair (10th Anniversary) [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851070470315de20f6ace13fbb4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a33cf1cbd5cd623a7d3c8e56
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
