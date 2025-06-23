@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Leaving**<br />by _Fight Or Flight_<br /> on A Life By Design? (Deluxe Version) [2013] |
+| ![album cover][album-cover] | **SHADOWS**<br />by _KILLBOY_<br /> on SHADOWS [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485189ca974e9250c080182782a6
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ee80a37ae469b5567c2441a7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
