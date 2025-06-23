@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **SHADOWS**<br />by _KILLBOY_<br /> on SHADOWS [2023] |
+| ![album cover][album-cover] | **(sic)**<br />by _Slipknot_<br /> on Slipknot [1999] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ee80a37ae469b5567c2441a7
+[album-cover]: https://i.scdn.co/image/ab67616d0000485149de1b4acdde02e84c6023b7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
