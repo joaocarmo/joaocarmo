@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **(sic)**<br />by _Slipknot_<br /> on Slipknot [1999] |
+| ![album cover][album-cover] | **Friends Like These**<br />by _Deaf Havana_<br /> on Meet Me Halfway, At Least [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485149de1b4acdde02e84c6023b7
+[album-cover]: https://i.scdn.co/image/ab67616d0000485164591b6e12edad2d863942e4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
