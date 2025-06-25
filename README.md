@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Friends Like These**<br />by _Deaf Havana_<br /> on Meet Me Halfway, At Least [2009] |
+| ![album cover][album-cover] | **Dramatique**<br />by _The Vantages_<br /> on Dramatique [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485164591b6e12edad2d863942e4
+[album-cover]: https://i.scdn.co/image/ab67616d000048510dc036a99eed1704eea42c50
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
