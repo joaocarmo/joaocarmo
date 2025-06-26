@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Doomsday**<br />by _Architects_<br /> on Holy Hell [2018] |
+| ![album cover][album-cover] | **ZOMBIFIED**<br />by _Falling In Reverse_<br /> on Popular Monster [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515b6bb2889c9276c2ad126831
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cd850819595472eae0c06f66
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
