@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Just Pretend**<br />by _Bad Omens_<br /> on THE DEATH OF PEACE OF MIND [2022] |
+| ![album cover][album-cover] | **Doomsday**<br />by _Architects_<br /> on Holy Hell [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bafcef0262b82dec233717e2
+[album-cover]: https://i.scdn.co/image/ab67616d000048515b6bb2889c9276c2ad126831
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
