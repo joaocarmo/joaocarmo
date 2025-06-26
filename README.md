@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Duality**<br />by _Slipknot_<br /> on Vol. 3: The Subliminal Verses [2004] |
+| ![album cover][album-cover] | **Just Pretend**<br />by _Bad Omens_<br /> on THE DEATH OF PEACE OF MIND [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516b3463e7160d333ada4b175a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bafcef0262b82dec233717e2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
