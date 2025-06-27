@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Blood And Wine**<br />by _Marcin Przybyłowicz_<br /> on The Witcher 3: Wild Hunt - Blood and Wine (Official Soundtrack) [2016] |
+| ![album cover][album-cover] | **Me Against The Devil - From "American Satan"**<br />by _The Relentless_<br /> on American Satan (Original Motion Picture Soundtrack) [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485189c3692370b29d8fd4bab431
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f577dfb36395b945fe8f73da
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
