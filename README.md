@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Me Against The Devil - From "American Satan"**<br />by _The Relentless_<br /> on American Satan (Original Motion Picture Soundtrack) [2017] |
+| ![album cover][album-cover] | **Quanto Mais Eu Grito**<br />by _Tara Perdida_<br /> on Lambe-Botas [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f577dfb36395b945fe8f73da
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c61c6a6afc6b38aa4f6c975c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
