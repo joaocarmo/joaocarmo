@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Vagabond**<br />by _Marcin Przybyłowicz_<br /> on The Witcher 3: Wild Hunt (Original Game Soundtrack) [2015] |
+| ![album cover][album-cover] | **Blood And Wine**<br />by _Marcin Przybyłowicz_<br /> on The Witcher 3: Wild Hunt - Blood and Wine (Official Soundtrack) [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851df756f52b91b4dcd656760b0
+[album-cover]: https://i.scdn.co/image/ab67616d0000485189c3692370b29d8fd4bab431
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
