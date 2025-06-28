@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Quanto Mais Eu Grito**<br />by _Tara Perdida_<br /> on Lambe-Botas [2006] |
+| ![album cover][album-cover] | **Contentores**<br />by _Xutos & Pontapés_<br /> on Circo De Feras [1987] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c61c6a6afc6b38aa4f6c975c
+[album-cover]: https://i.scdn.co/image/ab67616d000048511edb81f3b5071d38767ecfd5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
