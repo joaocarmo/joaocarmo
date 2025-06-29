@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Duél**<br />by _Jinjer_<br /> on Duél [2025] |
+| ![album cover][album-cover] | **The Devil in I**<br />by _Slipknot_<br /> on .5: The Gray Chapter (Special Edition) [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513e57797f6bbcd10ff1c2b628
+[album-cover]: https://i.scdn.co/image/ab67616d00004851eed722040c6810f7a7da93ea
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
