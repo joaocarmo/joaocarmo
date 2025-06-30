@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Nothing Left to Lose**<br />by _Deepfield_<br /> on Nothing Can Save Us Now [2011] |
+| ![album cover][album-cover] | **Hades**<br />by _Falling Giant_<br /> on MMXVII MMXXII [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cebb0a0d79119a8c8e46d14d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ce3649e0e2a98cb59c22266b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
