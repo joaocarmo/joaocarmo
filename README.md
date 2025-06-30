@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Devil in I**<br />by _Slipknot_<br /> on .5: The Gray Chapter (Special Edition) [2014] |
+| ![album cover][album-cover] | **Nothing Left to Lose**<br />by _Deepfield_<br /> on Nothing Can Save Us Now [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851eed722040c6810f7a7da93ea
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cebb0a0d79119a8c8e46d14d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
