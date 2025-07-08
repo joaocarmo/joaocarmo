@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Animals**<br />by _Architects_<br /> on For Those That Wish To Exist [2021] |
+| ![album cover][album-cover] | **The Dying Breath of a Sacred Stag**<br />by _Blackbraid_<br /> on The Dying Breath of a Sacred Stag [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c78b2edbc9407cea20ccfb9f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851943e354050ae185360c57388
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
