@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Dying Breath of a Sacred Stag**<br />by _Blackbraid_<br /> on The Dying Breath of a Sacred Stag [2025] |
+| ![album cover][album-cover] | **Somebody Else**<br />by _Awaken I Am_<br /> on The Only Way Out Is Through [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851943e354050ae185360c57388
+[album-cover]: https://i.scdn.co/image/ab67616d000048513cb47228c92c05a0161a7dc0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
