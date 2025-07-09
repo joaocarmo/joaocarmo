@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Graça comum**<br />by _Samuel Úria_<br /> on Carga de Ombro [2016] |
+| ![album cover][album-cover] | **Sleepwalkers**<br />by _Aphyxion_<br /> on Void [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cba660ad4b882b660002b5a3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851141eaa8b5182ef14fda69345
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
