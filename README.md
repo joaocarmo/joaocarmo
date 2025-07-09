@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Somebody Else**<br />by _Awaken I Am_<br /> on The Only Way Out Is Through [2025] |
+| ![album cover][album-cover] | **Graça comum**<br />by _Samuel Úria_<br /> on Carga de Ombro [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513cb47228c92c05a0161a7dc0
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cba660ad4b882b660002b5a3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
