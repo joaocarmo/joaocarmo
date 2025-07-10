@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **From Ashes**<br />by _Kill The Lights_<br /> on Death Melodies [2024] |
+| ![album cover][album-cover] | **Nightmare**<br />by _Avenged Sevenfold_<br /> on Nightmare [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514cfac11182200e9465ad2719
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c34064a3c5e4a25892a091f3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
