@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Fire and Ice**<br />by _Within Temptation_<br /> on The Unforgiving [2011] |
+| ![album cover][album-cover] | **Lose Myself**<br />by _Caskets_<br /> on Lost Souls [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bcb4a0f3772f0a25db7eb965
+[album-cover]: https://i.scdn.co/image/ab67616d000048516bbd5c58e7be013e8e83dcb3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
