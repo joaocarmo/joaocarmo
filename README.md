@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Nightmare**<br />by _Avenged Sevenfold_<br /> on Nightmare [2010] |
+| ![album cover][album-cover] | **Fire and Ice**<br />by _Within Temptation_<br /> on The Unforgiving [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c34064a3c5e4a25892a091f3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bcb4a0f3772f0a25db7eb965
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
