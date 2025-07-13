@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **U(phoria)**<br />by _Mirrorcell_<br /> on U(phoria) [2025] |
+| ![album cover][album-cover] | **Ash**<br />by _RUN_<br /> on Ash + Soil [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851efcfa86f943f248c62a8e5fd
+[album-cover]: https://i.scdn.co/image/ab67616d000048513d1c8ba24ad9f408d68c0108
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
