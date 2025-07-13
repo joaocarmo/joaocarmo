@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Feel Amazing**<br />by _Richie Campbell_<br /> on In the 876 [2015] |
+| ![album cover][album-cover] | **U(phoria)**<br />by _Mirrorcell_<br /> on U(phoria) [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b3c1d38834e32f6fd16f045b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851efcfa86f943f248c62a8e5fd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
