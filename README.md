@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **WIZARD**<br />by _Castle Rat_<br /> on WIZARD [2025] |
+| ![album cover][album-cover] | **Hip hop (sou eu e és tu)**<br />by _Boss AC_<br /> on Ritmo amor e palavras [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851810ab4db126000cc1aa3b756
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ad206926296065779c8c6836
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
