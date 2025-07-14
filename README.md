@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Ash**<br />by _RUN_<br /> on Ash + Soil [2025] |
+| ![album cover][album-cover] | **WIZARD**<br />by _Castle Rat_<br /> on WIZARD [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513d1c8ba24ad9f408d68c0108
+[album-cover]: https://i.scdn.co/image/ab67616d00004851810ab4db126000cc1aa3b756
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
