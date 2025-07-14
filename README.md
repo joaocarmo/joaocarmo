@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hip hop (sou eu e és tu)**<br />by _Boss AC_<br /> on Ritmo amor e palavras [2005] |
+| ![album cover][album-cover] | **Help**<br />by _Papa Roach_<br /> on Crooked Teeth (Deluxe) [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ad206926296065779c8c6836
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d9a3b1b7041f2fdfc5de0035
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
