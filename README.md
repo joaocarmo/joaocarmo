@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Adeus Tristeza**<br />by _Linda Martini_<br /> on Intervalo EP [2009] |
+| ![album cover][album-cover] | **I Wish You Were Dead**<br />by _Lacuna Coil_<br /> on Sleepless Empire [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ddbc03455cd4134e22af021c
+[album-cover]: https://i.scdn.co/image/ab67616d0000485198d4f20c2ddadc4a47727ad2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
