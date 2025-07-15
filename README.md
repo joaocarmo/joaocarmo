@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Help**<br />by _Papa Roach_<br /> on Crooked Teeth (Deluxe) [2017] |
+| ![album cover][album-cover] | **Adeus Tristeza**<br />by _Linda Martini_<br /> on Intervalo EP [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d9a3b1b7041f2fdfc5de0035
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ddbc03455cd4134e22af021c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
