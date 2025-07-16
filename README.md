@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Wish You Were Dead**<br />by _Lacuna Coil_<br /> on Sleepless Empire [2025] |
+| ![album cover][album-cover] | **The Great Unknown**<br />by _Ice Nine Kills_<br /> on The Great Unknown [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485198d4f20c2ddadc4a47727ad2
+[album-cover]: https://i.scdn.co/image/ab67616d000048517d36e06db970192111dfa9a5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
