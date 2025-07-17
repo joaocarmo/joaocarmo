@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **culture wound**<br />by _We Came As Romans_<br /> on culture wound [2025] |
+| ![album cover][album-cover] | **Leftovers**<br />by _Planet of Zeus_<br /> on Macho Libre [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512b1d93870371e978462fe58f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c255da60a94fa9cbbf86f0e7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
