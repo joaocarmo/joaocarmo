@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Great Unknown**<br />by _Ice Nine Kills_<br /> on The Great Unknown [2025] |
+| ![album cover][album-cover] | **War**<br />by _YUNGBLUD_<br /> on Idols [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517d36e06db970192111dfa9a5
+[album-cover]: https://i.scdn.co/image/ab67616d000048517808f0d7992027b6b10254dd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
