@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **War**<br />by _YUNGBLUD_<br /> on Idols [2025] |
+| ![album cover][album-cover] | **culture wound**<br />by _We Came As Romans_<br /> on culture wound [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517808f0d7992027b6b10254dd
+[album-cover]: https://i.scdn.co/image/ab67616d000048512b1d93870371e978462fe58f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
