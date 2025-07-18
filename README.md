@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **You Think I Ain't Worth A Dollar, But I Feel Like A Millionaire - Album Version (With Interlude)**<br />by _Queens of the Stone Age_<br /> on Songs For The Deaf [2002] |
+| ![album cover][album-cover] | **Avaritia**<br />by _Year Of The Goat_<br /> on Novis Orbis Terrarum Ordinis [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519eec33b045d88f87b9b06e67
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c2b2edfb2416311872bc5a67
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
