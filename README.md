@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Avaritia**<br />by _Year Of The Goat_<br /> on Novis Orbis Terrarum Ordinis [2019] |
+| ![album cover][album-cover] | **Scumbag Blues**<br />by _Them Crooked Vultures_<br /> on Them Crooked Vultures [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c2b2edfb2416311872bc5a67
+[album-cover]: https://i.scdn.co/image/ab67616d000048517355bb17937d57983e09f9f9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
