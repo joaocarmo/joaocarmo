@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Scumbag Blues**<br />by _Them Crooked Vultures_<br /> on Them Crooked Vultures [2009] |
+| ![album cover][album-cover] | **Apocalypse**<br />by _Planet of Zeus_<br /> on Macho Libre [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517355bb17937d57983e09f9f9
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c255da60a94fa9cbbf86f0e7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
