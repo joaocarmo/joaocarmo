@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Apocalypse**<br />by _Planet of Zeus_<br /> on Macho Libre [2011] |
+| ![album cover][album-cover] | **Túnel**<br />by _Pluto_<br /> on Túnel [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c255da60a94fa9cbbf86f0e7
+[album-cover]: https://i.scdn.co/image/ab67616d00004851aac6d063eeb42ba1d40b5b4f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
