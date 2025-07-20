@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Túnel**<br />by _Pluto_<br /> on Túnel [2023] |
+| ![album cover][album-cover] | **Leaving**<br />by _Fight Or Flight_<br /> on A Life By Design? (Deluxe Version) [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851aac6d063eeb42ba1d40b5b4f
+[album-cover]: https://i.scdn.co/image/ab67616d0000485189ca974e9250c080182782a6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
