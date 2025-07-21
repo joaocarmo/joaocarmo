@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Black Funeral**<br />by _Orchid_<br /> on Capricorn [2011] |
+| ![album cover][album-cover] | **Killing Fields**<br />by _Shinedown_<br /> on Killing Fields [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513e77d888b455021493ebdd88
+[album-cover]: https://i.scdn.co/image/ab67616d000048512d8a282c7391443b70871233
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
