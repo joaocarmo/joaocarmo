@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Leaving**<br />by _Fight Or Flight_<br /> on A Life By Design? (Deluxe Version) [2013] |
+| ![album cover][album-cover] | **Black Funeral**<br />by _Orchid_<br /> on Capricorn [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485189ca974e9250c080182782a6
+[album-cover]: https://i.scdn.co/image/ab67616d000048513e77d888b455021493ebdd88
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
