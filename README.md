@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Shakin' Off The Rust**<br />by _The Blue Stones_<br /> on Shakin' Off The Rust [2019] |
+| ![album cover][album-cover] | **Stoick's Ship**<br />by _John Powell, Gavin Greenaway_<br /> on How to Train Your Dragon 2 (Music from the Motion Picture) [2014] |
 
 <!-- References -->
 
-[album-cover]: https://via.placeholder.com/100
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b4b0a5ea503bf417485f3952
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
