@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Killing Fields**<br />by _Shinedown_<br /> on Killing Fields [2025] |
+| ![album cover][album-cover] | **Shakin' Off The Rust**<br />by _The Blue Stones_<br /> on Shakin' Off The Rust [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512d8a282c7391443b70871233
+[album-cover]: https://via.placeholder.com/100
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
