@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Stoick's Ship**<br />by _John Powell, Gavin Greenaway_<br /> on How to Train Your Dragon 2 (Music from the Motion Picture) [2014] |
+| ![album cover][album-cover] | **Vanity Suit**<br />by _Planet of Zeus_<br /> on Macho Libre [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b4b0a5ea503bf417485f3952
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c255da60a94fa9cbbf86f0e7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
