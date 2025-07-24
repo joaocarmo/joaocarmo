@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Vanity Suit**<br />by _Planet of Zeus_<br /> on Macho Libre [2011] |
+| ![album cover][album-cover] | **The Only Ones**<br />by _Caskets_<br /> on Lost Souls [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c255da60a94fa9cbbf86f0e7
+[album-cover]: https://i.scdn.co/image/ab67616d000048516bbd5c58e7be013e8e83dcb3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
