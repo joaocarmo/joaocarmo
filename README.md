@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Memories**<br />by _Beyond Unbroken_<br /> on Don't Wake the Dead - EP [2017] |
+| ![album cover][album-cover] | **Shed My Skin**<br />by _Within Temptation, Annisokay_<br /> on Wireless [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e06f25ec7c0477c084afab4d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c88cfc170bb3199bd3a5b13a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
