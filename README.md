@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Shed My Skin**<br />by _Within Temptation, Annisokay_<br /> on Wireless [2023] |
+| ![album cover][album-cover] | **Heavier**<br />by _Rain City Drive_<br /> on To Better Days [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c88cfc170bb3199bd3a5b13a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b048f1c35393209592b515c0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
