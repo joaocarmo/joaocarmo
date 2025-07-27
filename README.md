@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Heavier**<br />by _Rain City Drive_<br /> on To Better Days [2020] |
+| ![album cover][album-cover] | **Carry On**<br />by _Falling In Reverse_<br /> on Carry On [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b048f1c35393209592b515c0
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e4349add1b27f35a7ec4b5ee
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
