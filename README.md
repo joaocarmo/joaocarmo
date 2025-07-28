@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Carry On**<br />by _Falling In Reverse_<br /> on Carry On [2020] |
+| ![album cover][album-cover] | **Without Me**<br />by _Dayseeker_<br /> on Dark Sun [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e4349add1b27f35a7ec4b5ee
+[album-cover]: https://i.scdn.co/image/ab67616d00004851386e4e938647ef307de72919
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
