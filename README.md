@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Without Me**<br />by _Dayseeker_<br /> on Dark Sun [2022] |
+| ![album cover][album-cover] | **Wake Up Call**<br />by _DIAMANTE_<br /> on American Dream [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851386e4e938647ef307de72919
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ec35374396d465121f4c375d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
