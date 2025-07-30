@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wake Up Call**<br />by _DIAMANTE_<br /> on American Dream [2021] |
+| ![album cover][album-cover] | **Pequeno Pormenor**<br />by _Xutos & Pontapés_<br /> on O Mundo Ao Contrário [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ec35374396d465121f4c375d
+[album-cover]: https://i.scdn.co/image/ab67616d000048518fb69778c0e735bf383fb6c8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
