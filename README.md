@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Pequeno Pormenor**<br />by _Xutos & Pontapés_<br /> on O Mundo Ao Contrário [2004] |
+| ![album cover][album-cover] | **Sitting Ducks**<br />by _The Virginmarys_<br /> on Sitting Ducks [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518fb69778c0e735bf383fb6c8
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bfa2f660f99d87304f39f4e9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
