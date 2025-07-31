@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Save Me Some Sunshine**<br />by _Rafferty_<br /> on Save Me Some Sunshine [2016] |
+| ![album cover][album-cover] | **Voices: Synthwave Edition**<br />by _Motionless In White_<br /> on Voices: Synthwave Edition [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c233c9909a1d8bf8b7c2757b
+[album-cover]: https://i.scdn.co/image/ab67616d000048512f3e3b0d54c5edf9482a7f4b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
