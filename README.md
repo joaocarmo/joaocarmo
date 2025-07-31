@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sitting Ducks**<br />by _The Virginmarys_<br /> on Sitting Ducks [2017] |
+| ![album cover][album-cover] | **Save Me Some Sunshine**<br />by _Rafferty_<br /> on Save Me Some Sunshine [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bfa2f660f99d87304f39f4e9
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c233c9909a1d8bf8b7c2757b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
