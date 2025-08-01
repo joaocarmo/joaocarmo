@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hades**<br />by _Falling Giant_<br /> on MMXVII MMXXII [2022] |
+| ![album cover][album-cover] | **Novocain**<br />by _Fit For Rivals_<br /> on Freak Machine [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ce3649e0e2a98cb59c22266b
+[album-cover]: https://i.scdn.co/image/ab67616d0000485178f3da90196c0ec7e42fb3f0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
