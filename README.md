@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Novocain**<br />by _Fit For Rivals_<br /> on Freak Machine [2016] |
+| ![album cover][album-cover] | **Live in the Now**<br />by _Goodbye June_<br /> on Community Inn [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485178f3da90196c0ec7e42fb3f0
+[album-cover]: https://i.scdn.co/image/ab67616d000048511f486fc32bcfc669f770923e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
