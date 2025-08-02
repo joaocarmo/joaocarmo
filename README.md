@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Velvet Clouds**<br />by _Black River Delta_<br /> on Vol. II [2018] |
+| ![album cover][album-cover] | **Arcade**<br />by _Duncan Laurence_<br /> on Small Town Boy (Track By Track) [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f940220237e97a4d1280d79f
+[album-cover]: https://i.scdn.co/image/ab67616d0000485159ce61a220822995a3ccd27f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
