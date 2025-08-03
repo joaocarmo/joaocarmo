@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Arcade**<br />by _Duncan Laurence_<br /> on Small Town Boy (Track By Track) [2020] |
+| ![album cover][album-cover] | **Infinity**<br />by _Jaymes Young_<br /> on Feel Something [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485159ce61a220822995a3ccd27f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a9897f65d1ead1be10a51e3f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
