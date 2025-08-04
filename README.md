@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Where's My Love - Acoustic**<br />by _SYML_<br /> on Where's My Love [2017] |
+| ![album cover][album-cover] | **Bleeding Out**<br />by _In Flames_<br /> on Foregone (Bonus Edition) [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485126149771b72bf432d16feefa
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b42da327fef7175303311a11
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
