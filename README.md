@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Infinity**<br />by _Jaymes Young_<br /> on Feel Something [2017] |
+| ![album cover][album-cover] | **Where's My Love - Acoustic**<br />by _SYML_<br /> on Where's My Love [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a9897f65d1ead1be10a51e3f
+[album-cover]: https://i.scdn.co/image/ab67616d0000485126149771b72bf432d16feefa
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
