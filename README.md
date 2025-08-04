@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bleeding Out**<br />by _In Flames_<br /> on Foregone (Bonus Edition) [2024] |
+| ![album cover][album-cover] | **Another Love**<br />by _Tom Odell_<br /> on Long Way Down (Deluxe) [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b42da327fef7175303311a11
+[album-cover]: https://i.scdn.co/image/ab67616d000048511917a0f3f4152622a040913f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
