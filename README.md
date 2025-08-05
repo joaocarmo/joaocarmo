@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **No Time To Die**<br />by _Billie Eilish_<br /> on No Time To Die [2020] |
+| ![album cover][album-cover] | **Thread the Needle**<br />by _Sleep Token_<br /> on One [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f7b7174bef6f3fbfda3a0bb7
+[album-cover]: https://i.scdn.co/image/ab67616d000048516343c25eec36173158c9be1d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
