@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Another Love**<br />by _Tom Odell_<br /> on Long Way Down (Deluxe) [2013] |
+| ![album cover][album-cover] | **No Time To Die**<br />by _Billie Eilish_<br /> on No Time To Die [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511917a0f3f4152622a040913f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f7b7174bef6f3fbfda3a0bb7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
