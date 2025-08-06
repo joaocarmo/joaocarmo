@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **State of Slow Decay**<br />by _In Flames_<br /> on Foregone [2023] |
+| ![album cover][album-cover] | **Haunted**<br />by _Evanescence_<br /> on Fallen [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d156aa78022844777cc51267
+[album-cover]: https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
