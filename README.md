@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Fear**<br />by _The Score_<br /> on Pressure [2019] |
+| ![album cover][album-cover] | **State of Slow Decay**<br />by _In Flames_<br /> on Foregone [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485184f08a509689b140f1bf931d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d156aa78022844777cc51267
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
