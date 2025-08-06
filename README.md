@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Thread the Needle**<br />by _Sleep Token_<br /> on One [2016] |
+| ![album cover][album-cover] | **The Fear**<br />by _The Score_<br /> on Pressure [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516343c25eec36173158c9be1d
+[album-cover]: https://i.scdn.co/image/ab67616d0000485184f08a509689b140f1bf931d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
