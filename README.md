@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hurricane**<br />by _I Prevail_<br /> on TRAUMA [2019] |
+| ![album cover][album-cover] | **No More Sorrow**<br />by _Linkin Park_<br /> on Minutes to Midnight [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485124261dc1d55e438883664bfd
+[album-cover]: https://i.scdn.co/image/ab67616d000048516e996745f2c7b8036abef213
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
