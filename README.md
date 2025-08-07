@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **No More Sorrow**<br />by _Linkin Park_<br /> on Minutes to Midnight [2007] |
+| ![album cover][album-cover] | **Take Me First**<br />by _Bad Omens_<br /> on THE DEATH OF PEACE OF MIND [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516e996745f2c7b8036abef213
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e5f6f7ec99735d7b870f18ae
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
