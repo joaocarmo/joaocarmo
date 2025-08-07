@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Haunted**<br />by _Evanescence_<br /> on Fallen [2003] |
+| ![album cover][album-cover] | **Hurricane**<br />by _I Prevail_<br /> on TRAUMA [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432
+[album-cover]: https://i.scdn.co/image/ab67616d0000485124261dc1d55e438883664bfd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
