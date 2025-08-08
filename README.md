@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Call Me When You're Sober**<br />by _Evanescence_<br /> on The Open Door [2006] |
+| ![album cover][album-cover] | **Violent Nature**<br />by _I Prevail_<br /> on Violent Nature [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517b8aabae10ab5bbe7c7f11c5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851952c64d3476ab61f63efb9a4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
