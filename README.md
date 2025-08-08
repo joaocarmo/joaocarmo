@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Take Me First**<br />by _Bad Omens_<br /> on THE DEATH OF PEACE OF MIND [2022] |
+| ![album cover][album-cover] | **Call Me When You're Sober**<br />by _Evanescence_<br /> on The Open Door [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e5f6f7ec99735d7b870f18ae
+[album-cover]: https://i.scdn.co/image/ab67616d000048517b8aabae10ab5bbe7c7f11c5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
