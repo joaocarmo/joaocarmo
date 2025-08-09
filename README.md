@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Violent Nature**<br />by _I Prevail_<br /> on Violent Nature [2025] |
+| ![album cover][album-cover] | **Phantom Limb**<br />by _The Messenger Birds_<br /> on Everything Has to Fall Apart Eventually [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851952c64d3476ab61f63efb9a4
+[album-cover]: https://i.scdn.co/image/ab67616d000048518fc97c2e84788ffdbcadbaa0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
