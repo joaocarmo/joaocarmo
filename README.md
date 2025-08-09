@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Phantom Limb**<br />by _The Messenger Birds_<br /> on Everything Has to Fall Apart Eventually [2020] |
+| ![album cover][album-cover] | **Another Love**<br />by _Tom Odell_<br /> on Long Way Down (Deluxe) [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518fc97c2e84788ffdbcadbaa0
+[album-cover]: https://i.scdn.co/image/ab67616d000048511917a0f3f4152622a040913f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
