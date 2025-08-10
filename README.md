@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Scars**<br />by _I Prevail_<br /> on Lifelines [2016] |
+| ![album cover][album-cover] | **There Is a Light That Never Goes Out - 2011 Remaster**<br />by _The Smiths_<br /> on The Queen Is Dead [1986] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515fb65e285bf78b48bba4fb57
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ada101c2e9e97feb8fae37a9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
