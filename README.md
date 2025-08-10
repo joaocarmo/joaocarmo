@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Another Love**<br />by _Tom Odell_<br /> on Long Way Down (Deluxe) [2013] |
+| ![album cover][album-cover] | **Scars**<br />by _I Prevail_<br /> on Lifelines [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511917a0f3f4152622a040913f
+[album-cover]: https://i.scdn.co/image/ab67616d000048515fb65e285bf78b48bba4fb57
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
