@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hey**<br />by _Pixies_<br /> on Doolittle [1989] |
+| ![album cover][album-cover] | **No. 1 Party Anthem**<br />by _Arctic Monkeys_<br /> on AM [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510ab3c2a306c614fae36ff1d6
+[album-cover]: https://i.scdn.co/image/ab67616d000048514ae1c4c5c45aabe565499163
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
