@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Friday I'm In Love**<br />by _The Cure_<br /> on Wish [1992] |
+| ![album cover][album-cover] | **In Vain**<br />by _As The Structure Fails_<br /> on In Vain [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519c72b249fcaa04d074c1dfcd
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a6f574fe1a12657da9a21ba1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
