@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **No. 1 Party Anthem**<br />by _Arctic Monkeys_<br /> on AM [2013] |
+| ![album cover][album-cover] | **Friday I'm In Love**<br />by _The Cure_<br /> on Wish [1992] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514ae1c4c5c45aabe565499163
+[album-cover]: https://i.scdn.co/image/ab67616d000048519c72b249fcaa04d074c1dfcd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
