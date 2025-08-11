@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **There Is a Light That Never Goes Out - 2011 Remaster**<br />by _The Smiths_<br /> on The Queen Is Dead [1986] |
+| ![album cover][album-cover] | **Hey**<br />by _Pixies_<br /> on Doolittle [1989] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ada101c2e9e97feb8fae37a9
+[album-cover]: https://i.scdn.co/image/ab67616d000048510ab3c2a306c614fae36ff1d6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
