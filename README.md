@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Fourth Of July**<br />by _Fall Out Boy_<br /> on American Beauty/American Psycho [2015] |
+| ![album cover][album-cover] | **Ghost Like You**<br />by _Caskets_<br /> on Ghost Like You [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513cf1c1dbcfa3f1ab7282719b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e8a25962136d48a5d73eccb5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
