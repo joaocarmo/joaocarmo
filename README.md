@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Starlight**<br />by _Muse_<br /> on Black Holes and Revelations [2006] |
+| ![album cover][album-cover] | **God Is A Weapon**<br />by _Falling In Reverse, Marilyn Manson_<br /> on God Is A Weapon [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485128933b808bfb4cbbd0385400
+[album-cover]: https://i.scdn.co/image/ab67616d0000485144b82fc53bb334d328941915
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
