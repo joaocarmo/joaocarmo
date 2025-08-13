@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Ghost Like You**<br />by _Caskets_<br /> on Ghost Like You [2019] |
+| ![album cover][album-cover] | **Starlight**<br />by _Muse_<br /> on Black Holes and Revelations [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e8a25962136d48a5d73eccb5
+[album-cover]: https://i.scdn.co/image/ab67616d0000485128933b808bfb4cbbd0385400
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
