@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Meltdown**<br />by _Motionless In White_<br /> on Scoring The End Of The World (Deluxe Edition) [2023] |
+| ![album cover][album-cover] | **Neon Grave**<br />by _Dayseeker_<br /> on Dark Sun [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851eff4f508bc231ee7a91846f9
+[album-cover]: https://i.scdn.co/image/ab67616d00004851386e4e938647ef307de72919
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
