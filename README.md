@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Neon Grave**<br />by _Dayseeker_<br /> on Dark Sun [2022] |
+| ![album cover][album-cover] | **Silence Speaks**<br />by _While She Sleeps, Oli Sykes_<br /> on You Are We [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851386e4e938647ef307de72919
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c3be9c013bd38a4a4c55b985
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
