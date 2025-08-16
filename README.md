@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Silence Speaks**<br />by _While She Sleeps, Oli Sykes_<br /> on You Are We [2017] |
+| ![album cover][album-cover] | **The Time Is Now**<br />by _Moloko_<br /> on Catalogue [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c3be9c013bd38a4a4c55b985
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ae38e6548991a8ab77e16842
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
