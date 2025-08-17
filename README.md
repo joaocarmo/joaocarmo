@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Time Is Now**<br />by _Moloko_<br /> on Catalogue [2006] |
+| ![album cover][album-cover] | **If You Loved Me Then**<br />by _Bleeding Verse_<br /> on I Became What You Broke [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ae38e6548991a8ab77e16842
+[album-cover]: https://i.scdn.co/image/ab67616d000048519daa8a54ecf4789e28426f32
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
