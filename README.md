@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Shadow Boxing**<br />by _Parkway Drive_<br /> on Reverence [2018] |
+| ![album cover][album-cover] | **An Alternative to Freedom**<br />by _Witchcraft_<br /> on Legend [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485196b4163add6c85325f8961fd
+[album-cover]: https://i.scdn.co/image/ab67616d00004851edc7a57add129d1479f4c1c8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
