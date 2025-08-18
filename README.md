@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Tell Ya Story Walking**<br />by _The Fumes_<br /> on Guns Of Gold [2006] |
+| ![album cover][album-cover] | **Shadow Boxing**<br />by _Parkway Drive_<br /> on Reverence [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516058862639e0098dc7ec50f6
+[album-cover]: https://i.scdn.co/image/ab67616d0000485196b4163add6c85325f8961fd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
