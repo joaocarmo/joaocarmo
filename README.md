@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **If You Loved Me Then**<br />by _Bleeding Verse_<br /> on I Became What You Broke [2025] |
+| ![album cover][album-cover] | **Tell Ya Story Walking**<br />by _The Fumes_<br /> on Guns Of Gold [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519daa8a54ecf4789e28426f32
+[album-cover]: https://i.scdn.co/image/ab67616d000048516058862639e0098dc7ec50f6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
