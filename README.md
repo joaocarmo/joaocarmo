@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Gasoline**<br />by _Planet of Zeus_<br /> on Faith in Physics [2019] |
+| ![album cover][album-cover] | **Lyra**<br />by _Breaking Benjamin_<br /> on Ember [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519575f5f541ab8dd764feca67
+[album-cover]: https://i.scdn.co/image/ab67616d000048511522bd2a4ea3d69e17f19429
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
