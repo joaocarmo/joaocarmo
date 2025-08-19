@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Shai-Hulud Sequel**<br />by _Sons of Arrakis_<br /> on Volume I [2022] |
+| ![album cover][album-cover] | **Gasoline**<br />by _Planet of Zeus_<br /> on Faith in Physics [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851075a9bd0701261d2f3a1a06d
+[album-cover]: https://i.scdn.co/image/ab67616d000048519575f5f541ab8dd764feca67
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
