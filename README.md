@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **An Alternative to Freedom**<br />by _Witchcraft_<br /> on Legend [2012] |
+| ![album cover][album-cover] | **Shai-Hulud Sequel**<br />by _Sons of Arrakis_<br /> on Volume I [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851edc7a57add129d1479f4c1c8
+[album-cover]: https://i.scdn.co/image/ab67616d00004851075a9bd0701261d2f3a1a06d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
