@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lyra**<br />by _Breaking Benjamin_<br /> on Ember [2018] |
+| ![album cover][album-cover] | **Shed My Skin**<br />by _Within Temptation, Annisokay_<br /> on Wireless [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511522bd2a4ea3d69e17f19429
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c88cfc170bb3199bd3a5b13a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
