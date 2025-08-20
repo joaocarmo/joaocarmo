@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Shed My Skin**<br />by _Within Temptation, Annisokay_<br /> on Wireless [2023] |
+| ![album cover][album-cover] | **The Reckoning**<br />by _Within Temptation, Jacoby Shaddix_<br /> on Resist (Extended Deluxe) [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c88cfc170bb3199bd3a5b13a
+[album-cover]: https://i.scdn.co/image/ab67616d0000485174615e79e3ec1228d8697e21
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
