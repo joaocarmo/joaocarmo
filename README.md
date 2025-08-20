@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Reckoning**<br />by _Within Temptation, Jacoby Shaddix_<br /> on Resist (Extended Deluxe) [2019] |
+| ![album cover][album-cover] | **Meteor**<br />by _Architects_<br /> on For Those That Wish To Exist [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485174615e79e3ec1228d8697e21
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c78b2edbc9407cea20ccfb9f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
