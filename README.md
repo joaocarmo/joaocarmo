@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Meteor**<br />by _Architects_<br /> on For Those That Wish To Exist [2021] |
+| ![album cover][album-cover] | **Fly from the Inside**<br />by _Shinedown_<br /> on Leave a Whisper (Deluxe Edition) [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c78b2edbc9407cea20ccfb9f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d609342d04c349815b5fe099
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
