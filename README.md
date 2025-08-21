@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Fly from the Inside**<br />by _Shinedown_<br /> on Leave a Whisper (Deluxe Edition) [2003] |
+| ![album cover][album-cover] | **Love No More**<br />by _Savage Hands_<br /> on Love No More [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d609342d04c349815b5fe099
+[album-cover]: https://i.scdn.co/image/ab67616d00004851efa89f2405141b6b7a7f635a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
