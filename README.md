@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Love No More**<br />by _Savage Hands_<br /> on Love No More [2021] |
+| ![album cover][album-cover] | **Waiting On You**<br />by _Rain City Drive_<br /> on Rain City Drive [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851efa89f2405141b6b7a7f635a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851926d37e5326d5c9e98f7c024
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
