@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Waiting On You**<br />by _Rain City Drive_<br /> on Rain City Drive [2022] |
+| ![album cover][album-cover] | **Propane**<br />by _Atticus Chimps_<br /> on Space Exploitation [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851926d37e5326d5c9e98f7c024
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d8d2a99bd91158a15f86a784
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
