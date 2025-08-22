@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Pieces**<br />by _Sum 41_<br /> on Chuck [2004] |
+| ![album cover][album-cover] | **What Lies Beneath**<br />by _Breaking Benjamin_<br /> on Dear Agony [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cb38dd3dba8a0801bc1ee03a
+[album-cover]: https://i.scdn.co/image/ab67616d0000485108cdafd988bd04d9b14159d3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
