@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Be My End**<br />by _Creeper_<br /> on Sex, Death & The Infinite Void [2020] |
+| ![album cover][album-cover] | **Pieces**<br />by _Sum 41_<br /> on Chuck [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d13f0138e47e5facbb15f9b8
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cb38dd3dba8a0801bc1ee03a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
