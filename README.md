@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Propane**<br />by _Atticus Chimps_<br /> on Space Exploitation [2023] |
+| ![album cover][album-cover] | **Be My End**<br />by _Creeper_<br /> on Sex, Death & The Infinite Void [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d8d2a99bd91158a15f86a784
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d13f0138e47e5facbb15f9b8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
