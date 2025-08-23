@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **What Lies Beneath**<br />by _Breaking Benjamin_<br /> on Dear Agony [2009] |
+| ![album cover][album-cover] | **Adagio for Strings**<br />by _Tiësto_<br /> on Just Be [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485108cdafd988bd04d9b14159d3
+[album-cover]: https://i.scdn.co/image/ab67616d000048510bcce148c9c4fd4ad709fdcc
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
