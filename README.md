@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Adagio for Strings**<br />by _Tiësto_<br /> on Just Be [2004] |
+| ![album cover][album-cover] | **Firewalker**<br />by _Valley of the Sun_<br /> on Old Gods [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510bcce148c9c4fd4ad709fdcc
+[album-cover]: https://i.scdn.co/image/ab67616d00004851954c5866a9f5834eb8582b42
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
