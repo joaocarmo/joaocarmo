@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Firewalker**<br />by _Valley of the Sun_<br /> on Old Gods [2019] |
+| ![album cover][album-cover] | **Perfect Man**<br />by _Buffalo Fuzz_<br /> on Buffalo Fuzz [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851954c5866a9f5834eb8582b42
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cdde1b11fbc2192962befc66
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
