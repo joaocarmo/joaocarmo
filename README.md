@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Perfect Man**<br />by _Buffalo Fuzz_<br /> on Buffalo Fuzz [2016] |
+| ![album cover][album-cover] | **I Don't Wanna Wait**<br />by _SOJA_<br /> on Born In Babylon [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cdde1b11fbc2192962befc66
+[album-cover]: https://i.scdn.co/image/ab67616d000048511bdd06e125e445368be9c371
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
