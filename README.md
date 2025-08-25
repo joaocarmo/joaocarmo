@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Don't Wanna Wait**<br />by _SOJA_<br /> on Born In Babylon [2009] |
+| ![album cover][album-cover] | **Farewell To The Fairground**<br />by _White Lies_<br /> on To Lose My Life... (Bonus remix version) [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511bdd06e125e445368be9c371
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a5e8c52572e7bb4765c78f42
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
