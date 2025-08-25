@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Pot**<br />by _TOOL_<br /> on 10,000 Days [2006] |
+| ![album cover][album-cover] | **1985**<br />by _Bowling For Soup_<br /> on A Hangover You Don't Deserve [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851781369aabc39c792cc55604f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f9b3ece3271d3a5fa73d3759
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
