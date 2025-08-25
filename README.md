@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Farewell To The Fairground**<br />by _White Lies_<br /> on To Lose My Life... (Bonus remix version) [2008] |
+| ![album cover][album-cover] | **The Pot**<br />by _TOOL_<br /> on 10,000 Days [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a5e8c52572e7bb4765c78f42
+[album-cover]: https://i.scdn.co/image/ab67616d00004851781369aabc39c792cc55604f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
