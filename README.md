@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Failure**<br />by _Breaking Benjamin_<br /> on Dark Before Dawn [2015] |
+| ![album cover][album-cover] | **Shapeshift**<br />by _Dayseeker_<br /> on Shapeshift [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518b1dc76f3a0cc8381b012e24
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bbf1d301903f918999c1e9c8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
