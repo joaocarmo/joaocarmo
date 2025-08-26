@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Carnivore**<br />by _STARSET_<br /> on Transmissions (Deluxe Version) [2014] |
+| ![album cover][album-cover] | **Failure**<br />by _Breaking Benjamin_<br /> on Dark Before Dawn [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514133716cfc80f0a138dc5719
+[album-cover]: https://i.scdn.co/image/ab67616d000048518b1dc76f3a0cc8381b012e24
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
