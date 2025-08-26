@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **1985**<br />by _Bowling For Soup_<br /> on A Hangover You Don't Deserve [2004] |
+| ![album cover][album-cover] | **Carnivore**<br />by _STARSET_<br /> on Transmissions (Deluxe Version) [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f9b3ece3271d3a5fa73d3759
+[album-cover]: https://i.scdn.co/image/ab67616d000048514133716cfc80f0a138dc5719
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
