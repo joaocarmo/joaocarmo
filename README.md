@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Clones**<br />by _Kevin Kiner_<br /> on Star Wars: The Clone Wars (Seasons One Through Six/Original Soundtrack) [2014] |
+| ![album cover][album-cover] | **Jar Of Hearts**<br />by _Through Fire_<br /> on Breathe (Deluxe Edition) [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516625df9dd2582bcdb50e7596
+[album-cover]: https://i.scdn.co/image/ab67616d000048518945c1b2d37edd0a8e1678d0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
