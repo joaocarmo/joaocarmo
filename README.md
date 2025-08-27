@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Shapeshift**<br />by _Dayseeker_<br /> on Shapeshift [2025] |
+| ![album cover][album-cover] | **Andor (Main Title Theme) - Episode 1**<br />by _Nicholas Britell_<br /> on Andor: Vol. 1 (Episodes 1-4) [Original Score] [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bbf1d301903f918999c1e9c8
+[album-cover]: https://i.scdn.co/image/ab67616d000048516788f1db657017ab39db0ad9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
