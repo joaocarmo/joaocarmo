@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Andor (Main Title Theme) - Episode 1**<br />by _Nicholas Britell_<br /> on Andor: Vol. 1 (Episodes 1-4) [Original Score] [2022] |
+| ![album cover][album-cover] | **The Clones**<br />by _Kevin Kiner_<br /> on Star Wars: The Clone Wars (Seasons One Through Six/Original Soundtrack) [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516788f1db657017ab39db0ad9
+[album-cover]: https://i.scdn.co/image/ab67616d000048516625df9dd2582bcdb50e7596
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
