@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Jar Of Hearts**<br />by _Through Fire_<br /> on Breathe (Deluxe Edition) [2016] |
+| ![album cover][album-cover] | **I Was Made For Lovin’ You - from The Fall Guy**<br />by _YUNGBLUD_<br /> on I Was Made For Lovin' You (from The Fall Guy) [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518945c1b2d37edd0a8e1678d0
+[album-cover]: https://i.scdn.co/image/ab67616d000048512514a547c5433aceb34ea84b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
