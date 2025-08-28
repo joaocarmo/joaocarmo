@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **B12**<br />by _Grey Daze_<br /> on Amends [2020] |
+| ![album cover][album-cover] | **Atonement**<br />by _Conquer Divide_<br /> on Slow Burn [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851dce8de84cfdaeee572e18b34
+[album-cover]: https://i.scdn.co/image/ab67616d000048512014b597b28ada5a275e9d60
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
