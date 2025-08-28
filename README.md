@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Man On A Mission**<br />by _The Black Keys_<br /> on Man On A Mission [2025] |
+| ![album cover][album-cover] | **B12**<br />by _Grey Daze_<br /> on Amends [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fd7657bbe3476778b1660e31
+[album-cover]: https://i.scdn.co/image/ab67616d00004851dce8de84cfdaeee572e18b34
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
