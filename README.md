@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Was Made For Lovin’ You - from The Fall Guy**<br />by _YUNGBLUD_<br /> on I Was Made For Lovin' You (from The Fall Guy) [2024] |
+| ![album cover][album-cover] | **Man On A Mission**<br />by _The Black Keys_<br /> on Man On A Mission [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512514a547c5433aceb34ea84b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fd7657bbe3476778b1660e31
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
