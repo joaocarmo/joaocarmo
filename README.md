@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **one by one**<br />by _We Came As Romans_<br /> on ALL IS BEAUTIFUL… BECAUSE WE'RE DOOMED [2025] |
+| ![album cover][album-cover] | **Terrified**<br />by _Versus Me_<br /> on Terrified [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510496a68266b92e90d8cd623e
+[album-cover]: https://i.scdn.co/image/ab67616d000048510b67dc34861e8492e5ab7b72
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
