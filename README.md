@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Atonement**<br />by _Conquer Divide_<br /> on Slow Burn [2023] |
+| ![album cover][album-cover] | **one by one**<br />by _We Came As Romans_<br /> on ALL IS BEAUTIFUL… BECAUSE WE'RE DOOMED [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512014b597b28ada5a275e9d60
+[album-cover]: https://i.scdn.co/image/ab67616d000048510496a68266b92e90d8cd623e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
