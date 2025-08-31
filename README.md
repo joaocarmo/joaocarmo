@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Terrified**<br />by _Versus Me_<br /> on Terrified [2022] |
+| ![album cover][album-cover] | **The Only Heaven You'll Know**<br />by _Caskets_<br /> on The Only Heaven You'll Know [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510b67dc34861e8492e5ab7b72
+[album-cover]: https://i.scdn.co/image/ab67616d000048515112971638f6ef6d8214dea0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
