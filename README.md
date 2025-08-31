@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hurricane**<br />by _I Prevail_<br /> on TRAUMA [2019] |
+| ![album cover][album-cover] | **You're Going Down**<br />by _SICK PUPPIES_<br /> on You're Going Down [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485124261dc1d55e438883664bfd
+[album-cover]: https://via.placeholder.com/100
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
