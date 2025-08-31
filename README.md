@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Only Heaven You'll Know**<br />by _Caskets_<br /> on The Only Heaven You'll Know [2025] |
+| ![album cover][album-cover] | **Hurricane**<br />by _I Prevail_<br /> on TRAUMA [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515112971638f6ef6d8214dea0
+[album-cover]: https://i.scdn.co/image/ab67616d0000485124261dc1d55e438883664bfd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
