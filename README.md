@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **You're Going Down**<br />by _SICK PUPPIES_<br /> on You're Going Down [2009] |
+| ![album cover][album-cover] | **Palus Somni**<br />by _Valley of the Sun_<br /> on Quintessence [2024] |
 
 <!-- References -->
 
-[album-cover]: https://via.placeholder.com/100
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d75a5069cd12829932a26e8b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
