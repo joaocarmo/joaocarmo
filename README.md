@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **L'hotel Serein**<br />by _All Them Witches_<br /> on L'hotel Serein [2022] |
+| ![album cover][album-cover] | **Until the World Goes Cold**<br />by _Trivium_<br /> on Silence in the Snow (Special Edition) [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851745fc04939c578ffab5baaa2
+[album-cover]: https://i.scdn.co/image/ab67616d000048517a936cb18fbf6bec7127c430
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
