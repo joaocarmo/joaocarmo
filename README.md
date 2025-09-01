@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Palus Somni**<br />by _Valley of the Sun_<br /> on Quintessence [2024] |
+| ![album cover][album-cover] | **L'hotel Serein**<br />by _All Them Witches_<br /> on L'hotel Serein [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d75a5069cd12829932a26e8b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851745fc04939c578ffab5baaa2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
