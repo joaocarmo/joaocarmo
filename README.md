@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I miss me**<br />by _Rivilin_<br /> on AND SO THE AGONY BEGAN [2025] |
+| ![album cover][album-cover] | **Atlantic**<br />by _Sleep Token_<br /> on This Place Will Become Your Tomb [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485103aea7cf7cb9a7eaa4cb6565
+[album-cover]: https://i.scdn.co/image/ab67616d0000485136afd3d53b6dcc59f3563cf9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
