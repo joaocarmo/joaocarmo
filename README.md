@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Until the World Goes Cold**<br />by _Trivium_<br /> on Silence in the Snow (Special Edition) [2015] |
+| ![album cover][album-cover] | **I miss me**<br />by _Rivilin_<br /> on AND SO THE AGONY BEGAN [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517a936cb18fbf6bec7127c430
+[album-cover]: https://i.scdn.co/image/ab67616d0000485103aea7cf7cb9a7eaa4cb6565
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
