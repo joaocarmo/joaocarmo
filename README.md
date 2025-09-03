@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Move Me**<br />by _Badflower_<br /> on Move Me [2020] |
+| ![album cover][album-cover] | **Paws**<br />by _Badflower_<br /> on No Place Like Home [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851135225748a8351f85e4c337f
+[album-cover]: https://i.scdn.co/image/ab67616d000048512c8255cfcc8dde98740db7c3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
