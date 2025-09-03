@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **One More Flag in the Ground**<br />by _Kamelot_<br /> on The Awakening [2023] |
+| ![album cover][album-cover] | **What We Have Done**<br />by _Fixation_<br /> on Global Suicide [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e8d81d09fe519a4675f87361
+[album-cover]: https://i.scdn.co/image/ab67616d000048514ddd9b01fcd80158c9241460
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
