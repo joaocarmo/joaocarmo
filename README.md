@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **What We Have Done**<br />by _Fixation_<br /> on Global Suicide [2020] |
+| ![album cover][album-cover] | **Move Me**<br />by _Badflower_<br /> on Move Me [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514ddd9b01fcd80158c9241460
+[album-cover]: https://i.scdn.co/image/ab67616d00004851135225748a8351f85e4c337f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
