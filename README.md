@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Paws**<br />by _Badflower_<br /> on No Place Like Home [2025] |
+| ![album cover][album-cover] | **Call Me**<br />by _In This Moment_<br /> on Call Me [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512c8255cfcc8dde98740db7c3
+[album-cover]: https://i.scdn.co/image/ab67616d0000485120fe63b345f2ab39c3216309
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
