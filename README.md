@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Holiday**<br />by _Green Day_<br /> on American Idiot (20th Anniversary Deluxe Edition) [2024] |
+| ![album cover][album-cover] | **Therapy**<br />by _VOILÀ_<br /> on Happy Never After [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518214d54694cb9813927f7f3f
+[album-cover]: https://i.scdn.co/image/ab67616d000048519105eb17d8e5a25f67af6fe3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
