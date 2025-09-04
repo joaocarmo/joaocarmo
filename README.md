@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Therapy**<br />by _VOILÀ_<br /> on Happy Never After [2022] |
+| ![album cover][album-cover] | **I Won't See You Tonight Part 1**<br />by _Avenged Sevenfold_<br /> on Waking The Fallen [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519105eb17d8e5a25f67af6fe3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fd1f9d8bb6c1c9c2cb229837
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
