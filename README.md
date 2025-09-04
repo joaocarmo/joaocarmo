@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Call Me**<br />by _In This Moment_<br /> on Call Me [2009] |
+| ![album cover][album-cover] | **Holiday**<br />by _Green Day_<br /> on American Idiot (20th Anniversary Deluxe Edition) [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485120fe63b345f2ab39c3216309
+[album-cover]: https://i.scdn.co/image/ab67616d000048518214d54694cb9813927f7f3f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
