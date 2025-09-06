@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Missing You**<br />by _Sheiks_<br /> on Missing you - Integral 1965 / 1967 [1965] |
+| ![album cover][album-cover] | **Lip Gloss And Black**<br />by _Atreyu_<br /> on Suicide Notes And Butterfly Kisses [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515b51c7f222ad96e3b5d0f773
+[album-cover]: https://i.scdn.co/image/ab67616d000048515d7d4f849d54d101f461d9a2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
