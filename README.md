@@ -18,7 +18,7 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Tell Me Bird**<br />by _Sheiks_<br /> on Missing you - Integral 1965 / 1967 [1965] |
+| ![album cover][album-cover] | **Missing You**<br />by _Sheiks_<br /> on Missing you - Integral 1965 / 1967 [1965] |
 
 <!-- References -->
 
