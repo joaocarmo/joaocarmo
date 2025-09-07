@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lip Gloss And Black**<br />by _Atreyu_<br /> on Suicide Notes And Butterfly Kisses [2002] |
+| ![album cover][album-cover] | **Hurricane**<br />by _I Prevail_<br /> on TRAUMA [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515d7d4f849d54d101f461d9a2
+[album-cover]: https://i.scdn.co/image/ab67616d0000485124261dc1d55e438883664bfd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
