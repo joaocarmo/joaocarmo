@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Family**<br />by _Badflower_<br /> on This Is How The World Ends [2021] |
+| ![album cover][album-cover] | **Become Surrender**<br />by _The Halo Effect_<br /> on Become Surrender [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511a393edb724c4c5659720519
+[album-cover]: https://i.scdn.co/image/ab67616d000048518caf16c3c4fc319c131d9f0f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
