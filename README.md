@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Become Surrender**<br />by _The Halo Effect_<br /> on Become Surrender [2024] |
+| ![album cover][album-cover] | **Crash And Burn**<br />by _Write This Down_<br /> on Lost Weekend [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518caf16c3c4fc319c131d9f0f
+[album-cover]: https://i.scdn.co/image/ab67616d000048512f13d65d8178e415a0ebf735
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
