@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Blood Sport**<br />by _Sleep Token_<br /> on Sundowning [2019] |
+| ![album cover][album-cover] | **The Siren**<br />by _Graveyard_<br /> on Hisingen Blues [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851003381f0f8b9eb37a06eeb3f
+[album-cover]: https://i.scdn.co/image/ab67616d0000485133d17eec13d138398aa2caf3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
