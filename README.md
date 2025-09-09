@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Crash And Burn**<br />by _Write This Down_<br /> on Lost Weekend [2012] |
+| ![album cover][album-cover] | **Blood Sport**<br />by _Sleep Token_<br /> on Sundowning [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512f13d65d8178e415a0ebf735
+[album-cover]: https://i.scdn.co/image/ab67616d00004851003381f0f8b9eb37a06eeb3f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
