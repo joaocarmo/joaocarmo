@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Mantra**<br />by _Dave Grohl, Josh Homme, Trent Reznor_<br /> on Sound City - Real to Reel [2013] |
+| ![album cover][album-cover] | **Propane**<br />by _Atticus Chimps_<br /> on Space Exploitation [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851519c952e6e571b96ace69d0f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d8d2a99bd91158a15f86a784
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
