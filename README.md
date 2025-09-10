@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Siren**<br />by _Graveyard_<br /> on Hisingen Blues [2011] |
+| ![album cover][album-cover] | **Mantra**<br />by _Dave Grohl, Josh Homme, Trent Reznor_<br /> on Sound City - Real to Reel [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485133d17eec13d138398aa2caf3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851519c952e6e571b96ace69d0f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
