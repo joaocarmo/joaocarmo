@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **It's Not Over**<br />by _Daughtry_<br /> on Daughtry [2006] |
+| ![album cover][album-cover] | **THE DEATH OF PEACE OF MIND**<br />by _Bad Omens_<br /> on THE DEATH OF PEACE OF MIND [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e42a527a7ce207ca12b6bdf8
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e5f6f7ec99735d7b870f18ae
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
