@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wake Me up When September Ends**<br />by _Green Day_<br /> on American Idiot [2004] |
+| ![album cover][album-cover] | **45**<br />by _Shinedown_<br /> on Leave a Whisper (Deluxe Edition) [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485108a1b1e0674086d3f1995e1b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d609342d04c349815b5fe099
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
