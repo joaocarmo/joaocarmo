@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **45**<br />by _Shinedown_<br /> on Leave a Whisper (Deluxe Edition) [2003] |
+| ![album cover][album-cover] | **Lithium**<br />by _Evanescence_<br /> on The Open Door [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d609342d04c349815b5fe099
+[album-cover]: https://i.scdn.co/image/ab67616d000048517b8aabae10ab5bbe7c7f11c5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
