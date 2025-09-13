@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lithium**<br />by _Evanescence_<br /> on The Open Door [2006] |
+| ![album cover][album-cover] | **Through Glass**<br />by _Stone Sour_<br /> on Come What(ever) May [10th Anniversary Edition] [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517b8aabae10ab5bbe7c7f11c5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b424aeb510016daa1bc0251c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
