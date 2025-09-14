@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Specter**<br />by _Bad Omens_<br /> on Specter [2025] |
+| ![album cover][album-cover] | **Blood on My Hands**<br />by _The Used_<br /> on Artwork [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851291facfe6e704c2a78d36782
+[album-cover]: https://i.scdn.co/image/ab67616d000048510e8b49cc65e8cec09ce46eb7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
