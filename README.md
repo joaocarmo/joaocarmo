@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Through Glass**<br />by _Stone Sour_<br /> on Come What(ever) May [10th Anniversary Edition] [2006] |
+| ![album cover][album-cover] | **Specter**<br />by _Bad Omens_<br /> on Specter [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b424aeb510016daa1bc0251c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851291facfe6e704c2a78d36782
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
