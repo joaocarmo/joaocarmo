@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Blood on My Hands**<br />by _The Used_<br /> on Artwork [2009] |
+| ![album cover][album-cover] | **Rise Up**<br />by _Yves Larock, Jaba_<br /> on Rise Up [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510e8b49cc65e8cec09ce46eb7
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c5dfe428b192c75c36c2108c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
