@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Soaring Star**<br />by _Soaring Metal Lords_<br /> on Soaring Star [2025] |
+| ![album cover][album-cover] | **Deconstruction**<br />by _Witchcraft_<br /> on Legend [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515c2fa9518921b033e1abcf77
+[album-cover]: https://i.scdn.co/image/ab67616d00004851edc7a57add129d1479f4c1c8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
