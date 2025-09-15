@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Rise Up**<br />by _Yves Larock, Jaba_<br /> on Rise Up [2009] |
+| ![album cover][album-cover] | **Soaring Star**<br />by _Soaring Metal Lords_<br /> on Soaring Star [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c5dfe428b192c75c36c2108c
+[album-cover]: https://i.scdn.co/image/ab67616d000048515c2fa9518921b033e1abcf77
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
