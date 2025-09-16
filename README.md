@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Tour Death Song**<br />by _All Them Witches_<br /> on Tour Death Song [2022] |
+| ![album cover][album-cover] | **Nothing Can Save Us Now**<br />by _Deepfield_<br /> on Nothing Can Save Us Now [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e651ed0c513b05a03d7457d3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cebb0a0d79119a8c8e46d14d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
