@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **DArkSide**<br />by _Bring Me The Horizon_<br /> on POST HUMAN: NeX GEn [2024] |
+| ![album cover][album-cover] | **Secret Garden**<br />by _Spiritbox_<br /> on Eternal Blue [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851df51a3d66223e5b01813e0c4
+[album-cover]: https://i.scdn.co/image/ab67616d000048513e234c82f96fa4ded8e5ca47
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
