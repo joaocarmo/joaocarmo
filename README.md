@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Secret Garden**<br />by _Spiritbox_<br /> on Eternal Blue [2021] |
+| ![album cover][album-cover] | **War Inside My Skin**<br />by _Deathly Hours_<br /> on War Inside My Skin [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513e234c82f96fa4ded8e5ca47
+[album-cover]: https://i.scdn.co/image/ab67616d00004851238070a1c98a7e8c0e2f0a29
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
