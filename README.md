@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **War Inside My Skin**<br />by _Deathly Hours_<br /> on War Inside My Skin [2025] |
+| ![album cover][album-cover] | **Alone In A Room**<br />by _Asking Alexandria_<br /> on Asking Alexandria [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851238070a1c98a7e8c0e2f0a29
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a5a20911c853ddb5f03e2dbd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
