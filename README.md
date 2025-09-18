@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Alone In A Room**<br />by _Asking Alexandria_<br /> on Asking Alexandria [2017] |
+| ![album cover][album-cover] | **God Is A Weapon**<br />by _Falling In Reverse, Marilyn Manson_<br /> on God Is A Weapon [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a5a20911c853ddb5f03e2dbd
+[album-cover]: https://i.scdn.co/image/ab67616d0000485144b82fc53bb334d328941915
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
