@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Decode - Twilight Soundtrack Version**<br />by _Paramore_<br /> on Brand New Eyes [2009] |
+| ![album cover][album-cover] | **Gimme More**<br />by _First to Eleven_<br /> on Gimme More [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b9abbedc516dd297039977bd
+[album-cover]: https://i.scdn.co/image/ab67616d0000485138aa797d4cca51b407bd6b77
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
