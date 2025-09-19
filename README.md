@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **God Is A Weapon**<br />by _Falling In Reverse, Marilyn Manson_<br /> on God Is A Weapon [2025] |
+| ![album cover][album-cover] | **Decode - Twilight Soundtrack Version**<br />by _Paramore_<br /> on Brand New Eyes [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485144b82fc53bb334d328941915
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b9abbedc516dd297039977bd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
