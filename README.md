@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Imaginary**<br />by _Evanescence_<br /> on Fallen [2003] |
+| ![album cover][album-cover] | **Hey Ya**<br />by _Sleep Token_<br /> on Hey Ya [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432
+[album-cover]: https://i.scdn.co/image/ab67616d0000485168af05e828877327ebd75b39
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
