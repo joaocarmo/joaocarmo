@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hey Ya**<br />by _Sleep Token_<br /> on Hey Ya [2018] |
+| ![album cover][album-cover] | **Wet Dreams**<br />by _GG Magree_<br /> on Wet Dreams [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485168af05e828877327ebd75b39
+[album-cover]: https://i.scdn.co/image/ab67616d000048511df4e9c8a85fc94e4f4e58b6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
