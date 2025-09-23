@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Anakin's Betrayal**<br />by _John Williams, London Symphony Orchestra_<br /> on Star Wars: A Vingança dos Sith (Banda Sonora Original) [2005] |
+| ![album cover][album-cover] | **Grim Reaper**<br />by _DEgITx, Matty M._<br /> on Red Flower [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b7aa04a8a97dec378252c2b9
+[album-cover]: https://i.scdn.co/image/ab67616d000048510d252c3acb889b0e7ec23ca3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
