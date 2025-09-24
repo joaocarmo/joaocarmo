@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Grim Reaper**<br />by _DEgITx, Matty M._<br /> on Red Flower [2017] |
+| ![album cover][album-cover] | **Piano: Celes**<br />by _植松 伸夫_<br /> on Piano Collections FINAL FANTASY VI [1988] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510d252c3acb889b0e7ec23ca3
+[album-cover]: https://i.scdn.co/image/ab67616d000048519057e5b78f6c41e17cdefcd7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
