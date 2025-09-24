@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Still More Fighting (From "Final Fantasy VII") [Metal Cover]**<br />by _ToxicxEternity_<br /> on VG Metal Covers, Vol. 9 [2017] |
+| ![album cover][album-cover] | **Advent: One-Winged Angel**<br />by _Nobuo Uematsu_<br /> on FINAL FANTASY VII ADVENT CHILDREN Original Soundtrack [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515e48e711e062b5a985b49a09
+[album-cover]: https://i.scdn.co/image/ab67616d000048510159b6b22016d000d1ea29fe
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
