@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Last Battle (From "Final Fantasy V") [Metal Cover]**<br />by _ToxicxEternity_<br /> on VG Metal Covers, Vol. 7 [2016] |
+| ![album cover][album-cover] | **Piano: Kids Run Through The City Corner**<br />by _植松 伸夫_<br /> on Piano Collections FINAL FANTASY VI [1988] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a5e31d064f837de0fb39a9d2
+[album-cover]: https://i.scdn.co/image/ab67616d000048519057e5b78f6c41e17cdefcd7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
