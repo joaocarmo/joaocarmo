@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Last Battle (From "Final Fantasy V") [Metal Cover]**<br />by _ToxicxEternity_<br /> on VG Metal Covers, Vol. 7 [2016] |
+| ![album cover][album-cover] | **Advent: One-Winged Angel**<br />by _Nobuo Uematsu_<br /> on FINAL FANTASY VII ADVENT CHILDREN Original Soundtrack [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a5e31d064f837de0fb39a9d2
+[album-cover]: https://i.scdn.co/image/ab67616d000048510159b6b22016d000d1ea29fe
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
