@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Advent: One-Winged Angel**<br />by _Nobuo Uematsu_<br /> on FINAL FANTASY VII ADVENT CHILDREN Original Soundtrack [2005] |
+| ![album cover][album-cover] | **Final Fantasy: Main Theme**<br />by _Nobuo Uematsu, Andrew Skeet, London Philharmonic Orchestra_<br /> on The Greatest Video Game Music [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510159b6b22016d000d1ea29fe
+[album-cover]: https://i.scdn.co/image/ab67616d00004851943c113347461b66ba58d116
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
