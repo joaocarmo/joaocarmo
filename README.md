@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Final Fantasy: Main Theme**<br />by _Nobuo Uematsu, Andrew Skeet, London Philharmonic Orchestra_<br /> on The Greatest Video Game Music [2011] |
+| ![album cover][album-cover] | **Jaws**<br />by _Sleep Token_<br /> on Jaws [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851943c113347461b66ba58d116
+[album-cover]: https://i.scdn.co/image/ab67616d0000485147ae97dba7a4aa79e5342de2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
