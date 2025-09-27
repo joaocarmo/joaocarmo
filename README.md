@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Battle Theme (From "Final Fantasy VI") [Metal Cover]**<br />by _ToxicxEternity_<br /> on VG Metal Covers, Vol. 7 [2016] |
+| ![album cover][album-cover] | **Caramel**<br />by _Sleep Token_<br /> on Even In Arcadia [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a5e31d064f837de0fb39a9d2
+[album-cover]: https://i.scdn.co/image/ab67616d000048510e48dcb579fd8e59d0a3c218
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
