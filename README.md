@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Scars**<br />by _I Prevail_<br /> on Lifelines [2016] |
+| ![album cover][album-cover] | **Drowning Hymns**<br />by _Wind Walkers_<br /> on What If I Break? [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515fb65e285bf78b48bba4fb57
+[album-cover]: https://i.scdn.co/image/ab67616d000048511dba984405b9c9d33e03b0d4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
