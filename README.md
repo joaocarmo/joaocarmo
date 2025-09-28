@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Still More Fighting (From "Final Fantasy VII") [Metal Cover]**<br />by _ToxicxEternity_<br /> on VG Metal Covers, Vol. 9 [2017] |
+| ![album cover][album-cover] | **Scars**<br />by _I Prevail_<br /> on Lifelines [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515e48e711e062b5a985b49a09
+[album-cover]: https://i.scdn.co/image/ab67616d000048515fb65e285bf78b48bba4fb57
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
