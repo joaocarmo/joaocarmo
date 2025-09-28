@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Battle Theme (From "Final Fantasy VI") [Metal Cover]**<br />by _ToxicxEternity_<br /> on VG Metal Covers, Vol. 7 [2016] |
+| ![album cover][album-cover] | **Still More Fighting (From "Final Fantasy VII") [Metal Cover]**<br />by _ToxicxEternity_<br /> on VG Metal Covers, Vol. 9 [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a5e31d064f837de0fb39a9d2
+[album-cover]: https://i.scdn.co/image/ab67616d000048515e48e711e062b5a985b49a09
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
