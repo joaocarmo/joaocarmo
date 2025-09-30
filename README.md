@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Drowning Hymns**<br />by _Wind Walkers_<br /> on What If I Break? [2023] |
+| ![album cover][album-cover] | **Unholy Confessions**<br />by _Avenged Sevenfold_<br /> on Waking The Fallen [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511dba984405b9c9d33e03b0d4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fd1f9d8bb6c1c9c2cb229837
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
