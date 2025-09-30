@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Unholy Confessions**<br />by _Avenged Sevenfold_<br /> on Waking The Fallen [2003] |
+| ![album cover][album-cover] | **Dying in Your Arms**<br />by _Trivium_<br /> on Ascendancy [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fd1f9d8bb6c1c9c2cb229837
+[album-cover]: https://i.scdn.co/image/ab67616d00004851224e4e09f27f73f57d08312f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
