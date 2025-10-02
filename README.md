@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dying in Your Arms**<br />by _Trivium_<br /> on Ascendancy [2005] |
+| ![album cover][album-cover] | **In Between**<br />by _Beartooth_<br /> on Disgusting [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851224e4e09f27f73f57d08312f
+[album-cover]: https://i.scdn.co/image/ab67616d000048516b70e7bed9a831b79c28327f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
