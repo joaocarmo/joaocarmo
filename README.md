@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Death is All Around**<br />by _The Amity Affliction_<br /> on Somewhere Beyond the Blue [2021] |
+| ![album cover][album-cover] | **DArkSide**<br />by _Bring Me The Horizon_<br /> on POST HUMAN: NeX GEn [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851de8ab155305e66ae7be87e10
+[album-cover]: https://i.scdn.co/image/ab67616d00004851df51a3d66223e5b01813e0c4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
