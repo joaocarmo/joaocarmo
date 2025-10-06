@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Control**<br />by _NEFFEX_<br /> on Control [2025] |
+| ![album cover][album-cover] | **Death is All Around**<br />by _The Amity Affliction_<br /> on Somewhere Beyond the Blue [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f35c1ccc08c47aca293e0f82
+[album-cover]: https://i.scdn.co/image/ab67616d00004851de8ab155305e66ae7be87e10
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
