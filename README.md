@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **DArkSide**<br />by _Bring Me The Horizon_<br /> on POST HUMAN: NeX GEn [2024] |
+| ![album cover][album-cover] | **Retreat Of The Sacred Heart**<br />by _Cradle Of Filth_<br /> on Darkly, Darkly, Venus Aversa [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851df51a3d66223e5b01813e0c4
+[album-cover]: https://i.scdn.co/image/ab67616d0000485198271f496c51ce4acb38b585
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
