@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sometimes**<br />by _Grey Daze_<br /> on Amends [2020] |
+| ![album cover][album-cover] | **Still More Fighting (From "Final Fantasy VII") [Metal Cover]**<br />by _ToxicxEternity_<br /> on VG Metal Covers, Vol. 9 [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851dce8de84cfdaeee572e18b34
+[album-cover]: https://i.scdn.co/image/ab67616d000048515e48e711e062b5a985b49a09
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
