@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Retreat Of The Sacred Heart**<br />by _Cradle Of Filth_<br /> on Darkly, Darkly, Venus Aversa [2010] |
+| ![album cover][album-cover] | **Circle With Me**<br />by _Spiritbox_<br /> on Eternal Blue [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485198271f496c51ce4acb38b585
+[album-cover]: https://i.scdn.co/image/ab67616d000048513e234c82f96fa4ded8e5ca47
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
