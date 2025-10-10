@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Still More Fighting (From "Final Fantasy VII") [Metal Cover]**<br />by _ToxicxEternity_<br /> on VG Metal Covers, Vol. 9 [2017] |
+| ![album cover][album-cover] | **Rushing Burner (Flame Stag) [Megaman X2]**<br />by _Metalltool_<br /> on Rushing Burner (Flame Stag) [Megaman X2] [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515e48e711e062b5a985b49a09
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fea62f8f318c42f223aafd88
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
