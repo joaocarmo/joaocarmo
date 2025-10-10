@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **End of You**<br />by _Poppy, Amy Lee, Courtney LaPlante_<br /> on End of You [2025] |
+| ![album cover][album-cover] | **Parabola**<br />by _TOOL_<br /> on Lateralus [2001] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851460c53e36b10048efc49e76c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ca41a947c13b78749c4953b1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
