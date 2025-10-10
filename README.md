@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Rushing Burner (Flame Stag) [Megaman X2]**<br />by _Metalltool_<br /> on Rushing Burner (Flame Stag) [Megaman X2] [2020] |
+| ![album cover][album-cover] | **End of You**<br />by _Poppy, Amy Lee, Courtney LaPlante_<br /> on End of You [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fea62f8f318c42f223aafd88
+[album-cover]: https://i.scdn.co/image/ab67616d00004851460c53e36b10048efc49e76c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
