@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Is There Anybody Out There?**<br />by _Machine Head_<br /> on Is There Anybody Out There? [2016] |
+| ![album cover][album-cover] | **Miss You**<br />by _W.A.S.P._<br /> on Golgotha [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511e76eaa664f5b71699066c72
+[album-cover]: https://i.scdn.co/image/ab67616d000048518ffc15d49f3cc2351bac7a75
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
