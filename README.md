@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Parabola**<br />by _TOOL_<br /> on Lateralus [2001] |
+| ![album cover][album-cover] | **בעין הסערה**<br />by _Eran Tzur_<br /> on כל מה שאנושי [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ca41a947c13b78749c4953b1
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bf21e0fc86e3770ff48cea8d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
