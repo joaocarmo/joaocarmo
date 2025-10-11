@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **בעין הסערה**<br />by _Eran Tzur_<br /> on כל מה שאנושי [2009] |
+| ![album cover][album-cover] | **Is There Anybody Out There?**<br />by _Machine Head_<br /> on Is There Anybody Out There? [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bf21e0fc86e3770ff48cea8d
+[album-cover]: https://i.scdn.co/image/ab67616d000048511e76eaa664f5b71699066c72
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
