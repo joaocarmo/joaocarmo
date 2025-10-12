@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Miss You**<br />by _W.A.S.P._<br /> on Golgotha [2015] |
+| ![album cover][album-cover] | **I See You**<br />by _The Bones of J.R. Jones_<br /> on Ones to Keep Close [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518ffc15d49f3cc2351bac7a75
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a48451b93bc1b17086a2e576
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
