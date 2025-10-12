@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I See You**<br />by _The Bones of J.R. Jones_<br /> on Ones to Keep Close [2018] |
+| ![album cover][album-cover] | **Nowhere To Go**<br />by _Bad Omens_<br /> on THE DEATH OF PEACE OF MIND [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a48451b93bc1b17086a2e576
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bafcef0262b82dec233717e2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
