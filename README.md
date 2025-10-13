@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Love No More**<br />by _Savage Hands_<br /> on Love No More [2021] |
+| ![album cover][album-cover] | **Like A Villain**<br />by _Bad Omens_<br /> on THE DEATH OF PEACE OF MIND [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851efa89f2405141b6b7a7f635a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bafcef0262b82dec233717e2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
