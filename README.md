@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sorry You're Not a Winner**<br />by _Enter Shikari_<br /> on Take to the Skies [2007] |
+| ![album cover][album-cover] | **Patterns - Remastered 2024**<br />by _Band Of Skulls_<br /> on Baby Darling Doll Face Honey (Remastered 2024) [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a3a186d46a33710b64b561ea
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bae9f51ec8c8ac0968e7b4fb
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
