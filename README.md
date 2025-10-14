@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Like A Villain**<br />by _Bad Omens_<br /> on THE DEATH OF PEACE OF MIND [2022] |
+| ![album cover][album-cover] | **Eternally Yours: Motion Picture Collection (feat. Crystal Joilena)**<br />by _Motionless In White, Crystal Joilena_<br /> on Another Life / Eternally Yours: Motion Picture Collection [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bafcef0262b82dec233717e2
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bb7b9d28aabf1a98e0ba6940
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
