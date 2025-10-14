@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Glitch**<br />by _Parkway Drive_<br /> on Darker Still [2022] |
+| ![album cover][album-cover] | **Sorry You're Not a Winner**<br />by _Enter Shikari_<br /> on Take to the Skies [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e4551f6b8bdde8aaeaed85cd
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a3a186d46a33710b64b561ea
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
