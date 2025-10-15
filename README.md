@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **God Is A Weapon**<br />by _Falling In Reverse, Marilyn Manson_<br /> on God Is A Weapon [2025] |
+| ![album cover][album-cover] | **I'm Not Crying**<br />by _Of Men And Wolves_<br /> on Baby Release Me [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f931e23ec87c533246a48f90
+[album-cover]: https://i.scdn.co/image/ab67616d000048515e74a696144dc44c52985cd4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
