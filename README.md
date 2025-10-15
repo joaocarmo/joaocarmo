@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Patterns - Remastered 2024**<br />by _Band Of Skulls_<br /> on Baby Darling Doll Face Honey (Remastered 2024) [2009] |
+| ![album cover][album-cover] | **God Is A Weapon**<br />by _Falling In Reverse, Marilyn Manson_<br /> on God Is A Weapon [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bae9f51ec8c8ac0968e7b4fb
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f931e23ec87c533246a48f90
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
