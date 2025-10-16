@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Everything Ends**<br />by _Architects_<br /> on The Sky, The Earth & All Between [2025] |
+| ![album cover][album-cover] | **Caramel**<br />by _Sleep Token_<br /> on Even In Arcadia [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fa9cf0435132ff2a17ce9d86
+[album-cover]: https://i.scdn.co/image/ab67616d000048510e48dcb579fd8e59d0a3c218
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
