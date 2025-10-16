@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Supersonic - Remastered**<br />by _Oasis_<br /> on Definitely Maybe (Deluxe Edition Remastered) [1994] |
+| ![album cover][album-cover] | **Another Life**<br />by _Motionless In White_<br /> on Disguise [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d86a1e021e7acc7c07c7d668
+[album-cover]: https://i.scdn.co/image/ab67616d00004851daa4a83d2f794c1e31265dab
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
