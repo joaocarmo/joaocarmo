@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Caramel**<br />by _Sleep Token_<br /> on Even In Arcadia [2025] |
+| ![album cover][album-cover] | **Supersonic - Remastered**<br />by _Oasis_<br /> on Definitely Maybe (Deluxe Edition Remastered) [1994] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510e48dcb579fd8e59d0a3c218
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d86a1e021e7acc7c07c7d668
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
