@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Another Life**<br />by _Motionless In White_<br /> on Disguise [2019] |
+| ![album cover][album-cover] | **Save Yourself**<br />by _My Darkest Days_<br /> on Sick And Twisted Affair (Deluxe Edition) [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851daa4a83d2f794c1e31265dab
+[album-cover]: https://i.scdn.co/image/ab67616d000048519cc727b6d9d794ffcb8b0175
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
