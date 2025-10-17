@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Save Yourself**<br />by _My Darkest Days_<br /> on Sick And Twisted Affair (Deluxe Edition) [2012] |
+| ![album cover][album-cover] | **Eternally Yours**<br />by _Motionless In White_<br /> on Graveyard Shift [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519cc727b6d9d794ffcb8b0175
+[album-cover]: https://i.scdn.co/image/ab67616d0000485120bfa6114be3fcada3b5b3e3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
