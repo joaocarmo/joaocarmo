@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Not Strong Enough**<br />by _Apocalyptica, Brent Smith_<br /> on 7th Symphony [2010] |
+| ![album cover][album-cover] | **Voices In My Head**<br />by _Falling In Reverse_<br /> on Popular Monster [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515eff76a50afb7c477e1f1e34
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cd850819595472eae0c06f66
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
