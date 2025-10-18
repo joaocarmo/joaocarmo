@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Voices In My Head**<br />by _Falling In Reverse_<br /> on Popular Monster [2024] |
+| ![album cover][album-cover] | **Don’t Look Away**<br />by _The Plot In You_<br /> on Don't Look Away [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cd850819595472eae0c06f66
+[album-cover]: https://i.scdn.co/image/ab67616d000048519fe878399d9f4941855ee00f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
