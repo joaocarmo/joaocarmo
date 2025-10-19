@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Don’t Look Away**<br />by _The Plot In You_<br /> on Don't Look Away [2024] |
+| ![album cover][album-cover] | **Safe in the Steep Cliffs**<br />by _Emancipator_<br /> on Safe in the Steep Cliffs [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519fe878399d9f4941855ee00f
+[album-cover]: https://i.scdn.co/image/ab67616d000048518a2d45ade57a3bf1a8682a29
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
