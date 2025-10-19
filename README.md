@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Safe in the Steep Cliffs**<br />by _Emancipator_<br /> on Safe in the Steep Cliffs [2010] |
+| ![album cover][album-cover] | **Bad Things**<br />by _Goodbye June_<br /> on Magic Valley [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518a2d45ade57a3bf1a8682a29
+[album-cover]: https://i.scdn.co/image/ab67616d0000485112d69f586aad982597c947d7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
