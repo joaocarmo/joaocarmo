@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bad Things**<br />by _Goodbye June_<br /> on Magic Valley [2017] |
+| ![album cover][album-cover] | **In the Dark**<br />by _Reignwolf_<br /> on In the Dark [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485112d69f586aad982597c947d7
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c2284d6c5c081478e84b0a66
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
