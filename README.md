@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **In the Dark**<br />by _Reignwolf_<br /> on In the Dark [2013] |
+| ![album cover][album-cover] | **Tide of Tears**<br />by _The Parlor Mob_<br /> on And You Were A Crow [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c2284d6c5c081478e84b0a66
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c91191d183b8d2e914bd095f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
