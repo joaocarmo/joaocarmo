@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Tide of Tears**<br />by _The Parlor Mob_<br /> on And You Were A Crow [2008] |
+| ![album cover][album-cover] | **No One Knows**<br />by _Queens of the Stone Age_<br /> on Songs For The Deaf [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c91191d183b8d2e914bd095f
+[album-cover]: https://i.scdn.co/image/ab67616d000048519eec33b045d88f87b9b06e67
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
