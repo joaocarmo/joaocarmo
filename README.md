@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wildfire**<br />by _Vault 51_<br /> on Kid [2017] |
+| ![album cover][album-cover] | **CANNIBALS**<br />by _ZILLION, All That Remains_<br /> on Cannibals [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519206a235f6d742db3882ae11
+[album-cover]: https://i.scdn.co/image/ab67616d000048518523ccebfc9d521299b69593
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
