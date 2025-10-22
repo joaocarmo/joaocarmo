@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Another Life**<br />by _Motionless In White_<br /> on Disguise [2019] |
+| ![album cover][album-cover] | **The Drop**<br />by _The Blue Stones_<br /> on Black Holes [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851daa4a83d2f794c1e31265dab
+[album-cover]: https://i.scdn.co/image/ab67616d000048516f2e408c2bfdfc50374b8589
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
