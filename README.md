@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Drop**<br />by _The Blue Stones_<br /> on Black Holes [2018] |
+| ![album cover][album-cover] | **Wildfire**<br />by _Vault 51_<br /> on Kid [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516f2e408c2bfdfc50374b8589
+[album-cover]: https://i.scdn.co/image/ab67616d000048519206a235f6d742db3882ae11
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
