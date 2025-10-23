@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **new way out**<br />by _Poppy_<br /> on Negative Spaces [2024] |
+| ![album cover][album-cover] | **So Low**<br />by _The Devil Wears Prada_<br /> on So Low [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851861d5b1470e2d95fe9aeba7c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851170c1dd7dafb7afa410a3cff
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
