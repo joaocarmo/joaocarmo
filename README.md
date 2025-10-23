@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **CANNIBALS**<br />by _ZILLION, All That Remains_<br /> on Cannibals [2025] |
+| ![album cover][album-cover] | **Hopefully**<br />by _The Royal Foundry_<br /> on WAKEUP WAKEUP [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518523ccebfc9d521299b69593
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ce7c1e5730aebfec82bce406
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
