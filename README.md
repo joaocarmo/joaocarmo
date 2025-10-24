@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **So Low**<br />by _The Devil Wears Prada_<br /> on So Low [2025] |
+| ![album cover][album-cover] | **Troubled Water**<br />by _Of Mice & Men_<br /> on Troubled Water [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851170c1dd7dafb7afa410a3cff
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c1d726e908777c680ce808a0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
