@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Troubled Water**<br />by _Of Mice & Men_<br /> on Troubled Water [2025] |
+| ![album cover][album-cover] | **The End**<br />by _Patient Sixty-Seven_<br /> on The End [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c1d726e908777c680ce808a0
+[album-cover]: https://i.scdn.co/image/ab67616d000048513517ec4915aafbfd25c364ed
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
