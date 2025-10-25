@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Blackhole**<br />by _Architects_<br /> on The Sky, The Earth & All Between [2025] |
+| ![album cover][album-cover] | **Hum From The Hollow**<br />by _After The Burial_<br /> on Hum From The Hollow [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fa9cf0435132ff2a17ce9d86
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c396057eae44110d4d19de89
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
