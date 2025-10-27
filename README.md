@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Therapy**<br />by _VOILÀ_<br /> on Happy Never After [2022] |
+| ![album cover][album-cover] | **Playback**<br />by _Carlos Paião_<br /> on Carlos Paião [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519105eb17d8e5a25f67af6fe3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851dabef5df36b488d4b856eab2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
