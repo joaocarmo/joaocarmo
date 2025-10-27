@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Playback**<br />by _Carlos Paião_<br /> on Carlos Paião [2014] |
+| ![album cover][album-cover] | **Heavy Is the Crown**<br />by _Linkin Park_<br /> on Heavy Is the Crown [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851dabef5df36b488d4b856eab2
+[album-cover]: https://i.scdn.co/image/ab67616d0000485190db48f63a20fa434531c1a8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
