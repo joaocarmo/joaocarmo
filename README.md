@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **She's Got Issues**<br />by _The Offspring_<br /> on Americana [1998] |
+| ![album cover][album-cover] | **Truth Hurts**<br />by _TRUTH:S3RUM_<br /> on Truth Hurts [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cbd2ee7dff77bfb2b5f0af52
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ae517b29c0530c94a93d184a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
