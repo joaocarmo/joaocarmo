@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Heavy Is the Crown**<br />by _Linkin Park_<br /> on Heavy Is the Crown [2024] |
+| ![album cover][album-cover] | **She's Got Issues**<br />by _The Offspring_<br /> on Americana [1998] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485190db48f63a20fa434531c1a8
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cbd2ee7dff77bfb2b5f0af52
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
