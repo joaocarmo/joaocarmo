@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **LA FINE**<br />by _Måneskin_<br /> on RUSH! (ARE U COMING?) [2023] |
+| ![album cover][album-cover] | **The Laugh Track**<br />by _Ice Nine Kills_<br /> on The Laugh Track [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485193fcc2231abeb51d7e41ec5d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851431bf484483ceb807c4fa1e4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
