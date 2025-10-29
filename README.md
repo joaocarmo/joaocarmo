@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Losing My Color**<br />by _Wind Walkers_<br /> on What If I Break? [2023] |
+| ![album cover][album-cover] | **Witness The End**<br />by _Fit For A King, Chris Motionless_<br /> on Witness The End [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511dba984405b9c9d33e03b0d4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851563475cfc23c51f41782bd7b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
