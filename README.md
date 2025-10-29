@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Witness The End**<br />by _Fit For A King, Chris Motionless_<br /> on Witness The End [2025] |
+| ![album cover][album-cover] | **LA FINE**<br />by _Måneskin_<br /> on RUSH! (ARE U COMING?) [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851563475cfc23c51f41782bd7b
+[album-cover]: https://i.scdn.co/image/ab67616d0000485193fcc2231abeb51d7e41ec5d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
