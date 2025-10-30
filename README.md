@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Laugh Track**<br />by _Ice Nine Kills_<br /> on The Laugh Track [2025] |
+| ![album cover][album-cover] | **FREEFALL**<br />by _NOTHING MORE_<br /> on CARNAL [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851431bf484483ceb807c4fa1e4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851787881628f87450162526b47
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
