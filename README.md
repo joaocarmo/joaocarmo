@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **FREEFALL**<br />by _NOTHING MORE_<br /> on CARNAL [2024] |
+| ![album cover][album-cover] | **Splinters**<br />by _Annisokay_<br /> on Splinters [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851787881628f87450162526b47
+[album-cover]: https://i.scdn.co/image/ab67616d0000485129c698af53e7043b0e00b9bd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
