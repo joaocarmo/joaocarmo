@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Splinters**<br />by _Annisokay_<br /> on Splinters [2025] |
+| ![album cover][album-cover] | **Heavy Is the Crown**<br />by _Linkin Park_<br /> on From Zero [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485129c698af53e7043b0e00b9bd
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b11a5489e8cb11dd22b930a0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
