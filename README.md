@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Losing My Religion**<br />by _R.E.M._<br /> on Out Of Time (25th Anniversary Edition) [1991] |
+| ![album cover][album-cover] | **Until the Day I**<br />by _Zero 9:36_<br /> on Until the Day I [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e2dd4e821bcc3f70dc0c8ffd
+[album-cover]: https://i.scdn.co/image/ab67616d000048514452a53bfe9d6c1a69028d4b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
