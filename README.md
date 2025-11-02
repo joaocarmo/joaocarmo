@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Until the Day I**<br />by _Zero 9:36_<br /> on Until the Day I [2025] |
+| ![album cover][album-cover] | **Nowhere To Go**<br />by _Bad Omens_<br /> on THE DEATH OF PEACE OF MIND [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514452a53bfe9d6c1a69028d4b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bafcef0262b82dec233717e2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
