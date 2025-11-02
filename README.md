@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Nowhere To Go**<br />by _Bad Omens_<br /> on THE DEATH OF PEACE OF MIND [2022] |
+| ![album cover][album-cover] | **Make Me Famous**<br />by _Kim Dracula_<br /> on A Gradual Decline In Morale [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bafcef0262b82dec233717e2
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d4a8b6f3805c79caca7bc831
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
