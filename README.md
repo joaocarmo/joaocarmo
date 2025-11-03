@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Make Me Famous**<br />by _Kim Dracula_<br /> on A Gradual Decline In Morale [2023] |
+| ![album cover][album-cover] | **40 Days...**<br />by _blessthefall_<br /> on Awakening [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d4a8b6f3805c79caca7bc831
+[album-cover]: https://i.scdn.co/image/ab67616d0000485115d68e5486791f20d5fa7b7f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
