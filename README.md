@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **40 Days...**<br />by _blessthefall_<br /> on Awakening [2011] |
+| ![album cover][album-cover] | **Hold On Till May**<br />by _Pierce The Veil, Lindsey Stamey_<br /> on Collide With The Sky [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485115d68e5486791f20d5fa7b7f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851077cac00c2d9075e6f742570
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
