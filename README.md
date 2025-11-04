@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **All I Want**<br />by _A Day To Remember_<br /> on What Separates Me From You [2010] |
+| ![album cover][album-cover] | **Sambuka**<br />by _Pierce The Veil_<br /> on Misadventures [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519233270031da763169e5f96c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851feef5b9537d7b52555a42f17
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
