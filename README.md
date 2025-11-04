@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sambuka**<br />by _Pierce The Veil_<br /> on Misadventures [2016] |
+| ![album cover][album-cover] | **Why**<br />by _Plush_<br /> on Why [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851feef5b9537d7b52555a42f17
+[album-cover]: https://i.scdn.co/image/ab67616d000048511f2974d2ece3f0f814166ca0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
