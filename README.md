@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Pale Moonlight**<br />by _Dayseeker_<br /> on Pale Moonlight [2025] |
+| ![album cover][album-cover] | **Hypermania**<br />by _Polaris_<br /> on The Death of Me [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513dbcf71014fd342f6e78031a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fd9d0b51b8009920a7227d04
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
