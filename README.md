@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Why**<br />by _Plush_<br /> on Why [2025] |
+| ![album cover][album-cover] | **Pale Moonlight**<br />by _Dayseeker_<br /> on Pale Moonlight [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511f2974d2ece3f0f814166ca0
+[album-cover]: https://i.scdn.co/image/ab67616d000048513dbcf71014fd342f6e78031a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
