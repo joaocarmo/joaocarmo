@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Family**<br />by _Badflower_<br /> on This Is How The World Ends [2021] |
+| ![album cover][album-cover] | **Final Fantasy VI (Symphonic Poem: Born with the Gift of Magic)**<br />by _Nobuo Uematsu, London Symphony Orchestra, Eckehard Stier_<br /> on Final Symphony - music from Final Fantasy VI, VII and X [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511a393edb724c4c5659720519
+[album-cover]: https://i.scdn.co/image/ab67616d000048516aae968e024cb11b649f0ebb
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
