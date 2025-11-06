@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Final Fantasy VI (Symphonic Poem: Born with the Gift of Magic)**<br />by _Nobuo Uematsu, London Symphony Orchestra, Eckehard Stier_<br /> on Final Symphony - music from Final Fantasy VI, VII and X [2015] |
+| ![album cover][album-cover] | **Dragon Age Inquisition Theme**<br />by _Trevor Morris_<br /> on Dragon Age Inquisition (Original Game Soundtrack) [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516aae968e024cb11b649f0ebb
+[album-cover]: https://i.scdn.co/image/ab67616d00004851dd4e5991823db2018ec8836c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
