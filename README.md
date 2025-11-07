@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Bad Guy**<br />by _Falling In Reverse, Saraya_<br /> on Popular Monster [2024] |
+| ![album cover][album-cover] | **Caligulove**<br />by _Them Crooked Vultures_<br /> on Them Crooked Vultures [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cd850819595472eae0c06f66
+[album-cover]: https://i.scdn.co/image/ab67616d000048517355bb17937d57983e09f9f9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
