@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dragon Age Inquisition Theme**<br />by _Trevor Morris_<br /> on Dragon Age Inquisition (Original Game Soundtrack) [2014] |
+| ![album cover][album-cover] | **Bad Guy**<br />by _Falling In Reverse, Saraya_<br /> on Popular Monster [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851dd4e5991823db2018ec8836c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cd850819595472eae0c06f66
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
