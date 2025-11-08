@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **2005**<br />by _South Arcade_<br /> on 2005 [2024] |
+| ![album cover][album-cover] | **Eternally Yours: Motion Picture Collection (feat. Crystal Joilena)**<br />by _Motionless In White, Crystal Joilena_<br /> on Another Life / Eternally Yours: Motion Picture Collection [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851970307c7c6fbf5c326daa856
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bb7b9d28aabf1a98e0ba6940
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
