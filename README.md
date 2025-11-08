@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Eternally Yours: Motion Picture Collection (feat. Crystal Joilena)**<br />by _Motionless In White, Crystal Joilena_<br /> on Another Life / Eternally Yours: Motion Picture Collection [2020] |
+| ![album cover][album-cover] | **King For A Day**<br />by _Pierce The Veil, Kellin Quinn_<br /> on Collide With The Sky [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bb7b9d28aabf1a98e0ba6940
+[album-cover]: https://i.scdn.co/image/ab67616d00004851077cac00c2d9075e6f742570
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
