@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Two Princes**<br />by _Spin Doctors_<br /> on Two Princes [1992] |
+| ![album cover][album-cover] | **Dirty Little Secret**<br />by _The All-American Rejects_<br /> on Move Along [2005] |
 
 <!-- References -->
 
-[album-cover]: https://via.placeholder.com/100
+[album-cover]: https://i.scdn.co/image/ab67616d000048514d54e4f290fe5c08c66ebc0e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
