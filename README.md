@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **ENDLESS**<br />by _Turnstile_<br /> on GLOW ON [2021] |
+| ![album cover][album-cover] | **Crawl Back To My Coffin**<br />by _Dayseeker_<br /> on Creature In The Black Night [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a4499cf37a6fe4ff043dc9f2
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d7a0cbf48e93267debc701a0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
