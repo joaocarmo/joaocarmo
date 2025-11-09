@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dirty Little Secret**<br />by _The All-American Rejects_<br /> on Move Along [2005] |
+| ![album cover][album-cover] | **ENDLESS**<br />by _Turnstile_<br /> on GLOW ON [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514d54e4f290fe5c08c66ebc0e
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a4499cf37a6fe4ff043dc9f2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
