@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **King For A Day**<br />by _Pierce The Veil, Kellin Quinn_<br /> on Collide With The Sky [2012] |
+| ![album cover][album-cover] | **Two Princes**<br />by _Spin Doctors_<br /> on Two Princes [1992] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851077cac00c2d9075e6f742570
+[album-cover]: https://via.placeholder.com/100
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
