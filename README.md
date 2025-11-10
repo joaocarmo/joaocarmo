@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Crawl Back To My Coffin**<br />by _Dayseeker_<br /> on Creature In The Black Night [2025] |
+| ![album cover][album-cover] | **Demonology and Heartache**<br />by _Atreyu_<br /> on The Curse 2025 [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d7a0cbf48e93267debc701a0
+[album-cover]: https://i.scdn.co/image/ab67616d000048516aeef7f54e8e170a138dd773
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
