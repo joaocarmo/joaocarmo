@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **negative spaces**<br />by _Poppy_<br /> on Negative Spaces [2024] |
+| ![album cover][album-cover] | **The Outcast**<br />by _Witchcraft_<br /> on Nucleus [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851861d5b1470e2d95fe9aeba7c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851dfe5ae96dc0122874bf19aa8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
