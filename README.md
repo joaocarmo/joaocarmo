@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lucky One (feat. K.Flay)**<br />by _Tom Morello, K.Flay_<br /> on The Atlas Underground [2018] |
+| ![album cover][album-cover] | **Queen Wolf**<br />by _Moon Tooth_<br /> on Chromaparagon [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518b3347e46bf01db4675baa85
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fa5d80ee88c840f6156ebfa4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
