@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Queen Wolf**<br />by _Moon Tooth_<br /> on Chromaparagon [2016] |
+| ![album cover][album-cover] | **Collide**<br />by _Black Country Communion_<br /> on BCCIV [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fa5d80ee88c840f6156ebfa4
+[album-cover]: https://i.scdn.co/image/ab67616d0000485176686f42a10ecf24475c9d89
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
