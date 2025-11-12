@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Collide**<br />by _Black Country Communion_<br /> on BCCIV [2017] |
+| ![album cover][album-cover] | **Fight**<br />by _Warish_<br /> on Fight [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485176686f42a10ecf24475c9d89
+[album-cover]: https://i.scdn.co/image/ab67616d000048510411c0b069182cc27bf9bc47
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
