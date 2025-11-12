@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Fight**<br />by _Warish_<br /> on Fight [2018] |
+| ![album cover][album-cover] | **Mediocre Man**<br />by _Kellermensch_<br /> on Goliath [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510411c0b069182cc27bf9bc47
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ef45e76bcac8daca0913b52c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
