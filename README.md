@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Lemon**<br />by _The Golden Leaves, Blacklight_<br /> on Lemon [2019] |
+| ![album cover][album-cover] | **Infinite End**<br />by _Arcadea_<br /> on Arcadea [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485100bc59ec530e75a8877d25a8
+[album-cover]: https://i.scdn.co/image/ab67616d000048514d873dd59a98773df498a3a2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
