@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Infinite End**<br />by _Arcadea_<br /> on Arcadea [2017] |
+| ![album cover][album-cover] | **Just Started**<br />by _The Iron Eye_<br /> on Just Started [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514d873dd59a98773df498a3a2
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a1071f7cf923e56f8eb26491
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
