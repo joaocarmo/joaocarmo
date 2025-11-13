@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Mediocre Man**<br />by _Kellermensch_<br /> on Goliath [2017] |
+| ![album cover][album-cover] | **Lemon**<br />by _The Golden Leaves, Blacklight_<br /> on Lemon [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ef45e76bcac8daca0913b52c
+[album-cover]: https://i.scdn.co/image/ab67616d0000485100bc59ec530e75a8877d25a8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
