@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Feel**<br />by _Ty Segall_<br /> on Manipulator [2014] |
+| ![album cover][album-cover] | **When You're Gone**<br />by _The Devil Wears Prada_<br /> on Flowers [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851da5e2fc014900836d430ea6b
+[album-cover]: https://i.scdn.co/image/ab67616d000048511982f0b455fcffce2653235c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
