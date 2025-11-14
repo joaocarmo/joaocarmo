@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **When You're Gone**<br />by _The Devil Wears Prada_<br /> on Flowers [2025] |
+| ![album cover][album-cover] | **Going Under**<br />by _Evanescence_<br /> on Fallen [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511982f0b455fcffce2653235c
+[album-cover]: https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
