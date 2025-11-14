@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Just Started**<br />by _The Iron Eye_<br /> on Just Started [2016] |
+| ![album cover][album-cover] | **Feel**<br />by _Ty Segall_<br /> on Manipulator [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a1071f7cf923e56f8eb26491
+[album-cover]: https://i.scdn.co/image/ab67616d00004851da5e2fc014900836d430ea6b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
