@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Don't Care**<br />by _Fall Out Boy_<br /> on Folie à Deux [2008] |
+| ![album cover][album-cover] | **Keeper**<br />by _Reignwolf_<br /> on Hear Me Out [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519d0807e52789a2715a0419bc
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cb9e0f99c8237fb590aa88b5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
