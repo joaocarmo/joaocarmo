@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Going Under**<br />by _Evanescence_<br /> on Fallen [2003] |
+| ![album cover][album-cover] | **I Don't Care**<br />by _Fall Out Boy_<br /> on Folie à Deux [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432
+[album-cover]: https://i.scdn.co/image/ab67616d000048519d0807e52789a2715a0419bc
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
