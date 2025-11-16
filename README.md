@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Afterlife (from the Netflix Series "Devil May Cry")**<br />by _Evanescence_<br /> on Afterlife (from the Netflix Series "Devil May Cry") [2025] |
+| ![album cover][album-cover] | **Old Fashioned**<br />by _Port Noir_<br /> on The New Routine [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a8fc008439ab4e268d7a6bcf
+[album-cover]: https://i.scdn.co/image/ab67616d000048510ef4c9cc6a5bf62cbb137d26
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
