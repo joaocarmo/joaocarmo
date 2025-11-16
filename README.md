@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Keeper**<br />by _Reignwolf_<br /> on Hear Me Out [2019] |
+| ![album cover][album-cover] | **Surfin' Bird**<br />by _The Trashmen_<br /> on Full Metal Jacket (Original Motion Picture Soundtrack) [1987] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cb9e0f99c8237fb590aa88b5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c9e646bdfea2776e7f6f9751
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
