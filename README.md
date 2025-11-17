@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Final Fantasy VI (Symphonic Poem: Born with the Gift of Magic)**<br />by _Nobuo Uematsu, London Symphony Orchestra, Eckehard Stier_<br /> on Final Symphony - music from Final Fantasy VI, VII and X [2015] |
+| ![album cover][album-cover] | **Time of Dying**<br />by _Three Days Grace_<br /> on One-X [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516aae968e024cb11b649f0ebb
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fa4c18fdbd1bf1a39b7b794f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
