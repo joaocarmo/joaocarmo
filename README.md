@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Old Fashioned**<br />by _Port Noir_<br /> on The New Routine [2019] |
+| ![album cover][album-cover] | **Final Fantasy VI (Symphonic Poem: Born with the Gift of Magic)**<br />by _Nobuo Uematsu, London Symphony Orchestra, Eckehard Stier_<br /> on Final Symphony - music from Final Fantasy VI, VII and X [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510ef4c9cc6a5bf62cbb137d26
+[album-cover]: https://i.scdn.co/image/ab67616d000048516aae968e024cb11b649f0ebb
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
