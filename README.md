@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Como Afundar**<br />by _Ornatos Violeta_<br /> on Inéditos/Raridades [2011] |
+| ![album cover][album-cover] | **Burn Alive**<br />by _Memory of a Melody_<br /> on Burn Alive [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b3103da90efcace366e5a86d
+[album-cover]: https://i.scdn.co/image/ab67616d000048519fd95f33ba12c470ddd82ef6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
