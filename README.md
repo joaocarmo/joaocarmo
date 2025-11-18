@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Time of Dying**<br />by _Three Days Grace_<br /> on One-X [2006] |
+| ![album cover][album-cover] | **My Friends**<br />by _Silence 4_<br /> on Silence Becomes It [1998] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fa4c18fdbd1bf1a39b7b794f
+[album-cover]: https://i.scdn.co/image/ab67616d000048514c84d295ddc8310611fa9e64
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
