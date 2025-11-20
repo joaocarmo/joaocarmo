@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Tabula Rasa**<br />by _Soen_<br /> on Tellurian [2014] |
+| ![album cover][album-cover] | **Robocop Gay**<br />by _Mamonas Assassinas_<br /> on Mamonas Assassinas [1995] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851336ff8e601cae5846dea8f94
+[album-cover]: https://i.scdn.co/image/ab67616d0000485120d57bc5fd5bbe506cabc22c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
