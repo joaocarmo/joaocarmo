@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Moths**<br />by _Arch Enemy_<br /> on Blood Dynasty (Expanded Deluxe Edition) [2025] |
+| ![album cover][album-cover] | **Jaded**<br />by _Spiritbox_<br /> on Jaded [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485126edef0b7f8df5cf7c627839
+[album-cover]: https://i.scdn.co/image/ab67616d000048518515be38589bf130a2f535e1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
