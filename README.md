@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Robocop Gay**<br />by _Mamonas Assassinas_<br /> on Mamonas Assassinas [1995] |
+| ![album cover][album-cover] | **Moths**<br />by _Arch Enemy_<br /> on Blood Dynasty (Expanded Deluxe Edition) [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485120d57bc5fd5bbe506cabc22c
+[album-cover]: https://i.scdn.co/image/ab67616d0000485126edef0b7f8df5cf7c627839
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
