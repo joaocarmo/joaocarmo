@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Monster - Transformers Soundtrack Version**<br />by _Paramore_<br /> on Monster [2011] |
+| ![album cover][album-cover] | **You and I**<br />by _PVRIS_<br /> on White Noise (Deluxe Version) [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851988f18816fe9bb85b036af92
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cbeb097164189911ccaaea89
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
