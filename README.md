@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Jaded**<br />by _Spiritbox_<br /> on Jaded [2023] |
+| ![album cover][album-cover] | **Monster - Transformers Soundtrack Version**<br />by _Paramore_<br /> on Monster [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518515be38589bf130a2f535e1
+[album-cover]: https://i.scdn.co/image/ab67616d00004851988f18816fe9bb85b036af92
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
