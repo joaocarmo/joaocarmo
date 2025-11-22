@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Rise & Fall**<br />by _Currents_<br /> on All That Follows [2025] |
+| ![album cover][album-cover] | **Welcome to the DCC**<br />by _Nothing But Thieves_<br /> on Dead Club City [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485141e31a3858f0b93d4818678a
+[album-cover]: https://i.scdn.co/image/ab67616d000048515340930dd48fb071fe422510
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
