@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **You and I**<br />by _PVRIS_<br /> on White Noise (Deluxe Version) [2016] |
+| ![album cover][album-cover] | **Rise & Fall**<br />by _Currents_<br /> on All That Follows [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cbeb097164189911ccaaea89
+[album-cover]: https://i.scdn.co/image/ab67616d0000485141e31a3858f0b93d4818678a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
