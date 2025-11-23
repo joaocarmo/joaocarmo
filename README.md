@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Welcome to the DCC**<br />by _Nothing But Thieves_<br /> on Dead Club City [2023] |
+| ![album cover][album-cover] | **Stuck**<br />by _Thirty Seconds To Mars_<br /> on It’s The End Of The World But It’s A Beautiful Day [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515340930dd48fb071fe422510
+[album-cover]: https://i.scdn.co/image/ab67616d000048511a82ce724afb33718914ca84
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
