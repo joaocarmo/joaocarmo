@@ -18,7 +18,7 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hell Above**<br />by _Pierce The Veil_<br /> on Collide With The Sky [2012] |
+| ![album cover][album-cover] | **King For A Day**<br />by _Pierce The Veil, Kellin Quinn_<br /> on Collide With The Sky [2012] |
 
 <!-- References -->
 
