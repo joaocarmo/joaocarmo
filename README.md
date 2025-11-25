@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Antimatter**<br />by _Silent Planet_<br /> on SUPERBLOOM [2023] |
+| ![album cover][album-cover] | **Attack**<br />by _Thirty Seconds To Mars_<br /> on A Beautiful Lie [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c4bbcde7a70a3105140d359c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851865b538169f199dac610b854
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
