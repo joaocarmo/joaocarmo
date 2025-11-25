@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Attack**<br />by _Thirty Seconds To Mars_<br /> on A Beautiful Lie [2005] |
+| ![album cover][album-cover] | **Avaritia**<br />by _Year Of The Goat_<br /> on Novis Orbis Terrarum Ordinis [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851865b538169f199dac610b854
+[album-cover]: https://i.scdn.co/image/ab67616d0000485192e2d7aeec999e9bceecd567
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
