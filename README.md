@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Avaritia**<br />by _Year Of The Goat_<br /> on Novis Orbis Terrarum Ordinis [2019] |
+| ![album cover][album-cover] | **Don't Go In The Forest**<br />by _Avatar_<br /> on Don't Go In The Forest [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485192e2d7aeec999e9bceecd567
+[album-cover]: https://i.scdn.co/image/ab67616d00004851404e8a7c4efecf1f8d0c1a3c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
