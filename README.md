@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Blinded**<br />by _As I Lay Dying_<br /> on Shaped By Fire [2019] |
+| ![album cover][album-cover] | **Watch The World Burn**<br />by _Falling In Reverse_<br /> on Popular Monster [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514a1752cc82c920dfb2adaa00
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cd850819595472eae0c06f66
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
