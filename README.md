@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **King For A Day**<br />by _Pierce The Veil, Kellin Quinn_<br /> on King For A Day [2012] |
+| ![album cover][album-cover] | **Underdog**<br />by _Motionless In White_<br /> on Infamous [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517d46fdc62bdf59f14434d6a0
+[album-cover]: https://i.scdn.co/image/ab67616d00004851306190032ff6b0e76f680491
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
