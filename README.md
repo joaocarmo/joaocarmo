@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Underdog**<br />by _Motionless In White_<br /> on Infamous [2012] |
+| ![album cover][album-cover] | **A Grave Mistake**<br />by _Ice Nine Kills_<br /> on The Silver Scream [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851306190032ff6b0e76f680491
+[album-cover]: https://i.scdn.co/image/ab67616d0000485148fbb2aab19d588bb9153580
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
