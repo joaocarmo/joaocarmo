@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **A Grave Mistake**<br />by _Ice Nine Kills_<br /> on The Silver Scream [2018] |
+| ![album cover][album-cover] | **Watch The World Burn**<br />by _Falling In Reverse_<br /> on Popular Monster [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485148fbb2aab19d588bb9153580
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cd850819595472eae0c06f66
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
