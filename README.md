@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wrecking Ball**<br />by _The Animal In Me_<br /> on Wrecking Ball [2014] |
+| ![album cover][album-cover] | **Dou-me corda**<br />by _Samuel Úria_<br /> on Dou-me corda [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485103913c51e22fc3503f250fb8
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b5b332b8d6e646c8e3ecbc66
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
