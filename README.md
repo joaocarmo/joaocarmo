@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Watch The World Burn**<br />by _Falling In Reverse_<br /> on Popular Monster [2024] |
+| ![album cover][album-cover] | **Wrecking Ball**<br />by _The Animal In Me_<br /> on Wrecking Ball [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cd850819595472eae0c06f66
+[album-cover]: https://i.scdn.co/image/ab67616d0000485103913c51e22fc3503f250fb8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
