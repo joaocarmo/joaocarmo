@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Samassa Veneessä**<br />by _Räjäyttäjät_<br /> on Samassa Veneessä [2019] |
+| ![album cover][album-cover] | **Maniac**<br />by _Firewind_<br /> on The Premonition [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516560750aadd0f31820eb2a18
+[album-cover]: https://i.scdn.co/image/ab67616d00004851115870a1892f8f8a1cfae7eb
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
