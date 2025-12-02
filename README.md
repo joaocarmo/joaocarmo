@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **What Hurts the Most**<br />by _State of Mine_<br /> on What Hurts the Most [2018] |
+| ![album cover][album-cover] | **Old Fashioned**<br />by _Port Noir_<br /> on The New Routine [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b9445f427e03b34d396808ad
+[album-cover]: https://i.scdn.co/image/ab67616d000048510ef4c9cc6a5bf62cbb137d26
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
