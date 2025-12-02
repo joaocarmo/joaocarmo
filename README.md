@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Maniac**<br />by _Firewind_<br /> on The Premonition [2008] |
+| ![album cover][album-cover] | **What Hurts the Most**<br />by _State of Mine_<br /> on What Hurts the Most [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851115870a1892f8f8a1cfae7eb
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b9445f427e03b34d396808ad
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
