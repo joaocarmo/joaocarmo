@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Just Pretend**<br />by _Bad Omens_<br /> on THE DEATH OF PEACE OF MIND [2022] |
+| ![album cover][album-cover] | **King For A Day**<br />by _Pierce The Veil, Kellin Quinn_<br /> on Collide With The Sky [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bafcef0262b82dec233717e2
+[album-cover]: https://i.scdn.co/image/ab67616d00004851077cac00c2d9075e6f742570
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
