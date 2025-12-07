@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Don't Go In The Forest**<br />by _Avatar_<br /> on Don't Go In The Forest [2025] |
+| ![album cover][album-cover] | **Samassa Veneessä**<br />by _Räjäyttäjät_<br /> on Samassa Veneessä [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851404e8a7c4efecf1f8d0c1a3c
+[album-cover]: https://i.scdn.co/image/ab67616d000048516560750aadd0f31820eb2a18
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
