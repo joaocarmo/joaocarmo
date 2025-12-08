@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Samassa Veneessä**<br />by _Räjäyttäjät_<br /> on Samassa Veneessä [2019] |
+| ![album cover][album-cover] | **Dirty**<br />by _grandson_<br /> on Death Of An Optimist [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516560750aadd0f31820eb2a18
+[album-cover]: https://i.scdn.co/image/ab67616d0000485134525e139f6f72a79963650c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
