@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dirty**<br />by _grandson_<br /> on Death Of An Optimist [2020] |
+| ![album cover][album-cover] | **HELLBOUND**<br />by _Autumn Kings_<br /> on SLEEP WHEN I’M DEAD / HELLBOUND [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485134525e139f6f72a79963650c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851aca108bd7918c1e60f06ec08
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
