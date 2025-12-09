@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **HELLBOUND**<br />by _Autumn Kings_<br /> on SLEEP WHEN I’M DEAD / HELLBOUND [2024] |
+| ![album cover][album-cover] | **Walk on Water**<br />by _Thirty Seconds To Mars_<br /> on America [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851aca108bd7918c1e60f06ec08
+[album-cover]: https://i.scdn.co/image/ab67616d000048514a9a5e57a17479c7bafd833d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
