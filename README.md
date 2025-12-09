@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Walk on Water**<br />by _Thirty Seconds To Mars_<br /> on America [2018] |
+| ![album cover][album-cover] | **Samassa Veneessä**<br />by _Räjäyttäjät_<br /> on Samassa Veneessä [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514a9a5e57a17479c7bafd833d
+[album-cover]: https://i.scdn.co/image/ab67616d000048516560750aadd0f31820eb2a18
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
