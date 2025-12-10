@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wake Up**<br />by _Rage Against The Machine_<br /> on Rage Against The Machine - XX (20th Anniversary Special Edition) [1992] |
+| ![album cover][album-cover] | **BREATHING UNDERWATER**<br />by _Hot Milk_<br /> on A Call To The Void [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485154ab617bc2d4974ab6ffbece
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e1c84dd0a883a11b9ae8cd88
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
