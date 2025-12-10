@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Samassa Veneessä**<br />by _Räjäyttäjät_<br /> on Samassa Veneessä [2019] |
+| ![album cover][album-cover] | **Holy Smokes**<br />by _Bohnes_<br /> on Detonate [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516560750aadd0f31820eb2a18
+[album-cover]: https://i.scdn.co/image/ab67616d0000485161b8a6325eebacdf5b7edb9f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
