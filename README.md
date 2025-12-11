@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **the cost of giving up**<br />by _Poppy_<br /> on Negative Spaces [2024] |
+| ![album cover][album-cover] | **Cold**<br />by _Dark Divine_<br /> on Deadly Fun [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851861d5b1470e2d95fe9aeba7c
+[album-cover]: https://i.scdn.co/image/ab67616d000048510a3756cf33cc3de21fbca7f5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
