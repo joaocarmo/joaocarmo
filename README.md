@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Not Strong Enough**<br />by _Apocalyptica, Brent Smith_<br /> on 7th Symphony [2010] |
+| ![album cover][album-cover] | **the cost of giving up**<br />by _Poppy_<br /> on Negative Spaces [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515eff76a50afb7c477e1f1e34
+[album-cover]: https://i.scdn.co/image/ab67616d00004851861d5b1470e2d95fe9aeba7c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
