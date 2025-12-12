@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sapphire**<br />by _Alcest_<br /> on Spiritual Instinct [2019] |
+| ![album cover][album-cover] | **O anzol**<br />by _Rádio Macau_<br /> on O Elevador Da Glória [1992] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485112775bb3da15efa0c7019c82
+[album-cover]: https://i.scdn.co/image/ab67616d000048515133bfeac6777bbabba75de2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
