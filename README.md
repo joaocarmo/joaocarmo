@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Roadhouse Blues**<br />by _The Doors_<br /> on Morrison Hotel [1970] |
+| ![album cover][album-cover] | **Sapphire**<br />by _Alcest_<br /> on Spiritual Instinct [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f12a8a7e0b2cbe16d2bef4dc
+[album-cover]: https://i.scdn.co/image/ab67616d0000485112775bb3da15efa0c7019c82
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
