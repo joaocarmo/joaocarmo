@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Cold**<br />by _Dark Divine_<br /> on Deadly Fun [2023] |
+| ![album cover][album-cover] | **Roadhouse Blues**<br />by _The Doors_<br /> on Morrison Hotel [1970] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510a3756cf33cc3de21fbca7f5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f12a8a7e0b2cbe16d2bef4dc
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
