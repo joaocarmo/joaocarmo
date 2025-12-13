@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **CORALINE**<br />by _Måneskin_<br /> on Teatro d'ira - Vol. I [2021] |
+| ![album cover][album-cover] | **Canção De Embalar**<br />by _José Afonso_<br /> on Cantares do Andarilho [1968] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515aa05015cfa7bd2943c29b21
+[album-cover]: https://i.scdn.co/image/ab67616d0000485144be88ab5242d61354bc2bc1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
