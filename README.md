@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Thespian**<br />by _Alesana_<br /> on The Emptiness [2010] |
+| ![album cover][album-cover] | **A Match Into Water**<br />by _Pierce The Veil_<br /> on Collide With The Sky [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b61c7c28b7e29515c3d0a257
+[album-cover]: https://i.scdn.co/image/ab67616d00004851077cac00c2d9075e6f742570
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
