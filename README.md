@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Schism**<br />by _TOOL_<br /> on Lateralus [2001] |
+| ![album cover][album-cover] | **Quero que Vá Tudo Para o Inferno**<br />by _Despe E Siga_<br /> on Os Primos [1996] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512949ed4e8581d3a1f20cd0e0
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a323724baf91778e8e23dbd1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
