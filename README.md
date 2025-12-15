@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Quero que Vá Tudo Para o Inferno**<br />by _Despe E Siga_<br /> on Os Primos [1996] |
+| ![album cover][album-cover] | **Drive**<br />by _Incubus_<br /> on Make Yourself [1999] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a323724baf91778e8e23dbd1
+[album-cover]: https://i.scdn.co/image/ab67616d0000485174fad40214d982351347e46e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
