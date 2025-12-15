@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Drive**<br />by _Incubus_<br /> on Make Yourself [1999] |
+| ![album cover][album-cover] | **Burn the Ships**<br />by _Blacktop Mojo_<br /> on Burn the Ships [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485174fad40214d982351347e46e
+[album-cover]: https://i.scdn.co/image/ab67616d000048517da2a5bebe60ce13af66848e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
