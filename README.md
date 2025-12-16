@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Something Blue**<br />by _VOILÀ_<br /> on Glass Half Empty (Part I) [2024] |
+| ![album cover][album-cover] | **After Love In The After Hours**<br />by _You Me At Six_<br /> on Truth Decay [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517be2416414e6ed67de980b41
+[album-cover]: https://i.scdn.co/image/ab67616d00004851aa72d2973fbfb12d7bf32edb
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
