@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Burn the Ships**<br />by _Blacktop Mojo_<br /> on Burn the Ships [2017] |
+| ![album cover][album-cover] | **Something Blue**<br />by _VOILÀ_<br /> on Glass Half Empty (Part I) [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517da2a5bebe60ce13af66848e
+[album-cover]: https://i.scdn.co/image/ab67616d000048517be2416414e6ed67de980b41
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
