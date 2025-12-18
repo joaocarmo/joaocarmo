@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Leave Me to Bleed**<br />by _Mike's Dead, Atreyu, Brandon Saller_<br /> on Leave Me to Bleed [2024] |
+| ![album cover][album-cover] | **My Heroine**<br />by _Silverstein_<br /> on Discovering The Waterfront [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851213d76a4568e2ab1eeb2988a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851aade7ea1ce5e7f75f6d40a3c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
