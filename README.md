@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **My Heroine**<br />by _Silverstein_<br /> on Discovering The Waterfront [2005] |
+| ![album cover][album-cover] | **Don't Lean on Me**<br />by _The Amity Affliction_<br /> on Let the Ocean Take Me [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851aade7ea1ce5e7f75f6d40a3c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b114fcb563aee544e5664e58
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
