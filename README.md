@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Don't Lean on Me**<br />by _The Amity Affliction_<br /> on Let the Ocean Take Me [2014] |
+| ![album cover][album-cover] | **Faces**<br />by _Scary Kids Scaring Kids_<br /> on Scary Kids Scaring Kids [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b114fcb563aee544e5664e58
+[album-cover]: https://i.scdn.co/image/ab67616d0000485118c2d8df739d22fe238ba669
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
