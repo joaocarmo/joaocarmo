@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Faces**<br />by _Scary Kids Scaring Kids_<br /> on Scary Kids Scaring Kids [2007] |
+| ![album cover][album-cover] | **Figure It Out**<br />by _Royal Blood_<br /> on Royal Blood [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485118c2d8df739d22fe238ba669
+[album-cover]: https://i.scdn.co/image/ab67616d000048518c23906cd30a0564bcebb5e5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
