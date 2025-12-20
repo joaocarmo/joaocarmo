@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Figure It Out**<br />by _Royal Blood_<br /> on Royal Blood [2014] |
+| ![album cover][album-cover] | **Estou além**<br />by _António Variações_<br /> on Anjo da guarda [1983] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518c23906cd30a0564bcebb5e5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ae673fecee9af1ae7844a20f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
