@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Estou além**<br />by _António Variações_<br /> on Anjo da guarda [1983] |
+| ![album cover][album-cover] | **Don't Go In The Forest**<br />by _Avatar_<br /> on Don't Go In The Forest [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ae673fecee9af1ae7844a20f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851404e8a7c4efecf1f8d0c1a3c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
