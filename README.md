@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hello**<br />by _Fame on Fire_<br /> on Hello [2015] |
+| ![album cover][album-cover] | **Forty Six & 2**<br />by _TOOL_<br /> on Ænima [1996] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513ffa44316d6527d7e5d67319
+[album-cover]: https://i.scdn.co/image/ab67616d0000485147daa44983fa6079910ed295
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
