@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wrecking Ball**<br />by _Cry To The Blind_<br /> on Wrecking Ball [2013] |
+| ![album cover][album-cover] | **Hello**<br />by _Fame on Fire_<br /> on Hello [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510e3843c3274f913a32dd4369
+[album-cover]: https://i.scdn.co/image/ab67616d000048513ffa44316d6527d7e5d67319
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
