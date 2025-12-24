@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Forty Six & 2**<br />by _TOOL_<br /> on Ænima [1996] |
+| ![album cover][album-cover] | **Paparazzi**<br />by _Exit Eden_<br /> on Rhapsodies in Black [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485147daa44983fa6079910ed295
+[album-cover]: https://i.scdn.co/image/ab67616d0000485147124eb7cc01afa1989fa599
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
