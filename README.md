@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Scream Aim Fire**<br />by _Bullet For My Valentine_<br /> on Scream Aim Fire [2008] |
+| ![album cover][album-cover] | **Darker Thoughts**<br />by _Paradise Lost_<br /> on Obsidian [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d8c62d365578eb969a4faf0a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ab2b08e56c4eb8f8aec825a5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
