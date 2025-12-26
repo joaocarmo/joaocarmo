@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Circle With Me**<br />by _Spiritbox_<br /> on Eternal Blue [2021] |
+| ![album cover][album-cover] | **Scream Aim Fire**<br />by _Bullet For My Valentine_<br /> on Scream Aim Fire [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513e234c82f96fa4ded8e5ca47
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d8c62d365578eb969a4faf0a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
