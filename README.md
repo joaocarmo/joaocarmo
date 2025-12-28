@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Vicious**<br />by _Bohnes_<br /> on Detonate [2024] |
+| ![album cover][album-cover] | **Tabula Rasa**<br />by _Soen_<br /> on Tellurian [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485161b8a6325eebacdf5b7edb9f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851336ff8e601cae5846dea8f94
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
