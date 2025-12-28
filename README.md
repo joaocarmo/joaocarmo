@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **IF IT DOESN'T HURT**<br />by _NOTHING MORE_<br /> on CARNAL [2024] |
+| ![album cover][album-cover] | **Demolition Lovers**<br />by _My Chemical Romance_<br /> on I Brought You My Bullets, You Brought Me Your Love [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851787881628f87450162526b47
+[album-cover]: https://i.scdn.co/image/ab67616d000048512e55bc288d7e0888027e22b7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
