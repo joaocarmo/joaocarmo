@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Tabula Rasa**<br />by _Soen_<br /> on Tellurian [2014] |
+| ![album cover][album-cover] | **IF IT DOESN'T HURT**<br />by _NOTHING MORE_<br /> on CARNAL [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851336ff8e601cae5846dea8f94
+[album-cover]: https://i.scdn.co/image/ab67616d00004851787881628f87450162526b47
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
