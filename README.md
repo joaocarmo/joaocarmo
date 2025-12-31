@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Downfall Of Us All**<br />by _A Day To Remember_<br /> on Homesick [2009] |
+| ![album cover][album-cover] | **Voa (Voa)**<br />by _Quinta Do Bill_<br /> on Dias De Cumplicidade [1998] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510b02af77159866fe3e011c76
+[album-cover]: https://i.scdn.co/image/ab67616d000048510ab80fbea9087e6774a96067
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
