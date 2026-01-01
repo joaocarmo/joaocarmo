@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **A Work of Art**<br />by _Ice Nine Kills, SHAVO_<br /> on A Work of Art (feat. Shavo of System of a Down) [2024] |
+| ![album cover][album-cover] | **Anda Comigo Ver os Aviões**<br />by _Os Azeitonas_<br /> on Salão América Deluxe [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512a044aa0553e062b94fcb128
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fe21456fdc4f53b8e331c071
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
