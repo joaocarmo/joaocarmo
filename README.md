@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Anda Comigo Ver os Aviões**<br />by _Os Azeitonas_<br /> on Salão América Deluxe [2025] |
+| ![album cover][album-cover] | **Pisces**<br />by _Jinjer_<br /> on King of Everything [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fe21456fdc4f53b8e331c071
+[album-cover]: https://i.scdn.co/image/ab67616d000048515799422352688a27b61b3df5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
