@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Your Betrayal**<br />by _Bullet For My Valentine_<br /> on Fever [2010] |
+| ![album cover][album-cover] | **Dance, Dance**<br />by _Fall Out Boy_<br /> on From Under The Cork Tree [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f467961e3089fd694c893584
+[album-cover]: https://i.scdn.co/image/ab67616d0000485171565eda831124be86c603d5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
