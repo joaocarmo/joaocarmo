@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Left For Good**<br />by _Bad Omens_<br /> on Left For Good [2025] |
+| ![album cover][album-cover] | **Your Betrayal**<br />by _Bullet For My Valentine_<br /> on Fever [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515b74e67b65336e30c0330804
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f467961e3089fd694c893584
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
