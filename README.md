@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Pisces**<br />by _Jinjer_<br /> on King of Everything [2016] |
+| ![album cover][album-cover] | **Left For Good**<br />by _Bad Omens_<br /> on Left For Good [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515799422352688a27b61b3df5
+[album-cover]: https://i.scdn.co/image/ab67616d000048515b74e67b65336e30c0330804
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
