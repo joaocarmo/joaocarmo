@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dance, Dance**<br />by _Fall Out Boy_<br /> on From Under The Cork Tree [2005] |
+| ![album cover][album-cover] | **You're Gonna Go Far, Kid**<br />by _The Offspring_<br /> on Rise And Fall, Rage And Grace [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485171565eda831124be86c603d5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851890ce61533a89e00ce593fcb
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
