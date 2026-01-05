@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Deadhead**<br />by _Devin Townsend Band, Devin Townsend_<br /> on Accelerated Evolution [2003] |
+| ![album cover][album-cover] | **Grão Da Mesma Mó**<br />by _Sergio Godinho_<br /> on Nação Valente [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515b23f59456002758d973b116
+[album-cover]: https://i.scdn.co/image/ab67616d000048510c916b507593ed918a719a78
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
