@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Go Alone**<br />by _Hell Or Highwater, M. Shadows_<br /> on Begin Again [2013] |
+| ![album cover][album-cover] | **Daggers**<br />by _We Came As Romans, Zero 9:36_<br /> on Darkbloom [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a2a6a8d7c1d4fa77ecefc891
+[album-cover]: https://i.scdn.co/image/ab67616d000048512aaa9372a6922e6e3575d828
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
