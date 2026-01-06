@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Daggers**<br />by _We Came As Romans, Zero 9:36_<br /> on Darkbloom [2022] |
+| ![album cover][album-cover] | **I Don't Care**<br />by _Fall Out Boy_<br /> on Folie à Deux [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512aaa9372a6922e6e3575d828
+[album-cover]: https://i.scdn.co/image/ab67616d000048519d0807e52789a2715a0419bc
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
