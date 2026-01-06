@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Grão Da Mesma Mó**<br />by _Sergio Godinho_<br /> on Nação Valente [2018] |
+| ![album cover][album-cover] | **Go Alone**<br />by _Hell Or Highwater, M. Shadows_<br /> on Begin Again [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510c916b507593ed918a719a78
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a2a6a8d7c1d4fa77ecefc891
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
