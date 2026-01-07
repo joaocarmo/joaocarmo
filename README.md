@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Don't Care**<br />by _Fall Out Boy_<br /> on Folie à Deux [2008] |
+| ![album cover][album-cover] | **Inhale**<br />by _VOILÀ_<br /> on Happy Never After [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519d0807e52789a2715a0419bc
+[album-cover]: https://i.scdn.co/image/ab67616d000048519105eb17d8e5a25f67af6fe3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
