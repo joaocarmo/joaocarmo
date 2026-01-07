@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Golden Age**<br />by _Foreign Figures, Jonny T_<br /> on Golden Age [2023] |
+| ![album cover][album-cover] | **「A Brief Respite」 from DISSIDIA FINAL FANTASY**<br />by _石元 丈晴_<br /> on DISSIDIA FINAL FANTASY Original Soundtrack [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851285df438f87fba315fa3036f
+[album-cover]: https://i.scdn.co/image/ab67616d000048514beb0f2dd457d2484095e6b9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
