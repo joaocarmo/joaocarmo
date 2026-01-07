@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Inhale**<br />by _VOILÀ_<br /> on Happy Never After [2022] |
+| ![album cover][album-cover] | **Golden Age**<br />by _Foreign Figures, Jonny T_<br /> on Golden Age [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519105eb17d8e5a25f67af6fe3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851285df438f87fba315fa3036f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
