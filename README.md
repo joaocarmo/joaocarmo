@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **「A Brief Respite」 from DISSIDIA FINAL FANTASY**<br />by _石元 丈晴_<br /> on DISSIDIA FINAL FANTASY Original Soundtrack [2008] |
+| ![album cover][album-cover] | **Halloweentown**<br />by _Dark Divine_<br /> on Halloweentown [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514beb0f2dd457d2484095e6b9
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ce3e49a9d2ef8355d3358e1d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
