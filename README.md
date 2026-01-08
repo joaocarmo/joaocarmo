@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Halloweentown**<br />by _Dark Divine_<br /> on Halloweentown [2022] |
+| ![album cover][album-cover] | **115 - Remastered**<br />by _Kevin Sherwood, Elena Siegman_<br /> on Origins (Original Game Soundtrack) [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ce3e49a9d2ef8355d3358e1d
+[album-cover]: https://i.scdn.co/image/ab67616d0000485166422c5ecbe12c27a44ba666
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
