@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Beauty Of Annihilation**<br />by _Elena Siegman, Kevin Sherwood_<br /> on Call of Duty: Black Ops – Zombies (Original Game Soundtrack) [2011] |
+| ![album cover][album-cover] | **Wings of Steel (Storm Eagle (Megaman X)**<br />by _Metalltool_<br /> on Wings of Steel (Storm Eagle (Megaman X) [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514bc9031ffb86dfa3cea86c52
+[album-cover]: https://i.scdn.co/image/ab67616d00004851fb785b8763703a764a61d5ed
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
