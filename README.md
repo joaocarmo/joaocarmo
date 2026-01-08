@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **115 - Remastered**<br />by _Kevin Sherwood, Elena Siegman_<br /> on Origins (Original Game Soundtrack) [2013] |
+| ![album cover][album-cover] | **Beauty Of Annihilation**<br />by _Elena Siegman, Kevin Sherwood_<br /> on Call of Duty: Black Ops – Zombies (Original Game Soundtrack) [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485166422c5ecbe12c27a44ba666
+[album-cover]: https://i.scdn.co/image/ab67616d000048514bc9031ffb86dfa3cea86c52
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
