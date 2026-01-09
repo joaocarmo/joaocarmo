@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Wings of Steel (Storm Eagle (Megaman X)**<br />by _Metalltool_<br /> on Wings of Steel (Storm Eagle (Megaman X) [2020] |
+| ![album cover][album-cover] | **Remember Me**<br />by _Currents_<br /> on The Death We Seek [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fb785b8763703a764a61d5ed
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b611f6216abd4fad424bca39
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
