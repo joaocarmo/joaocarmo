@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Remember Me**<br />by _Currents_<br /> on The Death We Seek [2023] |
+| ![album cover][album-cover] | **"DEVILS NEVER CRY"(スタッフロール)**<br />by _Capcom Sound Team_<br /> on デビル メイ クライ 3 オリジナル・サウンドトラック [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b611f6216abd4fad424bca39
+[album-cover]: https://i.scdn.co/image/ab67616d0000485177fd6998efe968d14906db65
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
