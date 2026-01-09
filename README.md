@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **"DEVILS NEVER CRY"(スタッフロール)**<br />by _Capcom Sound Team_<br /> on デビル メイ クライ 3 オリジナル・サウンドトラック [2005] |
+| ![album cover][album-cover] | **Cenário (Janela No Rio)**<br />by _Toranja_<br /> on Esquissos [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485177fd6998efe968d14906db65
+[album-cover]: https://i.scdn.co/image/ab67616d000048516806fbbacac8b758b7714ab3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
