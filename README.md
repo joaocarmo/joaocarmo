@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Cenário (Janela No Rio)**<br />by _Toranja_<br /> on Esquissos [2003] |
+| ![album cover][album-cover] | **Amor Combate**<br />by _Linda Martini_<br /> on Olhos de Mongol [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516806fbbacac8b758b7714ab3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b8f877419907af06b9ca6d13
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
