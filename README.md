@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Amor Combate**<br />by _Linda Martini_<br /> on Olhos de Mongol [2006] |
+| ![album cover][album-cover] | **Água de Beber**<br />by _Quarteto Jobim-Morelenbaum_<br /> on Quarteto Jobim Morelenbaum [1999] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b8f877419907af06b9ca6d13
+[album-cover]: https://i.scdn.co/image/ab67616d00004851529e24bf8ffe6504aaa0d02c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
