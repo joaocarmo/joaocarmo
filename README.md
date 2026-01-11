@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Água de Beber**<br />by _Quarteto Jobim-Morelenbaum_<br /> on Quarteto Jobim Morelenbaum [1999] |
+| ![album cover][album-cover] | **Dark Entries**<br />by _Bauhaus_<br /> on In the Flat Field [1980] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851529e24bf8ffe6504aaa0d02c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851752a1573f8cb8f700a98f405
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
