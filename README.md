@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Open Passageways**<br />by _All Them Witches_<br /> on Dying Surfer Meets His Maker [2015] |
+| ![album cover][album-cover] | **Breaking Skin**<br />by _Nonpoint_<br /> on Breaking Skin [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ce86d7e0911df7db9289125a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a1acb3ec1bdd2a82d0f72364
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
