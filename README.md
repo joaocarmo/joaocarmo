@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Sol Da Caparica**<br />by _Peste & Sida_<br /> on Portem-se Bem [1989] |
+| ![album cover][album-cover] | **Open Passageways**<br />by _All Them Witches_<br /> on Dying Surfer Meets His Maker [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514455038173d542c7000fbb09
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ce86d7e0911df7db9289125a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
