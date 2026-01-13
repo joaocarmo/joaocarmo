@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Violence**<br />by _Kazzer_<br /> on Broke [2005] |
+| ![album cover][album-cover] | **Medicate Me**<br />by _Rain City Drive, Dayseeker_<br /> on Things Are Different Now [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515b0b705fa1dbe3ca8271f7c8
+[album-cover]: https://i.scdn.co/image/ab67616d000048511356d39922ba5da84c36c352
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
