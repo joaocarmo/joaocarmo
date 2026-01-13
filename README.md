@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Breaking Skin**<br />by _Nonpoint_<br /> on Breaking Skin [2014] |
+| ![album cover][album-cover] | **Violence**<br />by _Kazzer_<br /> on Broke [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a1acb3ec1bdd2a82d0f72364
+[album-cover]: https://i.scdn.co/image/ab67616d000048515b0b705fa1dbe3ca8271f7c8
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
