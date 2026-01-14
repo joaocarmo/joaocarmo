@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **I Will Not Bow**<br />by _Breaking Benjamin_<br /> on Dear Agony [2009] |
+| ![album cover][album-cover] | **Anti-Everything**<br />by _DED_<br /> on Mis-An-Thrope [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485108cdafd988bd04d9b14159d3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d7f4f1acecbe35013e8658f6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
