@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dirty**<br />by _grandson_<br /> on Death Of An Optimist [2020] |
+| ![album cover][album-cover] | **I Will Not Bow**<br />by _Breaking Benjamin_<br /> on Dear Agony [2009] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485134525e139f6f72a79963650c
+[album-cover]: https://i.scdn.co/image/ab67616d0000485108cdafd988bd04d9b14159d3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
