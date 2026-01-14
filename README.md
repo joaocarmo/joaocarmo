@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Medicate Me**<br />by _Rain City Drive, Dayseeker_<br /> on Things Are Different Now [2024] |
+| ![album cover][album-cover] | **Dirty**<br />by _grandson_<br /> on Death Of An Optimist [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511356d39922ba5da84c36c352
+[album-cover]: https://i.scdn.co/image/ab67616d0000485134525e139f6f72a79963650c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
