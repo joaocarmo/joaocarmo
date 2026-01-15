@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Come And Get It**<br />by _I Prevail_<br /> on Lifelines [2016] |
+| ![album cover][album-cover] | **Petrichor**<br />by _In Search Of Sun_<br /> on Virgin Funk Mother [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515fb65e285bf78b48bba4fb57
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c1a5f243be79765915016cd5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
