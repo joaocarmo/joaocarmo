@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Anti-Everything**<br />by _DED_<br /> on Mis-An-Thrope [2017] |
+| ![album cover][album-cover] | **Come And Get It**<br />by _I Prevail_<br /> on Lifelines [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d7f4f1acecbe35013e8658f6
+[album-cover]: https://i.scdn.co/image/ab67616d000048515fb65e285bf78b48bba4fb57
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
