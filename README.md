@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Behind These Hazel Eyes**<br />by _Kelly Clarkson_<br /> on Breakaway [2004] |
+| ![album cover][album-cover] | **A Tavern On The Riverbank**<br />by _Adam Skorupa, Krzysztof Wierzynkiewicz_<br /> on The Witcher 2: Assassins Of Kings (Enhanced Edition) [Original Game Soundtrack] [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851158c72ad0003cb37ca0c9eff
+[album-cover]: https://i.scdn.co/image/ab67616d0000485164acfad0756b025aa0ff497e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
