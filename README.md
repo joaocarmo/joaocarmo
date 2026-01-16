@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **A Tavern On The Riverbank**<br />by _Adam Skorupa, Krzysztof Wierzynkiewicz_<br /> on The Witcher 2: Assassins Of Kings (Enhanced Edition) [Original Game Soundtrack] [2015] |
+| ![album cover][album-cover] | **All Over You**<br />by _Maelføy_<br /> on All Over You [2026] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485164acfad0756b025aa0ff497e
+[album-cover]: https://i.scdn.co/image/ab67616d000048514ec7d55497945b604dcf6be3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
