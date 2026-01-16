@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Monsters (feat. Demi Lovato and blackbear)**<br />by _All Time Low, Demi Lovato, blackbear_<br /> on Monsters (feat. Demi Lovato and blackbear) [2020] |
+| ![album cover][album-cover] | **Behind These Hazel Eyes**<br />by _Kelly Clarkson_<br /> on Breakaway [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485135aa8800b1c2e000c3ce07f6
+[album-cover]: https://i.scdn.co/image/ab67616d00004851158c72ad0003cb37ca0c9eff
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
