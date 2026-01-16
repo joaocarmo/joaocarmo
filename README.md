@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Whiplash**<br />by _Architects_<br /> on The Sky, The Earth & All Between [2025] |
+| ![album cover][album-cover] | **Monsters (feat. Demi Lovato and blackbear)**<br />by _All Time Low, Demi Lovato, blackbear_<br /> on Monsters (feat. Demi Lovato and blackbear) [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851fa9cf0435132ff2a17ce9d86
+[album-cover]: https://i.scdn.co/image/ab67616d0000485135aa8800b1c2e000c3ce07f6
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
