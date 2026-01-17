@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **All Over You**<br />by _Maelføy_<br /> on All Over You [2026] |
+| ![album cover][album-cover] | **Heaven Shall Burn**<br />by _Imminence_<br /> on The Black [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514ec7d55497945b604dcf6be3
+[album-cover]: https://i.scdn.co/image/ab67616d00004851487b2044f98453a293423f6a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
