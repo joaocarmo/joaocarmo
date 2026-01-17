@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Heaven Shall Burn**<br />by _Imminence_<br /> on The Black [2024] |
+| ![album cover][album-cover] | **Writing On The Walls**<br />by _Underoath_<br /> on Define The Great Line [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851487b2044f98453a293423f6a
+[album-cover]: https://i.scdn.co/image/ab67616d000048512356287844a9caa378291699
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
