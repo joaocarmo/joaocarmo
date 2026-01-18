@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Writing On The Walls**<br />by _Underoath_<br /> on Define The Great Line [2006] |
+| ![album cover][album-cover] | **Murder Mitten**<br />by _I See Stars_<br /> on New Demons [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512356287844a9caa378291699
+[album-cover]: https://i.scdn.co/image/ab67616d00004851dd8eca60f1d52ba89a0dac59
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
