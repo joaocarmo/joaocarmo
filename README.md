@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Murder Mitten**<br />by _I See Stars_<br /> on New Demons [2013] |
+| ![album cover][album-cover] | **Absolute Zero**<br />by _Stone Sour_<br /> on House of Gold & Bones, Part 1 [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851dd8eca60f1d52ba89a0dac59
+[album-cover]: https://i.scdn.co/image/ab67616d000048518328645e58684d8770a8475f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
