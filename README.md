@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Absolute Zero**<br />by _Stone Sour_<br /> on House of Gold & Bones, Part 1 [2012] |
+| ![album cover][album-cover] | **Room 104**<br />by _Via_<br /> on After You Drown [2017] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518328645e58684d8770a8475f
+[album-cover]: https://i.scdn.co/image/ab67616d0000485100d053c6e8cd5bc8141b5bdf
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
