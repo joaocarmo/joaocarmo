@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Not Alone (From "Final Fantasy IX")**<br />by _Nobuo Uematsu_<br /> on Distant Worlds III: More Music from Final Fantasy [2015] |
+| ![album cover][album-cover] | **Heavier**<br />by _Rain City Drive_<br /> on To Better Days [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851e454bcdf819b328794d54a8d
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b048f1c35393209592b515c0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
