@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Room 104**<br />by _Via_<br /> on After You Drown [2017] |
+| ![album cover][album-cover] | **Not Alone (From "Final Fantasy IX")**<br />by _Nobuo Uematsu_<br /> on Distant Worlds III: More Music from Final Fantasy [2015] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485100d053c6e8cd5bc8141b5bdf
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e454bcdf819b328794d54a8d
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
