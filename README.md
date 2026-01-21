@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Heavier**<br />by _Rain City Drive_<br /> on To Better Days [2020] |
+| ![album cover][album-cover] | **Situations**<br />by _Escape the Fate_<br /> on Dying Is Your Latest Fashion [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b048f1c35393209592b515c0
+[album-cover]: https://i.scdn.co/image/ab67616d000048512541614ba5551322c8a1a478
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
