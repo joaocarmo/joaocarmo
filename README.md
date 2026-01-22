@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Epiphany**<br />by _Socionic_<br /> on Identity [2012] |
+| ![album cover][album-cover] | **Red Death - from DC's Dark Nights: Metal Soundtrack**<br />by _Brann Dailor_<br /> on Red Death (from DC's Dark Nights: Metal Soundtrack) [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514e964e71efd74b64fbd673c4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f9f20bebfcda84300da134e4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
