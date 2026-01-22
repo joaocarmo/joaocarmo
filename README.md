@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Situations**<br />by _Escape the Fate_<br /> on Dying Is Your Latest Fashion [2006] |
+| ![album cover][album-cover] | **Stone Wings**<br />by _Swallow The Sun_<br /> on When A Shadow Is Forced Into The Light [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512541614ba5551322c8a1a478
+[album-cover]: https://i.scdn.co/image/ab67616d000048513f64df8434709d99715e0e4f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
