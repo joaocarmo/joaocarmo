@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Red Death - from DC's Dark Nights: Metal Soundtrack**<br />by _Brann Dailor_<br /> on Red Death (from DC's Dark Nights: Metal Soundtrack) [2018] |
+| ![album cover][album-cover] | **Take Me To Church**<br />by _Tommy Vext_<br /> on Uncovered, Vol. 1 [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f9f20bebfcda84300da134e4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851006c4a6150055b0a2087d9dd
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
