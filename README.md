@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Satellite**<br />by _Rise Against_<br /> on Endgame [2011] |
+| ![album cover][album-cover] | **Welcome to the Black Parade**<br />by _My Chemical Romance_<br /> on The Black Parade [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485198f415abb90d728279f056ac
+[album-cover]: https://i.scdn.co/image/ab67616d0000485117f77fab7e8f18d5f9fee4a1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
