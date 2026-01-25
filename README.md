@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Welcome to the Black Parade**<br />by _My Chemical Romance_<br /> on The Black Parade [2006] |
+| ![album cover][album-cover] | **Guerrilla Radio**<br />by _Rage Against The Machine_<br /> on The Battle Of Los Angeles [1999] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485117f77fab7e8f18d5f9fee4a1
+[album-cover]: https://i.scdn.co/image/ab67616d000048513c2579a4f8cacd5b95b8fa68
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
