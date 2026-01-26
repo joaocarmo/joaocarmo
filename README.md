@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Guerrilla Radio**<br />by _Rage Against The Machine_<br /> on The Battle Of Los Angeles [1999] |
+| ![album cover][album-cover] | **Judith**<br />by _A Perfect Circle_<br /> on Mer De Noms [2000] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513c2579a4f8cacd5b95b8fa68
+[album-cover]: https://i.scdn.co/image/ab67616d000048512d73b494efcb99356f8c7b28
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
