@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Judith**<br />by _A Perfect Circle_<br /> on Mer De Noms [2000] |
+| ![album cover][album-cover] | **Suicide Messiah**<br />by _Black Label Society_<br /> on Mafia [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512d73b494efcb99356f8c7b28
+[album-cover]: https://i.scdn.co/image/ab67616d000048518c6e598d6428ea502379015a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
