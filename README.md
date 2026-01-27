@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Ghost of Perdition**<br />by _Opeth_<br /> on Ghost Reveries [2005] |
+| ![album cover][album-cover] | **Blank Space**<br />by _I Prevail_<br /> on Punk Goes Pop, Vol. 6 [2014] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511451fa8ef96932abd5a81791
+[album-cover]: https://i.scdn.co/image/ab67616d000048512c50bbfa36a37e50e09ad02b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
