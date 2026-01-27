@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Suicide Messiah**<br />by _Black Label Society_<br /> on Mafia [2018] |
+| ![album cover][album-cover] | **Ghost of Perdition**<br />by _Opeth_<br /> on Ghost Reveries [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518c6e598d6428ea502379015a
+[album-cover]: https://i.scdn.co/image/ab67616d000048511451fa8ef96932abd5a81791
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
