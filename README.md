@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Blank Space**<br />by _I Prevail_<br /> on Punk Goes Pop, Vol. 6 [2014] |
+| ![album cover][album-cover] | **Paradise**<br />by _Craig Owens_<br /> on Punk Goes Pop, Vol. 5 [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512c50bbfa36a37e50e09ad02b
+[album-cover]: https://i.scdn.co/image/ab67616d000048519e2763f238cfb913d21a2d69
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
