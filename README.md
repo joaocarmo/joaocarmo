@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Yeah 3X**<br />by _Allstar Weekend, Captain J Hook_<br /> on Punk Goes Pop, Vol. 4 [2011] |
+| ![album cover][album-cover] | **I'm Like A Bird**<br />by _Element 101_<br /> on Punk Goes Pop [2001] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514978eed9f147170024b9a65b
+[album-cover]: https://i.scdn.co/image/ab67616d000048512c703ee4654510038a7b8a01
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
