@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Obi-Wan - From "Obi-Wan Kenobi"**<br />by _John Williams_<br /> on Obi-Wan (From "Obi-Wan Kenobi") [2022] |
+| ![album cover][album-cover] | **Left Outside Alone**<br />by _Blind Channel_<br /> on Left Outside Alone [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512fb0d4fbe942811b31037e50
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a178792fd15028dbb05c9b1a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
