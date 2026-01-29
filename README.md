@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Left Outside Alone**<br />by _Blind Channel_<br /> on Left Outside Alone [2020] |
+| ![album cover][album-cover] | **Square Hammer**<br />by _Ghost_<br /> on Meliora (Deluxe Edition) [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a178792fd15028dbb05c9b1a
+[album-cover]: https://i.scdn.co/image/ab67616d000048515b752bd7476346431a8d1e79
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
