@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Square Hammer**<br />by _Ghost_<br /> on Meliora (Deluxe Edition) [2016] |
+| ![album cover][album-cover] | **V.A.N**<br />by _Bad Omens, Poppy_<br /> on CONCRETE JUNGLE [THE OST] [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515b752bd7476346431a8d1e79
+[album-cover]: https://i.scdn.co/image/ab67616d000048517400362388ac9ab2a807e597
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
