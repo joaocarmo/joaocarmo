@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **V.A.N**<br />by _Bad Omens, Poppy_<br /> on CONCRETE JUNGLE [THE OST] [2024] |
+| ![album cover][album-cover] | **Traveling Alone**<br />by _Woods Of Ypres_<br /> on Woods 5: Grey Skies & Electric Light [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048517400362388ac9ab2a807e597
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a7e4d2b8e3514866dd34720b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
