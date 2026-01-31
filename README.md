@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Traveling Alone**<br />by _Woods Of Ypres_<br /> on Woods 5: Grey Skies & Electric Light [2012] |
+| ![album cover][album-cover] | **Drowning**<br />by _Atreyu_<br /> on A Torch In The Dark [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a7e4d2b8e3514866dd34720b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851ddb4b682ffbd9970e95c605e
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
