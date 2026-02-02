@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Drowning**<br />by _Atreyu_<br /> on A Torch In The Dark [2023] |
+| ![album cover][album-cover] | **Situations**<br />by _Escape the Fate_<br /> on Dying Is Your Latest Fashion [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851ddb4b682ffbd9970e95c605e
+[album-cover]: https://i.scdn.co/image/ab67616d000048512541614ba5551322c8a1a478
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
