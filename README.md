@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Situations**<br />by _Escape the Fate_<br /> on Dying Is Your Latest Fashion [2006] |
+| ![album cover][album-cover] | **Drag the Lake**<br />by _The Amity Affliction_<br /> on Misery [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512541614ba5551322c8a1a478
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b7d00bebdf6300a90ee836e5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
