@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Drag the Lake**<br />by _The Amity Affliction_<br /> on Misery [2018] |
+| ![album cover][album-cover] | **Jokes On You**<br />by _Mae Hill_<br /> on Jokes On You [2022] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b7d00bebdf6300a90ee836e5
+[album-cover]: https://i.scdn.co/image/ab67616d000048514240b6f25a2c99b8bb884c0c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
