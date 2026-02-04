@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **CORALINE**<br />by _Måneskin_<br /> on Teatro d'ira - Vol. I [2021] |
+| ![album cover][album-cover] | **Du hast**<br />by _Rammstein_<br /> on Sehnsucht (Remastered 2023) [1997] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048515aa05015cfa7bd2943c29b21
+[album-cover]: https://i.scdn.co/image/ab67616d00004851030cda12ffbebd6561c1c0f0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
