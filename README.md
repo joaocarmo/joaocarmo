@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Deutschland**<br />by _Rammstein_<br /> on Rammstein [2019] |
+| ![album cover][album-cover] | **Engel**<br />by _Rammstein_<br /> on Sehnsucht (Remastered 2023) [1997] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485102add2c77fb6999e311a3248
+[album-cover]: https://i.scdn.co/image/ab67616d00004851030cda12ffbebd6561c1c0f0
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
