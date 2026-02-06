@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **So Cold - Remix**<br />by _Breaking Benjamin_<br /> on We Are Not Alone [2004] |
+| ![album cover][album-cover] | **Moonlight**<br />by _Coyote Theory_<br /> on Moonlight [2026] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048514500b37eb7046f29233099a0
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d1eeaef3adc8d00cdba102e3
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
