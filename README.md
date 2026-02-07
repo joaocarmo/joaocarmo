@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Stone Wings**<br />by _Swallow The Sun_<br /> on When A Shadow Is Forced Into The Light [2019] |
+| ![album cover][album-cover] | **Slave to the Rithm**<br />by _ILLENIUM, Bring Me The Horizon_<br /> on Slave to the Rithm [2026] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513f64df8434709d99715e0e4f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851f0538671e515ef783b91dfb7
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
