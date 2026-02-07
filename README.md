@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Moonlight**<br />by _Coyote Theory_<br /> on Moonlight [2026] |
+| ![album cover][album-cover] | **Stone Wings**<br />by _Swallow The Sun_<br /> on When A Shadow Is Forced Into The Light [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d1eeaef3adc8d00cdba102e3
+[album-cover]: https://i.scdn.co/image/ab67616d000048513f64df8434709d99715e0e4f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
