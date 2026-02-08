@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Slave to the Rithm**<br />by _ILLENIUM, Bring Me The Horizon_<br /> on Slave to the Rithm [2026] |
+| ![album cover][album-cover] | **Reanimation (feat. Guthrie Govan)**<br />by _Karnivool, Guthrie Govan_<br /> on IN VERSES [2026] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851f0538671e515ef783b91dfb7
+[album-cover]: https://i.scdn.co/image/ab67616d0000485121e1700811e06dd21c63bc81
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
