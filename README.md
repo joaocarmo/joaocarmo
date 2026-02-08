@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Reanimation (feat. Guthrie Govan)**<br />by _Karnivool, Guthrie Govan_<br /> on IN VERSES [2026] |
+| ![album cover][album-cover] | **My Curse**<br />by _Killswitch Engage_<br /> on As Daylight Dies (Special Edition) [2007] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485121e1700811e06dd21c63bc81
+[album-cover]: https://i.scdn.co/image/ab67616d00004851cc5bb1a3f809896baf67dba4
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
