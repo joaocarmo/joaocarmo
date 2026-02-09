@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Afraid Of The Dark**<br />by _Motionless In White_<br /> on Afraid Of The Dark [2026] |
+| ![album cover][album-cover] | **Five Vicodin Chased With A Shot Of Clarity**<br />by _Atreyu_<br /> on The Curse [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851066f63298993ba7365499a7c
+[album-cover]: https://i.scdn.co/image/ab67616d00004851eecc55d7622862956b087e88
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
