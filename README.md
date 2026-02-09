@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **My Curse**<br />by _Killswitch Engage_<br /> on As Daylight Dies (Special Edition) [2007] |
+| ![album cover][album-cover] | **Afraid Of The Dark**<br />by _Motionless In White_<br /> on Afraid Of The Dark [2026] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cc5bb1a3f809896baf67dba4
+[album-cover]: https://i.scdn.co/image/ab67616d00004851066f63298993ba7365499a7c
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
