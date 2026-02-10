@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Advent: One-Winged Angel**<br />by _Nobuo Uematsu_<br /> on FINAL FANTASY VII ADVENT CHILDREN Original Soundtrack [2005] |
+| ![album cover][album-cover] | **House Of Cards**<br />by _The Amity Affliction_<br /> on House Of Cards [2026] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510159b6b22016d000d1ea29fe
+[album-cover]: https://i.scdn.co/image/ab67616d0000485106830e4b11be0a28878e5962
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
