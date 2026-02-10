@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Five Vicodin Chased With A Shot Of Clarity**<br />by _Atreyu_<br /> on The Curse [2004] |
+| ![album cover][album-cover] | **Advent: One-Winged Angel**<br />by _Nobuo Uematsu_<br /> on FINAL FANTASY VII ADVENT CHILDREN Original Soundtrack [2005] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851eecc55d7622862956b087e88
+[album-cover]: https://i.scdn.co/image/ab67616d000048510159b6b22016d000d1ea29fe
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
