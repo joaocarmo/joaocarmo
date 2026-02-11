@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **House Of Cards**<br />by _The Amity Affliction_<br /> on House Of Cards [2026] |
+| ![album cover][album-cover] | **Battle Theme (From "Final Fantasy VI") [Metal Cover]**<br />by _ToxicxEternity_<br /> on VG Metal Covers, Vol. 7 [2016] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485106830e4b11be0a28878e5962
+[album-cover]: https://i.scdn.co/image/ab67616d00004851a5e31d064f837de0fb39a9d2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
