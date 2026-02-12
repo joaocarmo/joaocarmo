@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Battle Theme (From "Final Fantasy VI") [Metal Cover]**<br />by _ToxicxEternity_<br /> on VG Metal Covers, Vol. 7 [2016] |
+| ![album cover][album-cover] | **Hysteria**<br />by _Muse_<br /> on Absolution [2003] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851a5e31d064f837de0fb39a9d2
+[album-cover]: https://i.scdn.co/image/ab67616d0000485148cf14e1e805e59e001b10ea
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
