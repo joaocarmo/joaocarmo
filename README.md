@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Drag the Lake**<br />by _The Amity Affliction_<br /> on Misery [2018] |
+| ![album cover][album-cover] | **Reincarnate: Reincarnated**<br />by _Motionless In White_<br /> on Reincarnate: 10 Year Anniversary [2024] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b7d00bebdf6300a90ee836e5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c9cb92063d9387270b993d12
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
