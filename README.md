@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Hysteria**<br />by _Muse_<br /> on Absolution [2003] |
+| ![album cover][album-cover] | **Drag the Lake**<br />by _The Amity Affliction_<br /> on Misery [2018] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485148cf14e1e805e59e001b10ea
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b7d00bebdf6300a90ee836e5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
