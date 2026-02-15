@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Porcelain - Instrumental**<br />by _Motionless In White_<br /> on Porcelain: Ricky Motion Picture Collection [2023] |
+| ![album cover][album-cover] | **Temptation**<br />by _Imminence_<br /> on Heaven in Hiding [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048519c426ec863f8426a4886368b
+[album-cover]: https://i.scdn.co/image/ab67616d000048513bead7dd5b1883cb7f33f238
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
