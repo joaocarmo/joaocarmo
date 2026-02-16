@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Temptation**<br />by _Imminence_<br /> on Heaven in Hiding [2021] |
+| ![album cover][album-cover] | **Afraid Of The Dark**<br />by _Motionless In White_<br /> on Afraid Of The Dark [2026] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513bead7dd5b1883cb7f33f238
+[album-cover]: https://i.scdn.co/image/ab67616d000048512f6be29ef2046db422b0f77a
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
