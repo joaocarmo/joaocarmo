@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Afraid Of The Dark**<br />by _Motionless In White_<br /> on Afraid Of The Dark [2026] |
+| ![album cover][album-cover] | **Burned At Both Ends**<br />by _Motionless In White_<br /> on Infamous [2012] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048512f6be29ef2046db422b0f77a
+[album-cover]: https://i.scdn.co/image/ab67616d00004851306190032ff6b0e76f680491
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
