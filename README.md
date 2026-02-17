@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Baby One More Time - Hard Rock Version**<br />by _Heavy Metal Heroes_<br /> on Baby One More Time (Hard Rock Version) [2019] |
+| ![album cover][album-cover] | **Na Na Na (Na Na Na Na Na Na Na Na Na)**<br />by _My Chemical Romance_<br /> on Danger Days: The True Lives of the Fabulous Killjoys [2010] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048518211aa506716703457325f33
+[album-cover]: https://i.scdn.co/image/ab67616d000048516fbf4bb780a9cbc34b3f35da
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
