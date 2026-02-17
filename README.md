@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Burned At Both Ends**<br />by _Motionless In White_<br /> on Infamous [2012] |
+| ![album cover][album-cover] | **Baby One More Time - Hard Rock Version**<br />by _Heavy Metal Heroes_<br /> on Baby One More Time (Hard Rock Version) [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851306190032ff6b0e76f680491
+[album-cover]: https://i.scdn.co/image/ab67616d000048518211aa506716703457325f33
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
