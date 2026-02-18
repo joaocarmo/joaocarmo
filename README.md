@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Ghost of You**<br />by _My Chemical Romance_<br /> on Three Cheers for Sweet Revenge [2004] |
+| ![album cover][album-cover] | **The Nightmare Begins (From "Final Fantasy VII")**<br />by _Nobuo Uematsu, Symphoniric Orchestra_<br /> on Symphoniric Cover [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cab7ae4868e9f9ce6bdfdf43
+[album-cover]: https://i.scdn.co/image/ab67616d000048510868eee6aa178cc3510f7b05
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
