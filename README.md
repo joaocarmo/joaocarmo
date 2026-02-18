@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **The Nightmare Begins (From "Final Fantasy VII")**<br />by _Nobuo Uematsu, Symphoniric Orchestra_<br /> on Symphoniric Cover [2021] |
+| ![album cover][album-cover] | **Umbrella**<br />by _All Time Low_<br /> on Punk Goes Crunk [2008] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048510868eee6aa178cc3510f7b05
+[album-cover]: https://i.scdn.co/image/ab67616d0000485170bed5b5fdd572a6a06bfd0b
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
