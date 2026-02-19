@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Umbrella**<br />by _All Time Low_<br /> on Punk Goes Crunk [2008] |
+| ![album cover][album-cover] | **Skyrim Atmospheres**<br />by _Jeremy Soule, The Elder Scrolls_<br /> on The Elder Scrolls V: Skyrim (Original Game Soundtrack) [2011] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485170bed5b5fdd572a6a06bfd0b
+[album-cover]: https://i.scdn.co/image/ab67616d00004851bbd54b6904a458f8912bff7f
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
