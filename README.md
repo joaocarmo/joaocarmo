@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Erase**<br />by _Imminence_<br /> on Turn the Light On [2019] |
+| ![album cover][album-cover] | **Love Without Tears**<br />by _HIM_<br /> on Tears On Tape [2013] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851d55b4aa69f38d9a27179cec9
+[album-cover]: https://i.scdn.co/image/ab67616d0000485134fb5ca7e88d908357f9edd5
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
