@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Love Without Tears**<br />by _HIM_<br /> on Tears On Tape [2013] |
+| ![album cover][album-cover] | **(D)eath**<br />by _Avenged Sevenfold_<br /> on Life Is But a Dream… [2023] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485134fb5ca7e88d908357f9edd5
+[album-cover]: https://i.scdn.co/image/ab67616d00004851e1baf26209aca9182039f313
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
