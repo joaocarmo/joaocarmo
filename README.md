@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Skyrim Atmospheres**<br />by _Jeremy Soule, The Elder Scrolls_<br /> on The Elder Scrolls V: Skyrim (Original Game Soundtrack) [2011] |
+| ![album cover][album-cover] | **Erase**<br />by _Imminence_<br /> on Turn the Light On [2019] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851bbd54b6904a458f8912bff7f
+[album-cover]: https://i.scdn.co/image/ab67616d00004851d55b4aa69f38d9a27179cec9
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
