@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **All My Life**<br />by _Falling In Reverse, Jelly Roll_<br /> on Popular Monster [2024] |
+| ![album cover][album-cover] | **I'm Not A Vampire - Revamped**<br />by _Falling In Reverse_<br /> on I'm Not A Vampire (Revamped) [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851cd850819595472eae0c06f66
+[album-cover]: https://i.scdn.co/image/ab67616d000048513909b7c987476adda98798b2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
