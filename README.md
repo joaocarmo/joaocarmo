@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Everytime We Touch - TEKKNO Version**<br />by _Electric Callboy_<br /> on Everytime We Touch (TEKKNO Version) [2023] |
+| ![album cover][album-cover] | **Look What You Made Me Do**<br />by _SCATTERBRAIN_<br /> on Look What You Made Me Do [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851daca8e2b1ab1a5d84109a491
+[album-cover]: https://i.scdn.co/image/ab67616d000048516c558e16b88a5f3f59f57437
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
