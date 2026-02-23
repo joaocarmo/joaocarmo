@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Look What You Made Me Do**<br />by _SCATTERBRAIN_<br /> on Look What You Made Me Do [2025] |
+| ![album cover][album-cover] | **Dance of Swords**<br />by _Jeremy Soule, The Elder Scrolls_<br /> on The Elder Scrolls III: Morrowind (Original Game Soundtrack) [2002] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516c558e16b88a5f3f59f57437
+[album-cover]: https://i.scdn.co/image/ab67616d00004851c514472ef0b60fae00177687
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
