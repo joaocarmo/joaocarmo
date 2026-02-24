@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Cancer**<br />by _My Chemical Romance_<br /> on The Black Parade [2006] |
+| ![album cover][album-cover] | **Thank You for the Venom - 2025 Mix**<br />by _My Chemical Romance_<br /> on Three Cheers for Sweet Revenge (Deluxe Edition) [2025] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d0000485117f77fab7e8f18d5f9fee4a1
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b0c0ef1157d2b44f4761c086
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
