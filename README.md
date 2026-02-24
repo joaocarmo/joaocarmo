@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Dance of Swords**<br />by _Jeremy Soule, The Elder Scrolls_<br /> on The Elder Scrolls III: Morrowind (Original Game Soundtrack) [2002] |
+| ![album cover][album-cover] | **Cancer**<br />by _My Chemical Romance_<br /> on The Black Parade [2006] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851c514472ef0b60fae00177687
+[album-cover]: https://i.scdn.co/image/ab67616d0000485117f77fab7e8f18d5f9fee4a1
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
