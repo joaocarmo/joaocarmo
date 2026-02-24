@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Thank You for the Venom - 2025 Mix**<br />by _My Chemical Romance_<br /> on Three Cheers for Sweet Revenge (Deluxe Edition) [2025] |
+| ![album cover][album-cover] | **What's My Age Again?**<br />by _blink-182_<br /> on Enema Of The State [1999] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b0c0ef1157d2b44f4761c086
+[album-cover]: https://i.scdn.co/image/ab67616d000048516da502e35a7a3e48de2b0f74
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
