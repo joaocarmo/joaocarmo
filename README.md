@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **What's My Age Again?**<br />by _blink-182_<br /> on Enema Of The State [1999] |
+| ![album cover][album-cover] | **Aerith's Theme (Final Fantasy VII)**<br />by _Nobuo Uematsu_<br /> on Distant Worlds and a New World Collections: Music from Final Fantasy VII [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048516da502e35a7a3e48de2b0f74
+[album-cover]: https://i.scdn.co/image/ab67616d00004851033ab82d4e4ffaa7abd1d214
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
