@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Aerith's Theme (Final Fantasy VII)**<br />by _Nobuo Uematsu_<br /> on Distant Worlds and a New World Collections: Music from Final Fantasy VII [2020] |
+| ![album cover][album-cover] | **Another Brick in the Wall, Pt. 1, 2, 3 - Pink Floyd Cover**<br />by _Korn_<br /> on Greatest Hits, Vol. 1 [2004] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851033ab82d4e4ffaa7abd1d214
+[album-cover]: https://i.scdn.co/image/ab67616d00004851b8cb1df9511b303af4d58081
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
