@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **FFVII REMAKE: The First Guy I Ever Loved**<br />by _Nobuo Uematsu_<br /> on FINAL FANTASY VII REMAKE Original Soundtrack (Plus) [2020] |
+| ![album cover][album-cover] | **I'm Not A Vampire - Revamped**<br />by _Falling In Reverse_<br /> on I'm Not A Vampire (Revamped) [2021] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048511456b85124487744ac5f4893
+[album-cover]: https://i.scdn.co/image/ab67616d000048513909b7c987476adda98798b2
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
