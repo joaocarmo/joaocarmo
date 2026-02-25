@@ -18,11 +18,11 @@
 
 | Recently | on Spotify |
 | - | - |
-| ![album cover][album-cover] | **Another Brick in the Wall, Pt. 1, 2, 3 - Pink Floyd Cover**<br />by _Korn_<br /> on Greatest Hits, Vol. 1 [2004] |
+| ![album cover][album-cover] | **FFVII REMAKE: The First Guy I Ever Loved**<br />by _Nobuo Uematsu_<br /> on FINAL FANTASY VII REMAKE Original Soundtrack (Plus) [2020] |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d00004851b8cb1df9511b303af4d58081
+[album-cover]: https://i.scdn.co/image/ab67616d000048511456b85124487744ac5f4893
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
