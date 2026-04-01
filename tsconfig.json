@@ -1,7 +1,14 @@
 {
-  "extends": "@tsconfig/node20/tsconfig.json",
+  "extends": "@tsconfig/node24/tsconfig.json",
   "compilerOptions": {
     "module": "esnext",
-    "moduleResolution": "bundler"
+    "moduleResolution": "bundler",
+    "types": [
+      "@types/body-parser",
+      "@types/cors",
+      "@types/express",
+      "@types/spotify-api",
+      "@types/spotify-web-api-node"
+    ]
   }
 }

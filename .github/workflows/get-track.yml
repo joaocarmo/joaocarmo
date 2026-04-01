@@ -53,7 +53,7 @@ jobs:
         run: cp README.template.md README.md
 
       - name: Commit and push the updated README.md
-        uses: EndBug/add-and-commit@v9
+        uses: EndBug/add-and-commit@v10
         with:
           add: 'README.md'
           commit: --no-gpg-sign --no-verify --signoff
