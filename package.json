@@ -28,25 +28,25 @@
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
-    "body-parser": "^2.2.1",
-    "cors": "^2.8.5",
+    "body-parser": "^2.2.2",
+    "cors": "^2.8.6",
     "cross-fetch": "^4.1.0",
-    "dotenv": "^17.2.3",
+    "dotenv": "^17.3.1",
     "es-main": "^1.4.0",
     "express": "^5.2.1",
     "open": "^11.0.0",
-    "puppeteer": "^24.34.0",
+    "puppeteer": "^24.40.0",
     "replace-in-file": "^8.4.0",
     "spotify-web-api-node": "^5.0.2",
     "tsx": "^4.21.0",
-    "typescript": "^5.9.3"
+    "typescript": "^6.0.2"
   },
   "devDependencies": {
-    "@tsconfig/node20": "^20.1.8",
+    "@tsconfig/node24": "^24.0.4",
     "@types/body-parser": "^1.19.6",
     "@types/cors": "^2.8.19",
     "@types/express": "^5.0.6",
-    "@types/spotify-api": "^0.0.25",
+    "@types/spotify-api": "^0.0.26",
     "@types/spotify-web-api-node": "^5.0.11"
   },
   "packageManager": "pnpm@10.26.2+sha512.0e308ff2005fc7410366f154f625f6631ab2b16b1d2e70238444dd6ae9d630a8482d92a451144debc492416896ed16f7b114a86ec68b8404b2443869e68ffda6",
