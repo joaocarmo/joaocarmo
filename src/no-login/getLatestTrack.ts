@@ -16,17 +16,22 @@ const main = async () => {
     process.exit(1)
   }
 
-  const track = await fetchRecentlyPlayed(apiKey, username)
-  const parsedTrack = await parseLastFmTrack(track, apiKey)
+  try {
+    const track = await fetchRecentlyPlayed(apiKey, username)
+    const parsedTrack = await parseLastFmTrack(track, apiKey)
 
-  const [{ hasChanged }] = await findAndReplace(parsedTrack, {
-    files: [readmeFile],
-  })
+    const [{ hasChanged }] = await findAndReplace(parsedTrack, {
+      files: [readmeFile],
+    })
 
-  if (hasChanged) {
-    console.log('Changes were made')
-  } else {
-    console.log('No changes were made')
+    if (hasChanged) {
+      console.log('Changes were made')
+    } else {
+      console.log('No changes were made')
+    }
+  } catch (error) {
+    console.error('Failed to fetch latest track:', error)
+    process.exit(1)
   }
 
   process.exit(0)

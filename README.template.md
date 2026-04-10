@@ -18,7 +18,7 @@
 
 | Recently | listening to |
 | - | - |
-| ![album cover][album-cover] | **{{title}}**<br />by _{{artist}}_<br /> on {{album}} [{{released}}] |
+| ![album cover][album-cover] | **{{title}}**<br />by _{{artist}}_<br /> on {{album}}{{released}} |
 
 <!-- References -->
 

@@ -17,7 +17,7 @@ export const findAndReplace = (
     '{{image}}',
     '{{released}}',
   ]
-  const to = [artist, title, album, image, released]
+  const to = [artist, title, album, image, released ? ` [${released}]` : '']
 
   return replaceInFile({ ...options, from, to })
 }

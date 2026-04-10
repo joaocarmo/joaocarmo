@@ -1,7 +1,8 @@
 import type { ParsedTrack } from './types.js'
 
 const BASE_URL = 'https://ws.audioscrobbler.com/2.0'
-const imagePlaceholder = 'https://via.placeholder.com/100'
+const imagePlaceholder =
+  'data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22100%22 height=%22100%22%3E%3Crect width=%22100%22 height=%22100%22 fill=%22%23ccc%22/%3E%3C/svg%3E'
 
 interface LastFmImage {
   size: string
