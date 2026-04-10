@@ -16,13 +16,13 @@
 
 ### 🎸 Music
 
-| Recently                    | on Spotify                                                                                                 |
-| --------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| ![album cover][album-cover] | **I'm Not A Vampire - Revamped**<br />by _Falling In Reverse_<br /> on I'm Not A Vampire (Revamped) [2021] |
+| Recently                    | listening to                                                      |
+| --------------------------- | ----------------------------------------------------------------- |
+| ![album cover][album-cover] | **By Myself**<br />by _Linkin Park_<br /> on Hybrid Theory (Deluxe Edition) |
 
 <!-- References -->
 
-[album-cover]: https://i.scdn.co/image/ab67616d000048513909b7c987476adda98798b2
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/300x300/d24b1e64533acb850024ceeca2a037e3.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
