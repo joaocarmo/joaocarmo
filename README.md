@@ -18,11 +18,11 @@
 
 | Recently                    | listening to                                                      |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **By Myself**<br />by _Linkin Park_<br /> on Hybrid Theory (Deluxe Edition) |
+| ![album cover][album-cover] | **Battle Symphony**<br />by _Linkin Park_<br /> on One More Light [2024] |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/300x300/d24b1e64533acb850024ceeca2a037e3.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/300x300/5e03d7c6d69c19819b07cef436e73413.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
