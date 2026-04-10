@@ -2,7 +2,7 @@
   "name": "joaocarmo",
   "version": "1.0.0",
   "description": "Secret sauce",
-  "main": "src/index.ts",
+  "main": "src/no-login/getLatestTrack.ts",
   "private": true,
   "author": "João Carmo",
   "license": "MIT",
@@ -22,38 +22,24 @@
   "type": "module",
   "scripts": {
     "get-latest-track": "tsx ./src/no-login/getLatestTrack.ts",
-    "login-and-get-latest-track": "tsx ./src/with-login/server.ts",
     "preinstall": "npx only-allow pnpm",
     "test": "echo \"OK\"",
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
-    "body-parser": "^2.2.2",
-    "cors": "^2.8.6",
-    "cross-fetch": "^4.1.0",
     "dotenv": "^17.4.1",
-    "es-main": "^1.4.0",
-    "express": "^5.2.1",
-    "open": "^11.0.0",
-    "puppeteer": "^24.40.0",
     "replace-in-file": "^8.4.0",
-    "spotify-web-api-node": "^5.0.2",
     "tsx": "^4.21.0",
     "typescript": "^6.0.2"
   },
   "devDependencies": {
     "@tsconfig/node24": "^24.0.4",
-    "@types/body-parser": "^1.19.6",
-    "@types/cors": "^2.8.19",
-    "@types/express": "^5.0.6",
-    "@types/spotify-api": "^0.0.26",
-    "@types/spotify-web-api-node": "^5.0.11"
+    "@types/node": "^25.6.0"
   },
   "packageManager": "pnpm@10.26.2+sha512.0e308ff2005fc7410366f154f625f6631ab2b16b1d2e70238444dd6ae9d630a8482d92a451144debc492416896ed16f7b114a86ec68b8404b2443869e68ffda6",
   "pnpm": {
     "onlyBuiltDependencies": [
-      "esbuild",
-      "puppeteer"
+      "esbuild"
     ]
   }
 }
