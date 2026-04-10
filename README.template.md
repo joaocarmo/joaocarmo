@@ -16,9 +16,9 @@
 
 ### 🎸 Music
 
-| Recently | on Spotify |
-| - | - |
-| ![album cover][album-cover] | **{{title}}**<br />by _{{artist}}_<br /> on {{album}} [{{released}}] |
+| Recently                    | listening to                                                      |
+| --------------------------- | ----------------------------------------------------------------- |
+| ![album cover][album-cover] | **{{title}}**<br />by _{{artist}}_<br /> on {{album}}{{released}} |
 
 <!-- References -->
 

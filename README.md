@@ -16,8 +16,8 @@
 
 ### 🎸 Music
 
-| Recently | on Spotify |
-| - | - |
+| Recently                    | on Spotify                                                                                                 |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | ![album cover][album-cover] | **I'm Not A Vampire - Revamped**<br />by _Falling In Reverse_<br /> on I'm Not A Vampire (Revamped) [2021] |
 
 <!-- References -->

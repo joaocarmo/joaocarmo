@@ -1,11 +1,11 @@
 # This workflow runs automatically and updates the README.md file with the
-# latest track on Spotify.
+# latest track on Last.fm.
 name: Update Track
 
 on:
   workflow_dispatch:
   # schedule:
-    # - cron: "0 */6 * * *"
+  # - cron: "0 */6 * * *"
 
 jobs:
   get-track:
@@ -37,16 +37,11 @@ jobs:
       - name: Setup environment
         run: cp .env.example .env
 
-      - name: Logging into Spotify and get the latest track
+      - name: Get the latest track from Last.fm
         timeout-minutes: 5
         env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          CLIENT_ID: ${{ secrets.CLIENT_ID }}
-          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
-          PROXY_SERVER: ${{ secrets.PROXY_SERVER }}
-          REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
-          SPOTIFY_PASSWORD: ${{ secrets.SPOTIFY_PASSWORD }}
-          SPOTIFY_USERNAME: ${{ secrets.SPOTIFY_USERNAME }}
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+          LASTFM_USERNAME: ${{ secrets.LASTFM_USERNAME }}
         run: pnpm get-latest-track
 
       - name: Replace the README.md with the latest track
