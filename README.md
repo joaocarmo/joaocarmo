@@ -16,13 +16,13 @@
 
 ### 🎸 Music
 
-| Recently                    | listening to                                                             |
-| --------------------------- | ------------------------------------------------------------------------ |
-| ![album cover][album-cover] | **Battle Symphony**<br />by _Linkin Park_<br /> on One More Light [2024] |
+| Recently                    | Last listened to                                                  |
+| --------------------------- | ----------------------------------------------------------------- |
+| ![album cover][album-cover] | **Lost Within**<br />by _Fivefold_<br /> on The Story |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/300x300/5e03d7c6d69c19819b07cef436e73413.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/c02e789ba04747c9960e1a8a309a4a01.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
