@@ -16,8 +16,8 @@
 
 ### 🎸 Music
 
-| Recently                    | listening to                                                      |
-| --------------------------- | ----------------------------------------------------------------- |
+| Recently                    | listening to                                                             |
+| --------------------------- | ------------------------------------------------------------------------ |
 | ![album cover][album-cover] | **Battle Symphony**<br />by _Linkin Park_<br /> on One More Light [2024] |
 
 <!-- References -->

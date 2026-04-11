@@ -2,7 +2,7 @@ import type { ParsedTrack } from './types.js'
 
 const BASE_URL = 'https://ws.audioscrobbler.com/2.0'
 const imagePlaceholder =
-  'data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22100%22 height=%22100%22%3E%3Crect width=%22100%22 height=%22100%22 fill=%22%23ccc%22/%3E%3C/svg%3E'
+  'data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22174%22 height=%22174%22%3E%3Crect width=%22174%22 height=%22174%22 fill=%22%23ccc%22/%3E%3C/svg%3E'
 
 interface LastFmImage {
   size: string
@@ -100,12 +100,6 @@ export const fetchAlbumReleaseYear = async (
 }
 
 const getAlbumImage = (images: LastFmImage[]): string => {
-  const extralarge = images.find(({ size }) => size === 'extralarge')
-
-  if (extralarge?.['#text']) {
-    return extralarge['#text']
-  }
-
   const large = images.find(({ size }) => size === 'large')
 
   return large?.['#text'] || imagePlaceholder
