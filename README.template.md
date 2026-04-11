@@ -16,7 +16,7 @@
 
 ### 🎸 Music
 
-| Recently                    | listening to                                                      |
+| Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
 | ![album cover][album-cover] | **{{title}}**<br />by _{{artist}}_<br /> on {{album}}{{released}} |
 
