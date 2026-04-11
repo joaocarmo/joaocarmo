@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Lost Within**<br />by _Fivefold_<br /> on The Story |
+| ![album cover][album-cover] | **In the Name of God**<br />by _Rotting Christ_<br /> on The Heretics |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/c02e789ba04747c9960e1a8a309a4a01.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/619d3f0c16151ae4a68938aa50d57089.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
