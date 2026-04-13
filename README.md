@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Grim Sybil**<br />by _Jon Everist & Paradox Interactive_<br /> on Battletech (Original Game Soundtrack) |
+| ![album cover][album-cover] | **Hypermania**<br />by _Polaris_<br /> on The Death of Me [2020] |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/dc6056dcaaf0473055d278d491eb801b.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/7973c2694c1432d82bb468a984353549.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
