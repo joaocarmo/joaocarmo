@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Hypermania**<br />by _Polaris_<br /> on The Death of Me [2020] |
+| ![album cover][album-cover] | **Run Away**<br />by _Dark Divine_<br /> on Halloweentown |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/7973c2694c1432d82bb468a984353549.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/4515e198d9bcc6c2a32ff5359023a58a.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
