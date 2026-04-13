@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **In the Name of God**<br />by _Rotting Christ_<br /> on The Heretics |
+| ![album cover][album-cover] | **Grim Sybil**<br />by _Jon Everist & Paradox Interactive_<br /> on Battletech (Original Game Soundtrack) |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/619d3f0c16151ae4a68938aa50d57089.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/dc6056dcaaf0473055d278d491eb801b.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
