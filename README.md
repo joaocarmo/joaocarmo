@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Shadow Shaker**<br />by _The Heavy Eyes_<br /> on He Dreams Of Lions |
+| ![album cover][album-cover] | **In Truth Divided**<br />by _Dark Tranquillity_<br /> on Moment |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/f71cb77d46b68dc319e851284a88c6ec.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/4ef447c4fd6f9e2ea55afbbb6ad79365.png
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
