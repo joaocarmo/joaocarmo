@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Run Away**<br />by _Dark Divine_<br /> on Halloweentown |
+| ![album cover][album-cover] | **Call of the Carnyx**<br />by _Saor_<br /> on Origins |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/4515e198d9bcc6c2a32ff5359023a58a.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/058dbbfd661d81156272143abf9f6d1a.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
