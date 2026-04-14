@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Call of the Carnyx**<br />by _Saor_<br /> on Origins |
+| ![album cover][album-cover] | **Shadow Shaker**<br />by _The Heavy Eyes_<br /> on He Dreams Of Lions |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/058dbbfd661d81156272143abf9f6d1a.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/f71cb77d46b68dc319e851284a88c6ec.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
