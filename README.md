@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **BOUND TO FALL**<br />by _Gjenferd_<br /> on Black Smoke Rising |
+| ![album cover][album-cover] | **When Things Explode**<br />by _UNKLE_<br /> on War Stories [2022] |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/ec67b5915885ea6b1562801a27ba4db8.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/948dd51ea6044a29bb7cd93527c4f909.png
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
