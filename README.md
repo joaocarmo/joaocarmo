@@ -18,7 +18,7 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Crimson Rain**<br />by _Gjenferd_<br /> on Black Smoke Rising |
+| ![album cover][album-cover] | **BOUND TO FALL**<br />by _Gjenferd_<br /> on Black Smoke Rising |
 
 <!-- References -->
 
