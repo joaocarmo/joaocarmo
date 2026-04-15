@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **In Truth Divided**<br />by _Dark Tranquillity_<br /> on Moment |
+| ![album cover][album-cover] | **Crimson Rain**<br />by _Gjenferd_<br /> on Black Smoke Rising |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/4ef447c4fd6f9e2ea55afbbb6ad79365.png
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/ec67b5915885ea6b1562801a27ba4db8.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
