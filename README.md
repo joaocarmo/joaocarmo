@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **When Things Explode**<br />by _UNKLE_<br /> on War Stories [2022] |
+| ![album cover][album-cover] | **Completely Frozen**<br />by _Ankor_<br /> on My Own Angel |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/948dd51ea6044a29bb7cd93527c4f909.png
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/795d3367087b4d8c827db6c1fa577ad2.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
