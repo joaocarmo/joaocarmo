@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Completely Frozen**<br />by _Ankor_<br /> on My Own Angel |
+| ![album cover][album-cover] | **when we were young**<br />by _Architects_<br /> on the classic symptoms of a broken spirit [2022] |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/795d3367087b4d8c827db6c1fa577ad2.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/a7ed01f18247082175daeaa5e30ad5ec.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
