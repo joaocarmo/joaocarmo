@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **when we were young**<br />by _Architects_<br /> on the classic symptoms of a broken spirit [2022] |
+| ![album cover][album-cover] | **Bloodfeather**<br />by _Highly Suspect_<br /> on Mister Asylum |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/a7ed01f18247082175daeaa5e30ad5ec.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/af288ef6ae6708886294885cf3ff0993.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
