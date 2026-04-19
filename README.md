@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **All Of This Is Fleeting**<br />by _Polaris_<br /> on The Death of Me [2020] |
+| ![album cover][album-cover] | **Saviour II**<br />by _Black Veil Brides_<br /> on The Mourning - EP |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/7973c2694c1432d82bb468a984353549.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/e2ddb7a8071a22e847363233586050cb.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
