@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Bloodfeather**<br />by _Highly Suspect_<br /> on Mister Asylum |
+| ![album cover][album-cover] | **All Of This Is Fleeting**<br />by _Polaris_<br /> on The Death of Me [2020] |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/af288ef6ae6708886294885cf3ff0993.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/7973c2694c1432d82bb468a984353549.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
