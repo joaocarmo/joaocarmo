@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Cold**<br />by _Omnium Gatherum_<br /> on The Burning Cold |
+| ![album cover][album-cover] | **Savior**<br />by _Black Lung_<br /> on Forever Beyond |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/328215484bfc7a7e6f0b9366c06b6bd1.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/559a82b3bf628fd09447169a8795adbc.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
