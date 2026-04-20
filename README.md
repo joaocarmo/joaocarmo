@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Saviour II**<br />by _Black Veil Brides_<br /> on The Mourning - EP |
+| ![album cover][album-cover] | **Cold**<br />by _Omnium Gatherum_<br /> on The Burning Cold |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/e2ddb7a8071a22e847363233586050cb.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/328215484bfc7a7e6f0b9366c06b6bd1.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
