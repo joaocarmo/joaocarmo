@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **To The Light (Japanese Bonus Track)**<br />by _Imminence_<br /> on Turn the Light On (Deluxe Edition) |
+| ![album cover][album-cover] | **Buried In Jade**<br />by _Thousand Below_<br /> on Buried In Jade |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/0da52c3332e92d56f5154dc48cc2d4d1.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/d5156ee4f4b9f85508dd7b236d95d142.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
