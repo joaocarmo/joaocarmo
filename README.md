@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Savior**<br />by _Black Lung_<br /> on Forever Beyond |
+| ![album cover][album-cover] | **To The Light (Japanese Bonus Track)**<br />by _Imminence_<br /> on Turn the Light On (Deluxe Edition) |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/559a82b3bf628fd09447169a8795adbc.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/0da52c3332e92d56f5154dc48cc2d4d1.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
