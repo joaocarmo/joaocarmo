@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Buried In Jade**<br />by _Thousand Below_<br /> on Buried In Jade |
+| ![album cover][album-cover] | **Nothing Left**<br />by _Asking Alexandria_<br /> on Where Do We Go From Here? [2023] |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/d5156ee4f4b9f85508dd7b236d95d142.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/6051147b4344ffd0c611c1a296e554f5.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
