@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **No More Secrets**<br />by _Papa Roach_<br /> on The Paramour Sessions (Bonus Track Version) |
+| ![album cover][album-cover] | **With Autumn I'll Surrender**<br />by _Harakiri for the Sky_<br /> on Keep Me Longing |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/b5122c898ac38145318568f14833d4d9.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/7371c2736a299b5c9fb5c1ab30242554.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
