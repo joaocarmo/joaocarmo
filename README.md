@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **There’s Fear In Letting Go**<br />by _I Prevail_<br /> on TRUE POWER (EXPANDED) |
+| ![album cover][album-cover] | **No More Secrets**<br />by _Papa Roach_<br /> on The Paramour Sessions (Bonus Track Version) |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/4a79f0ef17e7ccc0fa8bb487c9a6d303.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/b5122c898ac38145318568f14833d4d9.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
