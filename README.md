@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Nothing Left**<br />by _Asking Alexandria_<br /> on Where Do We Go From Here? [2023] |
+| ![album cover][album-cover] | **There’s Fear In Letting Go**<br />by _I Prevail_<br /> on TRUE POWER (EXPANDED) |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/6051147b4344ffd0c611c1a296e554f5.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/4a79f0ef17e7ccc0fa8bb487c9a6d303.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
