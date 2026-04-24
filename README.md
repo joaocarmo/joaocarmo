@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Colossus**<br />by _Borknagar_<br /> on Quintessence |
+| ![album cover][album-cover] | **Spread Like Wildfire**<br />by _Gjenferd_<br /> on Black Smoke Rising |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/061f8e43b12f49f7ab60284fd813b72d.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/ec67b5915885ea6b1562801a27ba4db8.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
