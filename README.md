@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **With Autumn I'll Surrender**<br />by _Harakiri for the Sky_<br /> on Keep Me Longing |
+| ![album cover][album-cover] | **Colossus**<br />by _Borknagar_<br /> on Quintessence |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/7371c2736a299b5c9fb5c1ab30242554.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/061f8e43b12f49f7ab60284fd813b72d.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
