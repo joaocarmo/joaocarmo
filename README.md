@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Spread Like Wildfire**<br />by _Gjenferd_<br /> on Black Smoke Rising |
+| ![album cover][album-cover] | **Shipwrecked!**<br />by _Enter Shikari_<br /> on Lose Your Self |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/ec67b5915885ea6b1562801a27ba4db8.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/ebd17f9c3f5446ec8cbba2c5d2860d94.png
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
