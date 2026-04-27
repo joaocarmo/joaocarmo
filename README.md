@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Shipwrecked!**<br />by _Enter Shikari_<br /> on Lose Your Self |
+| ![album cover][album-cover] | **Crash (feat. Jason Aalon Butler)**<br />by _The Bloody Beetroots_<br /> on The Great Electronic Swindle |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/ebd17f9c3f5446ec8cbba2c5d2860d94.png
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/153ece21f8f25ecabc30a7dd28427a30.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
