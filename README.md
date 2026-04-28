@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Crash (feat. Jason Aalon Butler)**<br />by _The Bloody Beetroots_<br /> on The Great Electronic Swindle |
+| ![album cover][album-cover] | **Remember We Die**<br />by _Gemini Syndrome_<br /> on Memento Mori |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/153ece21f8f25ecabc30a7dd28427a30.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/258ecc1b3e90a7f9e7da78607f2cc8dc.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
