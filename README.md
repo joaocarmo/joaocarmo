@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Remember We Die**<br />by _Gemini Syndrome_<br /> on Memento Mori |
+| ![album cover][album-cover] | **Look What You Made Me Do**<br />by _The Animal In Me_<br /> on Look What You Made Me Do - Single |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/258ecc1b3e90a7f9e7da78607f2cc8dc.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/7b298f442037026c34d4c4788473b5f0.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
