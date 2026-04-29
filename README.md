@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Look What You Made Me Do**<br />by _The Animal In Me_<br /> on Look What You Made Me Do - Single |
+| ![album cover][album-cover] | **Giant’s Eternal Sleep**<br />by _Grima_<br /> on Frostbitten |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/7b298f442037026c34d4c4788473b5f0.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/364206945d960d62dc9b4988d13c630f.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
