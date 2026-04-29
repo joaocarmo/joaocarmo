@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Too Late for Goodbyes (feat. Svalbard)**<br />by _Harakiri for the Sky_<br /> on Scorched Earth [2025] |
+| ![album cover][album-cover] | **Bored to Death**<br />by _blink-182_<br /> on California [2025] |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/b60815523bf392fa759fe69a6bf55ed2.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/ddb5e467f13871890917190a6d439597.png
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
