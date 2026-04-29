@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Giant’s Eternal Sleep**<br />by _Grima_<br /> on Frostbitten |
+| ![album cover][album-cover] | **Too Late for Goodbyes (feat. Svalbard)**<br />by _Harakiri for the Sky_<br /> on Scorched Earth [2025] |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/364206945d960d62dc9b4988d13c630f.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/b60815523bf392fa759fe69a6bf55ed2.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
