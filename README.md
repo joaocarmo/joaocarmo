@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **The Only Exception**<br />by _Paramore_<br /> on brand new eyes [2021] |
+| ![album cover][album-cover] | **Come What May (feat. Tim Charles)**<br />by _Imminence & Ne Obliviscaris_<br /> on The Return of The Black |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/8935ea2d777c8f2f5f3c7a8f521ea9fb.png
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/254cb7247506f7081eafb0cfb9fb2cac.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
