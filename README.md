@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Come What May (feat. Tim Charles)**<br />by _Imminence & Ne Obliviscaris_<br /> on The Return of The Black |
+| ![album cover][album-cover] | **The Heretic Prevails**<br />by _Shadow of Intent_<br /> on Reclaimer |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/254cb7247506f7081eafb0cfb9fb2cac.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/349e019f09943ba1913c271ecb97ade9.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
