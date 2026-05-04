@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **The Heretic Prevails**<br />by _Shadow of Intent_<br /> on Reclaimer |
+| ![album cover][album-cover] | **Fashionably Late**<br />by _Falling in Reverse_<br /> on Fashionably Late (Deluxe Edition) [2022] |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/349e019f09943ba1913c271ecb97ade9.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/171c490b353d4d359df7625e06808b50.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
