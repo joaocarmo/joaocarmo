@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Fashionably Late**<br />by _Falling in Reverse_<br /> on Fashionably Late (Deluxe Edition) [2022] |
+| ![album cover][album-cover] | **Heaven (feat. Halocene, Kristina Schiano & Anna Sentina)**<br />by _Cole Rolland_<br /> on Heaven (feat. Halocene, Kristina Schiano & Anna Sentina) - Single |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/171c490b353d4d359df7625e06808b50.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
