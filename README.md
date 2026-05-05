@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Heaven (feat. Halocene, Kristina Schiano & Anna Sentina)**<br />by _Cole Rolland_<br /> on Heaven (feat. Halocene, Kristina Schiano & Anna Sentina) - Single |
+| ![album cover][album-cover] | **Still Waiting**<br />by _Sum 41_<br /> on Does This Look Infected? [2022] |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/8cc5445f76356b5bf3baba0f1b57ac4b.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
