@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **ONE MORE TIME**<br />by _blink-182_<br /> on ONE MORE TIME... PART-2 [2025] |
+| ![album cover][album-cover] | **Crucify Me (feat. Lights)**<br />by _Bring Me the Horizon_<br /> on There Is A Hell Believe Me I've Seen It. There Is A Heaven Let's Keep It A Secret [2025] |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/1196ff89b4332fe491fbc42ebc7b239a.png
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/b3d90dbf2be77957d92d5226e52a6453.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
