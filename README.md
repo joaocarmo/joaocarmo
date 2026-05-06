@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Crucify Me (feat. Lights)**<br />by _Bring Me the Horizon_<br /> on There Is A Hell Believe Me I've Seen It. There Is A Heaven Let's Keep It A Secret [2025] |
+| ![album cover][album-cover] | **Calm Down**<br />by _All Time Low_<br /> on Tell Me I'm Alive [2023] |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/b3d90dbf2be77957d92d5226e52a6453.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/6ce4e3d6681aabe457cea5faaa8e1942.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
