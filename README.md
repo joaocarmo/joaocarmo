@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Still Waiting**<br />by _Sum 41_<br /> on Does This Look Infected? [2022] |
+| ![album cover][album-cover] | **ONE MORE TIME**<br />by _blink-182_<br /> on ONE MORE TIME... PART-2 [2025] |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/8cc5445f76356b5bf3baba0f1b57ac4b.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/1196ff89b4332fe491fbc42ebc7b239a.png
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
