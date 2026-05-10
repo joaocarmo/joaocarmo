@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **In Waves**<br />by _Trivium_<br /> on In Waves [2013] |
+| ![album cover][album-cover] | **Deathgrip**<br />by _Fit For A King_<br /> on Deathgrip |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/be3fabce121340c5bee823970d48c04d.png
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/75be5c78e9cfbb5d4039282ed88480d0.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
