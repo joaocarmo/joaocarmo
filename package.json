@@ -28,15 +28,15 @@
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
-    "dotenv": "^17.4.1",
+    "@types/node": "^24.12.3",
+    "dotenv": "^17.4.2",
     "replace-in-file": "^8.4.0",
     "tsx": "^4.21.0",
-    "typescript": "^6.0.2"
+    "typescript": "^6.0.3"
   },
   "devDependencies": {
     "@tsconfig/node24": "^24.0.4",
-    "@types/node": "^25.6.0",
-    "prettier": "^3.8.2"
+    "prettier": "^3.8.3"
   },
   "packageManager": "pnpm@11.0.9+sha512.34ce82e6780233cf9cad8685029a8f81d2e06196c5a9bad98879f7424940c6817c4e4524fb7d38b8553ceed48b9758b8ebaf1abd3600c232c4c8cf7366086f38",
   "pnpm": {
