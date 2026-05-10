@@ -16,8 +16,8 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                  |
-| --------------------------- | ----------------------------------------------------------------- |
+| Recently                    | Last listened to                                                       |
+| --------------------------- | ---------------------------------------------------------------------- |
 | ![album cover][album-cover] | **Calm Down**<br />by _All Time Low_<br /> on Tell Me I'm Alive [2023] |
 
 <!-- References -->
