@@ -16,13 +16,13 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                       |
-| --------------------------- | ---------------------------------------------------------------------- |
-| ![album cover][album-cover] | **Calm Down**<br />by _All Time Low_<br /> on Tell Me I'm Alive [2023] |
+| Recently                    | Last listened to                                                  |
+| --------------------------- | ----------------------------------------------------------------- |
+| ![album cover][album-cover] | **Disconnected**<br />by _Face to Face_<br /> on Don't Turn Away [2017] |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/6ce4e3d6681aabe457cea5faaa8e1942.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/c287c51d91844d60cdfedace76c70767.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
