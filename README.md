@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Disconnected**<br />by _Face to Face_<br /> on Don't Turn Away [2017] |
+| ![album cover][album-cover] | **In Waves**<br />by _Trivium_<br /> on In Waves [2013] |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/c287c51d91844d60cdfedace76c70767.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/be3fabce121340c5bee823970d48c04d.png
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
