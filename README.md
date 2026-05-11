@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **Deathgrip**<br />by _Fit For A King_<br /> on Deathgrip |
+| ![album cover][album-cover] | **The Worst In Me**<br />by _Bad Omens_<br /> on Bad Omens [2023] |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/75be5c78e9cfbb5d4039282ed88480d0.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/f08c2e30eaf0adba4ef10c30bd62a026.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
