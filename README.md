@@ -18,11 +18,11 @@
 
 | Recently                    | Last listened to                                                  |
 | --------------------------- | ----------------------------------------------------------------- |
-| ![album cover][album-cover] | **The Worst In Me**<br />by _Bad Omens_<br /> on Bad Omens [2023] |
+| ![album cover][album-cover] | **House Of Cards**<br />by _The Amity Affliction_<br /> on House of Cards |
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/f08c2e30eaf0adba4ef10c30bd62a026.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/c1b694c99e71802f986e1946180e2cea.png
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
