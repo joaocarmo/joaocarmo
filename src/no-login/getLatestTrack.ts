@@ -20,7 +20,18 @@ const main = async () => {
     const track = await fetchRecentlyPlayed(apiKey, username)
     const parsedTrack = await parseLastFmTrack(track, apiKey)
 
-    const [{ hasChanged }] = await findAndReplace(parsedTrack, {
+    const timestamp = new Intl.DateTimeFormat('en-GB', {
+      day: '2-digit',
+      month: 'long',
+      year: 'numeric',
+      hour: '2-digit',
+      minute: '2-digit',
+      hour12: false,
+      timeZone: 'UTC',
+      timeZoneName: 'short',
+    }).format(new Date())
+
+    const [{ hasChanged }] = await findAndReplace(parsedTrack, timestamp, {
       files: [readmeFile],
     })
 

@@ -7,6 +7,7 @@ interface FROptions {
 
 export const findAndReplace = (
   parsedTrack: ParsedTrack,
+  timestamp: string,
   options: FROptions,
 ) => {
   const { artist, title, album, image, released } = parsedTrack
@@ -16,8 +17,16 @@ export const findAndReplace = (
     '{{album}}',
     '{{image}}',
     '{{released}}',
+    '{{timestamp}}',
   ]
-  const to = [artist, title, album, image, released ? ` [${released}]` : '']
+  const to = [
+    artist,
+    title,
+    album,
+    image,
+    released ? ` [${released}]` : '',
+    timestamp,
+  ]
 
   return replaceInFile({ ...options, from, to })
 }
