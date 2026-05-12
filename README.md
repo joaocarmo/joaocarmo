@@ -16,8 +16,8 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                  |
-| --------------------------- | ----------------------------------------------------------------- |
+| Recently                    | Last listened to                                                          |
+| --------------------------- | ------------------------------------------------------------------------- |
 | ![album cover][album-cover] | **House Of Cards**<br />by _The Amity Affliction_<br /> on House of Cards |
 
 <!-- References -->

@@ -52,6 +52,9 @@ jobs:
       - name: Replace the README.md with the latest track
         run: cp README.template.md README.md
 
+      - name: Format the README.md
+        run: pnpm exec prettier --write README.md
+
       - name: Commit and push the updated README.md
         uses: EndBug/add-and-commit@v10
         with:
