@@ -20,7 +20,7 @@
 | --------------------------- | ----------------------------------------------------------------- |
 | ![album cover][album-cover] | **{{title}}**<br />by _{{artist}}_<br /> on {{album}}{{released}} |
 
-<sub>_Last updated at {{timestamp}}_</sub>
+<sub>_Last updated: {{timestamp}}_</sub>
 
 <!-- References -->
 
