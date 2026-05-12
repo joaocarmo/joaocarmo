@@ -16,13 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                          |
-| --------------------------- | ------------------------------------------------------------------------- |
-| ![album cover][album-cover] | **House Of Cards**<br />by _The Amity Affliction_<br /> on House of Cards |
+| Recently                    | Last listened to                               |
+| --------------------------- | ---------------------------------------------- |
+| ![album cover][album-cover] | **Construct**<br />by _Sevendust_<br /> on One |
+
+<sub>_Last updated: 12 May 2026 at 22:07 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/c1b694c99e71802f986e1946180e2cea.png
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/79f5f23e22fc558323dae1c16ec55682.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
