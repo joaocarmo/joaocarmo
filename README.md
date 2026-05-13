@@ -20,7 +20,7 @@
 | --------------------------- | -------------------------------------------------------------------------- |
 | ![album cover][album-cover] | **What the Dead Men Say**<br />by _Trivium_<br /> on What The Dead Men Say |
 
-<sub>_Last updated: 13 May 2026 at 00:54 UTC_</sub>
+<sub>_Last updated: 13 May 2026 at 07:11 UTC_</sub>
 
 <!-- References -->
 
