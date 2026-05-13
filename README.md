@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                               |
-| --------------------------- | ---------------------------------------------- |
-| ![album cover][album-cover] | **Construct**<br />by _Sevendust_<br /> on One |
+| Recently                    | Last listened to                                                           |
+| --------------------------- | -------------------------------------------------------------------------- |
+| ![album cover][album-cover] | **What the Dead Men Say**<br />by _Trivium_<br /> on What The Dead Men Say |
 
-<sub>_Last updated: 12 May 2026 at 22:07 UTC_</sub>
+<sub>_Last updated: 13 May 2026 at 00:54 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/79f5f23e22fc558323dae1c16ec55682.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/2d6e4cca65e5d4631c4b4f142fa1a60d.png
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
