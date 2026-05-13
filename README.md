@@ -20,7 +20,7 @@
 | --------------------------- | ------------------------------------------------------------------------------------- |
 | ![album cover][album-cover] | **This Fire**<br />by _Killswitch Engage_<br /> on As Daylight Dies (Special Edition) |
 
-<sub>_Last updated: 13 May 2026 at 12:52 UTC_</sub>
+<sub>_Last updated: 13 May 2026 at 18:45 UTC_</sub>
 
 <!-- References -->
 
