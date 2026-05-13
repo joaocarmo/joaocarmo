@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                           |
-| --------------------------- | -------------------------------------------------------------------------- |
-| ![album cover][album-cover] | **What the Dead Men Say**<br />by _Trivium_<br /> on What The Dead Men Say |
+| Recently                    | Last listened to                                                                      |
+| --------------------------- | ------------------------------------------------------------------------------------- |
+| ![album cover][album-cover] | **This Fire**<br />by _Killswitch Engage_<br /> on As Daylight Dies (Special Edition) |
 
-<sub>_Last updated: 13 May 2026 at 07:11 UTC_</sub>
+<sub>_Last updated: 13 May 2026 at 12:52 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/2d6e4cca65e5d4631c4b4f142fa1a60d.png
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/dcf074fa4838914841e5b70357aa16a7.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
