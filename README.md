@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                                      |
-| --------------------------- | ------------------------------------------------------------------------------------- |
-| ![album cover][album-cover] | **This Fire**<br />by _Killswitch Engage_<br /> on As Daylight Dies (Special Edition) |
+| Recently                    | Last listened to                                                                                     |
+| --------------------------- | ---------------------------------------------------------------------------------------------------- |
+| ![album cover][album-cover] | **Crawl From Under**<br />by _Destroy Rebuild Until God Shows (D.R.U.G.S.)_<br /> on Until God Shows |
 
-<sub>_Last updated: 13 May 2026 at 18:45 UTC_</sub>
+<sub>_Last updated: 14 May 2026 at 00:56 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/dcf074fa4838914841e5b70357aa16a7.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/46f75796dc7d0a9d70dc4c005847b60e.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
