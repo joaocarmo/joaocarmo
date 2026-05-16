@@ -20,7 +20,7 @@
 | --------------------------- | ----------------------------------------------------------------------------------------- |
 | ![album cover][album-cover] | **Shadow of the Day**<br />by _Linkin Park_<br /> on Minutes to Midnight (Deluxe Edition) |
 
-<sub>_Last updated: 16 May 2026 at 00:50 UTC_</sub>
+<sub>_Last updated: 16 May 2026 at 06:54 UTC_</sub>
 
 <!-- References -->
 
