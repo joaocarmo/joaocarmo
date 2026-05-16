@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                                                     |
-| --------------------------- | ---------------------------------------------------------------------------------------------------- |
-| ![album cover][album-cover] | **Crawl From Under**<br />by _Destroy Rebuild Until God Shows (D.R.U.G.S.)_<br /> on Until God Shows |
+| Recently                    | Last listened to                                                                          |
+| --------------------------- | ----------------------------------------------------------------------------------------- |
+| ![album cover][album-cover] | **Shadow of the Day**<br />by _Linkin Park_<br /> on Minutes to Midnight (Deluxe Edition) |
 
-<sub>_Last updated: 15 May 2026 at 18:39 UTC_</sub>
+<sub>_Last updated: 16 May 2026 at 00:50 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/46f75796dc7d0a9d70dc4c005847b60e.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/d98eebfbd4ceed10a0f7896ef8589326.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
