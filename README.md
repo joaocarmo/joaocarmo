@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                                          |
-| --------------------------- | ----------------------------------------------------------------------------------------- |
-| ![album cover][album-cover] | **Shadow of the Day**<br />by _Linkin Park_<br /> on Minutes to Midnight (Deluxe Edition) |
+| Recently                    | Last listened to                                                                    |
+| --------------------------- | ----------------------------------------------------------------------------------- |
+| ![album cover][album-cover] | **The Silence**<br />by _Mayday Parade_<br /> on Anywhere But Here (Deluxe Version) |
 
-<sub>_Last updated: 16 May 2026 at 06:54 UTC_</sub>
+<sub>_Last updated: 16 May 2026 at 12:28 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/d98eebfbd4ceed10a0f7896ef8589326.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/d82df1dbe0914c08ae73ff660a98a81f.png
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
