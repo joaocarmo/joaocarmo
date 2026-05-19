@@ -20,7 +20,7 @@
 | --------------------------- | ----------------------------------------------------------------------------------- |
 | ![album cover][album-cover] | **The Silence**<br />by _Mayday Parade_<br /> on Anywhere But Here (Deluxe Version) |
 
-<sub>_Last updated: 19 May 2026 at 07:22 UTC_</sub>
+<sub>_Last updated: 19 May 2026 at 13:16 UTC_</sub>
 
 <!-- References -->
 
