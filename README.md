@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                                    |
-| --------------------------- | ----------------------------------------------------------------------------------- |
-| ![album cover][album-cover] | **The Silence**<br />by _Mayday Parade_<br /> on Anywhere But Here (Deluxe Version) |
+| Recently                    | Last listened to                                               |
+| --------------------------- | -------------------------------------------------------------- |
+| ![album cover][album-cover] | **The Void**<br />by _Parkway Drive_<br /> on Reverence [2022] |
 
-<sub>_Last updated: 19 May 2026 at 18:44 UTC_</sub>
+<sub>_Last updated: 20 May 2026 at 00:59 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/d82df1dbe0914c08ae73ff660a98a81f.png
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/de05950dfde422c72653e9b2a57e5460.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
