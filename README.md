@@ -20,7 +20,7 @@
 | --------------------------- | -------------------------------------------------------------- |
 | ![album cover][album-cover] | **The Void**<br />by _Parkway Drive_<br /> on Reverence [2022] |
 
-<sub>_Last updated: 20 May 2026 at 13:01 UTC_</sub>
+<sub>_Last updated: 20 May 2026 at 18:55 UTC_</sub>
 
 <!-- References -->
 
