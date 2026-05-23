@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                               |
-| --------------------------- | -------------------------------------------------------------- |
-| ![album cover][album-cover] | **The Void**<br />by _Parkway Drive_<br /> on Reverence [2022] |
+| Recently                    | Last listened to                                                   |
+| --------------------------- | ------------------------------------------------------------------ |
+| ![album cover][album-cover] | **Blindfolded**<br />by _Lonely Kamel_<br /> on Blues for the Dead |
 
-<sub>_Last updated: 23 May 2026 at 12:27 UTC_</sub>
+<sub>_Last updated: 23 May 2026 at 18:26 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/de05950dfde422c72653e9b2a57e5460.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/eb660c0e48308d5416e68586f4d846cf.png
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
