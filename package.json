@@ -28,7 +28,7 @@
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
-    "@types/node": "^24.12.3",
+    "@types/node": "^24.12.4",
     "dotenv": "^17.4.2",
     "replace-in-file": "^8.4.0",
     "tsx": "^4.22.3",
