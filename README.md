@@ -20,7 +20,7 @@
 | --------------------------- | ------------------------------------------------------------------ |
 | ![album cover][album-cover] | **Blindfolded**<br />by _Lonely Kamel_<br /> on Blues for the Dead |
 
-<sub>_Last updated: 25 May 2026 at 07:44 UTC_</sub>
+<sub>_Last updated: 25 May 2026 at 13:18 UTC_</sub>
 
 <!-- References -->
 
