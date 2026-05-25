@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                   |
-| --------------------------- | ------------------------------------------------------------------ |
-| ![album cover][album-cover] | **Blindfolded**<br />by _Lonely Kamel_<br /> on Blues for the Dead |
+| Recently                    | Last listened to                                          |
+| --------------------------- | --------------------------------------------------------- |
+| ![album cover][album-cover] | **Gem Shards**<br />by _MUST DIE!_<br /> on Death & Magic |
 
-<sub>_Last updated: 25 May 2026 at 13:18 UTC_</sub>
+<sub>_Last updated: 25 May 2026 at 18:39 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/eb660c0e48308d5416e68586f4d846cf.png
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/dc291f95e72bcccf17fbb19d676ca659.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
