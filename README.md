@@ -20,7 +20,7 @@
 | --------------------------- | --------------------------------------------------------- |
 | ![album cover][album-cover] | **Gem Shards**<br />by _MUST DIE!_<br /> on Death & Magic |
 
-<sub>_Last updated: 28 May 2026 at 18:58 UTC_</sub>
+<sub>_Last updated: 29 May 2026 at 01:01 UTC_</sub>
 
 <!-- References -->
 
