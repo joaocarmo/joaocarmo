@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                          |
-| --------------------------- | --------------------------------------------------------- |
-| ![album cover][album-cover] | **Gem Shards**<br />by _MUST DIE!_<br /> on Death & Magic |
+| Recently                    | Last listened to                                                                 |
+| --------------------------- | -------------------------------------------------------------------------------- |
+| ![album cover][album-cover] | **We Love You**<br />by _Avenged Sevenfold_<br /> on Life Is But a Dream… [2024] |
 
-<sub>_Last updated: 03 June 2026 at 07:51 UTC_</sub>
+<sub>_Last updated: 03 June 2026 at 13:48 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/dc291f95e72bcccf17fbb19d676ca659.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/2e3f1f0d174659637c82693d9a8d37e6.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
