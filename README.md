@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                                 |
-| --------------------------- | -------------------------------------------------------------------------------- |
-| ![album cover][album-cover] | **We Love You**<br />by _Avenged Sevenfold_<br /> on Life Is But a Dream… [2024] |
+| Recently                    | Last listened to                                                                                                             |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| ![album cover][album-cover] | **They Perched on Their Stilts, Pointing and Daring Me to Break Custom**<br />by _Saosin_<br /> on Translating The Name - EP |
 
-<sub>_Last updated: 03 June 2026 at 13:48 UTC_</sub>
+<sub>_Last updated: 03 June 2026 at 19:27 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/2e3f1f0d174659637c82693d9a8d37e6.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/ee034ea1af9242aac2833557ba473bd4.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
