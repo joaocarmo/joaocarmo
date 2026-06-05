@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                                                                             |
-| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| ![album cover][album-cover] | **They Perched on Their Stilts, Pointing and Daring Me to Break Custom**<br />by _Saosin_<br /> on Translating The Name - EP |
+| Recently                    | Last listened to                                                 |
+| --------------------------- | ---------------------------------------------------------------- |
+| ![album cover][album-cover] | **One of Us**<br />by _Mystery Skulls_<br /> on One of Us [2026] |
 
-<sub>_Last updated: 05 June 2026 at 13:10 UTC_</sub>
+<sub>_Last updated: 05 June 2026 at 18:45 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/ee034ea1af9242aac2833557ba473bd4.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/b0252fe5687b76ff636430b1976250f7.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
