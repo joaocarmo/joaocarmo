@@ -20,7 +20,7 @@
 | --------------------------- | ---------------------------------------------------------------- |
 | ![album cover][album-cover] | **One of Us**<br />by _Mystery Skulls_<br /> on One of Us [2026] |
 
-<sub>_Last updated: 06 June 2026 at 18:33 UTC_</sub>
+<sub>_Last updated: 07 June 2026 at 01:04 UTC_</sub>
 
 <!-- References -->
 
