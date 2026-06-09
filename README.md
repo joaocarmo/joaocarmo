@@ -20,7 +20,7 @@
 | --------------------------- | ------------------------------------------------------------------------------- |
 | ![album cover][album-cover] | **Lose My Life**<br />by _Papercut Massacre_<br /> on If These Scars Could Talk |
 
-<sub>_Last updated: 08 June 2026 at 18:56 UTC_</sub>
+<sub>_Last updated: 09 June 2026 at 00:57 UTC_</sub>
 
 <!-- References -->
 
