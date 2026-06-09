@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                                         |
-| --------------------------- | ---------------------------------------------------------------------------------------- |
-| ![album cover][album-cover] | **Day of the Dead**<br />by _Hollywood Undead_<br /> on Day of the Dead (Deluxe Edition) |
+| Recently                    | Last listened to                                             |
+| --------------------------- | ------------------------------------------------------------ |
+| ![album cover][album-cover] | **Chaos**<br />by _Hollywood Undead_<br /> on CHAOS - Single |
 
-<sub>_Last updated: 09 June 2026 at 13:08 UTC_</sub>
+<sub>_Last updated: 09 June 2026 at 18:50 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/4ba909b5c7888019b374f91b780c813f.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/019cb02f7454d0f01dd66651996a79de.png
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
