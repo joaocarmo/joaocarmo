@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                                |
-| --------------------------- | ------------------------------------------------------------------------------- |
-| ![album cover][album-cover] | **Lose My Life**<br />by _Papercut Massacre_<br /> on If These Scars Could Talk |
+| Recently                    | Last listened to                                                                         |
+| --------------------------- | ---------------------------------------------------------------------------------------- |
+| ![album cover][album-cover] | **Day of the Dead**<br />by _Hollywood Undead_<br /> on Day of the Dead (Deluxe Edition) |
 
-<sub>_Last updated: 09 June 2026 at 07:23 UTC_</sub>
+<sub>_Last updated: 09 June 2026 at 13:08 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/68d7c3f4958636950605cc0f0892b02f.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/4ba909b5c7888019b374f91b780c813f.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
