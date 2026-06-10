@@ -20,7 +20,7 @@
 | --------------------------- | ------------------------------------------------------------ |
 | ![album cover][album-cover] | **Bad Moon**<br />by _Hollywood Undead_<br /> on Five [2019] |
 
-<sub>_Last updated: 10 June 2026 at 01:04 UTC_</sub>
+<sub>_Last updated: 10 June 2026 at 07:38 UTC_</sub>
 
 <!-- References -->
 
