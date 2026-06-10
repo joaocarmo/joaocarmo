@@ -20,7 +20,7 @@
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | ![album cover][album-cover] | **Pizza Homicide (feat. Nico Sallach & Electric Callboy)**<br />by _Samurai Pizza Cats_<br /> on You're Hellcome [2023] |
 
-<sub>_Last updated: 10 June 2026 at 13:20 UTC_</sub>
+<sub>_Last updated: 10 June 2026 at 19:00 UTC_</sub>
 
 <!-- References -->
 
