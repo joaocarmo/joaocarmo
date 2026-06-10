@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                             |
-| --------------------------- | ------------------------------------------------------------ |
-| ![album cover][album-cover] | **Bad Moon**<br />by _Hollywood Undead_<br /> on Five [2019] |
+| Recently                    | Last listened to                                                                                                        |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| ![album cover][album-cover] | **Pizza Homicide (feat. Nico Sallach & Electric Callboy)**<br />by _Samurai Pizza Cats_<br /> on You're Hellcome [2023] |
 
-<sub>_Last updated: 10 June 2026 at 07:38 UTC_</sub>
+<sub>_Last updated: 10 June 2026 at 13:20 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/f365ccd7cc862a8e9cb49584a5179b78.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/8f9a101f0bc2335f691f72e83b5e05bf.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
