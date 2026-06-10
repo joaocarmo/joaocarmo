@@ -18,13 +18,13 @@
 
 | Recently                    | Last listened to                                             |
 | --------------------------- | ------------------------------------------------------------ |
-| ![album cover][album-cover] | **Chaos**<br />by _Hollywood Undead_<br /> on CHAOS - Single |
+| ![album cover][album-cover] | **Bad Moon**<br />by _Hollywood Undead_<br /> on Five [2019] |
 
-<sub>_Last updated: 09 June 2026 at 18:50 UTC_</sub>
+<sub>_Last updated: 10 June 2026 at 01:04 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/019cb02f7454d0f01dd66651996a79de.png
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/f365ccd7cc862a8e9cb49584a5179b78.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
