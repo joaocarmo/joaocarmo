@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                         |
-| --------------------------- | ------------------------------------------------------------------------ |
-| ![album cover][album-cover] | **Insomnia**<br />by _Atreyu_<br /> on The Beautiful Dark of Life [2023] |
+| Recently                    | Last listened to                                                   |
+| --------------------------- | ------------------------------------------------------------------ |
+| ![album cover][album-cover] | **Lost and Broken**<br />by _Beyond Unbroken_<br /> on Destruction |
 
-<sub>_Last updated: 11 June 2026 at 13:29 UTC_</sub>
+<sub>_Last updated: 11 June 2026 at 19:06 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/9c586a482fa7fb040642dfe61f5fde8d.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/e3ab54c5c06a7c7bf1a3da379bd7cfca.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
