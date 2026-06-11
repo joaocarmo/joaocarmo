@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                                                                        |
-| --------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| ![album cover][album-cover] | **Pizza Homicide (feat. Nico Sallach & Electric Callboy)**<br />by _Samurai Pizza Cats_<br /> on You're Hellcome [2023] |
+| Recently                    | Last listened to                                                         |
+| --------------------------- | ------------------------------------------------------------------------ |
+| ![album cover][album-cover] | **Insomnia**<br />by _Atreyu_<br /> on The Beautiful Dark of Life [2023] |
 
-<sub>_Last updated: 11 June 2026 at 07:50 UTC_</sub>
+<sub>_Last updated: 11 June 2026 at 13:29 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/8f9a101f0bc2335f691f72e83b5e05bf.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/9c586a482fa7fb040642dfe61f5fde8d.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
