@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                 |
-| --------------------------- | ------------------------------------------------ |
-| ![album cover][album-cover] | **Tadka**<br />by _Bloodywood_<br /> on Nu Delhi |
+| Recently                    | Last listened to                                                           |
+| --------------------------- | -------------------------------------------------------------------------- |
+| ![album cover][album-cover] | **One More Night**<br />by _Flight Paths_<br /> on One More Night - Single |
 
-<sub>_Last updated: 12 June 2026 at 13:19 UTC_</sub>
+<sub>_Last updated: 12 June 2026 at 18:46 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/3827efee913940bf93d90c71af485912.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
