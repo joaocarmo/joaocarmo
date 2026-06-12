@@ -20,7 +20,7 @@
 | --------------------------- | ------------------------------------------------------------------ |
 | ![album cover][album-cover] | **Lost and Broken**<br />by _Beyond Unbroken_<br /> on Destruction |
 
-<sub>_Last updated: 12 June 2026 at 01:07 UTC_</sub>
+<sub>_Last updated: 12 June 2026 at 07:46 UTC_</sub>
 
 <!-- References -->
 
