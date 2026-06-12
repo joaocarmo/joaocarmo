@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                   |
-| --------------------------- | ------------------------------------------------------------------ |
-| ![album cover][album-cover] | **Lost and Broken**<br />by _Beyond Unbroken_<br /> on Destruction |
+| Recently                    | Last listened to                                 |
+| --------------------------- | ------------------------------------------------ |
+| ![album cover][album-cover] | **Tadka**<br />by _Bloodywood_<br /> on Nu Delhi |
 
-<sub>_Last updated: 12 June 2026 at 07:46 UTC_</sub>
+<sub>_Last updated: 12 June 2026 at 13:19 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/e3ab54c5c06a7c7bf1a3da379bd7cfca.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/3827efee913940bf93d90c71af485912.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
