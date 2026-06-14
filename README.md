@@ -20,7 +20,7 @@
 | --------------------------- | -------------------------------------------------------------------------- |
 | ![album cover][album-cover] | **One More Night**<br />by _Flight Paths_<br /> on One More Night - Single |
 
-<sub>_Last updated: 14 June 2026 at 12:47 UTC_</sub>
+<sub>_Last updated: 14 June 2026 at 18:36 UTC_</sub>
 
 <!-- References -->
 
