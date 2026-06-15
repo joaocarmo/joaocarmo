@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                    |
-| --------------------------- | --------------------------------------------------- |
-| ![album cover][album-cover] | **Nexus**<br />by _Joe Sua_<br /> on Nexus - Single |
+| Recently                    | Last listened to                                                                       |
+| --------------------------- | -------------------------------------------------------------------------------------- |
+| ![album cover][album-cover] | **Fur Cue**<br />by _Seether_<br /> on Holding Onto Strings Better Left To Fray [2019] |
 
-<sub>_Last updated: 15 June 2026 at 14:15 UTC_</sub>
+<sub>_Last updated: 15 June 2026 at 19:24 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/db9daae9c9b74fc59f1f0b5ad15fb534.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
