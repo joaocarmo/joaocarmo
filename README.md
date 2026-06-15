@@ -16,11 +16,11 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                           |
-| --------------------------- | -------------------------------------------------------------------------- |
-| ![album cover][album-cover] | **One More Night**<br />by _Flight Paths_<br /> on One More Night - Single |
+| Recently                    | Last listened to                                    |
+| --------------------------- | --------------------------------------------------- |
+| ![album cover][album-cover] | **Nexus**<br />by _Joe Sua_<br /> on Nexus - Single |
 
-<sub>_Last updated: 15 June 2026 at 08:12 UTC_</sub>
+<sub>_Last updated: 15 June 2026 at 14:15 UTC_</sub>
 
 <!-- References -->
 
