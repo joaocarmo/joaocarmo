@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                       |
-| --------------------------- | ---------------------------------------------------------------------- |
-| ![album cover][album-cover] | **6ª Feira (Um Seu Criado)**<br />by _GNR_<br /> on Do Lado Dos Cisnes |
+| Recently                    | Last listened to                                                                        |
+| --------------------------- | --------------------------------------------------------------------------------------- |
+| ![album cover][album-cover] | **It Comes from Within**<br />by _Honey for Petzi_<br /> on General Thoughts and Tastes |
 
-<sub>_Last updated: 16 June 2026 at 13:56 UTC_</sub>
+<sub>_Last updated: 16 June 2026 at 19:18 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/428b933e28d98cc476302c5a49860706.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/81c2f1c6f33a4adb8363fe0965c1b911.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
