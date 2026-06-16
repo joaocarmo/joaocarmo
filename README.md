@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                                       |
-| --------------------------- | -------------------------------------------------------------------------------------- |
-| ![album cover][album-cover] | **Fur Cue**<br />by _Seether_<br /> on Holding Onto Strings Better Left To Fray [2019] |
+| Recently                    | Last listened to                                                       |
+| --------------------------- | ---------------------------------------------------------------------- |
+| ![album cover][album-cover] | **6ª Feira (Um Seu Criado)**<br />by _GNR_<br /> on Do Lado Dos Cisnes |
 
-<sub>_Last updated: 16 June 2026 at 08:07 UTC_</sub>
+<sub>_Last updated: 16 June 2026 at 13:56 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/db9daae9c9b74fc59f1f0b5ad15fb534.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/428b933e28d98cc476302c5a49860706.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
