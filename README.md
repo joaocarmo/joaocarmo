@@ -20,7 +20,7 @@
 | --------------------------- | -------------------------------------------------------------------------------------- |
 | ![album cover][album-cover] | **Fur Cue**<br />by _Seether_<br /> on Holding Onto Strings Better Left To Fray [2019] |
 
-<sub>_Last updated: 15 June 2026 at 19:24 UTC_</sub>
+<sub>_Last updated: 16 June 2026 at 01:12 UTC_</sub>
 
 <!-- References -->
 
