@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                                        |
-| --------------------------- | --------------------------------------------------------------------------------------- |
-| ![album cover][album-cover] | **It Comes from Within**<br />by _Honey for Petzi_<br /> on General Thoughts and Tastes |
+| Recently                    | Last listened to                                                 |
+| --------------------------- | ---------------------------------------------------------------- |
+| ![album cover][album-cover] | **Ex-Mortis**<br />by _Nights Of Malice_<br /> on Chaos Exordium |
 
-<sub>_Last updated: 17 June 2026 at 08:01 UTC_</sub>
+<sub>_Last updated: 17 June 2026 at 13:24 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/81c2f1c6f33a4adb8363fe0965c1b911.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/c3d244edd5160be336ca1911a0b94bfc.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
