@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                 |
-| --------------------------- | ---------------------------------------------------------------- |
-| ![album cover][album-cover] | **Ex-Mortis**<br />by _Nights Of Malice_<br /> on Chaos Exordium |
+| Recently                    | Last listened to                                              |
+| --------------------------- | ------------------------------------------------------------- |
+| ![album cover][album-cover] | **Insomnia**<br />by _Devil's Cut_<br /> on Insomnia - Single |
 
-<sub>_Last updated: 18 June 2026 at 07:50 UTC_</sub>
+<sub>_Last updated: 18 June 2026 at 13:18 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/c3d244edd5160be336ca1911a0b94bfc.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
