@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                              |
-| --------------------------- | ------------------------------------------------------------- |
-| ![album cover][album-cover] | **Insomnia**<br />by _Devil's Cut_<br /> on Insomnia - Single |
+| Recently                    | Last listened to                                     |
+| --------------------------- | ---------------------------------------------------- |
+| ![album cover][album-cover] | **All In**<br />by _The LaFontaines_<br /> on Junior |
 
-<sub>_Last updated: 18 June 2026 at 13:18 UTC_</sub>
+<sub>_Last updated: 18 June 2026 at 18:54 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/9027740c31f365c0f432dfba17e5052d.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
