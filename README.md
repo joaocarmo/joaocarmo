@@ -20,7 +20,7 @@
 | --------------------------- | ---------------------------------------------------------------- |
 | ![album cover][album-cover] | **Ex-Mortis**<br />by _Nights Of Malice_<br /> on Chaos Exordium |
 
-<sub>_Last updated: 18 June 2026 at 01:05 UTC_</sub>
+<sub>_Last updated: 18 June 2026 at 07:50 UTC_</sub>
 
 <!-- References -->
 
