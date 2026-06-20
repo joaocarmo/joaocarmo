@@ -20,7 +20,7 @@
 | --------------------------- | ---------------------------------------------------- |
 | ![album cover][album-cover] | **All In**<br />by _The LaFontaines_<br /> on Junior |
 
-<sub>_Last updated: 20 June 2026 at 07:28 UTC_</sub>
+<sub>_Last updated: 20 June 2026 at 12:44 UTC_</sub>
 
 <!-- References -->
 
