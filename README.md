@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                     |
-| --------------------------- | ---------------------------------------------------- |
-| ![album cover][album-cover] | **All In**<br />by _The LaFontaines_<br /> on Junior |
+| Recently                    | Last listened to                                                          |
+| --------------------------- | ------------------------------------------------------------------------- |
+| ![album cover][album-cover] | **Vipera Berus**<br />by _Mammoth Volume_<br /> on A Single Book of Songs |
 
-<sub>_Last updated: 25 June 2026 at 07:20 UTC_</sub>
+<sub>_Last updated: 25 June 2026 at 12:54 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/9027740c31f365c0f432dfba17e5052d.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/039ea39029b94534c54e850bb6e7f882.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
