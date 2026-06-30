@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                          |
-| --------------------------- | ------------------------------------------------------------------------- |
-| ![album cover][album-cover] | **Vipera Berus**<br />by _Mammoth Volume_<br /> on A Single Book of Songs |
+| Recently                    | Last listened to                                                   |
+| --------------------------- | ------------------------------------------------------------------ |
+| ![album cover][album-cover] | **Play Dead**<br />by _Ice Nine Kills_<br /> on Play Dead - Single |
 
-<sub>_Last updated: 30 June 2026 at 07:26 UTC_</sub>
+<sub>_Last updated: 30 June 2026 at 12:49 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/039ea39029b94534c54e850bb6e7f882.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/03a661bce4193e899df50748ff3972c0.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
