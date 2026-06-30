@@ -20,7 +20,7 @@
 | --------------------------- | ------------------------------------------------------------------------- |
 | ![album cover][album-cover] | **Vipera Berus**<br />by _Mammoth Volume_<br /> on A Single Book of Songs |
 
-<sub>_Last updated: 30 June 2026 at 00:59 UTC_</sub>
+<sub>_Last updated: 30 June 2026 at 07:26 UTC_</sub>
 
 <!-- References -->
 
