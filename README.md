@@ -20,7 +20,7 @@
 | --------------------------- | ------------------------------------------------------------------ |
 | ![album cover][album-cover] | **Play Dead**<br />by _Ice Nine Kills_<br /> on Play Dead - Single |
 
-<sub>_Last updated: 01 July 2026 at 07:39 UTC_</sub>
+<sub>_Last updated: 01 July 2026 at 13:04 UTC_</sub>
 
 <!-- References -->
 
