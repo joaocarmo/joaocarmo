@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                   |
-| --------------------------- | ------------------------------------------------------------------ |
-| ![album cover][album-cover] | **Play Dead**<br />by _Ice Nine Kills_<br /> on Play Dead - Single |
+| Recently                    | Last listened to                                                              |
+| --------------------------- | ----------------------------------------------------------------------------- |
+| ![album cover][album-cover] | **Sleepwalking**<br />by _Bring Me the Horizon_<br /> on Sempiternal (Deluxe) |
 
-<sub>_Last updated: 01 July 2026 at 13:04 UTC_</sub>
+<sub>_Last updated: 01 July 2026 at 18:45 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/03a661bce4193e899df50748ff3972c0.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/962960b0012e4f28cf95b1f4213a6395.png
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
