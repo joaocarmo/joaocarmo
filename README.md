@@ -20,7 +20,7 @@
 | --------------------------- | ----------------------------------------------------------------------------- |
 | ![album cover][album-cover] | **Sleepwalking**<br />by _Bring Me the Horizon_<br /> on Sempiternal (Deluxe) |
 
-<sub>_Last updated: 19 July 2026 at 02:53 UTC_</sub>
+<sub>_Last updated: 19 July 2026 at 08:22 UTC_</sub>
 
 <!-- References -->
 
