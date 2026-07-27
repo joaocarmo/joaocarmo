@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                         |
-| --------------------------- | -------------------------------------------------------- |
-| ![album cover][album-cover] | **GOTHIKA**<br />by _Void of Vision_<br /> on CHRONICLES |
+| Recently                    | Last listened to                                                      |
+| --------------------------- | --------------------------------------------------------------------- |
+| ![album cover][album-cover] | **Night Terrors**<br />by _Currents_<br /> on The Place I Feel Safest |
 
-<sub>_Last updated: 27 July 2026 at 14:39 UTC_</sub>
+<sub>_Last updated: 27 July 2026 at 19:36 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/002e7a9b72a07d24a89320ae8fd7a258.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/ee51c777109aae66448ac5cbdcf6c408.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
