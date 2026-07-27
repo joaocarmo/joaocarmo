@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                              |
-| --------------------------- | ----------------------------------------------------------------------------- |
-| ![album cover][album-cover] | **Sleepwalking**<br />by _Bring Me the Horizon_<br /> on Sempiternal (Deluxe) |
+| Recently                    | Last listened to                                         |
+| --------------------------- | -------------------------------------------------------- |
+| ![album cover][album-cover] | **GOTHIKA**<br />by _Void of Vision_<br /> on CHRONICLES |
 
-<sub>_Last updated: 27 July 2026 at 09:55 UTC_</sub>
+<sub>_Last updated: 27 July 2026 at 14:39 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/962960b0012e4f28cf95b1f4213a6395.png
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/002e7a9b72a07d24a89320ae8fd7a258.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
