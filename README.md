@@ -20,7 +20,7 @@
 | --------------------------- | --------------------------------------------------------------------- |
 | ![album cover][album-cover] | **Red Clouds**<br />by _The Word Alive_<br /> on Violent Noise [2020] |
 
-<sub>_Last updated: 28 July 2026 at 02:41 UTC_</sub>
+<sub>_Last updated: 28 July 2026 at 08:36 UTC_</sub>
 
 <!-- References -->
 
