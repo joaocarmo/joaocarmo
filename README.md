@@ -18,13 +18,13 @@
 
 | Recently                    | Last listened to                                                      |
 | --------------------------- | --------------------------------------------------------------------- |
-| ![album cover][album-cover] | **Night Terrors**<br />by _Currents_<br /> on The Place I Feel Safest |
+| ![album cover][album-cover] | **Red Clouds**<br />by _The Word Alive_<br /> on Violent Noise [2020] |
 
-<sub>_Last updated: 27 July 2026 at 19:36 UTC_</sub>
+<sub>_Last updated: 28 July 2026 at 02:41 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/ee51c777109aae66448ac5cbdcf6c408.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/1bf4847a76fd47f938b48bab439de662.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
