@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                      |
-| --------------------------- | --------------------------------------------------------------------- |
-| ![album cover][album-cover] | **Red Clouds**<br />by _The Word Alive_<br /> on Violent Noise [2020] |
+| Recently                    | Last listened to                                                  |
+| --------------------------- | ----------------------------------------------------------------- |
+| ![album cover][album-cover] | **PARADOX**<br />by _The Pretty Wild_<br /> on zero.point.genesis |
 
-<sub>_Last updated: 28 July 2026 at 08:36 UTC_</sub>
+<sub>_Last updated: 29 July 2026 at 02:47 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/1bf4847a76fd47f938b48bab439de662.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/f221a240a25c9d09a3e7f16a812feea1.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
