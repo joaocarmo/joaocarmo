@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                                        |
-| --------------------------- | --------------------------------------------------------------------------------------- |
-| ![album cover][album-cover] | **Hold Me Like a Grudge**<br />by _Fall Out Boy_<br /> on So Much (for) Stardust [2023] |
+| Recently                    | Last listened to                                                                                                |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| ![album cover][album-cover] | **Lost Soul (feat. Jonny Hawkins of Nothing More)**<br />by _The Hu, Jonny Hawkins & NOTHING MORE_<br /> on Hun |
 
-<sub>_Last updated: 30 July 2026 at 14:06 UTC_</sub>
+<sub>_Last updated: 30 July 2026 at 19:28 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/46f8fabfef2e1e3a82a2a612c9c2b82c.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
