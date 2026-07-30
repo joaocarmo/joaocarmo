@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                |
-| --------------------------- | --------------------------------------------------------------- |
-| ![album cover][album-cover] | **False Reality**<br />by _If I Were You_<br /> on Radiant Dark |
+| Recently                    | Last listened to                                                                        |
+| --------------------------- | --------------------------------------------------------------------------------------- |
+| ![album cover][album-cover] | **Hold Me Like a Grudge**<br />by _Fall Out Boy_<br /> on So Much (for) Stardust [2023] |
 
-<sub>_Last updated: 30 July 2026 at 08:29 UTC_</sub>
+<sub>_Last updated: 30 July 2026 at 14:06 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/465f82f89341bdaf63bc231bcaf44c8c.jpg
+[album-cover]: https://lastfm.freetls.fastly.net/i/u/174s/46f8fabfef2e1e3a82a2a612c9c2b82c.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
