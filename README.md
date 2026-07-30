@@ -20,7 +20,7 @@
 | --------------------------- | --------------------------------------------------------------- |
 | ![album cover][album-cover] | **False Reality**<br />by _If I Were You_<br /> on Radiant Dark |
 
-<sub>_Last updated: 30 July 2026 at 02:32 UTC_</sub>
+<sub>_Last updated: 30 July 2026 at 08:29 UTC_</sub>
 
 <!-- References -->
 
