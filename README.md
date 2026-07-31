@@ -20,7 +20,7 @@
 | --------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | ![album cover][album-cover] | **Lost Soul (feat. Jonny Hawkins of Nothing More)**<br />by _The Hu, Jonny Hawkins & NOTHING MORE_<br /> on Hun |
 
-<sub>_Last updated: 30 July 2026 at 19:28 UTC_</sub>
+<sub>_Last updated: 31 July 2026 at 02:57 UTC_</sub>
 
 <!-- References -->
 
