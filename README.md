@@ -20,7 +20,7 @@
 | --------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | ![album cover][album-cover] | **Valerie (BBC Radio 1 Live Lounge)**<br />by _Amy Winehouse_<br /> on AMY (Original Motion Picture Soundtrack) |
 
-<sub>_Last updated: 18 August 2026 at 01:18 UTC_</sub>
+<sub>_Last updated: 18 August 2026 at 06:45 UTC_</sub>
 
 <!-- References -->
 
