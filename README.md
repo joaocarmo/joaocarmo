@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                                                                |
-| --------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| ![album cover][album-cover] | **Valerie (BBC Radio 1 Live Lounge)**<br />by _Amy Winehouse_<br /> on AMY (Original Motion Picture Soundtrack) |
+| Recently                    | Last listened to                                   |
+| --------------------------- | -------------------------------------------------- |
+| ![album cover][album-cover] | **Paradise**<br />by _Besvärjelsen_<br /> on Atlas |
 
-<sub>_Last updated: 19 August 2026 at 06:46 UTC_</sub>
+<sub>_Last updated: 19 August 2026 at 12:50 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm-img.freetls.fastly.net/i/u/174s/f08b812769faf84ed43462e796f3127a.jpg
+[album-cover]: https://lastfm-img.freetls.fastly.net/i/u/174s/4a78544c7c12411824aa528e47412318.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
