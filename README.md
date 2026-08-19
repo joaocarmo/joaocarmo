@@ -20,7 +20,7 @@
 | --------------------------- | -------------------------------------------------- |
 | ![album cover][album-cover] | **Paradise**<br />by _Besvärjelsen_<br /> on Atlas |
 
-<sub>_Last updated: 19 August 2026 at 12:50 UTC_</sub>
+<sub>_Last updated: 19 August 2026 at 18:37 UTC_</sub>
 
 <!-- References -->
 
