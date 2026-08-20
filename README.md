@@ -16,11 +16,11 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                   |
-| --------------------------- | -------------------------------------------------- |
-| ![album cover][album-cover] | **Paradise**<br />by _Besvärjelsen_<br /> on Atlas |
+| Recently                    | Last listened to                                                     |
+| --------------------------- | -------------------------------------------------------------------- |
+| ![album cover][album-cover] | **House Of The Burning Light**<br />by _Besvärjelsen_<br /> on Atlas |
 
-<sub>_Last updated: 19 August 2026 at 18:37 UTC_</sub>
+<sub>_Last updated: 20 August 2026 at 01:19 UTC_</sub>
 
 <!-- References -->
 
