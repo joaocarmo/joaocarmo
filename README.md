@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                     |
-| --------------------------- | -------------------------------------------------------------------- |
-| ![album cover][album-cover] | **House Of The Burning Light**<br />by _Besvärjelsen_<br /> on Atlas |
+| Recently                    | Last listened to                                                           |
+| --------------------------- | -------------------------------------------------------------------------- |
+| ![album cover][album-cover] | **Paradise**<br />by _I Prevail & Amira Elfeky_<br /> on Paradise - Single |
 
-<sub>_Last updated: 20 August 2026 at 12:52 UTC_</sub>
+<sub>_Last updated: 20 August 2026 at 18:41 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm-img.freetls.fastly.net/i/u/174s/4a78544c7c12411824aa528e47412318.jpg
+[album-cover]: https://lastfm-img.freetls.fastly.net/i/u/174s/d7af20e24462adc546382991381c24ce.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
