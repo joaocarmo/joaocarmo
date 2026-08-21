@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                             |
-| --------------------------- | ---------------------------------------------------------------------------- | --------------- |
-| ![album cover][album-cover] | **DEHUMANIZED**<br />by _Bring Me the Horizon_<br /> on Count Your Blessings | Repented [2026] |
+| Recently                    | Last listened to                                                                                          |
+| --------------------------- | --------------------------------------------------------------------------------------------------------- |
+| ![album cover][album-cover] | **Cerebral Malfunction (feat. Make Them Suffer)**<br />by _August Burns Red_<br /> on Season of Surrender |
 
-<sub>_Last updated: 21 August 2026 at 12:51 UTC_</sub>
+<sub>_Last updated: 21 August 2026 at 18:38 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm-img.freetls.fastly.net/i/u/174s/5bafe1456d8ad7999414a2014cbc4ef3.jpg
+[album-cover]: https://lastfm-img.freetls.fastly.net/i/u/174s/74702dc3451896b3d6a69e6c71cf0f89.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
