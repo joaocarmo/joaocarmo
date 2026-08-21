@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                           |
-| --------------------------- | -------------------------------------------------------------------------- |
-| ![album cover][album-cover] | **Paradise**<br />by _I Prevail & Amira Elfeky_<br /> on Paradise - Single |
+| Recently                    | Last listened to                                                             |
+| --------------------------- | ---------------------------------------------------------------------------- | --------------- |
+| ![album cover][album-cover] | **DEHUMANIZED**<br />by _Bring Me the Horizon_<br /> on Count Your Blessings | Repented [2026] |
 
-<sub>_Last updated: 21 August 2026 at 06:50 UTC_</sub>
+<sub>_Last updated: 21 August 2026 at 12:51 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm-img.freetls.fastly.net/i/u/174s/d7af20e24462adc546382991381c24ce.jpg
+[album-cover]: https://lastfm-img.freetls.fastly.net/i/u/174s/5bafe1456d8ad7999414a2014cbc4ef3.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
