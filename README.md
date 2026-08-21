@@ -20,7 +20,7 @@
 | --------------------------- | -------------------------------------------------------------------------- |
 | ![album cover][album-cover] | **Paradise**<br />by _I Prevail & Amira Elfeky_<br /> on Paradise - Single |
 
-<sub>_Last updated: 20 August 2026 at 18:41 UTC_</sub>
+<sub>_Last updated: 21 August 2026 at 01:23 UTC_</sub>
 
 <!-- References -->
 
