@@ -20,7 +20,7 @@
 | --------------------------- | --------------------------------------------------------------------------------------------------------- |
 | ![album cover][album-cover] | **Cerebral Malfunction (feat. Make Them Suffer)**<br />by _August Burns Red_<br /> on Season of Surrender |
 
-<sub>_Last updated: 25 August 2026 at 06:50 UTC_</sub>
+<sub>_Last updated: 25 August 2026 at 12:50 UTC_</sub>
 
 <!-- References -->
 
