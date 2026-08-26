@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                                                          |
-| --------------------------- | --------------------------------------------------------------------------------------------------------- |
-| ![album cover][album-cover] | **Cerebral Malfunction (feat. Make Them Suffer)**<br />by _August Burns Red_<br /> on Season of Surrender |
+| Recently                    | Last listened to                                                                                                                                                |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![album cover][album-cover] | **Secret of the Forest (From "Chrono Trigger") [Metal Version]**<br />by _Ferdk_<br /> on Secret of the Forest (From "Chrono Trigger") [Metal Version] - Single |
 
-<sub>_Last updated: 26 August 2026 at 12:54 UTC_</sub>
+<sub>_Last updated: 26 August 2026 at 19:49 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm-img.freetls.fastly.net/i/u/174s/74702dc3451896b3d6a69e6c71cf0f89.jpg
+[album-cover]: https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
