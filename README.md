@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                                                                                                                |
-| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![album cover][album-cover] | **Secret of the Forest (From "Chrono Trigger") [Metal Version]**<br />by _Ferdk_<br /> on Secret of the Forest (From "Chrono Trigger") [Metal Version] - Single |
+| Recently                    | Last listened to                                             |
+| --------------------------- | ------------------------------------------------------------ |
+| ![album cover][album-cover] | **Ten Over Ten**<br />by _Royal Blood_<br /> on Dead Company |
 
-<sub>_Last updated: 27 August 2026 at 08:08 UTC_</sub>
+<sub>_Last updated: 27 August 2026 at 21:56 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png
+[album-cover]: https://lastfm-img.freetls.fastly.net/i/u/174s/489304dab9f8b22ab8a2196ab5732fe4.png
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
