@@ -20,7 +20,7 @@
 | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![album cover][album-cover] | **Secret of the Forest (From "Chrono Trigger") [Metal Version]**<br />by _Ferdk_<br /> on Secret of the Forest (From "Chrono Trigger") [Metal Version] - Single |
 
-<sub>_Last updated: 26 August 2026 at 19:49 UTC_</sub>
+<sub>_Last updated: 27 August 2026 at 08:08 UTC_</sub>
 
 <!-- References -->
 
