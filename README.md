@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                    |
-| --------------------------- | ------------------------------------------------------------------- |
-| ![album cover][album-cover] | **Temporary Paradise**<br />by _Dark Divine_<br /> on Undead Melody |
+| Recently                    | Last listened to                                                                                                |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| ![album cover][album-cover] | **Chandelier (feat. Alex Pasibe)**<br />by _Designer Disguise_<br /> on Chandelier (feat. Alex Pasibe) - Single |
 
-<sub>_Last updated: 28 August 2026 at 10:10 UTC_</sub>
+<sub>_Last updated: 28 August 2026 at 21:49 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm-img.freetls.fastly.net/i/u/174s/d2ae47f33dac4c2e619068949fe7ce89.jpg
+[album-cover]: https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
