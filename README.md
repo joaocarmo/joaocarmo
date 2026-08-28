@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                             |
-| --------------------------- | ------------------------------------------------------------ |
-| ![album cover][album-cover] | **Ten Over Ten**<br />by _Royal Blood_<br /> on Dead Company |
+| Recently                    | Last listened to                                                    |
+| --------------------------- | ------------------------------------------------------------------- |
+| ![album cover][album-cover] | **Temporary Paradise**<br />by _Dark Divine_<br /> on Undead Melody |
 
-<sub>_Last updated: 27 August 2026 at 21:56 UTC_</sub>
+<sub>_Last updated: 28 August 2026 at 10:10 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm-img.freetls.fastly.net/i/u/174s/489304dab9f8b22ab8a2196ab5732fe4.png
+[album-cover]: https://lastfm-img.freetls.fastly.net/i/u/174s/d2ae47f33dac4c2e619068949fe7ce89.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
