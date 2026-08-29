@@ -20,7 +20,7 @@
 | --------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | ![album cover][album-cover] | **Chandelier (feat. Alex Pasibe)**<br />by _Designer Disguise_<br /> on Chandelier (feat. Alex Pasibe) - Single |
 
-<sub>_Last updated: 28 August 2026 at 21:49 UTC_</sub>
+<sub>_Last updated: 29 August 2026 at 06:10 UTC_</sub>
 
 <!-- References -->
 
