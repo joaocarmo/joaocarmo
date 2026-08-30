@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                |
-| --------------------------- | --------------------------------------------------------------- |
-| ![album cover][album-cover] | **Bang**<br />by _Satan Takes a Holiday_<br /> on Bang - Single |
+| Recently                    | Last listened to                                                                                         |
+| --------------------------- | -------------------------------------------------------------------------------------------------------- |
+| ![album cover][album-cover] | **Radiant Eclipse**<br />by _Avenged Sevenfold_<br /> on Waking the Fallen: Resurrected (Deluxe Edition) |
 
-<sub>_Last updated: 30 August 2026 at 10:01 UTC_</sub>
+<sub>_Last updated: 30 August 2026 at 14:53 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png
+[album-cover]: https://lastfm-img.freetls.fastly.net/i/u/174s/cea14a4be5cb3984f58bb2de83fd91bd.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
