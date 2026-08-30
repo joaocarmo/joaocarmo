@@ -16,11 +16,11 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                                                                |
-| --------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| ![album cover][album-cover] | **Chandelier (feat. Alex Pasibe)**<br />by _Designer Disguise_<br /> on Chandelier (feat. Alex Pasibe) - Single |
+| Recently                    | Last listened to                                                |
+| --------------------------- | --------------------------------------------------------------- |
+| ![album cover][album-cover] | **Bang**<br />by _Satan Takes a Holiday_<br /> on Bang - Single |
 
-<sub>_Last updated: 30 August 2026 at 04:17 UTC_</sub>
+<sub>_Last updated: 30 August 2026 at 10:01 UTC_</sub>
 
 <!-- References -->
 
