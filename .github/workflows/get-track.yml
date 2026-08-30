@@ -54,7 +54,7 @@ jobs:
           fi
       - name: Commit and push the updated README.md
         if: steps.readme.outputs.changed == 'true'
-        uses: EndBug/add-and-commit@v10
+        uses: EndBug/add-and-commit@v11
         with:
           add: 'README.md'
           commit: --no-gpg-sign --no-verify --signoff
