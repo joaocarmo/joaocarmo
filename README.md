@@ -16,11 +16,11 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                                                         |
-| --------------------------- | -------------------------------------------------------------------------------------------------------- |
-| ![album cover][album-cover] | **Radiant Eclipse**<br />by _Avenged Sevenfold_<br /> on Waking the Fallen: Resurrected (Deluxe Edition) |
+| Recently                    | Last listened to                                                                                            |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| ![album cover][album-cover] | **Unholy Confessions**<br />by _Avenged Sevenfold_<br /> on Waking the Fallen: Resurrected (Deluxe Edition) |
 
-<sub>_Last updated: 30 August 2026 at 14:53 UTC_</sub>
+<sub>_Last updated: 01 September 2026 at 16:43 UTC_</sub>
 
 <!-- References -->
 
