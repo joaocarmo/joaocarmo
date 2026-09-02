@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                                                            |
-| --------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| ![album cover][album-cover] | **Unholy Confessions**<br />by _Avenged Sevenfold_<br /> on Waking the Fallen: Resurrected (Deluxe Edition) |
+| Recently                    | Last listened to                                          |
+| --------------------------- | --------------------------------------------------------- |
+| ![album cover][album-cover] | **Opening Wounds**<br />by _Miss May I_<br /> on At Heart |
 
-<sub>_Last updated: 01 September 2026 at 16:43 UTC_</sub>
+<sub>_Last updated: 02 September 2026 at 16:39 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm-img.freetls.fastly.net/i/u/174s/cea14a4be5cb3984f58bb2de83fd91bd.jpg
+[album-cover]: https://lastfm-img.freetls.fastly.net/i/u/174s/f0ca13b68d944784b3acc5a910c62dea.png
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
