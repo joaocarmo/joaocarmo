@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                               |
-| --------------------------- | ------------------------------------------------------------------------------ |
-| ![album cover][album-cover] | **In Between**<br />by _Beartooth_<br /> on Disgusting (Deluxe Edition) [2026] |
+| Recently                    | Last listened to                                                                                     |
+| --------------------------- | ---------------------------------------------------------------------------------------------------- |
+| ![album cover][album-cover] | **Katy Bar the Door**<br />by _Rise Against_<br /> on Katy Bar the Door / Living Undercover - Single |
 
-<sub>_Last updated: 04 September 2026 at 11:26 UTC_</sub>
+<sub>_Last updated: 04 September 2026 at 16:26 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm-img.freetls.fastly.net/i/u/174s/85407f4a22d231482843a55d72936cbe.jpg
+[album-cover]: https://lastfm-img.freetls.fastly.net/i/u/174s/8331742c9f4df74c31291893d3b49202.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
