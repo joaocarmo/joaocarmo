@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                          |
-| --------------------------- | --------------------------------------------------------- |
-| ![album cover][album-cover] | **Opening Wounds**<br />by _Miss May I_<br /> on At Heart |
+| Recently                    | Last listened to                                                               |
+| --------------------------- | ------------------------------------------------------------------------------ |
+| ![album cover][album-cover] | **In Between**<br />by _Beartooth_<br /> on Disgusting (Deluxe Edition) [2026] |
 
-<sub>_Last updated: 02 September 2026 at 16:39 UTC_</sub>
+<sub>_Last updated: 04 September 2026 at 11:26 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm-img.freetls.fastly.net/i/u/174s/f0ca13b68d944784b3acc5a910c62dea.png
+[album-cover]: https://lastfm-img.freetls.fastly.net/i/u/174s/85407f4a22d231482843a55d72936cbe.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
