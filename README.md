@@ -16,15 +16,15 @@
 
 ### 🎸 Music
 
-| Recently                    | Last listened to                                                                                     |
-| --------------------------- | ---------------------------------------------------------------------------------------------------- |
-| ![album cover][album-cover] | **Katy Bar the Door**<br />by _Rise Against_<br /> on Katy Bar the Door / Living Undercover - Single |
+| Recently                    | Last listened to                                           |
+| --------------------------- | ---------------------------------------------------------- |
+| ![album cover][album-cover] | **Machine**<br />by _Architects_<br /> on Machine - Single |
 
-<sub>_Last updated: 04 September 2026 at 16:26 UTC_</sub>
+<sub>_Last updated: 18 September 2026 at 13:00 UTC_</sub>
 
 <!-- References -->
 
-[album-cover]: https://lastfm-img.freetls.fastly.net/i/u/174s/8331742c9f4df74c31291893d3b49202.jpg
+[album-cover]: https://lastfm-img.freetls.fastly.net/i/u/174s/2bda6c93647a0caf725502af954ca4a4.jpg
 [littenwebpage]: https://litten.app
 [uyghurswebpage]: https://freetheuyghurs.com
 [myemail]: mailto:nomads_mooches_0i@icloud.com
